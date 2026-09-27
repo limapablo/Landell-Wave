@@ -1,5 +1,8 @@
 # Landell Wave
 
+**Landell Wave** is named in tribute to Brazilian wireless-communication pioneer **Roberto Landell de Moura**, whose early experiments and patents helped advance the history of radio transmission.
+
+
 A worldwide internet-radio directory designed around a simple hierarchy:
 
 **Country → region/state → city → station**
