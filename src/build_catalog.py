@@ -14,6 +14,10 @@ CITIES_URL="https://download.geonames.org/export/dump/cities1000.zip"
 ADMIN1_URL="https://download.geonames.org/export/dump/admin1CodesASCII.txt"
 UNKNOWN_REGION="Unknown region"
 UNKNOWN_CITY="Unknown city"
+MAX_HTTP_BYTES=150 * 1024 * 1024
+MAX_GEONAMES_UNCOMPRESSED_BYTES=250 * 1024 * 1024
+COUNTRY_CODE_RE=re.compile(r"^[A-Z]{2}$")
+RADIO_BROWSER_HOST_RE=re.compile(r"^[a-z0-9.-]+\.api\.radio-browser\.info$", re.I)
 
 @dataclass(frozen=True)
 class City:
@@ -23,13 +27,26 @@ class City:
     country_code: str
     admin1_code: str
 
-def get(url, timeout=120, retries=3):
+def get(url, timeout=120, retries=3, max_bytes=MAX_HTTP_BYTES):
+    parsed=urllib.parse.urlsplit(url)
+    if parsed.scheme!="https" or not parsed.hostname:
+        raise ValueError("Build-time downloads require HTTPS")
     req=urllib.request.Request(url,headers={"User-Agent":USER_AGENT,"Accept":"application/json,text/plain,*/*"})
     err=None
     for attempt in range(retries):
         try:
-            with urllib.request.urlopen(req,timeout=timeout) as r: return r.read()
-        except Exception as e:
+            with urllib.request.urlopen(req,timeout=timeout) as r:
+                final=urllib.parse.urlsplit(r.geturl())
+                if final.scheme!="https":
+                    raise RuntimeError("Refusing HTTPS downgrade redirect")
+                length=r.headers.get("Content-Length")
+                if length and int(length)>max_bytes:
+                    raise RuntimeError("Remote payload exceeds size limit")
+                data=r.read(max_bytes+1)
+                if len(data)>max_bytes:
+                    raise RuntimeError("Remote payload exceeds size limit")
+                return data
+        except (urllib.error.URLError, TimeoutError, OSError, RuntimeError, ValueError) as e:
             err=e
             if attempt+1<retries: time.sleep(2*(attempt+1))
     raise RuntimeError(f"Failed to fetch {url}: {err}")
@@ -67,8 +84,13 @@ def load_admin1(path):
 def load_cities(path):
     buckets=defaultdict(list); by_country=defaultdict(list)
     with zipfile.ZipFile(path) as z:
-        name=next(n for n in z.namelist() if n.endswith(".txt"))
-        with z.open(name) as fh:
+        candidates=[i for i in z.infolist() if not i.is_dir() and i.filename.endswith(".txt")]
+        if len(candidates)!=1:
+            raise RuntimeError("Unexpected GeoNames archive layout")
+        info=candidates[0]
+        if info.file_size>MAX_GEONAMES_UNCOMPRESSED_BYTES:
+            raise RuntimeError("GeoNames archive exceeds uncompressed size limit")
+        with z.open(info) as fh:
             for raw in fh:
                 f=raw.decode("utf-8","replace").rstrip("\n").split("\t")
                 if len(f)<11: continue
@@ -95,7 +117,9 @@ def servers():
     out=[]
     try:
         for x in json.loads(get(DISCOVERY,20,2)):
-            if x.get("name"): out.append("https://"+x["name"])
+            host=clean(x.get("name")).lower().rstrip(".")
+            if host and RADIO_BROWSER_HOST_RE.fullmatch(host):
+                out.append("https://"+host)
     except Exception as e:
         print(f"[warn] discovery failed: {e}",file=sys.stderr)
     for x in FALLBACKS:
@@ -123,11 +147,20 @@ def parse_float(v):
 def score(s):
     return 1000*int(s.get("lastcheckok") or 0)+min(int(s.get("bitrate") or 0),512)+min(int(s.get("votes") or 0),500)
 
-def valid_stream(url):
+def safe_web_url(url, allow_http=False):
     try:
-        p=urllib.parse.urlsplit(url)
-        return p.scheme in {"http","https"} and bool(p.netloc)
-    except Exception: return False
+        p=urllib.parse.urlsplit(clean(url))
+        allowed={"https"} | ({"http"} if allow_http else set())
+        return p.scheme.lower() in allowed and bool(p.hostname) and not p.username and not p.password
+    except (TypeError, ValueError):
+        return False
+
+def valid_stream(url):
+    return safe_web_url(url, allow_http=True)
+
+def country_code(value):
+    code=clean(value).upper()
+    return code if COUNTRY_CODE_RE.fullmatch(code) else "ZZ"
 
 def dedupe(rows):
     chosen={}
@@ -141,7 +174,7 @@ def dedupe(rows):
     return list(chosen.values())
 
 def make_record(s,buckets,by_country,admin,max_km):
-    cc=clean(s.get("countrycode"),"ZZ").upper()
+    cc=country_code(s.get("countrycode"))
     country=clean(s.get("country"),cc)
     region=clean(s.get("state"))
     lat,lon=parse_float(s.get("geo_lat")),parse_float(s.get("geo_long"))
@@ -155,8 +188,10 @@ def make_record(s,buckets,by_country,admin,max_km):
     return {
         "id":clean(s.get("stationuuid")),"name":clean(s.get("name"),"Unnamed station"),
         "country":country,"country_code":cc,"region":region,"city":city.name if city else UNKNOWN_CITY,
-        "city_distance_km":city_distance,"stream":s["_stream"],"homepage":clean(s.get("homepage")),
-        "favicon":clean(s.get("favicon")),"tags":tags[:20],"languages":langs[:10],
+        "city_distance_km":city_distance,"stream":s["_stream"],
+        "homepage":clean(s.get("homepage")) if safe_web_url(s.get("homepage"), allow_http=False) else "",
+        "favicon":clean(s.get("favicon")) if safe_web_url(s.get("favicon"), allow_http=False) else "",
+        "tags":tags[:20],"languages":langs[:10],
         "codec":clean(s.get("codec")),"bitrate":int(s.get("bitrate") or 0),
         "votes":int(s.get("votes") or 0),"lat":lat,"lon":lon
     }
