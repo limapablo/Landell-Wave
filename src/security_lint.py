@@ -34,16 +34,16 @@ class PythonSecurityVisitor(ast.NodeVisitor):
         self.findings: list[str] = []
 
     def visit_Call(self, node: ast.Call) -> None:
-        name = ""
-        if isinstance(node.func, ast.Name):
-            name = node.func.id
-        elif isinstance(node.func, ast.Attribute):
-            name = node.func.attr
+        direct_name = node.func.id if isinstance(node.func, ast.Name) else ""
+        attribute_name = node.func.attr if isinstance(node.func, ast.Attribute) else ""
 
-        if name in {"eval", "exec", "compile"}:
-            self.findings.append(f"dangerous dynamic execution: {name} at line {node.lineno}")
+        if direct_name in {"eval", "exec", "compile"}:
+            self.findings.append(
+                f"dangerous dynamic execution: {direct_name} at line {node.lineno}"
+            )
 
-        if name in {"Popen", "run", "call", "check_call", "check_output"}:
+        call_name = direct_name or attribute_name
+        if call_name in {"Popen", "run", "call", "check_call", "check_output"}:
             for keyword in node.keywords:
                 if keyword.arg == "shell" and isinstance(keyword.value, ast.Constant) and keyword.value.value is True:
                     self.findings.append(f"subprocess shell=True at line {node.lineno}")
