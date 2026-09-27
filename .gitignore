@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.cache/
+public/data/
+public/playlists/
+.DS_Store
+.vscode/
+.idea/
