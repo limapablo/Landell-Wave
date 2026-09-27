@@ -19,7 +19,7 @@ Do not include secrets, personal data, or destructive test output.
 
 ## Security model
 
-Global Web Radio is a static catalog and browser client. Radio Browser and GeoNames are external trust boundaries. Their data is treated as untrusted input.
+Landell Wave is a static catalog and browser client. Radio Browser and GeoNames are external trust boundaries. Their data is treated as untrusted input.
 
 The project:
 
