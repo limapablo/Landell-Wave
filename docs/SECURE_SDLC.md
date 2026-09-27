@@ -2,45 +2,52 @@
 
 ## Change flow
 
-1. Changes should enter through a short-lived branch and pull request.
-2. CI and security-sensitive changes require explicit review.
-3. Required checks should include tests and CodeQL.
-4. Merge only after checks pass; do not bypass branch protection for routine changes.
-5. Deploy from reviewed source, not from a developer workstation.
+1. Work is performed on a feature or security branch.
+2. Pull request checks must pass.
+3. Security-sensitive changes receive manual review.
+4. `main` should be protected from direct pushes and force-pushes.
+5. Production publishing occurs only from `main`.
 
-## Security gates
+## Required checks
 
-- Unit/security regression tests on every relevant change.
-- CodeQL for Python and JavaScript.
-- Dependency review on pull requests.
-- Dependabot for GitHub Actions.
-- Full commit SHA pinning for Actions.
-- Explicit workflow permissions.
-- CODEOWNERS for security-sensitive paths.
+Recommended branch protection checks:
 
-## Vulnerability handling
+- `Tests / test`
+- `Security / static-analysis`
+- dependency review for pull requests
 
-Follow `SECURITY.md`. Security reports should be triaged by impact, exploitability, affected trust boundary and whether generated artifacts must be rebuilt.
+## Dependency policy
 
-## Release/build integrity
+The project intentionally minimizes runtime dependencies.
 
-The generated catalog is disposable output: source and build instructions are authoritative. A failed scheduled build must not destroy the last known-good published snapshot.
+- GitHub Actions must be pinned to full commit SHAs.
+- Dependency updates should arrive through Dependabot.
+- Major-version changes require manual review.
+- New Python or JavaScript runtime dependencies require a documented reason.
 
-For a public release artifact, add cryptographic provenance/attestation and verify it as part of promotion. GitHub artifact attestations provide build provenance; private repositories require an eligible Enterprise Cloud plan.
+## Secrets
 
-## Repository controls to configure in GitHub
+No application secret is required.
 
-- Require pull requests before merging to `main`.
-- Require at least one approval.
-- Require conversation resolution.
-- Require status checks.
-- Block force pushes and deletion of `main`.
-- Require CODEOWNERS review for protected paths.
-- Keep default `GITHUB_TOKEN` permissions read-only.
-- Prevent Actions from approving pull requests.
-- Enable private vulnerability reporting, secret scanning/push protection and Dependabot security alerts when available.
-- Restrict allowed Actions to GitHub-owned and explicitly approved/pinned Actions.
+- GitHub Actions uses the ephemeral `GITHUB_TOKEN`.
+- Default workflow permissions are read-only.
+- Only the publish job receives `contents: write`.
+- Secrets must never be placed in source, generated JSON, M3U files, issues, or logs.
 
-## Future architecture gate
+## Release and build integrity
 
-Adding a backend, authentication, database, secrets, analytics or a stream proxy requires a new threat-model review before implementation.
+The build job processes untrusted internet data with read-only repository access.
+The generated artifact is validated before crossing into the privileged publish job.
+The privileged job does not execute files from the generated artifact.
+
+## Incident response
+
+For a confirmed security issue:
+
+1. stop publishing by disabling the deployment workflow if required;
+2. rotate/revoke affected credentials;
+3. identify affected commits and artifacts;
+4. patch on a dedicated security branch;
+5. validate and release;
+6. document root cause and preventive controls;
+7. privately notify affected parties when appropriate.

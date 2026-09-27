@@ -134,24 +134,27 @@ Radio Browser exposes country/state metadata and optional station coordinates, b
 
 This intentionally favors **honest unknowns over fake precision**.
 
-## Security
+## Security architecture
 
-This project treats station metadata and all upstream datasets as untrusted input.
+The project follows a security-first static architecture:
 
-Security controls include:
+- upstream radio/place data is treated as untrusted;
+- build-time downloads and generated paths are bounded and validated;
+- local/private network destinations are rejected when identifiable;
+- generated artifacts receive an independent validation pass;
+- the untrusted-data build job has read-only repository access;
+- publication occurs in a separate privileged job;
+- GitHub Actions are pinned to immutable commit SHAs;
+- the browser uses a restrictive CSP and safe DOM text APIs;
+- third-party station images are not loaded passively.
 
-- strict validation at filesystem and URL trust boundaries;
-- bounded downloads and archive expansion;
-- restrictive browser Content Security Policy;
-- immutable SHA-pinned GitHub Actions;
-- CodeQL scanning for Python and JavaScript;
-- dependency review on pull requests;
-- Dependabot for GitHub Actions;
-- security regression tests;
-- CODEOWNERS for sensitive paths;
-- documented threat model and secure SDLC.
+See:
 
-See [SECURITY.md](SECURITY.md), [Threat Model](docs/THREAT_MODEL.md), and [Secure SDLC](docs/SECURE_SDLC.md).
+- [Architecture](docs/ARCHITECTURE.md)
+- [Threat model](docs/THREAT_MODEL.md)
+- [Security policy](SECURITY.md)
+- [Secure SDLC](docs/SECURE_SDLC.md)
+- [Risk register](docs/RISK_REGISTER.md)
 
 ## Automation
 
