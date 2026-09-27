@@ -1,0 +1,50 @@
+name: Build radio catalog
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 6 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "public/**"
+      - ".github/workflows/build-and-deploy.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radio-catalog-build
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Build worldwide catalog
+        run: python src/build_catalog.py --output public --cache .cache --clean-generated
+
+      - name: Add build metadata
+        run: printf '%s\n' "${GITHUB_SHA}" > public/build.txt
+
+      - name: Publish clean snapshot to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "chore: refresh worldwide radio catalog"
