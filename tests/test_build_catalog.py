@@ -38,7 +38,7 @@ class CatalogTests(unittest.TestCase):
         self.assertIn("Brazil | Rio de Janeiro | Rio de Janeiro", text)
 
     def test_m3u_metadata_cannot_inject_new_lines(self):
-        text = build_m3u([{"id":"x\\n#EXTINF:evil","name":"Bad\\r\\nInjected","country":"BR","region":"RJ","city":"Rio","stream":"https://example.com/live","favicon":"https://example.com/x.png"}])
+        text = build_m3u([{"id":"x\n#EXTINF:evil","name":"Bad\r\nInjected","country":"BR","region":"RJ","city":"Rio","stream":"https://example.com/live","favicon":"https://example.com/x.png"}])
         self.assertNotIn("#EXTINF:evil", text)
         self.assertNotIn("\\nInjected", text)
 
