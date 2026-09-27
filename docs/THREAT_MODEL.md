@@ -2,7 +2,7 @@
 
 ## Scope
 
-Global Web Radio is a static web application and build pipeline that ingests public data from Radio Browser and GeoNames, produces JSON/M3U artifacts, and publishes a read-only browser experience.
+Landell Wave is a static web application and build pipeline that ingests public data from Radio Browser and GeoNames, produces JSON/M3U artifacts, and publishes a read-only browser experience.
 
 ## Assets
 
