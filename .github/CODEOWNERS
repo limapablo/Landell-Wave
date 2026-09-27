@@ -1,0 +1,6 @@
+# Security-sensitive paths. Keep explicit ownership of CI/CD and trust-boundary code.
+* @limapablo
+/.github/ @limapablo
+/src/ @limapablo
+/public/ @limapablo
+/SECURITY.md @limapablo
