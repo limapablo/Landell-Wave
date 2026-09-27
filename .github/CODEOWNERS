@@ -1,0 +1,7 @@
+# Security-sensitive components require explicit owner review.
+/.github/ @limapablo
+/src/ @limapablo
+/public/ @limapablo
+/SECURITY.md @limapablo
+/docs/THREAT_MODEL.md @limapablo
+/docs/SECURE_SDLC.md @limapablo
