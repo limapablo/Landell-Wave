@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse live radio stations by country, region and city. Export any selection as M3U.">
+  <title>Global Web Radio</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">WORLD RADIO DIRECTORY</p>
+      <h1>Global Web Radio</h1>
+      <p class="subtitle">Country → region → city → station. No globe required.</p>
+    </div>
+    <a class="github" href="https://github.com/limapablo/Global-Web-Radio" target="_blank" rel="noreferrer">GitHub</a>
+  </header>
+
+  <main>
+    <section class="panel filters" aria-label="Filters">
+      <label>Country<select id="country"><option value="">Loading…</option></select></label>
+      <label>Region / state<select id="region" disabled><option value="">All regions</option></select></label>
+      <label>City<select id="city" disabled><option value="">All cities</option></select></label>
+      <label>Search station<input id="search" type="search" placeholder="Name, tag or language…"></label>
+      <label>Minimum bitrate
+        <select id="bitrate">
+          <option value="0">Any</option><option value="64">64 kbps+</option><option value="96">96 kbps+</option>
+          <option value="128">128 kbps+</option><option value="192">192 kbps+</option><option value="256">256 kbps+</option>
+        </select>
+      </label>
+      <button id="download" type="button" disabled>Download selection (.m3u)</button>
+    </section>
+
+    <section class="summary" aria-live="polite">
+      <div><strong id="visible-count">0</strong><span>stations shown</span></div>
+      <div><strong id="total-count">—</strong><span>stations worldwide</span></div>
+      <div><strong id="country-count">—</strong><span>countries</span></div>
+      <div><strong id="updated">—</strong><span>last catalog build</span></div>
+    </section>
+
+    <section id="status" class="status">Loading the catalog…</section>
+    <section id="stations" class="station-list" aria-label="Radio stations"></section>
+  </main>
+
+  <footer>
+    <p>Station data: <a href="https://www.radio-browser.info/" target="_blank" rel="noreferrer">Radio Browser</a>. City enrichment: <a href="https://www.geonames.org/" target="_blank" rel="noreferrer">GeoNames</a>.</p>
+  </footer>
+
+  <aside id="player" class="player" hidden>
+    <div class="now-playing"><span>NOW PLAYING</span><strong id="now-name">—</strong><small id="now-location">—</small></div>
+    <audio id="audio" controls preload="none"></audio>
+    <button id="close-player" type="button" aria-label="Close player">×</button>
+  </aside>
+
+  <template id="station-template">
+    <article class="station-card">
+      <button class="play" type="button" aria-label="Play station">▶</button>
+      <img class="logo" alt="" loading="lazy">
+      <div class="station-main"><h2 class="station-name"></h2><p class="location"></p><p class="meta"></p></div>
+      <div class="actions"><a class="website" target="_blank" rel="noreferrer">Website</a><button class="copy" type="button">Copy stream</button></div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
