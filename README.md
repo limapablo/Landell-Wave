@@ -131,6 +131,25 @@ Radio Browser exposes country/state metadata and optional station coordinates, b
 
 This intentionally favors **honest unknowns over fake precision**.
 
+## Security
+
+This project treats station metadata and all upstream datasets as untrusted input.
+
+Security controls include:
+
+- strict validation at filesystem and URL trust boundaries;
+- bounded downloads and archive expansion;
+- restrictive browser Content Security Policy;
+- immutable SHA-pinned GitHub Actions;
+- CodeQL scanning for Python and JavaScript;
+- dependency review on pull requests;
+- Dependabot for GitHub Actions;
+- security regression tests;
+- CODEOWNERS for sensitive paths;
+- documented threat model and secure SDLC.
+
+See [SECURITY.md](SECURITY.md), [Threat Model](docs/THREAT_MODEL.md), and [Secure SDLC](docs/SECURE_SDLC.md).
+
 ## Automation
 
 `build-and-deploy.yml` runs:
