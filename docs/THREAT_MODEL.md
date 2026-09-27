@@ -2,7 +2,7 @@
 
 ## Scope
 
-Global Web Radio is a static web application plus a scheduled data-ingestion/build pipeline. It does not authenticate end users, accept user-generated content directly, proxy streams, or operate an application backend.
+Landell Wave is a static web application plus a scheduled data-ingestion/build pipeline. It does not authenticate end users, accept user-generated content directly, proxy streams, or operate an application backend.
 
 ## Assets
 
