@@ -344,35 +344,86 @@ def servers() -> list[str]:
         if fallback not in output:
             output.append(fallback)
 
-    return output
+    # Preserve discovery order while removing duplicates.
+    return list(dict.fromkeys(output))
 
 
 def fetch_stations(limit: int) -> tuple[list[dict[str, Any]], str, str]:
-    query = urllib.parse.urlencode(
-        {
-            "hidebroken": "true",
-            "order": "country",
-            "reverse": "false",
-            "limit": str(limit),
-        }
-    )
+    """Fetch the catalog in bounded pages.
+
+    A single 100k-row response is large enough to trigger gateway failures on
+    some Radio Browser mirrors. Pagination also bounds per-request memory and
+    gives us a clean failover boundary: if any page fails, retry the complete
+    snapshot on the next mirror rather than mixing mirrors in one build.
+    """
+    page_size = min(5000, limit)
     errors: list[str] = []
     minimum_expected = min(1000, limit)
 
     for server in servers():
+        rows: list[dict[str, Any]] = []
+        digest = hashlib.sha256()
+        offset = 0
+
         try:
-            raw = get(f"{server}/json/stations/search?{query}", 180, 2)
-            data = json.loads(raw)
-            if (
-                isinstance(data, list)
-                and len(data) >= minimum_expected
-                and all(isinstance(item, dict) for item in data)
-            ):
-                print(f"[info] fetched {len(data):,} stations from {server}")
-                return data, hashlib.sha256(raw).hexdigest(), server
-            errors.append(f"{server}: unexpected/truncated catalog")
-        except (json.JSONDecodeError, RuntimeError, ValueError, TypeError) as exc:
+            while offset < limit:
+                requested = min(page_size, limit - offset)
+                query = urllib.parse.urlencode(
+                    {
+                        "hidebroken": "true",
+                        "order": "country",
+                        "reverse": "false",
+                        "offset": str(offset),
+                        "limit": str(requested),
+                    }
+                )
+                raw = get(
+                    f"{server}/json/stations/search?{query}",
+                    120,
+                    3,
+                    max_bytes=32 * 1024 * 1024,
+                )
+                page = json.loads(raw)
+
+                if not isinstance(page, list) or not all(
+                    isinstance(item, dict) for item in page
+                ):
+                    raise RuntimeError("unexpected catalog page shape")
+
+                digest.update(offset.to_bytes(8, "big"))
+                digest.update(raw)
+                rows.extend(page)
+
+                print(
+                    f"[info] {server}: page offset={offset:,} "
+                    f"rows={len(page):,} total={len(rows):,}"
+                )
+
+                if len(page) < requested:
+                    break
+                offset += len(page)
+
+            if len(rows) < minimum_expected:
+                raise RuntimeError(
+                    f"catalog unexpectedly small ({len(rows)} rows)"
+                )
+
+            print(f"[info] fetched {len(rows):,} stations from {server}")
+            return rows, digest.hexdigest(), server
+
+        except (
+            json.JSONDecodeError,
+            RuntimeError,
+            ValueError,
+            TypeError,
+            urllib.error.URLError,
+        ) as exc:
             errors.append(f"{server}: {exc}")
+            print(
+                f"[warn] abandoning mirror after {len(rows):,} rows: "
+                f"{server}: {exc}",
+                file=sys.stderr,
+            )
 
     raise RuntimeError("Radio Browser mirrors failed: " + "; ".join(errors))
 
