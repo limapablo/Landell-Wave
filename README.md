@@ -1,4 +1,4 @@
-# Global Web Radio
+# Landell Wave
 
 A worldwide internet-radio directory designed around a simple hierarchy:
 
