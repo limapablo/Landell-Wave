@@ -7,7 +7,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 
-USER_AGENT="Global-Web-Radio/1.0 (+https://github.com/limapablo/Global-Web-Radio)"
+USER_AGENT="Landell-Wave/1.0 (+https://github.com/limapablo/Global-Web-Radio)"
 DISCOVERY="https://all.api.radio-browser.info/json/servers"
 FALLBACKS=["https://de1.api.radio-browser.info","https://nl1.api.radio-browser.info"]
 CITIES_URL="https://download.geonames.org/export/dump/cities1000.zip"
@@ -233,7 +233,7 @@ def build(output,cache,limit,max_km):
         write_json(countries/f"{code}.json",{"country":item,"stations":rows})
         (cp/f"{code}.m3u").write_text(build_m3u(rows),encoding="utf-8")
     generated=datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00","Z")
-    index={"project":"Global-Web-Radio","generated_at":generated,"station_count":len(records),
+    index={"project":"Landell-Wave","generated_at":generated,"station_count":len(records),
            "country_count":len(meta),"city_matched_count":matched,
            "city_match_rate":round(matched/len(records),4) if records else 0,
            "max_city_distance_km":max_km,"countries":meta,
