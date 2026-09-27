@@ -3,7 +3,7 @@ import unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
-from build_catalog import City, build_m3u, haversine_km, nearest_city, slugify
+from build_catalog import City, build_m3u, country_code, haversine_km, nearest_city, safe_web_url, slugify
 
 class CatalogTests(unittest.TestCase):
     def test_slugify(self):
@@ -20,6 +20,17 @@ class CatalogTests(unittest.TestCase):
         city, distance = nearest_city(-22.91, -43.18, "BR", buckets, {"BR": [rio]}, 80)
         self.assertEqual(city.name, "Rio de Janeiro")
         self.assertLess(distance, 2)
+
+    def test_country_code_rejects_path_traversal(self):
+        self.assertEqual(country_code("../../pwned"), "ZZ")
+        self.assertEqual(country_code("br"), "BR")
+
+    def test_external_url_policy(self):
+        self.assertTrue(safe_web_url("https://example.com/radio"))
+        self.assertFalse(safe_web_url("javascript:alert(1)"))
+        self.assertFalse(safe_web_url("https://user:pass@example.com/"))
+        self.assertFalse(safe_web_url("http://example.com/"))
+        self.assertTrue(safe_web_url("http://example.com/live", allow_http=True))
 
     def test_m3u(self):
         text = build_m3u([{"id":"x","name":"Test FM","country":"Brazil","region":"Rio de Janeiro","city":"Rio de Janeiro","stream":"https://example.com/live","favicon":""}])
