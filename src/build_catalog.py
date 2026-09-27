@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-USER_AGENT = "Global-Web-Radio/2.0 (+https://github.com/limapablo/Global-Web-Radio)"
+USER_AGENT = "Landell-Wave/2.0 (+https://github.com/limapablo/Global-Web-Radio)"
 DISCOVERY = "https://all.api.radio-browser.info/json/servers"
 FALLBACKS = [
     "https://de1.api.radio-browser.info",
@@ -643,7 +643,7 @@ def build(output: Path, cache: Path, limit: int, max_km: float) -> None:
     )
 
     index = {
-        "project": "Global-Web-Radio",
+        "project": "Landell-Wave",
         "schema_version": 2,
         "generated_at": generated,
         "station_count": len(records),
