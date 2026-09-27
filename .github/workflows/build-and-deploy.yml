@@ -49,10 +49,12 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          tmpdir="$(mktemp -d)"
+          cp -a public/. "$tmpdir/"
           git checkout --orphan gh-pages-build
           git rm -rf . >/dev/null
-          cp -a public/. .
-          rm -rf public .cache src tests .github .gitignore Makefile CONTRIBUTING.md LICENSE README.md || true
+          cp -a "$tmpdir/." .
+          rm -rf "$tmpdir"
           git add -A
           git commit -m "chore: refresh worldwide radio catalog"
           git push --force "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:gh-pages
