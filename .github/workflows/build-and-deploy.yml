@@ -1,6 +1,7 @@
 name: Build and publish radio catalog
 
 on:
+  pull_request:
   workflow_dispatch:
   schedule:
     - cron: "23 6 * * *"
@@ -64,6 +65,7 @@ jobs:
 
   publish:
     name: Publish verified snapshot
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     timeout-minutes: 10
