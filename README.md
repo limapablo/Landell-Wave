@@ -11,6 +11,8 @@ No globe UI. No proprietary station list. The catalog is rebuilt automatically f
 
 ## What it does
 
+- Presents the catalog through a compact **classic desktop UI**, inspired by stable Windows-era utilities rather than modern dashboard styling.
+
 - Browses working radio streams by **country, administrative region and city**.
 - Uses **Radio Browser** as the global station/stream source.
 - Uses station coordinates plus **GeoNames** for offline city enrichment.
@@ -72,8 +74,8 @@ Generated `public/data/` and `public/playlists/` are deliberately ignored on `ma
 Requirements: Python 3.12+ and internet access for the data build.
 
 ```bash
-git clone https://github.com/limapablo/Global-Web-Radio.git
-cd Global-Web-Radio
+git clone https://github.com/limapablo/Landell-Wave.git
+cd Landell-Wave
 make test
 make build
 make serve
