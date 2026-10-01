@@ -13,6 +13,7 @@ MAX_COUNTRY_JSON_BYTES = 80 * 1024 * 1024
 MAX_M3U_BYTES = 200 * 1024 * 1024
 ALLOWED_STATIC_EXTENSIONS = {".html", ".css", ".js", ".json", ".m3u", ".txt"}
 LOCAL_SUFFIXES = (".localhost", ".local", ".internal", ".lan", ".home.arpa")
+IANA_TIMEZONE_RE = __import__("re").compile(r"^[A-Za-z0-9._+-]+(?:/[A-Za-z0-9._+-]+)*$")
 
 
 def fail(message: str) -> None:
@@ -111,6 +112,13 @@ def validate_site(root: Path) -> None:
             favicon = station.get("favicon", "")
             if favicon and not valid_url(favicon):
                 fail(f"unsafe favicon URL in {code}")
+            timezone_name = station.get("timezone", "")
+            if timezone_name and (
+                not isinstance(timezone_name, str)
+                or len(timezone_name) > 64
+                or not IANA_TIMEZONE_RE.fullmatch(timezone_name)
+            ):
+                fail(f"invalid timezone in {code}")
 
     if counted != index["station_count"]:
         fail(f"station count mismatch: index={index['station_count']} files={counted}")
@@ -128,6 +136,13 @@ def validate_site(root: Path) -> None:
         homepage = station.get("homepage", "")
         if homepage and not valid_url(homepage):
             fail("unsafe homepage URL in global search index")
+        timezone_name = station.get("timezone", "")
+        if timezone_name and (
+            not isinstance(timezone_name, str)
+            or len(timezone_name) > 64
+            or not IANA_TIMEZONE_RE.fullmatch(timezone_name)
+        ):
+            fail("invalid timezone in global search index")
 
     world = root / "playlists" / "world.m3u"
     if world.stat().st_size > MAX_M3U_BYTES:
