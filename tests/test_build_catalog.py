@@ -30,7 +30,7 @@ class CatalogTests(unittest.TestCase):
         self.assertLess(distance, 380)
 
     def test_nearest_city(self):
-        rio = City("Rio de Janeiro", -22.9068, -43.1729, "BR", "21")
+        rio = City("Rio de Janeiro", -22.9068, -43.1729, "BR", "21", "America/Sao_Paulo")
         buckets = {("BR", -23, -44): [rio]}
         city, distance = nearest_city(
             -22.91,
@@ -41,6 +41,7 @@ class CatalogTests(unittest.TestCase):
             80,
         )
         self.assertEqual(city.name, "Rio de Janeiro")
+        self.assertEqual(city.timezone, "America/Sao_Paulo")
         self.assertLess(distance, 2)
 
     def test_country_code_rejects_path_traversal(self):
