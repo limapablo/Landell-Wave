@@ -89,6 +89,19 @@ make serve
 
 Then open `http://localhost:8000`.
 
+### Reopen it later on Windows
+
+After the first catalog build, you normally only need to start the local server again:
+
+```powershell
+cd C:\path\to\Landell-Wave
+py -3 -m http.server 8000 --directory public
+```
+
+Then browse to `http://localhost:8000`. Keep the terminal window open while the local web version is running.
+
+For a double-click launcher and catalog update instructions, see [Windows desktop build and local usage](docs/WINDOWS.md).
+
 Equivalent build command:
 
 ```bash
