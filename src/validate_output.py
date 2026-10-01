@@ -8,6 +8,7 @@ import urllib.parse
 from pathlib import Path
 
 MAX_INDEX_BYTES = 5 * 1024 * 1024
+MAX_SEARCH_INDEX_BYTES = 40 * 1024 * 1024
 MAX_COUNTRY_JSON_BYTES = 80 * 1024 * 1024
 MAX_M3U_BYTES = 200 * 1024 * 1024
 ALLOWED_STATIC_EXTENSIONS = {".html", ".css", ".js", ".json", ".m3u", ".txt"}
@@ -52,6 +53,7 @@ def validate_site(root: Path) -> None:
         root / "assets" / "app.js",
         root / "assets" / "styles.css",
         root / "data" / "index.json",
+        root / "data" / "search.json",
         root / "playlists" / "world.m3u",
     ]
     for path in required:
@@ -112,6 +114,20 @@ def validate_site(root: Path) -> None:
 
     if counted != index["station_count"]:
         fail(f"station count mismatch: index={index['station_count']} files={counted}")
+
+    search_path = root / "data" / "search.json"
+    if search_path.stat().st_size > MAX_SEARCH_INDEX_BYTES:
+        fail("search.json exceeds size policy")
+    search_payload = json.loads(search_path.read_text(encoding="utf-8"))
+    search_stations = search_payload.get("stations")
+    if not isinstance(search_stations, list) or len(search_stations) != counted:
+        fail("global search index count mismatch")
+    for station in search_stations:
+        if not valid_url(station.get("stream", ""), allow_http=True):
+            fail("unsafe stream URL in global search index")
+        homepage = station.get("homepage", "")
+        if homepage and not valid_url(homepage):
+            fail("unsafe homepage URL in global search index")
 
     world = root / "playlists" / "world.m3u"
     if world.stat().st_size > MAX_M3U_BYTES:
