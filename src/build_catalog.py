@@ -45,6 +45,7 @@ RADIO_BROWSER_HOST_RE = re.compile(
     r"^[a-z0-9-]+(?:\.[a-z0-9-]+)*\.api\.radio-browser\.info$",
     re.IGNORECASE,
 )
+IANA_TIMEZONE_RE = re.compile(r"^[A-Za-z0-9._+-]+(?:/[A-Za-z0-9._+-]+)*$")
 LOCAL_HOST_SUFFIXES = (
     ".localhost",
     ".local",
@@ -61,6 +62,7 @@ class City:
     lon: float
     country_code: str
     admin1_code: str
+    timezone: str = ""
 
 
 def sanitize_text(value: Any, fallback: str = "", max_len: int = 512) -> str:
@@ -283,11 +285,17 @@ def load_cities(path: Path) -> tuple[dict[tuple[str, int, int], list[City]], dic
                 lon = parse_float(fields[5], -180, 180)
                 name = sanitize_text(fields[1], max_len=160)
                 admin1 = sanitize_text(fields[10], max_len=16)
+                timezone_name = sanitize_text(
+                    fields[17] if len(fields) > 17 else "",
+                    max_len=64,
+                )
+                if timezone_name and not IANA_TIMEZONE_RE.fullmatch(timezone_name):
+                    timezone_name = ""
 
                 if cc == "ZZ" or lat is None or lon is None or not name:
                     continue
 
-                city = City(name, lat, lon, cc, admin1)
+                city = City(name, lat, lon, cc, admin1, timezone_name)
                 buckets[(cc, math.floor(lat), math.floor(lon))].append(city)
                 by_country[cc].append(city)
 
@@ -548,6 +556,7 @@ def make_record(
         "region": sanitize_text(region, UNKNOWN_REGION, 160),
         "city": sanitize_text(city.name if city else UNKNOWN_CITY, UNKNOWN_CITY, 160),
         "city_distance_km": city_distance,
+        "timezone": city.timezone if city else "",
         "stream": station["_stream"],
         "homepage": homepage,
         "favicon": favicon,
@@ -717,6 +726,7 @@ def build(output: Path, cache: Path, limit: int, max_km: float, max_check_age_ho
             "country_code": row["country_code"],
             "region": row["region"],
             "city": row["city"],
+            "timezone": row["timezone"],
             "stream": row["stream"],
             "homepage": row["homepage"],
             "tags": row["tags"],
