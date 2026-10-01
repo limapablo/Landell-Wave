@@ -6,3 +6,5 @@ public/playlists/
 .DS_Store
 .vscode/
 .idea/
+
+src-tauri/target/
