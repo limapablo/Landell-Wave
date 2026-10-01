@@ -56,17 +56,22 @@ jobs:
         with:
           toolchain: 1.90.0
 
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: "24"
+
       - name: Install Tauri CLI
         shell: pwsh
-        run: cargo install tauri-cli --version 2.12.0 --locked
+        run: npm install --global @tauri-apps/cli@2.12.0
 
       - name: Generate Windows icons
         shell: pwsh
-        run: cargo tauri icon src-tauri/icon-source.svg
+        run: tauri icon src-tauri/icon-source.svg
 
       - name: Build NSIS and MSI installers
         shell: pwsh
-        run: cargo tauri build --bundles nsis,msi
+        run: tauri build --bundles nsis,msi
 
       - name: Collect installers and checksums
         shell: pwsh
