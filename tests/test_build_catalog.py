@@ -12,6 +12,7 @@ from build_catalog import (
     is_public_host,
     nearest_city,
     normalize_web_url,
+    recently_verified,
     safe_int,
     safe_web_url,
     sanitize_text,
@@ -109,6 +110,26 @@ class CatalogTests(unittest.TestCase):
         self.assertEqual(safe_int("999999", maximum=100), 100)
         self.assertEqual(safe_int("-50", minimum=0), 0)
         self.assertEqual(safe_int("not-an-int"), 0)
+
+    def test_recent_station_check_policy(self):
+        from datetime import datetime, timedelta, timezone
+
+        now = datetime(2026, 10, 1, 12, 0, tzinfo=timezone.utc)
+        recent = {
+            "lastcheckok": 1,
+            "lastchecktime_iso8601": (now - timedelta(hours=2)).isoformat(),
+        }
+        stale = {
+            "lastcheckok": 1,
+            "lastchecktime_iso8601": (now - timedelta(hours=72)).isoformat(),
+        }
+        failed = {
+            "lastcheckok": 0,
+            "lastchecktime_iso8601": now.isoformat(),
+        }
+        self.assertTrue(recently_verified(recent, 48, now))
+        self.assertFalse(recently_verified(stale, 48, now))
+        self.assertFalse(recently_verified(failed, 48, now))
 
     def test_m3u_escapes_control_characters(self):
         text = build_m3u(
