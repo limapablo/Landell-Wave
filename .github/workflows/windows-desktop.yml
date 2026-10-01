@@ -1,0 +1,93 @@
+name: Windows desktop
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "src-tauri/**"
+      - "public/**"
+      - ".github/workflows/windows-desktop.yml"
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: windows-desktop-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-windows:
+    name: Build Windows installers
+    runs-on: windows-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Checkout latest validated catalog
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          ref: gh-pages
+          path: generated-site
+          fetch-depth: 1
+          persist-credentials: false
+
+      - name: Stage catalog snapshot
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          if (!(Test-Path "generated-site/data/index.json")) {
+            throw "Validated catalog snapshot not found on gh-pages."
+          }
+          Remove-Item -Recurse -Force public/data,public/playlists -ErrorAction SilentlyContinue
+          Copy-Item -Recurse generated-site/data public/data
+          Copy-Item -Recurse generated-site/playlists public/playlists
+          Remove-Item -Recurse -Force generated-site
+
+      - name: Set up Rust
+        uses: dtolnay/rust-toolchain@6bed0761d98439e5a578e2877258200ad565ba87 # stable
+        with:
+          toolchain: 1.88.0
+
+      - name: Install Tauri CLI
+        shell: pwsh
+        run: cargo install tauri-cli --version 2.12.0 --locked
+
+      - name: Generate Windows icons
+        shell: pwsh
+        run: cargo tauri icon src-tauri/icon-source.svg
+
+      - name: Build NSIS and MSI installers
+        shell: pwsh
+        run: cargo tauri build --bundles nsis,msi
+
+      - name: Collect installers and checksums
+        shell: pwsh
+        run: |
+          $ErrorActionPreference = "Stop"
+          New-Item -ItemType Directory -Force dist/windows | Out-Null
+          Get-ChildItem src-tauri/target/release/bundle -Recurse -File |
+            Where-Object { $_.Extension -in ".exe",".msi" } |
+            Copy-Item -Destination dist/windows
+          $files = Get-ChildItem dist/windows -File
+          if ($files.Count -lt 1) { throw "No Windows installer was produced." }
+          $lines = foreach ($file in $files) {
+            $hash = (Get-FileHash -Algorithm SHA256 $file.FullName).Hash.ToLower()
+            "$hash  $($file.Name)"
+          }
+          $lines | Set-Content -Encoding ascii dist/windows/SHA256SUMS.txt
+
+      - name: Upload Windows installers
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: Landell-Wave-Windows
+          path: dist/windows/*
+          if-no-files-found: error
+          retention-days: 30
