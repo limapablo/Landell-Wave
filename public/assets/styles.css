@@ -127,7 +127,16 @@ main{padding:9px}
   grid-column:1/-1;
   display:flex;
   gap:6px;
-  align-items:center;
+  align-items:end;
+  flex-wrap:wrap;
+}
+.time-format-label{
+  display:grid;
+  gap:3px;
+  min-width:105px;
+}
+.time-format-label select{
+  height:25px;
 }
 #download,#favorites-toggle{
   min-height:25px;
@@ -211,7 +220,7 @@ main{padding:9px}
   overflow:hidden;
   text-overflow:ellipsis;
 }
-.location,.meta{
+.location,.meta,.station-time{
   margin:0;
   color:var(--muted);
   font-size:10px;
@@ -219,7 +228,7 @@ main{padding:9px}
   overflow:hidden;
   text-overflow:ellipsis;
 }
-.meta{margin-top:1px}
+.meta{margin-top:1px}.station-time{margin:1px 0 0;color:#0a246a}
 .actions{display:flex;gap:5px;align-items:center}
 .actions a,.actions button{
   min-height:23px;
@@ -286,6 +295,7 @@ main{padding:9px}
 .now-playing span{font-size:9px;color:var(--muted);text-transform:uppercase}
 .now-playing strong,.now-playing small{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .now-playing small{color:var(--muted)}
+.player-clocks{display:flex;gap:10px;flex-wrap:wrap;margin-top:4px;font-size:10px;color:#0a246a}
 audio{width:100%;height:32px}
 @media(max-width:800px){
   .desktop{padding:10px 6px 34px}
