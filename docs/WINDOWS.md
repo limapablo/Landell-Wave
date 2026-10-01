@@ -116,3 +116,12 @@ Then start the local server again.
 The repository also contains a Tauri desktop wrapper and a Windows CI pipeline intended to produce native `.exe` and `.msi` installers.
 
 Once you install one of those native packages, Python, Git, the BAT launcher, and a browser will no longer be required for normal use.
+
+
+## Search and favorites
+
+Landell Wave supports worldwide station search without selecting a country first. Type at least two characters in the search field to load the compact global search index.
+
+Favorites are stored locally on the device using browser/WebView local storage. They are not uploaded to GitHub, Radio Browser, or any Landell Wave server. No user account is required.
+
+The Favorites view works in both the local web version and the Tauri Windows desktop application.
