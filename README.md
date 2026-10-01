@@ -13,6 +13,7 @@ No globe UI. No proprietary station list. The catalog is rebuilt automatically f
 
 - **Global station search** across the full catalog by station, city, region, tags and language.
 - **Persistent local favorites** stored only on the user's device (no account or backend required).
+- **Station-local clock** based on the matched GeoNames IANA timezone, alongside the user's local system time.
 
 - Presents the catalog through a compact **classic desktop UI**, inspired by stable Windows-era utilities rather than modern dashboard styling.
 
