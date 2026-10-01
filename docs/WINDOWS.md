@@ -53,3 +53,66 @@ src-tauri\target\release\bundle\
 ```
 
 For normal users, downloading the CI-produced installer is preferred over building locally.
+
+
+## Reopening the web version on Windows
+
+If you installed the current web version using:
+
+```powershell
+git clone https://github.com/limapablo/Landell-Wave.git
+cd Landell-Wave
+py -3 src\build_catalog.py --output public --cache .cache --clean-generated
+py -3 -m http.server 8000 --directory public
+```
+
+the project was not installed as a native Windows application yet. The repository was cloned, the catalog was generated locally, and Python started a local web server.
+
+After the first build, you do **not** need to rebuild the catalog every time you want to use Landell Wave.
+
+To open it again:
+
+```powershell
+cd C:\path\to\Landell-Wave
+py -3 -m http.server 8000 --directory public
+```
+
+Then open:
+
+```text
+http://localhost:8000
+```
+
+Keep the PowerShell window open while using Landell Wave. Closing that window stops the local server.
+
+### Optional desktop launcher
+
+For convenience, create a file named `Landell Wave.bat` on your Desktop:
+
+```bat
+@echo off
+cd /d "C:\path\to\Landell-Wave"
+start "" http://localhost:8000
+py -3 -m http.server 8000 --directory public
+```
+
+Replace `C:\path\to\Landell-Wave` with the folder where you cloned the repository.
+
+After that, double-clicking the BAT file will open the local Landell Wave interface in your default browser and start the required Python server.
+
+### Updating the radio catalog
+
+You only need to rebuild the local catalog when you want fresh station data:
+
+```powershell
+cd C:\path\to\Landell-Wave
+py -3 src\build_catalog.py --output public --cache .cache --clean-generated
+```
+
+Then start the local server again.
+
+### Native Windows version
+
+The repository also contains a Tauri desktop wrapper and a Windows CI pipeline intended to produce native `.exe` and `.msi` installers.
+
+Once you install one of those native packages, Python, Git, the BAT launcher, and a browser will no longer be required for normal use.
