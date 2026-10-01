@@ -36,14 +36,17 @@
           <label>Country<select id="country"><option value="">Loading…</option></select></label>
           <label>Region / state<select id="region" disabled><option value="">All regions</option></select></label>
           <label>City<select id="city" disabled><option value="">All cities</option></select></label>
-          <label>Search station<input id="search" type="search" placeholder="Name, tag or language…"></label>
+          <label>Search station<input id="search" type="search" placeholder="Search worldwide by name, city, tag…"></label>
           <label>Minimum bitrate
             <select id="bitrate">
               <option value="0">Any</option><option value="64">64 kbps+</option><option value="96">96 kbps+</option>
               <option value="128">128 kbps+</option><option value="192">192 kbps+</option><option value="256">256 kbps+</option>
             </select>
           </label>
-          <button id="download" type="button" disabled>Download selection (.m3u)</button>
+          <div class="filter-actions">
+            <button id="favorites-toggle" type="button" aria-pressed="false">★ Favorites</button>
+            <button id="download" type="button" disabled>Download selection (.m3u)</button>
+          </div>
         </fieldset>
 
         <section class="summary" aria-live="polite" aria-label="Catalog summary">
@@ -78,6 +81,7 @@
 
   <template id="station-template">
     <article class="station-card">
+      <button class="favorite" type="button" aria-label="Add to favorites" title="Add to favorites">☆</button>
       <button class="play" type="button" aria-label="Play station">▶</button>
       <div class="logo" aria-hidden="true">♪</div>
       <div class="station-main"><h2 class="station-name"></h2><p class="location"></p><p class="meta"></p></div>
