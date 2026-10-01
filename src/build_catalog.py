@@ -664,7 +664,26 @@ def build(output: Path, cache: Path, limit: int, max_km: float) -> None:
         },
     }
 
+    search_records = [
+        {
+            "id": row["id"],
+            "name": row["name"],
+            "country": row["country"],
+            "country_code": row["country_code"],
+            "region": row["region"],
+            "city": row["city"],
+            "stream": row["stream"],
+            "homepage": row["homepage"],
+            "tags": row["tags"],
+            "languages": row["languages"],
+            "codec": row["codec"],
+            "bitrate": row["bitrate"],
+        }
+        for row in records
+    ]
+
     write_json(data / "index.json", index)
+    write_json(data / "search.json", {"stations": search_records})
     write_json(data / "sample.json", records[:100])
     (playlists / "world.m3u").write_text(build_m3u(records), encoding="utf-8")
 
