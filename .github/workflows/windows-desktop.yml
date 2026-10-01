@@ -71,7 +71,7 @@ jobs:
 
       - name: Build NSIS and MSI installers
         shell: pwsh
-        run: tauri build --bundles nsis,msi
+        run: tauri build --bundles nsis --bundles msi
 
       - name: Collect installers and checksums
         shell: pwsh
