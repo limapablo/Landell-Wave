@@ -21,7 +21,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-USER_AGENT = "Landell-Wave/2.0 (+https://github.com/limapablo/Global-Web-Radio)"
+USER_AGENT = "Landell-Wave/2.1 (+https://github.com/limapablo/Landell-Wave)"
 DISCOVERY = "https://all.api.radio-browser.info/json/servers"
 FALLBACKS = [
     "https://de1.api.radio-browser.info",
@@ -35,7 +35,8 @@ UNKNOWN_CITY = "Unknown city"
 
 MAX_HTTP_BYTES = 150 * 1024 * 1024
 MAX_GEONAMES_UNCOMPRESSED_BYTES = 250 * 1024 * 1024
-MAX_STATIONS = 100_000
+MAX_STATIONS = 500_000
+DEFAULT_MAX_CHECK_AGE_HOURS = 48
 MAX_URL_LENGTH = 4_096
 
 COUNTRY_CODE_RE = re.compile(r"^[A-Z]{2}$")
@@ -428,6 +429,41 @@ def fetch_stations(limit: int) -> tuple[list[dict[str, Any]], str, str]:
     raise RuntimeError("Radio Browser mirrors failed: " + "; ".join(errors))
 
 
+def parse_utc_timestamp(value: Any) -> datetime | None:
+    text = sanitize_text(value, max_len=64)
+    if not text:
+        return None
+    try:
+        parsed = datetime.fromisoformat(text.replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+
+def recently_verified(
+    station: dict[str, Any],
+    max_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS,
+    now: datetime | None = None,
+) -> bool:
+    if safe_int(station.get("lastcheckok"), maximum=1) != 1:
+        return False
+
+    checked_at = parse_utc_timestamp(
+        station.get("lastchecktime_iso8601")
+        or station.get("lastcheckoktime_iso8601")
+    )
+    if checked_at is None:
+        return False
+
+    reference = now or datetime.now(timezone.utc)
+    age_seconds = (reference - checked_at).total_seconds()
+    if age_seconds < 0:
+        return False
+    return age_seconds <= max_age_hours * 3600
+
+
 def score(station: dict[str, Any]) -> int:
     return (
         1000 * safe_int(station.get("lastcheckok"), maximum=1)
@@ -436,11 +472,13 @@ def score(station: dict[str, Any]) -> int:
     )
 
 
-def dedupe(rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS) -> list[dict[str, Any]]:
     chosen: dict[str, dict[str, Any]] = {}
 
+    reference_time = datetime.now(timezone.utc)
+
     for station in rows:
-        if safe_int(station.get("lastcheckok"), maximum=1) != 1:
+        if not recently_verified(station, max_check_age_hours, reference_time):
             continue
 
         stream = normalize_web_url(
@@ -559,11 +597,13 @@ def write_json(path: Path, payload: Any) -> None:
     )
 
 
-def build(output: Path, cache: Path, limit: int, max_km: float) -> None:
+def build(output: Path, cache: Path, limit: int, max_km: float, max_check_age_hours: int) -> None:
     if not 1 <= limit <= MAX_STATIONS:
         raise ValueError(f"station limit must be between 1 and {MAX_STATIONS}")
     if not 1 <= max_km <= 500:
         raise ValueError("max city distance must be between 1 and 500 km")
+    if not 1 <= max_check_age_hours <= 168:
+        raise ValueError("max check age must be between 1 and 168 hours")
 
     cities_path = download(CITIES_URL, cache / "cities1000.zip")
     admin_path = download(ADMIN1_URL, cache / "admin1CodesASCII.txt")
@@ -571,7 +611,7 @@ def build(output: Path, cache: Path, limit: int, max_km: float) -> None:
     admin = load_admin1(admin_path)
 
     raw, radio_digest, radio_server = fetch_stations(limit)
-    stations = dedupe(raw)
+    stations = dedupe(raw, max_check_age_hours)
     if not stations:
         raise RuntimeError("No valid public station streams survived validation")
 
@@ -651,6 +691,11 @@ def build(output: Path, cache: Path, limit: int, max_km: float) -> None:
         "city_matched_count": matched,
         "city_match_rate": round(matched / len(records), 4),
         "max_city_distance_km": max_km,
+        "quality_policy": {
+            "hidebroken": True,
+            "lastcheckok_required": True,
+            "max_check_age_hours": max_check_age_hours,
+        },
         "countries": metadata,
         "sources": {
             "radio_browser": {
@@ -699,6 +744,12 @@ def main() -> None:
     parser.add_argument("--cache", type=Path, default=Path(".cache"))
     parser.add_argument("--station-limit", type=int, default=MAX_STATIONS)
     parser.add_argument("--max-city-distance-km", type=float, default=80)
+    parser.add_argument(
+        "--max-check-age-hours",
+        type=int,
+        default=DEFAULT_MAX_CHECK_AGE_HOURS,
+        help="Only include stations with a successful Radio Browser check this recent.",
+    )
     parser.add_argument("--clean-generated", action="store_true")
     args = parser.parse_args()
 
@@ -707,7 +758,7 @@ def main() -> None:
             if generated_dir.exists():
                 shutil.rmtree(generated_dir)
 
-    build(args.output, args.cache, args.station_limit, args.max_city_distance_km)
+    build(args.output, args.cache, args.station_limit, args.max_city_distance_km, args.max_check_age_hours)
 
 
 if __name__ == "__main__":
