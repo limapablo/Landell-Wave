@@ -69,6 +69,12 @@ static web UI: Country → Region → City → Station
 
 Generated `public/data/` and `public/playlists/` are deliberately ignored on `main`. The daily workflow publishes a clean generated snapshot to `gh-pages`.
 
+## Windows app
+
+Landell Wave can also be installed as a native Windows desktop application. The Windows CI build produces both an **NSIS setup executable (.exe)** and a **WiX installer (.msi)** plus SHA-256 checksums.
+
+See [Windows desktop build](docs/WINDOWS.md).
+
 ## Run locally
 
 Requirements: Python 3.12+ and internet access for the data build.
