@@ -23,7 +23,7 @@ concurrency:
 jobs:
   build:
     name: Build untrusted catalog
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 45
     permissions:
       contents: read
@@ -67,7 +67,7 @@ jobs:
     name: Publish verified snapshot
     if: github.event_name != 'pull_request'
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 10
     permissions:
       contents: write
