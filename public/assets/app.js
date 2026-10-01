@@ -1,10 +1,19 @@
 const $=id=>document.getElementById(id);
-const e={country:$("country"),region:$("region"),city:$("city"),search:$("search"),bitrate:$("bitrate"),download:$("download"),favoritesToggle:$("favorites-toggle"),status:$("status"),stations:$("stations"),visible:$("visible-count"),total:$("total-count"),countries:$("country-count"),updated:$("updated"),template:$("station-template"),player:$("player"),audio:$("audio"),nowName:$("now-name"),nowLocation:$("now-location"),close:$("close-player")};
+const e={
+  country:$("country"),region:$("region"),city:$("city"),search:$("search"),bitrate:$("bitrate"),
+  download:$("download"),favoritesToggle:$("favorites-toggle"),timeFormat:$("time-format"),
+  status:$("status"),stations:$("stations"),visible:$("visible-count"),total:$("total-count"),
+  countries:$("country-count"),updated:$("updated"),template:$("station-template"),player:$("player"),
+  audio:$("audio"),nowName:$("now-name"),nowLocation:$("now-location"),close:$("close-player"),
+  localClock:$("local-clock"),playerLocalTime:$("player-local-time"),playerStationTime:$("player-station-time")
+};
 
 const FAVORITES_KEY="landell-wave.favorites.v1";
+const TIME_FORMAT_KEY="landell-wave.time-format.v1";
 const MAX_FAVORITES=500;
 const MAX_RENDERED=1500;
-let indexData=null,current=[],visible=[],cache=new Map(),globalSearch=null,favoritesOnly=false,searchTimer=null;
+let indexData=null,current=[],visible=[],cache=new Map(),globalSearch=null,favoritesOnly=false,searchTimer=null,currentPlaying=null;
+const timeFormatterCache=new Map();
 
 const fmt=n=>new Intl.NumberFormat().format(n);
 const uniq=v=>[...new Set(v)].sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:"base",numeric:true}));
@@ -41,6 +50,48 @@ function syncUrl(){
   if(favoritesOnly)p.set("favorites","1");
   history.replaceState(null,"",location.pathname+(p.size?"?"+p:""));
 }
+function getTimeFormat(){
+  try{return localStorage.getItem(TIME_FORMAT_KEY)==="12"?"12":"24"}catch{return "24"}
+}
+function setTimeFormat(value){
+  const normalized=value==="12"?"12":"24";
+  try{localStorage.setItem(TIME_FORMAT_KEY,normalized)}catch{}
+  e.timeFormat.value=normalized;
+  timeFormatterCache.clear();
+  updateClocks();
+}
+function timeFormatter(timeZone=""){
+  const mode=getTimeFormat(),key=`${mode}|${timeZone||"local"}`;
+  if(timeFormatterCache.has(key))return timeFormatterCache.get(key);
+  const options={hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:mode==="12"};
+  if(timeZone)options.timeZone=timeZone;
+  try{
+    const formatter=new Intl.DateTimeFormat(undefined,options);
+    timeFormatterCache.set(key,formatter);
+    return formatter;
+  }catch{return null}
+}
+function formatTime(timeZone=""){
+  const formatter=timeFormatter(timeZone);
+  if(!formatter)return "";
+  try{return formatter.format(new Date())}catch{return ""}
+}
+function stationTimeText(station){
+  const tz=String(station?.timezone||"").trim();
+  const value=tz?formatTime(tz):"";
+  return value?`Station time: ${value}`:"Station time: unavailable";
+}
+function updateClocks(){
+  const local=formatTime();
+  e.localClock.textContent=local?`Local time: ${local}`:"Local time: unavailable";
+  e.playerLocalTime.textContent=local?`Your time: ${local}`:"Your time: unavailable";
+  e.playerStationTime.textContent=currentPlaying?stationTimeText(currentPlaying):"Station time: unavailable";
+  for(const node of e.stations.querySelectorAll(".station-time[data-timezone]")){
+    const tz=node.dataset.timezone||"";
+    const value=tz?formatTime(tz):"";
+    node.textContent=value?`Station time: ${value}`:"Station time: unavailable";
+  }
+}
 function readFavorites(){
   try{
     const parsed=JSON.parse(localStorage.getItem(FAVORITES_KEY)||"[]");
@@ -65,7 +116,7 @@ function toggleFavorite(s){
     if(items.length>=MAX_FAVORITES){e.status.textContent=`Favorite limit reached (${MAX_FAVORITES}).`;return}
     items.unshift({
       id:s.id||"",name:s.name||"Unnamed station",country:s.country||"",country_code:s.country_code||"",
-      region:s.region||"",city:s.city||"",stream:s.stream||"",homepage:s.homepage||"",
+      region:s.region||"",city:s.city||"",timezone:s.timezone||"",stream:s.stream||"",homepage:s.homepage||"",
       tags:Array.isArray(s.tags)?s.tags.slice(0,20):[],languages:Array.isArray(s.languages)?s.languages.slice(0,10):[],
       codec:s.codec||"",bitrate:Number(s.bitrate||0)
     });
@@ -96,6 +147,9 @@ function applyFilters(source){
   });
 }
 async function init(){
+  e.timeFormat.value=getTimeFormat();
+  updateClocks();
+  setInterval(updateClocks,30000);
   const r=await fetch("data/index.json",{cache:"no-store"});
   if(!r.ok)throw Error("Catalog index unavailable");
   indexData=await r.json();
@@ -161,6 +215,7 @@ async function renderCurrent(){
   const frag=document.createDocumentFragment();
   for(const s of visible.slice(0,MAX_RENDERED))frag.append(card(s));
   e.stations.append(frag);
+  updateClocks();
   if(!visible.length)e.status.textContent=scope==="favorites"?"No favorite stations match the current filters.":"No stations match the current filters.";
   else if(visible.length>MAX_RENDERED)e.status.textContent=`Showing the first ${fmt(MAX_RENDERED)} of ${fmt(visible.length)} matches. Narrow the search to render fewer rows.`;
   else if(scope==="global")e.status.textContent=`Worldwide search: ${fmt(visible.length)} station(s) found.`;
@@ -173,6 +228,9 @@ function card(s){
   n.querySelector(".station-name").textContent=s.name;
   n.querySelector(".location").textContent=loc(s);
   n.querySelector(".meta").textContent=[s.codec,s.bitrate?`${s.bitrate} kbps`:"",...(s.languages||[]).slice(0,2),...(s.tags||[]).slice(0,3)].filter(Boolean).join(" · ");
+  const clock=n.querySelector(".station-time");
+  clock.dataset.timezone=String(s.timezone||"");
+  clock.textContent=stationTimeText(s);
   const fav=n.querySelector(".favorite");
   const active=isFavorite(s);
   fav.textContent=active?"★":"☆";fav.classList.toggle("is-favorite",active);
@@ -191,7 +249,9 @@ function card(s){
 function play(s){
   const stream=safeExternalUrl(s.stream,{allowHttp:true});
   if(!stream){e.status.textContent="Blocked an unsafe or invalid stream URL.";return}
+  currentPlaying=s;
   e.player.hidden=false;e.nowName.textContent=s.name;e.nowLocation.textContent=loc(s);
+  updateClocks();
   if(e.audio.src!==stream)e.audio.src=stream;
   e.audio.play().catch(()=>{e.status.textContent="The browser could not play this stream."});
 }
@@ -214,12 +274,13 @@ e.region.addEventListener("change",()=>{rebuildCities();renderCurrent().catch(sh
 e.city.addEventListener("change",()=>renderCurrent().catch(showError));
 e.bitrate.addEventListener("change",()=>renderCurrent().catch(showError));
 e.search.addEventListener("input",scheduleSearch);
+e.timeFormat.addEventListener("change",()=>setTimeFormat(e.timeFormat.value));
 e.favoritesToggle.addEventListener("click",()=>{
   favoritesOnly=!favoritesOnly;
   e.favoritesToggle.setAttribute("aria-pressed",String(favoritesOnly));
   renderCurrent().catch(showError);
 });
 e.download.addEventListener("click",download);
-e.close.addEventListener("click",()=>{e.audio.pause();e.player.hidden=true});
+e.close.addEventListener("click",()=>{e.audio.pause();currentPlaying=null;e.player.hidden=true;updateClocks()});
 function showError(err){console.error(err);e.status.textContent="Error: "+err.message}
 init().catch(showError);
