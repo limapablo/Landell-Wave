@@ -8,7 +8,7 @@ import urllib.parse
 from pathlib import Path
 
 MAX_INDEX_BYTES = 5 * 1024 * 1024
-MAX_SEARCH_INDEX_BYTES = 40 * 1024 * 1024
+MAX_SEARCH_INDEX_BYTES = 80 * 1024 * 1024
 MAX_COUNTRY_JSON_BYTES = 80 * 1024 * 1024
 MAX_M3U_BYTES = 200 * 1024 * 1024
 ALLOWED_STATIC_EXTENSIONS = {".html", ".css", ".js", ".json", ".m3u", ".txt"}
