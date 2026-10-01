@@ -6,7 +6,7 @@ authors = ["Pablo Lima"]
 license = "MIT"
 repository = "https://github.com/limapablo/Landell-Wave"
 edition = "2021"
-rust-version = "1.88"
+rust-version = "1.90"
 
 [build-dependencies]
 tauri-build = { version = "2", features = [] }
