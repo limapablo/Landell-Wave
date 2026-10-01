@@ -2,12 +2,9 @@ name: Windows desktop
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - "src-tauri/**"
-      - "public/**"
-      - ".github/workflows/windows-desktop.yml"
+  workflow_run:
+    workflows: ["Build and publish radio catalog"]
+    types: [completed]
   release:
     types: [published]
 
@@ -15,12 +12,13 @@ permissions:
   contents: read
 
 concurrency:
-  group: windows-desktop-${{ github.ref }}
+  group: windows-desktop-${{ github.event.workflow_run.head_branch || github.ref }}
   cancel-in-progress: true
 
 jobs:
   build-windows:
     name: Build Windows installers
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
     runs-on: windows-latest
     timeout-minutes: 60
 
@@ -28,6 +26,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
         with:
+          ref: ${{ github.event_name == 'workflow_run' && github.event.workflow_run.head_sha || github.sha }}
           fetch-depth: 1
           persist-credentials: false
 
@@ -43,8 +42,8 @@ jobs:
         shell: pwsh
         run: |
           $ErrorActionPreference = "Stop"
-          if (!(Test-Path "generated-site/data/index.json")) {
-            throw "Validated catalog snapshot not found on gh-pages."
+          if (!(Test-Path "generated-site/data/index.json") -or !(Test-Path "generated-site/data/search.json")) {
+            throw "Validated catalog/search snapshot not found on gh-pages."
           }
           Remove-Item -Recurse -Force public/data,public/playlists -ErrorAction SilentlyContinue
           Copy-Item -Recurse generated-site/data public/data
