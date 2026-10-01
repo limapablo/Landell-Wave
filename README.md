@@ -114,7 +114,7 @@ python3 src/build_catalog.py --output public --cache .cache --clean-generated
 Useful options:
 
 ```bash
-python3 src/build_catalog.py --station-limit 100000 --max-city-distance-km 80
+python3 src/build_catalog.py --station-limit 500000 --max-city-distance-km 80 --max-check-age-hours 48
 ```
 
 ## Generated output
@@ -145,6 +145,20 @@ The web interface can also export a selection such as:
 `Brazil → Rio de Janeiro → Rio de Janeiro`
 
 as a new M3U file directly in the browser.
+
+## Station quality policy
+
+Landell Wave prioritizes **working stations over raw directory size**. The catalog:
+
+1. requests only stations not currently marked broken by Radio Browser;
+2. requires `lastcheckok=1`;
+3. requires the successful check to be no older than **48 hours** by default;
+4. rejects malformed, credential-bearing, local/private-network and unsupported stream URLs;
+5. deduplicates stations before publication.
+
+The collector can inspect up to **500,000 records** and stops automatically when the upstream API reaches the end of its catalog. This high ceiling is a safety bound, not a target count.
+
+Radio Browser performs distributed station checks, but no third-party directory can guarantee that every stream remains online between the last check and the moment a user clicks Play. The daily rebuild keeps that window small.
 
 ## How city matching works
 
