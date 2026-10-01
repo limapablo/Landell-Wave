@@ -11,6 +11,9 @@ No globe UI. No proprietary station list. The catalog is rebuilt automatically f
 
 ## What it does
 
+- **Global station search** across the full catalog by station, city, region, tags and language.
+- **Persistent local favorites** stored only on the user's device (no account or backend required).
+
 - Presents the catalog through a compact **classic desktop UI**, inspired by stable Windows-era utilities rather than modern dashboard styling.
 
 - Browses working radio streams by **country, administrative region and city**.
