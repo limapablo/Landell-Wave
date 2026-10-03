@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="b5fe26d1-ef12-4a65-8761-80f7678693da" tvg-logo="https://www.esdesmada.com/wp-content/uploads/2024/11/esdes-logo-80x80-1.png" group-title="Madagascar | Antananarivo | Betafo",ESDES Radio
+https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3
+#EXTINF:-1 tvg-id="34ccec85-6bed-45ea-b5e2-22997dfadaca" group-title="Madagascar | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="94f00da6-4a0a-460e-b2cb-0eb8060ab2cb" group-title="Madagascar | Unknown region | Unknown city",Radio Don Bosco
+http://onair15.xdevel.com:9248/;
+#EXTINF:-1 tvg-id="995b5039-49b4-42e5-9512-f2774f184030" group-title="Madagascar | Unknown region | Unknown city",Radio HIFI
+https://listen.radioking.com/radio/52108/stream/89122
+#EXTINF:-1 tvg-id="15c1f776-8895-49bf-a2e1-8705374448c9" group-title="Madagascar | Unknown region | Unknown city",Radio Oasis
+https://hopefy.fanantenanahoanao.org/listen/radiooasistana/radio.mp3
+#EXTINF:-1 tvg-id="5616ee52-e903-4913-8fe4-60fe35190e99" group-title="Madagascar | Unknown region | Unknown city",Radio Rock Madagascar
+https://tanjona.radioca.st/stream
+#EXTINF:-1 tvg-id="7c0a647e-eda5-4eab-8bd7-e91ad62d6fab" group-title="Madagascar | Unknown region | Unknown city",Top Radio 102.8
+https://listen.radioking.com/radio/309053/stream/356036
+#EXTINF:-1 tvg-id="0060ae50-b810-4245-9a93-5365a03e0e0b" tvg-logo="https://flm-rff.org/logo.png" group-title="Madagascar | Vakinankaratra | Antsirabe",Radio Feon'ny Filazantsara
+https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=8622&type=s1

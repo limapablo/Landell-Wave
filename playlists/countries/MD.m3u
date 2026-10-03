@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3dfcd6f8-948a-45cf-a3b9-4b5b399b35a1" tvg-logo="https://glowlinks.net/the-glow-network.png" group-title="The Republic Of Moldova | Chişinǎu | Unknown city",Glowwave-FM
+https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1
+#EXTINF:-1 tvg-id="91900e91-4864-4ff0-b782-50817669c4ac" tvg-logo="https://static.tildacdn.one/tild6364-6361-4237-a239-306236386565/180.png" group-title="The Republic Of Moldova | Chișinău | Chisinau",Retro FM Moldova
+https://efir.retrofm.md:8000/retro
+#EXTINF:-1 tvg-id="1c5a760c-766a-4681-a169-236a3706bf80" tvg-logo="https://glowlinks.net/the-glow-network.png" group-title="The Republic Of Moldova | Chișinău | Unknown city",Glowwave-FM
+https://wavehub.uk/api/functions/stationStream?uuid=1cf33481-5bc1-4e66-a95f-9d5278542df1
+#EXTINF:-1 tvg-id="78160e93-0a17-49ff-9903-7f97c0e501c5" group-title="The Republic Of Moldova | Chișinău Municipality | Chisinau",Drive FM
+http://109.185.236.241:8000/DriveFM
+#EXTINF:-1 tvg-id="32cbdc2a-3e4e-4160-9eb3-ceeef61316ab" group-title="The Republic Of Moldova | Chișinău Municipality | Chisinau",Love Radio Moldova
+http://37.233.41.76:8000/lovefm
+#EXTINF:-1 tvg-id="272507fc-f3b7-4a10-a280-7da26bafb901" group-title="The Republic Of Moldova | Chișinău Municipality | Chisinau",Megapolis FM Moldova
+https://megapolisfm.md:8443/886
+#EXTINF:-1 tvg-id="40a45617-74c2-49ee-aef6-b329978da43e" group-title="The Republic Of Moldova | Chișinău Municipality | Chisinau",Muz FM Moldova
+https://live.muzfm.md/muzfm
+#EXTINF:-1 tvg-id="d8e32c96-e087-4bd9-a235-cc934b8e8aa5" tvg-logo="https://deepnovaradio.com/wp-content/uploads/2025/05/deepnova-320-170x170.png.webp" group-title="The Republic Of Moldova | Unknown region | Unknown city",DeepNova Radio
+https://a8.asurahosting.com:8820/radio.mp3
+#EXTINF:-1 tvg-id="4d51be51-641d-4b05-b2cd-8cf2cf152e5a" group-title="The Republic Of Moldova | Unknown region | Unknown city",Hit FM Chișinău 101.7 fm
+https://stream.dixi.md:9443/HitFM
+#EXTINF:-1 tvg-id="708cf1ea-1454-4212-886b-3100bea9df8c" group-title="The Republic Of Moldova | Unknown region | Unknown city",Hit Fm Drive Mode
+https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac
+#EXTINF:-1 tvg-id="206380e4-f015-4665-bddd-133d1327d672" group-title="The Republic Of Moldova | Unknown region | Unknown city",Hit FM Hot Hits
+https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac
+#EXTINF:-1 tvg-id="57ffd204-ac80-4d68-9e71-ddcdf766336c" group-title="The Republic Of Moldova | Unknown region | Unknown city",Hit FM Summer Hits
+https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac
+#EXTINF:-1 tvg-id="fc7c995c-6aa6-4627-9051-958fefa36c28" tvg-logo="https://hitfm.md/favicon.png?v=2" group-title="The Republic Of Moldova | Unknown region | Unknown city",HIT FM Trance Hits
+https://radio3.dixi.md/listen/hit_fm_trance/trance128.aac
+#EXTINF:-1 tvg-id="0280d853-bec5-40f2-895f-77746e2b0b38" tvg-logo="https://api.rockfm.ro/resized/streams/2024/09/23/kissfm-chisinau-4696b7_37baa944d8b6449a3bd03549a72356cb.jpg?w=120&h=120&c=1" group-title="The Republic Of Moldova | Unknown region | Unknown city",Kiss FM Chișinău
+https://dc.digi.live.kissfm.ro/kissfm.chisinau
+#EXTINF:-1 tvg-id="960ef757-0601-11e8-ae97-52543be04c81" group-title="The Republic Of Moldova | Unknown region | Unknown city",LOVE PRO Dj Radio Chisinau
+http://live.prodjradio.net:8000/;
+#EXTINF:-1 tvg-id="9a608389-3cae-4614-8768-2561f18472f7" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio DAR
+http://188.138.191.214/RadioDar
+#EXTINF:-1 tvg-id="62ab091a-48f1-4a28-90fc-637b7568ab32" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Fresh MD
+https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw
+#EXTINF:-1 tvg-id="5170a1f4-d481-4ff0-b13d-b267efb87fb7" tvg-logo="https://radiomoldova.md/apple-touch-icon.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Moldova
+http://radiolive.trm.md:8000/RC-Actualitati
+#EXTINF:-1 tvg-id="d7014431-ab51-48c2-9899-2fdc47f01224" tvg-logo="https://radiomoldova.md/apple-touch-icon.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Moldova Tineret
+https://radiolive.trm.md:8001/hls_rmt/tineret.m3u8
+#EXTINF:-1 tvg-id="d86169ad-3b18-4c84-a330-9dd5b0a0e2a5" tvg-logo="https://www.radionoroc.md/favicon.ico" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Noroc Moldova
+https://stream.noroc.tv/radionoroc_aac
+#EXTINF:-1 tvg-id="f09eef4e-bcca-416b-9280-f69e6280fd02" tvg-logo="https://radiorelax.md/front-assets/favicon/apple-touch-icon.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Relax - Jazz & Blues
+https://radio2.dixi.md/listen/relax_jazz__blues/relaxjazzblues128.aac
+#EXTINF:-1 tvg-id="7a540c6b-a9d6-4722-a833-a6676629f539" tvg-logo="https://radiorelax.md/front-assets/favicon/apple-touch-icon.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Relax - lo-fi
+https://radio8.dixi.md/listen/relax_lofi/relax_lofi128.aac
+#EXTINF:-1 tvg-id="b7326932-a9f9-49f6-8bc7-b2ccba8b3772" tvg-logo="https://radiorelax.md/front-assets/favicon/apple-touch-icon.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Relax - Versiuni Acustice
+https://radio8.dixi.md/listen/relax_acoustic_version/relax_acousticversion128.aac
+#EXTINF:-1 tvg-id="ae71ee84-2d8f-400c-8822-17241b970be2" tvg-logo="https://radioroks.md/favicon.ico" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio ROKS (Moldova) - Classic Rock
+https://radio5.dixi.md/listen/classic_rock/roks_classic_rock128.aac
+#EXTINF:-1 tvg-id="255d3cc9-fdd2-4552-8bc2-de8aadb83a1a" tvg-logo="https://radioroks.md/front-assets/favicons/favicon-96x96.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio ROKS (Moldova) - Hard'n'Heavy
+https://radio5.dixi.md/listen/roks_hardnheavy/roks_hardnheavy.aac
+#EXTINF:-1 tvg-id="68d28c67-fb11-450a-9343-46dfa4ec32f4" tvg-logo="https://radioroks.md/favicon.ico" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio ROKS (Moldova) - New Rock
+https://radio6.dixi.md/listen/new_rock/new_rock128.aac
+#EXTINF:-1 tvg-id="dbcd81fd-4ae5-4bb2-ab3f-e0957e5cf2f2" tvg-logo="https://radioroks.md/front-assets/favicons/favicon-96x96.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio ROKS (Moldova) - Rock Tricolor
+https://radio5.dixi.md/listen/roks_tricolor/roks_tricolor128.aac
+#EXTINF:-1 tvg-id="9a05ee72-a353-43fa-b780-df716d3a57af" tvg-logo="https://radiovintage.md/favicon/apple-touch-icon.png?v=3" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio Vintage
+https://live.radiovintage.md/vintage_main
+#EXTINF:-1 tvg-id="ad013d77-cdf0-42b0-ae73-a5c12347237b" tvg-logo="https://res.cloudinary.com/super7/image/upload/v1637683703/rz-api-prod/images/agnni2vhfudmfoun8vpg.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",Radio ZUM 2
+https://streams.radiozum.md/listen/zum2/ZUM2
+#EXTINF:-1 tvg-id="c63563c8-edc3-4bb5-9962-63375bb4d6ad" group-title="The Republic Of Moldova | Unknown region | Unknown city",Smile FM
+https://sonicssl.namehost.ro/8050/;
+#EXTINF:-1 tvg-id="84894d41-5e1a-4f8b-bae0-1684a3894ca9" tvg-logo="https://static.wixstatic.com/media/daef01_5bbe85f23d3d44819ae8a0f4e2dc7097~mv2.png" group-title="The Republic Of Moldova | Unknown region | Unknown city",VibeFM
+https://stream.radio.co/s6a544f6c9/listen

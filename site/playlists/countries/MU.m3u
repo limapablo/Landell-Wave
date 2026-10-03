@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="385b3d31-8952-464f-a1f1-a86b68d3c35e" tvg-logo="https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png" group-title="Mauritius | Mauritius | Unknown city",OUi Radio Rodrigues
+https://mu1stream.mushost.com:8554/
+#EXTINF:-1 tvg-id="e3cea313-4aa9-4ac5-a053-50d7e82326f4" group-title="Mauritius | Moka | Quartier Militaire",MBC Radio Maurice
+https://radio.mbconline.xyz/hls/radiomaurice.m3u8
+#EXTINF:-1 tvg-id="abcd1a7b-8b0a-4bc4-a8c4-4a02352760a6" tvg-logo="https://mbcradio.tv/streaming/img/cover_taalfm.png" group-title="Mauritius | Unknown region | Unknown city",MBC Taal FM
+https://radio.mbconline.xyz/hls/tallfm.m3u8

@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="31cd1741-fc0d-40a2-8f3a-5af71801dfc7" group-title="Bolivia | Cochabamba | Cochabamba",El Fin del Silencio
+https://servidor24-1.brlogic.com:7302/live
+#EXTINF:-1 tvg-id="50c86b5d-d447-436b-ab91-adbf2228bb1c" group-title="Bolivia | Cochabamba | Cochabamba",radio centro cochabamba
+https://radio.yoemito.net/listen/centrofm/stream
+#EXTINF:-1 tvg-id="fbf15cba-dfde-4bce-bc70-8f556154924e" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4382ymgqkex8.png" group-title="Bolivia | Cochabamba | Cochabamba",Radio Estrella 93.1 FM
+https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3
+#EXTINF:-1 tvg-id="3eeaaae7-3a58-44ad-8fe5-fe3c120965fd" tvg-logo="https://radioritmobolivia.com/wp-content/uploads/2019/01/1024x500.png" group-title="Bolivia | Cochabamba | Cochabamba",Radio Ritmo 97.3 FM
+https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac
+#EXTINF:-1 tvg-id="20c84d77-3097-4443-bad8-d81145d89068" tvg-logo="https://atlantidafm903.com/logo-atlantida.png" group-title="Bolivia | Cochabamba - Bolivia | Unknown city",Atlántida FM 903
+https://radio.atlantidafm903.com:8020/atlantida_radio.mp3
+#EXTINF:-1 tvg-id="357a4484-2848-4d71-8588-1391928c92c4" tvg-logo="https://img.webme.com/pic/v/vavizacli/tuti.jpg" group-title="Bolivia | Cochabamba-cliza | Tiquipaya",Tuti internacional (cliza)
+https://stream.zeno.fm/nplf6hpufi5uv
+#EXTINF:-1 tvg-id="351d3f42-337c-4f00-a088-7a49d939ef1b" group-title="Bolivia | La Paz | Achocalla",Fm La Paz 96.7
+https://spanel.gcomstreaming.com/8018/stream
+#EXTINF:-1 tvg-id="298a715b-a1e0-443b-bbf2-10ea2c3cdf85" tvg-logo="https://www.radioaymara.com/wp-content/uploads/2021/01/cropped-AYMARA-270x270.png" group-title="Bolivia | La Paz | La Paz",Radio Aymara
+http://stream.zeno.fm/du0x9skxum0uv
+#EXTINF:-1 tvg-id="cca0bd15-38db-4949-8866-faae4c7309d5" tvg-logo="https://graph.facebook.com/NoticiasPanamericana/picture?width=200&height=200" group-title="Bolivia | La Paz | La Paz",Radio Panamericana
+http://stream.zeno.fm/pnwpbyfambruv
+#EXTINF:-1 tvg-id="cd524c3b-20b8-47c7-b786-3493b96cdf4c" tvg-logo="https://qhana.com.bo/wp-content/uploads/2024/03/logo_nav.png" group-title="Bolivia | La Paz | La Paz",Radio Qhana FM98.5
+https://cast6.asurahosting.com/proxy/radiost4/stream
+#EXTINF:-1 tvg-id="80a8e612-2804-4f1b-82e3-8121b65562aa" tvg-logo="https://i.ibb.co/v6BKzZfx/logo-viacha.jpg" group-title="Bolivia | La Paz | Viacha",Radio GAM Viacha
+https://server1.fex.red/letanias/stream
+#EXTINF:-1 tvg-id="81d58170-2f06-47fb-be37-e6c638f09bdf" group-title="Bolivia | La Paz (Nuestra Señora de La Paz) | La Paz",Radio Gigante Bolivia
+https://cloudstream2032.conectarhosting.com:7311/;
+#EXTINF:-1 tvg-id="0084a9be-7747-4995-b35a-ec936fe16ef6" group-title="Bolivia | La Paz (Nuestra Señora de) | Unknown city",ATB Radio
+https://streamingenbolivia.com/8006/stream
+#EXTINF:-1 tvg-id="0ade8f6a-7c48-4c82-8441-44297f396b9b" group-title="Bolivia | Potosí | Uyuni",Radio Folklorica Uyuni
+https://emiteradio.com/proxy/uyuni?mp=/stream
+#EXTINF:-1 tvg-id="151e5b46-11aa-460b-a261-7dc4de5117a8" group-title="Bolivia | Santa Cruz de la Sierra | Santa Cruz de la Sierra",Big Radio Bolivia
+http://stream.zeno.fm/cb4zhgss538uv
+#EXTINF:-1 tvg-id="55752904-d5b9-4bc6-9cb5-3c26d8e40a54" group-title="Bolivia | Santa Cruz de la Sierra | Unknown city",Classica FM
+http://classicafm.scbbs.net:8000/;?type=http&nocache=839969
+#EXTINF:-1 tvg-id="fb939ceb-5117-4af5-b6c5-ebc188bd809e" group-title="Bolivia | Santa Cruz de la Sierra | Unknown city",Classica FM
+http://classicafm.scbbs.net:8000/;
+#EXTINF:-1 tvg-id="958dcc6f-9d6e-466b-b967-5a8f15beaeb0" tvg-logo="https://cdn-profiles.tunein.com/s303807/images/logod.jpg" group-title="Bolivia | Sucre | Sucre",Radio Horizontes 93.1
+https://ares.disfrutaenlared.com:9060/
+#EXTINF:-1 tvg-id="65fc0fef-d5d6-4fc1-a856-0bb949ca5710" tvg-logo="https://sucremantatv.com/wp-content/uploads/2022/10/cropped-logo-Sucremanta-192x192.png" group-title="Bolivia | Sucre | Unknown city",Sucremanta Tv
+https://stream.zeno.fm/gli54dgn5kwuv
+#EXTINF:-1 tvg-id="69ac1b0a-4ff2-4866-8ede-a1259a2ef80e" tvg-logo="https://emet441.com/logo-emet441.png" group-title="Bolivia | Unknown region | Unknown city",Emet 441
+https://radio.atlantidafm903.com:8010/emet441_radio.mp3
+#EXTINF:-1 tvg-id="0fe4e8a7-d335-4a67-a305-b6e3a2f6bd6c" tvg-logo="https://radiofronterayacuiba.com/imagenes/favicon.png" group-title="Bolivia | Unknown region | Unknown city",RADIO FRONTERA FM 100.3 MHz
+https://stream.inliveserver.com:2020/8140/stream
+#EXTINF:-1 tvg-id="534350a0-182a-4041-a22e-094ba400c56c" group-title="Bolivia | Unknown region | Unknown city",Radio Kollasuyo FM
+https://azura2.bitstreaming.net:8000/radio128.aac
+#EXTINF:-1 tvg-id="6a43ac1d-462c-4338-b373-ee0d1f19e1a9" tvg-logo="https://kawsachuncoca.com/assets/img/logo.png" group-title="Bolivia | Unknown region | Unknown city",RKC RADIO
+https://sonic.dattassd.com/8198/stream

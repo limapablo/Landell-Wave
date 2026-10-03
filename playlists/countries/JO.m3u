@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="06e1ce15-a839-4bd6-9d77-6c4c32eb75cc" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/7/Mv/3/Thumbnail.png" group-title="Jordan | Amman | Ḩayy al Quwaysimah",Quran Radio (JO)
+https://jrtv-live.ercdn.net/jrradio/quranradio.m3u8
+#EXTINF:-1 tvg-id="be44cca7-0196-4d6d-a424-976ef9aea37e" group-title="Jordan | Unknown region | Unknown city",. القارئ محمد أيوب
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="c4185eb5-3d06-4ca0-95af-cbc280b6c709" group-title="Jordan | Unknown region | Unknown city",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 tvg-id="4b0b64d4-15b0-4f62-b233-326d6fff15e5" group-title="Jordan | Unknown region | Unknown city",noursat jorden
+http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="523bbd9f-6ca8-4799-9c9a-5c9c75cc4d60" group-title="Jordan | Unknown region | Unknown city",noursat jorden
+http://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8

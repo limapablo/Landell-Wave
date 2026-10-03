@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3e587068-3e15-4ac9-8cd0-f86c5c784f0b" tvg-logo="https://dakarmusique.com/wp-content/uploads/2022/11/logo.jpg.webp" group-title="Senegal | Unknown region | Unknown city",Dakar Musique
+http://listen.senemultimedia.net:8090/stream
+#EXTINF:-1 tvg-id="6ed6fe06-5a9a-4e95-bc35-8e92f1441cfd" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Senegal | Unknown region | Unknown city",FM Sénégal 103.1 Dakar
+https://stream-154.zeno.fm/t8gcyq6ts0quv
+#EXTINF:-1 tvg-id="b7f8fa40-7be5-4407-ba9e-df6d984aea53" group-title="Senegal | Unknown region | Unknown city",H24 Senegal
+https://listen.senemultimedia.net:8072/stream
+#EXTINF:-1 tvg-id="c1fb30d3-5843-4116-a6a9-b8d89b839bf6" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Senegal | Unknown region | Unknown city",Metraf FM 103.7 Dakar
+https://stream.zeno.fm/66yrv69ffv8uv
+#EXTINF:-1 tvg-id="64e784d5-5126-487e-b23e-98edff47fa6b" tvg-logo="https://img1.wsimg.com/isteam/ip/79e82222-ed1a-46b1-97a3-ebfe4baec610/0192EB64-AE2F-4536-8C20-44487BBCF628.jpeg/:/cr=t:16.22%25,l:5.08%25,w:89.85%25,h:67.56%25/rs=w:730,h:549,cg:true,m" group-title="Senegal | Unknown region | Unknown city",Pikine Diaspora Radio
+http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp
+#EXTINF:-1 tvg-id="5df3c291-b0de-4ca4-86d1-9b86885f52af" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F__jz1rteNr9MfI1GGFmwJpVEvCGsjW6xR9APAcOKB-Q%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBaTRueWxBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRaHVMUWtna01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2OTY3MDkwMDA.webp&w=1920&q=100" group-title="Senegal | Unknown region | Unknown city",Radio Oxy Jeunes 103.4 Pikine
+http://s9.voscast.com:7994/;stream.nsv
+#EXTINF:-1 tvg-id="0e3d65a4-98a9-43a1-81a8-05647c85d886" group-title="Senegal | Unknown region | Unknown city",Radio Thiossane
+https://listen.senemultimedia.net:8112/stream
+#EXTINF:-1 tvg-id="86f7ed41-909a-4cf6-b147-e6fe3102328e" group-title="Senegal | Unknown region | Unknown city",Rewmi FM 97.5 Dakar
+https://stream-61.zeno.fm/nkzsqg16t8quv
+#EXTINF:-1 tvg-id="ccacc8a2-42b6-4c37-8aff-949c05ea12c8" group-title="Senegal | Unknown region | Unknown city",RTS Matam 89.1
+https://stream.zeno.fm/kxud8vhqt1duv
+#EXTINF:-1 tvg-id="c4e29237-e5bf-4e61-9b25-dcc54785f780" group-title="Senegal | Unknown region | Unknown city",Zig FM 100.8 Ziguinchor
+https://stream.zeno.fm/zfdk0c69d3quv

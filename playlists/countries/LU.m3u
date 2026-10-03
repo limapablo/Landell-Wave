@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0f902505-76c7-489b-8ddc-03b05b5867ae" tvg-logo="https://generation.dance/logo_500x500.png" group-title="Luxembourg | Luxembourg | Belvaux",Generation Dance Radio
+http://generationdance.lu/radio/8030/hd
+#EXTINF:-1 tvg-id="80f07344-504e-48dd-8775-ab60c4a82068" tvg-logo="https://100komma7.lu/static/logo-radio.png" group-title="Luxembourg | Luxembourg | Kirchberg",Radio 100komma7
+https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="c7e4019b-f3ac-4167-a1e7-f7e5438ae218" tvg-logo="https://yomusic.top/assets/img/yomusic_icon_32x32.png" group-title="Luxembourg | Luxembourg | Luxembourg",AAAudio
+https://rocket.streamradio.fr:8008/
+#EXTINF:-1 tvg-id="a98264e7-e099-4369-b23b-62c7b016cca1" tvg-logo="https://www.rtlradio.de/assets/fallback/fallback_1x1.jpg" group-title="Luxembourg | Luxemburg, mp3 192 Kbit | Unknown city",RTL Radio - Deutschlands Hit-Radio
+http://stream.rtlradio.de/rtl-de-national/mp3-192/
+#EXTINF:-1 tvg-id="f73fe431-e896-4790-8ef0-0ed7309946bc" group-title="Luxembourg | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="9611e44f-0601-11e8-ae97-52543be04c81" group-title="Luxembourg | Unknown region | Unknown city",Eldoradio
+http://81.92.238.33/
+#EXTINF:-1 tvg-id="a718c8b6-6f90-4a6d-bba4-dc89cb4aebb7" group-title="Luxembourg | Unknown region | Unknown city",Radio 100,7
+http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="8259a0dc-9c0e-4696-8f66-4bad021f0c55" tvg-logo="https://www.rtl.lu/components/images/5e0dff17b0d8bf7fda79103a20b011b7-logo_rtl-gold.svg" group-title="Luxembourg | Unknown region | Unknown city",RTL Gold
+https://shoutcast.rtl.lu/rtlgold
+#EXTINF:-1 tvg-id="960ef824-0601-11e8-ae97-52543be04c81" group-title="Luxembourg | Unknown region | Unknown city",RTL Radio Letzebuerg
+http://sc-rtllive.newmedia.lu/

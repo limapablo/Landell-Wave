@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0857be2a-4c33-4f86-910c-0b97e2c83a65" group-title="Bahrain | Unknown region | Unknown city",.beautiful recitation
+https://qurango.net/radio/salma
+#EXTINF:-1 tvg-id="ee3fd642-408f-480b-8edb-9470a9531dc7" group-title="Bahrain | Unknown region | Unknown city",.القارئ محمد أيوب
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="667f8de8-cd59-4016-9f54-e55fb13e2491" group-title="Bahrain | Unknown region | Unknown city",ccc
+https://m-aac.cbs.co.kr/mweb_cbs939/_definst_/cbs939.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="104dc6c9-bfe7-464b-bf4f-e485a921c109" group-title="Bahrain | Unknown region | Unknown city",Live FM
+https://stream.aiir.com/dbv0rxpwp6ytv

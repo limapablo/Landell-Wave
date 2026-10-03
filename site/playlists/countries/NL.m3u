@@ -1,0 +1,801 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7de6f5c5-6937-11e9-af37-52543be04c81" tvg-logo="https://danceradio.nl/wp-content/uploads/2023/10/cropped-faviconpng-180x180.png" group-title="The Netherlands | Amsterdam | Unknown city",Dance Radio Amsterdam
+http://stream.danceradio.nl:9920/
+#EXTINF:-1 tvg-id="eac7805e-e9e5-11e8-a471-52543be04c81" tvg-logo="https://static.wixstatic.com/media/f13c33_866969d6fd224cf59eb44f47a88fc300.png" group-title="The Netherlands | Amsterdam | Unknown city",Freak31
+http://stream.freak31.com:8322/
+#EXTINF:-1 tvg-id="0aefa292-f9a3-4230-8d92-291dec2b1ce9" group-title="The Netherlands | Amsterdam | Unknown city",Pidi Radio
+https://mobile.pidiradio.nl/
+#EXTINF:-1 tvg-id="e3da695c-aa7f-4706-bce9-b5a5ed954bba" tvg-logo="https://i.postimg.cc/x1t1Z7W8/Qmusic-Foute-Uur.png" group-title="The Netherlands | Amsterdam | Unknown city",Qmusic Foute Uur
+https://stream.qmusic.nl/fouteuur/aac
+#EXTINF:-1 tvg-id="11453fba-67fc-4c87-a19e-cbd7a7cef6f9" tvg-logo="https://i.postimg.cc/rpNC78qV/Qmusic-Summer.png" group-title="The Netherlands | Amsterdam | Unknown city",Qmusic Summer
+https://stream.qmusic.nl/thema/aac
+#EXTINF:-1 tvg-id="2163ca91-aced-4d82-898c-f3c346a4123a" group-title="The Netherlands | Amsterdam | Unknown city",Radio Ultiem
+http://server-21.stream-server.nl:8382/
+#EXTINF:-1 tvg-id="85675e8a-2ccb-4c2a-913b-79cd39d69667" tvg-logo="https://www.radio.net/images/broadcasts/9d/8d/39794/1/c300.png" group-title="The Netherlands | Amsterdam | Unknown city",Soundtrack Radio Station
+http://quincy.torontocast.com:2410/stream
+#EXTINF:-1 tvg-id="66d3647f-2f00-4a5b-a466-a774eb3551e6" tvg-logo="https://radiospannenburg.nl/wp-content/uploads/2024/02/cropped-logo_web_app-180x180.png" group-title="The Netherlands | Balk | Unknown city",Radio Spannenburg
+https://stream.radiospannenburg.nl/radiospannenburg
+#EXTINF:-1 tvg-id="763c6407-ab05-42d2-badb-c25ec1c7c2f6" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/tk9y4mukv43s.png" group-title="The Netherlands | Berg en Terblijt | Unknown city",Falcon FM
+http://server-16.stream-server.nl:8926/;
+#EXTINF:-1 tvg-id="e36dceb3-a752-4db1-acfb-4c7b20f79641" tvg-logo="https://radiobnt.nl/images/default.jpg" group-title="The Netherlands | Berg en Terblijt | Unknown city",Radio BNT
+https://stream.radiobnt.nl/radiobnt.mp3
+#EXTINF:-1 tvg-id="961ef1bd-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Brabant | Unknown city",Omroep Brabant
+http://streaming.omroepbrabant.nl/mp3hq
+#EXTINF:-1 tvg-id="76599869-2554-11e9-a80b-52543be04c81" group-title="The Netherlands | Brabant | Unknown city",Studio 040 TV
+http://ms7.mx-cd.net/tv/117-475839/Studio040.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="af6f51b1-0ca9-11ea-a87e-52543be04c81" tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands | Burgenland | 's-Gravenzande",Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1 tvg-id="3917630b-ae9a-454a-bf8d-70e387c0c7c6" tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands | Burgenland | 's-Gravenzande",Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1 tvg-id="963c00ab-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands | Burgenland | 's-Gravenzande",Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1 tvg-id="14256ab1-e984-4094-a7e5-403dd0824892" tvg-logo="https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg" group-title="The Netherlands | Burgenland | 's-Gravenzande",Intense Radio - We love Dance 256K
+https://secure.live-streams.nl/main
+#EXTINF:-1 tvg-id="df9c0196-70c0-45a9-b008-de14c27eeb31" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyGVlusKpxzHZ6EAQRaFX5MHiYqVGjkeC3Ww" group-title="The Netherlands | classic | Unknown city",Concertzender Geen dag zonder Bach
+http://streams.greenhost.nl:8080/bach
+#EXTINF:-1 tvg-id="02a3dac5-1f31-4453-a567-d57763a32214" tvg-logo="https://cobrateam.nl/wp-content/uploads/2022/11/Cobra-Logo-Website.png" group-title="The Netherlands | Drenthe | Beilen",Cobra Team
+https://server-67.stream-server.nl:8496/stream
+#EXTINF:-1 tvg-id="6e1938b7-4c24-4761-87dc-afb4a7d54013" tvg-logo="https://www.tirolia-express.nl/v1/include/images/site-name.png" group-title="The Netherlands | Drenthe | Borger",Tirolia-Express
+https://server-28.stream-server.nl:8846/stream
+#EXTINF:-1 tvg-id="56340d3f-e15f-4588-a4d3-c465567cc1e9" group-title="The Netherlands | Drenthe | Tweede Exloërmond",firma lomp en onbenullig
+https://stream.hostinggold.nl/8042/stream
+#EXTINF:-1 tvg-id="73f343c5-2b04-11e9-a35e-52543be04c81" group-title="The Netherlands | Drenthe | Unknown city",Echtepiraten.nl
+https://azuraserv3.live-streams.nl:8040/stream.mp3
+#EXTINF:-1 tvg-id="333ce077-20c6-487d-9e10-c15a1d7b819d" tvg-logo="https://cdn.phototourl.com/member/2026-07-01-9cda863f-3aed-425e-84af-bada99d32bc1.png" group-title="The Netherlands | Drenthe | Unknown city",piratenteam
+https://stream.hostinggold.nl:8012/
+#EXTINF:-1 tvg-id="bb7561e5-e742-11e8-a9cc-52543be04c81" tvg-logo="https://s.regiogroei.cloud/img/favicons/drenthe/apple-touch-icon.png?v=1689602133492" group-title="The Netherlands | Drenthe | Unknown city",Radio Drenthe
+https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio
+#EXTINF:-1 tvg-id="cbfe4c77-d6cf-4244-b8ad-556cb880d974" tvg-logo="https://www.gigantfm.nl/assets/images/logo.png" group-title="The Netherlands | Drenthe | Veenoord",Gigant FM
+https://stream.gigantfm.nl/gigantfm
+#EXTINF:-1 tvg-id="6bbf773a-099c-4d94-895e-bbdf328e42d6" tvg-logo="https://www.flevoziekenomroep.nl/logo-ss.png" group-title="The Netherlands | flevoland | Almere Stad",FlevoZiekenOmroep (FZO) AACPLUS stream
+https://stream1.fzo.nu/studio.aac
+#EXTINF:-1 tvg-id="00d72477-99af-402c-ba0e-8eb3865a8225" group-title="The Netherlands | Flevoland | Urk",Urk FM
+http://urk.fm:8000/geestelijk.mp3
+#EXTINF:-1 tvg-id="091d98b4-b11f-4991-afa4-dabbac8f8133" tvg-logo="https://www.flevoziekenomroep.nl/images/stories/header_bg1.svg" group-title="The Netherlands | Flevoland, Almere | Almere Stad",FlevoZiekenOmroep (HLS audio)
+https://video.fzo.nu/live.m3u8
+#EXTINF:-1 tvg-id="35b575a7-8726-4587-96b7-7e0c791f421b" tvg-logo="https://lokaleomroepzeewolde.nl/images/logo/logo-header.webp#joomlaImage://local-images/logo/logo-header.webp?width=298&height=136" group-title="The Netherlands | Flevoland, Zeewolde, Schepenveld 21-5 | Zeewolde",Lokale Omroep Zeewolde (LOZ 106.4FM)
+https://icecast.lokaleomroepzeewolde.nl:8443/high
+#EXTINF:-1 tvg-id="8b10f1c7-60a6-4392-8fef-7ac5bd73ced1" group-title="The Netherlands | Friesland | Duivendrecht",Radio Continu
+https://stream.radiocontinu.nl/radio-continu
+#EXTINF:-1 tvg-id="24bc53f9-742e-43d3-8229-9e0f265752d5" tvg-logo="https://radiospannenburg.nl/wp-content/uploads/2020/10/radio_spannenburg_logo_retina-1.png" group-title="The Netherlands | Friesland, Balk | Balk",Radio Spannenburg
+https://stream.radiospannenburg.nl/radiospannenburg
+#EXTINF:-1 tvg-id="d962f148-1b69-429f-940c-6e3ab9e52a9f" group-title="The Netherlands | Gelderland | Aalten",Aladna FM
+https://aladnafm.beheerstream.nl/8024/stream
+#EXTINF:-1 tvg-id="40dc2a2f-41e8-41c8-a13c-7af8352985cc" tvg-logo="https://reformatorischeomroep.nl/apple-touch-icon.png" group-title="The Netherlands | Gelderland | Doornsteeg",Reformatorische Omroep Radio 6
+http://ro6.reformatorischeomroep.nl:8006/live
+#EXTINF:-1 tvg-id="1030ddec-d148-4f3c-aeca-fdbbc72c741a" tvg-logo="https://www.rtv794.nl/templates/localgrid/omroep/rtv794/icons/apple-icon-120x120.png" group-title="The Netherlands | Gelderland | Heerde",Radio 794
+https://ats.jammfm.nl:20080/radio794/
+#EXTINF:-1 tvg-id="98699a46-6e16-43b6-885f-8ab1bd8cb1aa" group-title="The Netherlands | Gelderland | Lichtenvoorde",1Achterhoek
+https://nlpo.stream.vip/achterhoek/mp3-192/nlpo.stream.vip/
+#EXTINF:-1 tvg-id="e185025b-f21d-4cbd-84b7-95dfd030bd5d" group-title="The Netherlands | Gelderland | Loenen",De Muziek Gigant
+https://streaming1.djpaneel.com:5378/stream
+#EXTINF:-1 tvg-id="9619bab3-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Gelderland | Unknown city",Keizerstad Radio 80s
+http://server-06.stream-server.nl:8800/
+#EXTINF:-1 tvg-id="aa10833f-791a-4ab8-ae5f-31d1b444c679" group-title="The Netherlands | Gelderland, Apeldoorn | Binnenstad",Samen1 radio
+https://server-67.stream-server.nl:8752/stream
+#EXTINF:-1 tvg-id="71146691-d7ec-44f3-99e1-648ae1a6aa32" tvg-logo="https://donderschoerradio.nl/.cm4all/mediadb/Nieuw%20Logo.jpg" group-title="The Netherlands | Gelderland, Eerbeek | Eerbeek",Donderschoer Radio (2nd server)
+https://server-28.stream-server.nl:8806/stream
+#EXTINF:-1 tvg-id="2d02accc-32b6-464a-a9f8-1fb546a8441e" tvg-logo="https://www.oogtv.nl/wp-content/uploads/2019/06/OOG_logo.png" group-title="The Netherlands | Groningen | Groningen",OOG Radio
+https://nlpo.stream.vip/oogfm/mp3-192/nlpo/
+#EXTINF:-1 tvg-id="83baace0-3d74-4acd-84bb-2499da70e9ef" group-title="The Netherlands | Groningen | Midwolda",Radio Calypso
+http://mcp-1.streampanel.nl:18024/stream
+#EXTINF:-1 tvg-id="832d1cdd-ee5d-11e8-a471-52543be04c81" tvg-logo="https://s.regiogroei.cloud/img/favicons/groningen/apple-touch-icon.png?v=1698053259332" group-title="The Netherlands | Groningen | Unknown city",Radio Noord
+https://media.rtvnoord.nl/icecast/rtvnoord/radio?.pls
+#EXTINF:-1 tvg-id="5bb672ac-140e-409a-a22a-663f1884f515" tvg-logo="https://radiomap.eu/nl/images/regio.gif" group-title="The Netherlands | Groningen, Siddeburen, Hoofdweg 99A | Siddeburen",Regio FM
+http://audiostreamen.nl:8030/stream
+#EXTINF:-1 tvg-id="6d69d3eb-1714-43a4-885a-dd3fd18b7081" tvg-logo="https://www.hitzzz.nl/wp-content/uploads/2024/01/hitzzz-logo_desktop.png" group-title="The Netherlands | Groningen, Ter Apel, Oude Weg 29 | Ter Apel",HITZZZ!!
+https://stream.hitzzz.nl/hitzzz
+#EXTINF:-1 tvg-id="eb1d6536-d38d-44e1-8970-f4053fba5ba0" tvg-logo="https://www.devrolijkesnuiters.nl/uploads/devrolijkesnuiters.nl/1703461960-My%20Post.jpg" group-title="The Netherlands | Groningen, Uithuizen | Uithuizen",De Vrolijke Snuiters
+https://server-67.stream-server.nl:8794/
+#EXTINF:-1 tvg-id="180f0c74-9a24-4719-a118-dc9c64b2b611" tvg-logo="https://fryslanstrijders.nl/wp-content/uploads/2021/01/img.png" group-title="The Netherlands | Kingdom of the Netherlands | Den Texbuurt",Fryslan Strijders - Piratenhits op volle toeren
+https://streambeheer.fryslanstrijders.nl/proxy/fryslanstrijders/stream
+#EXTINF:-1 tvg-id="7a5733c8-b9a5-4746-8182-01b2ba99edae" tvg-logo="https://laut.fm/assets/touch-icons/favicon-16x16.png?21f4f2f5" group-title="The Netherlands | Lelystad | Lelystad",Food and Lounge
+https://stream.laut.fm/food-and-lounge
+#EXTINF:-1 tvg-id="696e8f30-0b44-4c18-9bbe-2395eb5e6b43" group-title="The Netherlands | Limburg | Echt",Sol2
+https://nlpo.stream.vip/sol2/mp3-192/nlpo.stream.vip/
+#EXTINF:-1 tvg-id="626d2895-504e-4a68-8b74-68ed7a76e7f4" tvg-logo="https://gl8.localgrid.nl/images/GL8/Huisstijl/gl8.jpg" group-title="The Netherlands | Limburg | Heumen",GL8 Media
+http://stream.stream.delivery/gl8media
+#EXTINF:-1 tvg-id="08edff62-b4fc-49ea-92af-8adc0cb70332" group-title="The Netherlands | Limburg | Hout-Blerick",Venlo Vintage
+https://stream-10.pmteurope.com:8040/stream
+#EXTINF:-1 tvg-id="e7c06ed8-060c-4d9b-b8d8-34f03aba285f" group-title="The Netherlands | Limburg | Panningen",Omroep P&M
+http://ms3ic.mx-cd.net/153-661255/Radio_Peel_en_Maas
+#EXTINF:-1 tvg-id="c8bb15f0-6287-4b67-a126-c17e2ee58ab7" group-title="The Netherlands | Limburg | Unknown city",Heuvellandexpress
+http://server-28.stream-server.nl:8840/stream
+#EXTINF:-1 tvg-id="1aef1f5d-1463-424f-b370-3b3a5b2f54fe" tvg-logo="https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566297272" group-title="The Netherlands | Limburg | Unknown city",L1 Plat-eweg
+https://d34pj260kw1xmk.cloudfront.net/icecast/l1/plat-eweg-bb-mp3
+#EXTINF:-1 tvg-id="c47360b0-70ca-49fb-bed3-19074e46fe28" tvg-logo="https://s.regiogroei.cloud/img/favicons/l1/apple-touch-icon.png?v=1709566299847" group-title="The Netherlands | Limburg | Unknown city",L11 Alaaf
+https://d34pj260kw1xmk.cloudfront.net/icecast/l1/L11Alaaf
+#EXTINF:-1 tvg-id="961fbef0-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Limburg | Unknown city",Maasland Radio
+http://54.36.89.71:8006/stream
+#EXTINF:-1 tvg-id="5a19f8eb-a99d-45cc-8e39-a02c17f60650" tvg-logo="https://nuradio.nl/wp-content/uploads/2025/07/NU.png" group-title="The Netherlands | Limburg | Unknown city",NU Radio
+https://mscp2.live-streams.nl:8172/nuradio
+#EXTINF:-1 tvg-id="e3c23eec-6383-48b1-8ab5-8bfdd2abd759" tvg-logo="https://timmeijers.nl/radiovastelaovend/logo.png" group-title="The Netherlands | Limburg | Unknown city",Radio Vastelaovend
+https://22343.live.streamtheworld.com/RADIO_VASTELAOVEND.aac
+#EXTINF:-1 tvg-id="962d4b6b-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Limburg | Unknown city",WeertFM
+http://weertfm.mooo.com:9000/wfm3
+#EXTINF:-1 tvg-id="bf6eb6f2-0486-4c39-a959-e0ab40d93592" tvg-logo="https://www.magic-powerradio.nl/uploads/magic-powerradio.nl/1689545823-02%20logo.png" group-title="The Netherlands | Limburg, Tegelen, Fazantenpad | Tegelen",Magic-PowerRadio
+https://server-28.stream-server.nl:8904/stream
+#EXTINF:-1 tvg-id="8f59aafc-d3b6-4f5c-99a2-2b389b5a918c" tvg-logo="https://omroepvenlo.nl/logos/OMROEP_VENLO-light.svg" group-title="The Netherlands | Limburg, Venlo | Venlo",Radio Omroep Venlo
+https://nlpo.stream.vip/venlo/mp3-192/nlpo
+#EXTINF:-1 tvg-id="26b647fb-64df-4933-a081-e9be1d68dcda" group-title="The Netherlands | Limburg, Venlo | Venlo",Zender Groenveld
+https://server-28.stream-server.nl:8912/stream
+#EXTINF:-1 tvg-id="39e37526-5ca4-4a3f-9f5e-83b302be9f7b" tvg-logo="https://www.ml5.nl/wp-content/uploads/2020/08/cropped-logo_ml5-180x180-1-150x150.png" group-title="The Netherlands | Midden Limburg | Roermond",ML5 Radio
+https://mediacp.audiostreamen.nl:2000/stream/8182
+#EXTINF:-1 tvg-id="8e334785-0167-48f6-a0cc-ddaf7515dade" tvg-logo="https://radiooptimaalfm.nl/wp-content/themes/Radio2/streams/Live-player-pop-out.php" group-title="The Netherlands | nederland | Lochem",Optimaal fm
+http://stream-10.pmteurope.com:8002/stream
+#EXTINF:-1 tvg-id="6de0895a-8fab-11e9-a6c6-52543be04c81" group-title="The Netherlands | Nederland | Unknown city",Radio Caroline 319 Gold
+http://www.rmgoldserver.eu:8313/
+#EXTINF:-1 tvg-id="f11f6002-2c6f-493f-a61d-b6ac899569c2" tvg-logo="https://www.radioveronica.nl/veronica/veronica-logo.svg" group-title="The Netherlands | Netherlands | Unknown city",Veronica Goud van oud
+https://21633.live.streamtheworld.com/DAB01_AAC.aac
+#EXTINF:-1 tvg-id="917a377d-7866-11e9-aa30-52543be04c81" tvg-logo="https://alloldieschannel.com/wp-content/uploads/2020/01/cropped-backgroundalloldieschannel-180x180.png" group-title="The Netherlands | Noord Brabant | Unknown city",All Oldies Channel
+http://radio.alloldieschannel.com:8000/stream
+#EXTINF:-1 tvg-id="b2124184-508b-4b21-a17b-25af0d7ca1c1" tvg-logo="https://ibb.co/nNhChS3w" group-title="The Netherlands | Noord Brabant | Unknown city",Radio Eldora
+https://stream01.eliveld-ict.nl/listen/eldora_fm/radio.mp3
+#EXTINF:-1 tvg-id="b55d45db-4420-4693-bb57-89a546e7be87" tvg-logo="https://thefinest.amsterdam/wp-content/uploads/2026/01/The_Finest_Amsterdam_1200x1200-1.png" group-title="The Netherlands | Noord holland | Groenswaard",The Finest Amsterdam
+https://ex52.voordeligstreamen.nl/8206/stream
+#EXTINF:-1 tvg-id="9a3911a6-14ea-449e-b760-77fe6b76fe7c" tvg-logo="https://i.postimg.cc/XqS5LZRg/logog.webp" group-title="The Netherlands | Noord holland | Hilversum",Alleen Klassiek
+https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3
+#EXTINF:-1 tvg-id="98514e48-8fe6-4fc2-87ae-38921d7619bf" group-title="The Netherlands | Noord holland | Unknown city",RadioNL kids
+https://stream.radionlkids.nl/rnlkids
+#EXTINF:-1 tvg-id="aeb263b1-3f53-4a72-9143-c274dc98f2fb" tvg-logo="https://powerfmbreda.x10.mx/favicon.png" group-title="The Netherlands | Noord-Brabant | Breda",Power FM Breda
+https://mpc1.mediacp.eu:8036/stream
+#EXTINF:-1 tvg-id="6ae9f361-c80c-4e67-bfc0-e35502a08e47" tvg-logo="https://powerfmbreda.x10.mx/wp-content/uploads/fbrfg/favicon.svg" group-title="The Netherlands | Noord-Brabant | Breda",Power FM Breda
+https://mpc1.mediacp.eu:8036/stream
+#EXTINF:-1 tvg-id="53e83c9d-727a-4d8f-b173-47bdf65f89c6" tvg-logo="https://www.novo3.nl/wp-content/uploads/2019/08/Logo-vierkant144.png" group-title="The Netherlands | Noord-Brabant | Helvoirt",NOVO3
+https://totaal-streaming.de/radio/8040/320
+#EXTINF:-1 tvg-id="44eb1d4e-3a57-4f16-8213-1dd487d176cd" tvg-logo="https://www.wagenbergtotaal.nl/wp-content/uploads/2021/02/logo2.png" group-title="The Netherlands | Noord-Brabant | Sluis",Wagenbergtotaal
+https://server-28.stream-server.nl:8826/stream
+#EXTINF:-1 tvg-id="0f1da96c-79e9-4967-bb07-5819f20cd684" tvg-logo="https://a4.asurahosting.com/static/uploads/classics_radio/album_art.1770725396.png" group-title="The Netherlands | Noord-Brabant | Unknown city",Classics; Radio
+https://a4.asurahosting.com:7080/radio.mp3
+#EXTINF:-1 tvg-id="e7627142-cc35-4d1e-a12f-c80877f1cc57" group-title="The Netherlands | Noord-Brabant | Unknown city",happy.radio (NL)
+https://stream.happy.radio:8000/192
+#EXTINF:-1 tvg-id="0cd1fbe2-73f5-4ced-9180-e0e837e20b79" tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="The Netherlands | Noord-Brabant | Unknown city",MixStream Radio - Country
+https://radio.mixstream.nl/country.mp3
+#EXTINF:-1 tvg-id="08eb5a46-d6b8-4206-9685-f956a7ee3df6" tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="The Netherlands | Noord-Brabant | Unknown city",MixStream Radio - Dance
+https://radio.mixstream.nl/dance.mp3
+#EXTINF:-1 tvg-id="f061d40f-584f-4425-b7af-a6227ed4ccd5" tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="The Netherlands | Noord-Brabant | Unknown city",MixStream Radio - Hardstyle
+https://radio.mixstream.nl/hardstyle.mp3
+#EXTINF:-1 tvg-id="d931a331-dc25-45bf-87c3-0b30f666de17" tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="The Netherlands | Noord-Brabant | Unknown city",MixStream Radio - Pop & Hits
+https://radio.mixstream.nl/pop.mp3
+#EXTINF:-1 tvg-id="9c907e5b-ab24-4044-8197-8d03f6df7917" tvg-logo="https://mixstream.info/favicon-512x512.png" group-title="The Netherlands | Noord-Brabant | Unknown city",MixStream Radio - Soul
+https://radio.mixstream.nl/soul.mp3
+#EXTINF:-1 tvg-id="42940347-f13f-4438-bae0-ef08da21b3f4" tvg-logo="https://www.lokaleomroepgoirle.nl/wp-content/uploads/2016/04/LOG-header-logo.png" group-title="The Netherlands | Noord-Brabant, Goirle | Goirle",Lokale Omroep Goirle Radio
+https://nlpo.stream.vip/logfm/mp3-192/nlpo.stream.vip/
+#EXTINF:-1 tvg-id="ff40fead-3332-49b6-b9a1-6895f02eff41" tvg-logo="https://polderradio.nl/wp-content/uploads/2023/04/cropped-Polder-Radio-logo.png" group-title="The Netherlands | Noord-Brabant, Veen | Veen",Polder radio
+https://server-67.stream-server.nl:8734/
+#EXTINF:-1 tvg-id="2ad20aa0-2e49-4670-b307-92ef2c672d9c" tvg-logo="https://polderradio.nl/wp-content/uploads/2023/04/cropped-Polder-Radio-logo.png" group-title="The Netherlands | Noord-Brabant, Veen | Veen",Polder Radio (stream 2)
+https://server-67.stream-server.nl:8738/
+#EXTINF:-1 tvg-id="365dfae4-b95f-4805-a2fa-e4b8be9eefdf" group-title="The Netherlands | Noord-Holland | Duivendrecht",QMUSIC THEMA
+https://stream.qmusic.nl/thema/mp3
+#EXTINF:-1 tvg-id="4fd2f9ba-11c0-4022-a274-220f81283b98" tvg-logo="https://raw.githubusercontent.com/wootje/radiotv/main/radio/logo/538nonstop.gif" group-title="The Netherlands | Noord-Holland | Hilversum",538 Non-Stop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1 tvg-id="6950cac5-4795-4501-87be-5dea193748d1" tvg-logo="https://images.app.goo.gl/NZFie7JRASPKDisQ7" group-title="The Netherlands | Noord-Holland | Hilversum",Grand Prix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
+#EXTINF:-1 tvg-id="977a16b8-750a-4587-9cb9-f93ff8f88add" tvg-logo="https://grooveline.org/grooveline_logo.png" group-title="The Netherlands | Noord-Holland | Nieuwmarkt/Lastage",Grooveline Radio
+http://radio.grooveline.org:8000/auto
+#EXTINF:-1 tvg-id="a294ce18-7d38-44e4-8380-22e32d2a889d" tvg-logo="https://focus103.nl/wp-content/uploads/2024/07/FOCUS-RV-1024x1024.png" group-title="The Netherlands | Noord-Holland | Unknown city",Focus 103
+https://f103.nl/mp3
+#EXTINF:-1 tvg-id="14fc1e63-04e0-4f30-99da-b6f2ca91bbce" group-title="The Netherlands | Noord-Holland | Unknown city",SinterklaasRadio
+https://stream06.dotpoint.nl:8004/stream
+#EXTINF:-1 tvg-id="9649f13f-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Noord-Holland | Unknown city",Soul Radio
+http://soulradio02.live-streams.nl/live
+#EXTINF:-1 tvg-id="a88cfc8e-eecd-4b5b-a2cb-941f6196fa25" group-title="The Netherlands | Noord-Holland | Unknown city",Streekstad Centraal
+https://radiostreams.streekstadcentraal.nl:9443/01
+#EXTINF:-1 tvg-id="a2690cef-0049-4fc0-96af-de5dc76e2ac2" tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="The Netherlands | Noord-Holland, Amsterdam | Amsterdam Nieuw-West",Amsterdam Funk Channel (AFC)
+https://stream.afc.fm/
+#EXTINF:-1 tvg-id="c0b0bbf6-6c92-4f34-a6fe-35f9f2759802" tvg-logo="https://www.afc.fm/wp-content/uploads/2023/12/afcfm.png" group-title="The Netherlands | Noord-Holland, Amsterdam | Amsterdam-West",Amsterdam Funk Channel (AFC) low bandwidth
+https://stream.afc.fm/index.html?sid=2
+#EXTINF:-1 tvg-id="11714c16-d630-4ee9-af90-2f8f0ebae6a9" group-title="The Netherlands | Noord-Holland, Amsterdam | Amsterdam-Zuid",FunX
+https://icecast.omroep.nl/funx-sb-aac
+#EXTINF:-1 tvg-id="a95180b5-4e17-42fd-9ce8-bad85e7893fd" tvg-logo="https://dev.40upradio.nl/wp-content/uploads/2021/12/40-up-radio.jpg" group-title="The Netherlands | Noord-Holland, Amsterdam | Utrechtsebuurt-Zuid",40UP Radio
+https://stream.40upradio.nl/40up
+#EXTINF:-1 tvg-id="ed5cfae3-4644-4e5f-ad6d-ba8d77a9f8c0" group-title="The Netherlands | Noord-Holland, Egmond aan zee | Egmond aan Zee",Radio 80 (Nonstop)
+http://81.169.251.143:7900/live
+#EXTINF:-1 tvg-id="1802bf21-989c-4943-946e-8b66ec5a1135" group-title="The Netherlands | Noord-Holland, Haarlemmermeer | Hoofddorp",MeerRadio
+https://nlpo.stream.vip/radiomer/mp3-192/nlpo/
+#EXTINF:-1 tvg-id="71dace4c-5af8-497c-94bc-dfcf6c8522f8" group-title="The Netherlands | North Brabant | 's-Hertogenbosch",Radio Maria Nederland
+https://stream.radiomaria.nl/mp3
+#EXTINF:-1 tvg-id="04fc2b47-d366-4e1e-9300-5c1a131dcc09" tvg-logo="https://en.wikipedia.org/wiki/Tiësto_in_Concert#/media/File:Tiësto_in_Concert_poster.jpg" group-title="The Netherlands | North Brabant | Breda",Tiësto in Concert
+https://ia801804.us.archive.org/33/items/tiesto-tiesto-in-concert-2003/Tiesto%20-%20Tiesto%20In%20Concert%20%282003%29.mp3
+#EXTINF:-1 tvg-id="b5631be6-9719-4c0d-9928-3e81488df192" group-title="The Netherlands | North Brabant | Eindhoven",Rara Radio
+https://58c04fb1d143f.streamlock.net/rararadio/rararadio/chunklist_w697961126.m3u8
+#EXTINF:-1 tvg-id="972bc4ea-58ee-4df6-bffe-3591e4229ee2" tvg-logo="https://www.henksplace.nl/hsa/skin/HSALogo512x512.jpg" group-title="The Netherlands | North Brabant | Hilvarenbeek",Henk's Streaming Audio.
+https://home.henksplace.nl:8443/HSA
+#EXTINF:-1 tvg-id="aedf633f-d408-4696-b1ec-5d3dae0f7dc6" tvg-logo="https://www.omroeptilburg.nl/wp-content/uploads/2020/09/cropped-ot_website_favicon_paars-180x180.png" group-title="The Netherlands | North Brabant | Korvel",Omroep Tilburg New
+https://tunein-ondemand.cdnstream1.com/multi_bump_sonic_pre_pre.mp3?aw_0_1st.playerid=LogitechSqueeze&aw_0_1st.skey=1790867364&aw_0_1st.abtest=&partnerId=LogitechSqueeze&aw_0_1st.stationId=s119938&aw_0_1st.premium=false&source=TuneIn&aw_0_req.gdpr=true&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g2748&aw_0_1st.class=music&aw_0_1st.ads_partner_alias=ce.LogitechSqueezebox&aw_0_azn.planguage=en%2cnl&aw_0_1st.is_ondemand=false&aw_0_1st.topicId=na&aw_0_1st.bandId=2&delivery=1
+#EXTINF:-1 tvg-id="23ac35db-aa52-44a2-9667-f3f5bda9223f" group-title="The Netherlands | North Holland | Burgwallen-Oude Zijde",Sinterklaas Radio
+https://stream.tbmp.nl:8000/sinterklaasradiohigh.mp3
+#EXTINF:-1 tvg-id="b70e5fbc-6ca9-4668-a6cc-05ae0378ee39" group-title="The Netherlands | North Holland | Haarlem",Haarlem Shuffle
+https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3
+#EXTINF:-1 tvg-id="2d875b22-9fb6-4a96-a771-02aa40ef048e" group-title="The Netherlands | North Holland | Hilversum",Candlelight Radio
+https://candlelight.nl/candlelight.mp3
+#EXTINF:-1 tvg-id="e173b0bb-cefd-45ab-9b3b-7b4a14c78d85" tvg-logo="https://www.radio10.nl/favicon.png" group-title="The Netherlands | North Holland | Hilversum",Radio 10 60's & 70's Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3
+#EXTINF:-1 tvg-id="10a5a476-6a5f-4882-9aa8-23ae683b60a1" group-title="The Netherlands | North Holland | Huizen",Radio 0511
+https://443-1.autopo.st/191/stream
+#EXTINF:-1 tvg-id="88449e22-5284-4023-8440-fc0b70fd9ef4" tvg-logo="https://smilefm.nl/wp-content/uploads/2026/01/tegel-smile-2026-1000.png" group-title="The Netherlands | North Holland | Laren",SmileFM
+https://streaming.live365.com/a93730
+#EXTINF:-1 tvg-id="2559b75f-384b-4103-b6fb-0b4b3acb4a81" group-title="The Netherlands | North Holland | Leidsebuurt-Noordoost",WGRV.FM
+https://caster08.streampakket.com/proxy/wgrv/stream
+#EXTINF:-1 tvg-id="27bc1246-af93-43ec-b315-f54986cd0ca5" group-title="The Netherlands | North Holland | Nieuwmarkt/Lastage",After Hours – Melodic House & DnB
+https://r.bgp.rodeo/listen/after_hours/radio.mp3
+#EXTINF:-1 tvg-id="07a29552-b1cc-4f49-9f7a-de6de332e5ce" group-title="The Netherlands | North Holland | Nieuwmarkt/Lastage",Beatline – House & Electronic Mixes
+https://r.bgp.rodeo/listen/mixes/radio.mp3
+#EXTINF:-1 tvg-id="2820436b-1401-42d5-adf7-9a411d66e40b" group-title="The Netherlands | North Holland | Nieuwmarkt/Lastage",Subline – Bass & Tech House
+https://r.bgp.rodeo/listen/subline/radio.mp3
+#EXTINF:-1 tvg-id="89a17ae4-9c2e-4631-bb7a-03fa9d5f0645" tvg-logo="https://www.jammfm.nl/wp-content/uploads/2024/07/Logo-Website-links01.png" group-title="The Netherlands | North Holland | Ouderkerk aan de Amstel",Jamm FM Amsterdam
+https://ats.jammfm.nl/stream320.php
+#EXTINF:-1 tvg-id="c77032c0-f4e6-46a0-a2a4-d135cbeb1f56" tvg-logo="https://radiomonique.am/favicon.ico" group-title="The Netherlands | North Holland | Velsen-Zuid",RADIO MONIQUE 918
+https://radiomonique918.radioca.st/stream
+#EXTINF:-1 tvg-id="ea37c075-8302-4054-9958-b2a54109dabd" tvg-logo="https://api.mediahuisradio.nl/media/stygioy0/slam-algemeen_2000x2000.jpg?format=webp" group-title="The Netherlands | North Holland | Vijzelstraatbuurt",Slam Juize
+https://stream.slam.nl/web09_mp3
+#EXTINF:-1 tvg-id="8b39e586-3d0f-4b4e-8bc8-eac8b4eb6dd2" tvg-logo="https://rtvmiddenholland.nl/wp-content/uploads/2024/02/Logo-MidlandFM.jpg" group-title="The Netherlands | Oude water | Oudewater",Midland FM
+http://qxjr001.digiplay.nl:9188/;
+#EXTINF:-1 tvg-id="5d4e15fb-ae6f-4326-83d0-37d239d9a725" group-title="The Netherlands | Overijsel | Unknown city",Station Mooi Dat Kan
+https://ex52.voordeligstreamen.nl:8232/stream
+#EXTINF:-1 tvg-id="b3df8c46-a515-4a1a-ad61-6f1333af72e2" group-title="The Netherlands | Overijssel | Enschede",De Hollandse Piraten Gigant
+https://dhpgstreaming.nl/proxy/dhpg/stream
+#EXTINF:-1 tvg-id="a68116df-d570-4298-b354-bc4b6abc56cc" group-title="The Netherlands | Overijssel | Tubbergen",Radio Noordvaarder Reiki
+http://stream.radionoordvaarder.nl:8050/
+#EXTINF:-1 tvg-id="ada74bce-b240-4dee-9575-ec5d8476a42b" group-title="The Netherlands | Overijssel | Unknown city",RHYTHM 21 Zwolle
+https://mscp3.live-streams.nl:8022/radio
+#EXTINF:-1 tvg-id="f8ee8587-8566-405a-9c3e-cddc2f3a4385" tvg-logo="https://cdn-profiles.tunein.com/s87697/images/logod.jpg" group-title="The Netherlands | Overijssel | Unknown city",Salland1
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1 tvg-id="ccc98a3c-9982-4cfc-b13f-f1b4777cc35d" group-title="The Netherlands | Overijssel | Westerhaar-Vriezenveensewijk",KribbeRadio.nl 24/7 de beste PiratenMix
+https://azura.kribberadio.nl/listen/kribberadio/kribberadio
+#EXTINF:-1 tvg-id="26e08782-9027-441c-ab9e-4cd03eb420a5" group-title="The Netherlands | Overijssel | Westerhaar-Vriezenveensewijk",PiratenRadio.nl - 24/7 de Beste PiratenHits vanuit Twente
+https://stream.piratenradio.nl/listen/piratenradio/prradio
+#EXTINF:-1 tvg-id="e4296118-8437-478b-8f51-0899501827c4" tvg-logo="https://stream.radiohermax.nl/static/uploads/hermax/album_art.1707338120.jpg" group-title="The Netherlands | Overijssel | Westerhaar-Vriezenveensewijk",Radio Hermax
+https://stream.radiohermax.nl/listen/hermax/hermax
+#EXTINF:-1 tvg-id="c775a3c6-296f-43c3-9931-0fd0ad92bcbc" group-title="The Netherlands | Overijssel | Zwolle",RHYTHM 21 ZWOLLE
+https://mscp3.live-streams.nl:8022/radio
+#EXTINF:-1 tvg-id="85bb6aa4-b33c-4988-8d17-07bdc6705b4f" tvg-logo="https://supermixfm.nl/wp-content/uploads/2020/04/cropped-supermixfm-header-trans-3.png" group-title="The Netherlands | Overijssel, Deventer | Deventer",SuperMixFM
+https://loa.beheerstream.nl:8110/stream
+#EXTINF:-1 tvg-id="d616010d-905e-4e79-9ce6-443ebd79a420" tvg-logo="https://www.koekstadradio.nl/wp-content/uploads/2025/04/koekstad-fm-logo-large-2024-e1743543311176-250x94.png" group-title="The Netherlands | Overijssel, Deventer, Zutphenseweg 4-A | Deventer",Koekstad Radio
+https://server-67.stream-server.nl:8788/stream
+#EXTINF:-1 tvg-id="708e6e3d-b5b2-4c2f-a1e4-c28a1a047aaa" tvg-logo="https://hitradio038.eu/wp-content/uploads/2022/07/facebook_1658737516426_6957249400103467120-300x150.jpg" group-title="The Netherlands | Overijssel, Zwolle | Zwolle",Hitradio 038
+https://loa.beheerstream.nl:8018/stream
+#EXTINF:-1 tvg-id="6a1a6571-b1d4-4fd9-8cba-9586fda25aae" group-title="The Netherlands | Rotterdam | Diessen",ISKC Extreme Metal
+http://mediaserv68.live-streams.nl:8012/ExtremeMetal
+#EXTINF:-1 tvg-id="a8cc9fe8-0267-410a-a170-962740060f69" tvg-logo="https://i0.wp.com/iskcrocks.com/wp-content/uploads/2014/10/cropped-Baloon720.jpg?fit=192%2C192&ssl=1" group-title="The Netherlands | Rotterdam | Liempde",ISKC Hardrock Channel Speler
+http://mediaserv68.live-streams.nl:8012/HardRockChannel
+#EXTINF:-1 tvg-id="91dc55ff-8fe1-403c-adb7-c8e8fa3ad472" group-title="The Netherlands | Rotterdam | Otterlo",ISKC Old Men’s Rock
+http://mediaserv68.live-streams.nl:8012/OldMenRock
+#EXTINF:-1 tvg-id="f366f3a3-d2ab-4aa1-a789-17dc7fb9955f" group-title="The Netherlands | Rotterdam | Unknown city",Goud van Oud
+http://server-23.stream-server.nl:8118/stream
+#EXTINF:-1 tvg-id="06479c7e-8bf2-44d8-8a98-a47fef60fb22" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FKGqdS-mYt5FV81P1MRN0HV6nMivRMtoebSDWYsP2cgY%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRMmZxam9Bc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRNllhVTR3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE3MTIzNjMwMDA.webp&w=1920&q=100" group-title="The Netherlands | Rotterdam | Unknown city",Pyro-Tec Radio
+http://stream.zeno.fm/wfafmjdyhrrvv
+#EXTINF:-1 tvg-id="d58a82c3-b7f1-4c1c-83b1-9e45d42e1e19" tvg-logo="https://player.arrow.nl/tmp/images/default.jpg" group-title="The Netherlands | South Holland | Katwijk aan den Rijn",Arrow Classic Rock
+https://stream.player.arrow.nl/arrowcr
+#EXTINF:-1 tvg-id="f2d6592f-8767-4d6d-881d-0fb3103687f1" group-title="The Netherlands | South Holland | Maasland",MixPerfect Radio
+https://mixperfectradio.nl:9443/stream
+#EXTINF:-1 tvg-id="6f34dc72-b973-480b-ad8b-05bfb50b9cc4" group-title="The Netherlands | South Holland | Pijnacker",Radio Exclusief Pijnacker
+http://radioexclusiefpijnacker.nl:8000/mp3
+#EXTINF:-1 tvg-id="f53c22e1-8bdf-4cff-88fa-d00e8bb44e33" group-title="The Netherlands | South Holland | Vlietwijk",Candelight
+https://25243.live.streamtheworld.com/CANDLELIGHT_SC
+#EXTINF:-1 tvg-id="548a99f5-e8e8-4d00-8b48-4cd946b114cf" tvg-logo="https://radiomushroom.org/images/logo.jpg" group-title="The Netherlands | The Hague | Unknown city",Mushroom Radio
+https://radio.goodtimesbadtimes.club/radio/8020/radio.mp3
+#EXTINF:-1 tvg-id="334620e4-3555-43e9-ad42-f5e2dbf73efb" tvg-logo="https://053radio.nl/wp-content/uploads/2026/03/resized_1400.png" group-title="The Netherlands | Twente | Enschede",053 Radio
+https://stream.053radio.nl/053radio.mp3
+#EXTINF:-1 tvg-id="6d48bd43-f7d8-45d9-ab95-ce35d96c41e4" tvg-logo="https://www.facebook.com/photo.php?fbid=3895636994099707&set=pb.100009603347135.-2207520000&type=3&locale=nl_NL" group-title="The Netherlands | Twente | Unknown city",Michel Grevink
+https://stream.twentestad.eu/twentestad.mp3
+#EXTINF:-1 tvg-id="ce61e1ca-2f21-4627-b2f3-382f7c3456c8" tvg-logo="https://www.facebook.com/photo.php?fbid=3895636994099707&set=pb.100009603347135.-2207520000&type=3&locale=nl_NL" group-title="The Netherlands | Twente | Unknown city",Michel Grevink
+http://stream.twentestad.eu/twentestad.mp3
+#EXTINF:-1 tvg-id="94c0bf0e-3124-4d10-9063-112d3d398521" group-title="The Netherlands | Twente | Unknown city",Radio Twente Gold
+https://c18.radioboss.fm:8403/stream
+#EXTINF:-1 tvg-id="c34e7479-90e9-454d-9697-2f418ce438e9" group-title="The Netherlands | Unknown region | Unknown city",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="1812e16a-19d3-4ac0-add5-94764e48d38d" group-title="The Netherlands | Unknown region | Unknown city",1Zwolle
+https://stream.and-stuff.nl:8443/live-1zwolle
+#EXTINF:-1 tvg-id="97be71ff-528f-4e19-921f-3e158db50d67" tvg-logo="https://40rockradio.nl/wp-content/uploads/2021/04/40ROCK-Favicon-geel.png" group-title="The Netherlands | Unknown region | Unknown city",40ROCK Radio
+http://40rockstream.live-streams.nl/live
+#EXTINF:-1 tvg-id="88397f70-fe8d-4399-ba30-dfefbd275227" tvg-logo="https://www.538.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",538 90s AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
+#EXTINF:-1 tvg-id="f0e970de-1ce8-11ea-a955-52543be04c81" tvg-logo="https://www.538.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",538 Dance Departmetn
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
+#EXTINF:-1 tvg-id="e639966a-ca97-41d0-a2fd-de4f1f910c55" tvg-logo="https://www.radio.de/assets/fav/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",538 Party (AAC Stream)
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac
+#EXTINF:-1 tvg-id="813de6c2-f38c-4cc2-b203-3ecec143273a" group-title="The Netherlands | Unknown region | Unknown city",538 Party (MP3 Stream)
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
+#EXTINF:-1 tvg-id="555d7f9a-81a8-46e4-9c06-6001f87abdc2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqIMGtFnIORtit1NhrjbqFrClcYXUjXpf8YEZ-Aq4Qt_ILF0LDsX1hmloviOrvUZHGPGk&usqp=CAU" group-title="The Netherlands | Unknown region | Unknown city",538 Zomer
+https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
+#EXTINF:-1 tvg-id="518c3d03-c62e-4c01-9cca-6c0c9f02f15c" tvg-logo="https://alive.radio/wp-content/uploads/2023/03/90s-alive-logo-2023-1000x1000-1-770x770.png" group-title="The Netherlands | Unknown region | Unknown city",90s Alive
+https://stream.90sa.live/90s-alive.mp3
+#EXTINF:-1 tvg-id="70026640-7315-493f-b753-8f24cb31d940" tvg-logo="https://easyfm.nl/wp-content/uploads/2022/10/EASY-FM-ALMERE-RADIO-LOGO-770x274-1.png" group-title="The Netherlands | Unknown region | Unknown city",95.5 EASY FM
+https://mediaserv68.live-streams.nl:18007/stream
+#EXTINF:-1 tvg-id="821a2895-5ca8-430c-b361-f5b665d0efcd" tvg-logo="https://hardstyleradio.nu/images/sitelogo.png" group-title="The Netherlands | Unknown region | Unknown city",A.D.M. Hardstyle Radio
+http://kathy.torontocast.com:2450/stream
+#EXTINF:-1 tvg-id="55ca16d0-4881-41c7-bfb6-a74b18a0a38f" tvg-logo="https://forums.ah.fm/data/assets/logo/favicon.png" group-title="The Netherlands | Unknown region | Unknown city",AH.FM: Electronic Dance Music | Trance
+https://eu.ah.fm/live
+#EXTINF:-1 tvg-id="53e7be69-67d5-4314-a737-05462a895c4e" tvg-logo="https://forums.ah.fm/data/assets/logo/favicon.png" group-title="The Netherlands | Unknown region | Unknown city",AH.FM: Electronic Dance Music | Trance
+https://eu.ah.fm/live
+#EXTINF:-1 tvg-id="eefccb6d-3ef0-4f5c-989d-1f2de5e3259e" tvg-logo="https://radio.alloldieschannel.com/static/uploads/all_oldies_channel/album_art.1719685085.jpg" group-title="The Netherlands | Unknown region | Unknown city",All Oldies Channel
+https://radio.alloldieschannel.com/listen/all_oldies_channel/stream
+#EXTINF:-1 tvg-id="59857b36-3071-4dc9-8a36-d426999cbd0c" tvg-logo="https://alswin.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Alswin Ambient Music
+https://server7.radio-streams.net/proxy/jwoiiktx/stream
+#EXTINF:-1 tvg-id="d765d8ca-992f-4d59-946a-0877c12f0f28" tvg-logo="https://alswin.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Alswin Ambient Music
+https://server7.radio-streams.net/proxy/jwoiiktx/stream
+#EXTINF:-1 tvg-id="423f9cc9-17fa-4c96-a795-0b91a9f9e178" tvg-logo="https://www.arrow.nl/wp-content/themes/bones-master/library/images/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Arrow Classic Rock
+http://stream.gal.io/arrow
+#EXTINF:-1 tvg-id="8b8b1d57-6234-4388-9443-9bfd7c0cf1be" tvg-logo="https://www.avalonradio.nl/avalon-nieuw/web/images/logo.png" group-title="The Netherlands | Unknown region | Unknown city",Avalon Radio
+http://92.108.104.148:8000/live
+#EXTINF:-1 tvg-id="4a1bf77e-49f5-4146-a781-89dea9876a58" group-title="The Netherlands | Unknown region | Unknown city",Back To The Old School
+http://bttos.soulandfunkmusic.com:8443/
+#EXTINF:-1 tvg-id="652296c1-8c51-44b1-8223-34840642759f" tvg-logo="https://beats2dance.com/player/images/channels/live/live-logo-white.png" group-title="The Netherlands | Unknown region | Unknown city",Beats2dance
+http://mediaserv38.live-streams.nl:8002/house
+#EXTINF:-1 tvg-id="fabc924e-194c-4553-a316-b5f98439cc4f" tvg-logo="https://www.beatstad-radio.nl/wp-content/uploads/2021/02/cropped-beatstad-radio-final-rondje-tiny-192x192.png" group-title="The Netherlands | Unknown region | Unknown city",Beatstad Radio
+https://mscp2.live-streams.nl:8042/live.mp3
+#EXTINF:-1 tvg-id="0b2cde48-3313-4a26-8a59-88dfd28035f0" tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fwww.omroepbieos.nl%2f" group-title="The Netherlands | Unknown region | Unknown city",Bie Os Radio
+https://nlpo.stream.vip/stein/mp3-192/nlpo
+#EXTINF:-1 tvg-id="f31ae7e2-d5e6-4c88-9445-edf00f6cba40" tvg-logo="https://www.bnr.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",BNR Nieuwsradio
+https://stream.bnr.nl/bnr_aac_96_20
+#EXTINF:-1 tvg-id="0857234f-2974-4e3f-b64c-f3a431959316" group-title="The Netherlands | Unknown region | Unknown city",C-Dance
+http://s45.myradiostream.com:18304/
+#EXTINF:-1 tvg-id="a4d0ef2d-7ecc-4d2e-a003-2b9b655aac05" tvg-logo="https://calypso675.com/wp-content/uploads/2020/10/cropped-Logo-Calypso-01-180x180.png" group-title="The Netherlands | Unknown region | Unknown city",Calypso AM 675
+http://178.19.116.3:8016/stream
+#EXTINF:-1 tvg-id="f81daade-849e-4498-a796-1148e62f175f" tvg-logo="https://candlelight.nl/wp-content/uploads/2016/07/cropped-candlelight_favicon2-180x180.jpg" group-title="The Netherlands | Unknown region | Unknown city",Candlelight Radio
+https://candlelight.nl/candlelight.mp3
+#EXTINF:-1 tvg-id="c057ba2e-3ed7-4ba2-a651-4fb7d72ff5d6" group-title="The Netherlands | Unknown region | Unknown city",centuryradioni
+https://s2.radio.co/s87ffbc098/listen
+#EXTINF:-1 tvg-id="599ff9c0-a3ef-48e7-a5da-494c44642c68" group-title="The Netherlands | Unknown region | Unknown city",Christelijke Omroep
+https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA..
+#EXTINF:-1 tvg-id="de5c1144-76fe-4f7f-a3d8-ff3371b4eef2" tvg-logo="https://www.classic.nl/images/logo-footer.png" group-title="The Netherlands | Unknown region | Unknown city",classic nl mind radio
+https://stream.classic.nl/classicnl-mindradio.mp3
+#EXTINF:-1 tvg-id="9642359d-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Concertzender Crosslinks
+http://streams.greenhost.nl:8080/pop
+#EXTINF:-1 tvg-id="96421c64-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Concertzender Oriënt Express
+http://streams.greenhost.nl:8080/orientexpress
+#EXTINF:-1 tvg-id="964224cb-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Concertzender Utrecht Muziek
+http://streams.greenhost.nl:8080/vredenburg
+#EXTINF:-1 tvg-id="96422b0e-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Concertzender Wereldmuziek
+http://streams.greenhost.nl:8080/wereldmuziek
+#EXTINF:-1 tvg-id="96393127-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Concertzender X-Rated
+http://streams.greenhost.nl:8080/concertzenderlive
+#EXTINF:-1 tvg-id="eedbb922-3a48-4461-953e-8d1ed03490f9" tvg-logo="https://www.cooldanceradio.com/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Cool Dance Radio
+https://stream.cooldanceradio.com/stream1/stream.mp3
+#EXTINF:-1 tvg-id="4eab98b2-cde4-4d36-9869-ca5269964aae" tvg-logo="https://crazyraccoon.nl/wp-content/uploads/2025/05/cropped-IMG_4250.jpeg" group-title="The Netherlands | Unknown region | Unknown city",Crazy Raccoon
+https://server7.radio-streams.net/proxy/crazyraccoon/stream
+#EXTINF:-1 tvg-id="a6e924bf-b410-4825-9406-f8a377089f7d" group-title="The Netherlands | Unknown region | Unknown city",D-Tales Radio
+https://radio.d-tales.nl/listen/dtalesradio/radio-hq.aac
+#EXTINF:-1 tvg-id="165db2ee-a513-4666-997d-1a58e2dc8258" group-title="The Netherlands | Unknown region | Unknown city",Dance.FM
+http://streams.bigfm.de/bigfm-dance-64-aac
+#EXTINF:-1 tvg-id="66663dfc-fbaf-4f19-a240-7f2703b93f5f" group-title="The Netherlands | Unknown region | Unknown city",DANCE.FM :: The Beat of Amsterdam ::
+https://streams.dancefm.net/mp3-hq
+#EXTINF:-1 tvg-id="b0d42a05-d4a7-477b-93f1-59c1feee5aa6" group-title="The Netherlands | Unknown region | Unknown city",DanceGroove Radio
+https://s13.streamingcloud.online/stream/dancegrooveradio
+#EXTINF:-1 tvg-id="af34b7b2-2d58-11ea-aa0c-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Delta Piraat
+http://stream.deltafm.nl:8125/;
+#EXTINF:-1 tvg-id="3521e06d-4265-4415-8882-3aacad9b80e9" tvg-logo="https://www.discoclassicradio.nl/img/header-logo.png" group-title="The Netherlands | Unknown region | Unknown city",Disco Classic Radio
+https://discoclassicradio.nl/stream?1774627917867
+#EXTINF:-1 tvg-id="d0c59fe3-2aa6-4ce3-bc1b-f64170e0a2be" tvg-logo="https://www.dizgoradio.fm/wp-content/uploads/2022/07/dizgo-radio-logo1.png" group-title="The Netherlands | Unknown region | Unknown city",Dizgo Radio
+http://mediaserv30.live-streams.nl:8079/stream
+#EXTINF:-1 tvg-id="c4f6ac4b-9a85-48aa-b0a5-5e67bd306347" group-title="The Netherlands | Unknown region | Unknown city",Double Z Radio
+http://stream1.dzradio.nl/
+#EXTINF:-1 tvg-id="66a37c46-b2aa-4cd6-9167-f1353a0cf7a9" tvg-logo="https://drentsepiraten.nl/wp-content/themes/dp/images/logo.png" group-title="The Netherlands | Unknown region | Unknown city",Drentsepiraten
+https://server1.streamgigant.nl:9214/drentsepiraten192
+#EXTINF:-1 tvg-id="948dd047-1a0b-42c9-b769-19233dfadc7f" group-title="The Netherlands | Unknown region | Unknown city",Dutch Delite Drum and Bass
+http://radio.dutchdelite.nl:8000/dnb
+#EXTINF:-1 tvg-id="8edc2e37-c03a-43a8-b393-de17b0836258" group-title="The Netherlands | Unknown region | Unknown city",Echtepiraten.nl
+http://azuraserv3.live-streams.nl:8040/stream.mp3
+#EXTINF:-1 tvg-id="9612e256-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Efteling Kids Radio
+http://25243.live.streamtheworld.com/TLPSTR07_SC
+#EXTINF:-1 tvg-id="73c83d14-715a-47e3-bbc1-7354a8955339" group-title="The Netherlands | Unknown region | Unknown city",Efteling Kids Radio (nieuw)
+https://media.hostin.live/audio/efteling.mp3?source=eftelingcom
+#EXTINF:-1 tvg-id="13298993-b9e7-46ce-8925-1ae61d87854e" group-title="The Netherlands | Unknown region | Unknown city",Extra Gold
+http://extragold.stream-server.nl/stream?type=http&nocache=124795
+#EXTINF:-1 tvg-id="0b979a94-af55-4705-92cb-4d98cefbfb7c" tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2ffalconfm.nl%2f" group-title="The Netherlands | Unknown region | Unknown city",Falcon Radio
+http://server-16.stream-server.nl:8926/;
+#EXTINF:-1 tvg-id="be993828-2a83-4c9c-ab25-8cd993e3e19e" tvg-logo="https://italo.nu/images/logo%2dfantasy2017.png" group-title="The Netherlands | Unknown region | Unknown city",Fantasy Italo Radio
+https://italo.live-streams.nl:8000/stream
+#EXTINF:-1 tvg-id="960dd583-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Freez FM
+http://stream.freezfm.nl/freezfm
+#EXTINF:-1 tvg-id="552fe469-40d9-44bb-be15-7a49aaceccfd" tvg-logo="https://goodliferadio.nl/favicon/goodliferadio/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Good Life Radio
+https://streaming.hofhosting.nl/proxy/goodlife_main?mp=/stream
+#EXTINF:-1 tvg-id="1943674b-be5d-42bc-b363-646b9086d10c" group-title="The Netherlands | Unknown region | Unknown city",Good Times Bad Times
+https://radio.goodtimesbadtimes.club/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="8f219ca6-3cdc-4f2e-b7cf-435a58b90aeb" tvg-logo="https://grandprixradio.nl/themes/flixi/favicons/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Grand Prix Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
+#EXTINF:-1 tvg-id="42db7286-e430-4a41-b5e8-c903ba746aba" group-title="The Netherlands | Unknown region | Unknown city",Grandprix radio - http
+http://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3
+#EXTINF:-1 tvg-id="c0561041-b889-4880-9059-ce7504f712ac" tvg-logo="https://www.groeistad.com/images/logo_groeistad.png" group-title="The Netherlands | Unknown region | Unknown city",Groeistad Radio
+http://213.202.241.176:8564/stream
+#EXTINF:-1 tvg-id="64f98c68-f76e-4ab3-970f-ca5fad42403c" tvg-logo="https://www.grootnieuwsradio.nl/favicons/favicon-1-192x192.png" group-title="The Netherlands | Unknown region | Unknown city",Groot Nieuws Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNRAAC.aac?sbmid=ff734714-f97a-4a21-853b-402dce2983fe
+#EXTINF:-1 tvg-id="79916e83-d0f4-48fa-8949-7c7beee8aaf2" group-title="The Netherlands | Unknown region | Unknown city",Haarlem Shuffle FLAC
+https://stream.tbmp.nl:8000/haarlemshuffle.flac
+#EXTINF:-1 tvg-id="e4ef7628-f73f-49fe-b7b3-1cc5f1e9cc69" tvg-logo="https://i0.wp.com/haarlem105.nl/wp-content/uploads/2020/02/cropped-h105-fav.png?fit=180%2c180&#038;ssl=1" group-title="The Netherlands | Unknown region | Unknown city",Haarlem105
+https://stream.tbmp.nl:8010/haarlem105.web
+#EXTINF:-1 tvg-id="346146e0-4908-43cc-b9f9-5abf9cdda8ac" tvg-logo="https://www.hallokidsradio.nl/favicon.png" group-title="The Netherlands | Unknown region | Unknown city",Hallo Kids Radio
+https://stream.hallokidsradio.nl/hallokids
+#EXTINF:-1 tvg-id="0c85c7c3-4784-45f8-bfbc-96c5a3bec87e" group-title="The Netherlands | Unknown region | Unknown city",Hardrock
+http://server-23.stream-server.nl:8326/stream
+#EXTINF:-1 tvg-id="cc739488-6f41-11e9-af37-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Hi On Line Radio - Latin
+http://mediaserv33.live-streams.nl:8034/live
+#EXTINF:-1 tvg-id="2dd63dd2-eb0a-4539-a038-2d0fea660d18" tvg-logo="https://17470d5e56.clvaw-cdnwnd.com/3096fde453eaf3b27ccff87fd990b461/200000505-f158bf158f/450/oie_572735nfMlpUxE.webp" group-title="The Netherlands | Unknown region | Unknown city",HitRadio1.nl
+https://everestcast.live-streams.nl:8556/stream
+#EXTINF:-1 tvg-id="07a294df-8ecb-4655-b530-d8bebee4faab" tvg-logo="https://www.hoppa-music-holland.nl/images/news/logo-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Hoppa Music Holland
+https://server-28.stream-server.nl:8822/stream
+#EXTINF:-1 tvg-id="9d5902ae-7d3b-4184-9eaa-b568be65b246" group-title="The Netherlands | Unknown region | Unknown city",Hoppa Radio
+http://mscp3.live-streams.nl:8132/radio
+#EXTINF:-1 tvg-id="3f198fb4-b7dc-4232-bc00-3cbac649accb" tvg-logo="https://assets.clrd.net/uploads/logos/autodj/01a087a1-c80e-7966-ae65-d5eeef63ee57/8399a720-0d10-4b3f-90b1-1d8d39d4c7cf.webp" group-title="The Netherlands | Unknown region | Unknown city",House Classics
+https://icy.cloudrad.io/ef63ee57
+#EXTINF:-1 tvg-id="05e6e28c-a51b-4927-ab16-430ed20db34e" tvg-logo="https://www.openstageradio.eu/uploads/openstageradio.eu/1678666345-OSR%20banner%202.jpg" group-title="The Netherlands | Unknown region | Unknown city",https://www.openstageradio.eu/
+https://server-28.stream-server.nl:8834/stream
+#EXTINF:-1 tvg-id="6ce4b753-d9ac-4b78-bda4-f25ad458d74e" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/11/i-turn-Radio-100x47.jpg" group-title="The Netherlands | Unknown region | Unknown city",i-turn Radio
+http://live2.i-turnradio.nl/stream4
+#EXTINF:-1 tvg-id="962373d0-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",i-turn radio
+http://live.i-turnradio.nl/live
+#EXTINF:-1 tvg-id="790ef988-70ac-4823-9732-c80f57a129f0" group-title="The Netherlands | Unknown region | Unknown city",ICE RADIO
+https://stream.iceradio.nl/iceradiohq?ver=30283
+#EXTINF:-1 tvg-id="b71a43c5-92e1-45e6-85ad-b2615ce78b7a" group-title="The Netherlands | Unknown region | Unknown city",Ideaal FM
+http://server-10.stream-server.nl:8564/stream
+#EXTINF:-1 tvg-id="71ba2a43-ab05-4dad-b269-4806ebd7e558" tvg-logo="https://www.ijsselstreekradio.nl/images/thumbnail_Button-ijsselstreek.jpg" group-title="The Netherlands | Unknown region | Unknown city",Ijsselstreek Radio
+http://mediaserv38.live-streams.nl:8029/low
+#EXTINF:-1 tvg-id="1f28b8ca-7d5f-4f51-955d-cb1d6b678214" group-title="The Netherlands | Unknown region | Unknown city",Indie XL
+http://server-23.stream-server.nl:8438/;listen.pls_
+#EXTINF:-1 tvg-id="96434b8a-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",IndieXL
+https://server-11.stream-server.nl:18438/
+#EXTINF:-1 tvg-id="eaa07cbe-f03e-11e9-a96c-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",INTERGALACTIC FM - Cybernetic Broadcasting System
+http://radio.intergalactic.fm/1
+#EXTINF:-1 tvg-id="39fdc531-f03f-11e9-a96c-52543be04c81" tvg-logo="https://www.intergalactic.fm/themes/custom/ifm/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",INTERGALACTIC FM - Disco Fetish
+http://radio.intergalactic.fm/2
+#EXTINF:-1 tvg-id="55fd0a26-f03f-11e9-a96c-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",INTERGALACTIC FM - The Dream Machine
+http://radio.intergalactic.fm/3
+#EXTINF:-1 tvg-id="3afe9b05-2269-4188-bcfa-cc114c46f9c3" group-title="The Netherlands | Unknown region | Unknown city",ISKC Rock Radio
+http://mediaserv68.live-streams.nl:8012/RockRadio
+#EXTINF:-1 tvg-id="e5119b67-3e02-434f-9c8e-e0e7d39baa24" tvg-logo="https://cdn-radio.dpgmedia.net/c/16/a5/32/31/JOE-4-WEBSITE-220x220.png" group-title="The Netherlands | Unknown region | Unknown city",Joe
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect
+#EXTINF:-1 tvg-id="fa805567-16de-4276-aec5-4171ed7a01ed" group-title="The Netherlands | Unknown region | Unknown city",Joe 70s & 80s
+https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac
+#EXTINF:-1 tvg-id="5c26dd32-5a51-4b33-bdf7-8547ad476d7b" tvg-logo="https://joe.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",JOE mp3
+https://stream.joe.nl/joe/mp3
+#EXTINF:-1 tvg-id="327ae180-3aa7-11e9-9b4e-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Joy Radio
+http://stream.joyradio.nl/joyradio
+#EXTINF:-1 tvg-id="f2c1d30b-8a7d-416c-950a-1afff194337f" tvg-logo="https://kink.nl/static/kink_x2.gif" group-title="The Netherlands | Unknown region | Unknown city",KINK
+https://playerservices.streamtheworld.com/api/livestream-redirect/KINKAAC2.aac?sbmid=860963b4-6223-4be2-908c-1933bde320e6
+#EXTINF:-1 tvg-id="7b64de03-74bf-4e3e-aa70-8ef89539b4fd" group-title="The Netherlands | Unknown region | Unknown city",KINK Distortion
+https://22323.live.streamtheworld.com/KINK_DISTORTION_SC
+#EXTINF:-1 tvg-id="2dd3031c-67fa-4823-b11d-e83b60346aa5" tvg-logo="https://kink.nl/static/favicon-32x32.png" group-title="The Netherlands | Unknown region | Unknown city",KINK DNA
+http://22603.live.streamtheworld.com/KINK_DNAAAC_SC
+#EXTINF:-1 tvg-id="212d56e9-9dd0-4a63-9854-98fbc8a4b227" tvg-logo="https://kl85.net/wp-content/uploads/2024/02/829x829-170x170.png" group-title="The Netherlands | Unknown region | Unknown city",KL85
+https://s19.myradiostream.com/18068/listen.mp3?sid=1
+#EXTINF:-1 tvg-id="021463e5-88aa-4172-967c-1e8b2706f643" tvg-logo="https://www.koekstadradio.nl/wp-content/uploads/2025/04/koekstad-fm-logo-large-2024-e1743543311176-300x113.png" group-title="The Netherlands | Unknown region | Unknown city",Koekstad FM
+http://server-67.stream-server.nl:8788/stream
+#EXTINF:-1 tvg-id="296651b2-aed2-432a-ae07-6555d36eae08" tvg-logo="https://cdn-profiles.tunein.com/s104489/images/logog.png?t=152102" group-title="The Netherlands | Unknown region | Unknown city",KX Classics
+https://mcp-1.streampanel.nl:8020/kxclassics_mp3
+#EXTINF:-1 tvg-id="43003fe1-9981-42ac-8677-cd81e3b00ca6" tvg-logo="https://layzer.nl/media/img/logo.png" group-title="The Netherlands | Unknown region | Unknown city",Layzer
+https://stream.layzer.nl/layzer.mp3
+#EXTINF:-1 tvg-id="bb5026cc-f0e6-47bf-a308-ea49767acc11" tvg-logo="https://livesets.com/cache/images/resize/300/691e58e250651fead500b113380a30dd.png" group-title="The Netherlands | Unknown region | Unknown city",Livesets Radio
+http://djuplink.com/livesets-radio.mp3
+#EXTINF:-1 tvg-id="231680d5-de00-476e-9b38-a39fbe31436d" group-title="The Netherlands | Unknown region | Unknown city",MaiBus Radio
+https://server-67.stream-server.nl:8818/stream
+#EXTINF:-1 tvg-id="69908722-abd8-4df0-b01d-277bc2a1e323" group-title="The Netherlands | Unknown region | Unknown city",MixPerfect Radio
+https://mixperfectradio.nl:9443/stream
+#EXTINF:-1 tvg-id="97eb62b4-70dc-4950-a31e-037f24469da5" tvg-logo="https://mixperfectradio.nl/mixperfect-radio-logo-transparant.png" group-title="The Netherlands | Unknown region | Unknown city",MixPerfect Radio
+https://mixperfectradio.nl:9443/stream
+#EXTINF:-1 tvg-id="9057f5d4-789d-423f-996f-1018d9b72676" tvg-logo="https://newdanceradio.fun/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",New Dance Radio
+https://modspeedy.radioca.st/stream2
+#EXTINF:-1 tvg-id="28a933ee-57f1-4e7b-bdd9-497e8a159a96" tvg-logo="https://newsinternetradio.nl/wp-content/uploads/2021/04/LOGO-NewsIR-wit.png" group-title="The Netherlands | Unknown region | Unknown city",News Internetradio
+https://audio.newsinternetradio.nl/mp3
+#EXTINF:-1 tvg-id="c5510784-201e-42e5-959a-b046ca7ce2a3" tvg-logo="https://noderunnersradio.com/assets/podcast/cover-3000.jpg" group-title="The Netherlands | Unknown region | Unknown city",Noderunners Radio
+https://stream.noderunnersradio.com/stream
+#EXTINF:-1 tvg-id="e419bfda-02b9-4a89-98a8-1b063f376377" tvg-logo="https://www.npo3fm.nl/images/unknown_programme.webp" group-title="The Netherlands | Unknown region | Unknown city",NPO 3FM
+http://icecast.omroep.nl/3fm-bb-aac
+#EXTINF:-1 tvg-id="962ae396-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",NPO 3FM Alternative
+http://icecast.omroep.nl/3fm-alternative-mp3
+#EXTINF:-1 tvg-id="961e20e5-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",NPO FunX Hip Hop
+http://icecast.omroep.nl/funx-hiphopfb-bb-mp3
+#EXTINF:-1 tvg-id="9609d93f-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",NPO FunX Latin
+http://icecast.omroep.nl/funx-latinfb-bb-mp3
+#EXTINF:-1 tvg-id="960e4318-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",NPO FunX NL
+http://icecast.omroep.nl/funx-bb-mp3
+#EXTINF:-1 tvg-id="9609b4d8-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.funx.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",NPO FunX Reggae
+http://icecast.omroep.nl/funx-reggaefb-bb-mp3
+#EXTINF:-1 tvg-id="1dd46cb3-c4d3-473c-939f-d5999a7b5dc8" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio %
+https://icecast.omroep.nl/radio5-sb-mp3
+#EXTINF:-1 tvg-id="4ab949e3-67f4-4039-82f1-312d01b45ff4" tvg-logo="https://www.nporadio1.nl/svg/npo_radio1_logo.svg" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 1
+http://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:-1 tvg-id="96d05116-dd44-4e3f-b531-87144bccfb7b" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 4
+http://icecast.omroep.nl/radio4-sb-aac
+#EXTINF:-1 tvg-id="9612e85d-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 4 - Concerten
+http://icecast.omroep.nl/radio4-eigentijds-mp3
+#EXTINF:-1 tvg-id="154e6e53-d929-43e5-8f22-4385df9f4656" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 4 Concerten
+http://icecast.omroep.nl/radio4-eigentijds-aac
+#EXTINF:-1 tvg-id="93ba8418-9178-4981-954e-6cb0231d7f41" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 4 Eigentijds
+http://icecast.omroep.nl/radio4-eigentijds-mp3
+#EXTINF:-1 tvg-id="ee32e4ab-5aa3-47df-aeaa-eaa162607422" tvg-logo="https://www.nporadio5.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio 5
+https://icecast.omroep.nl/radio5-bb-aac
+#EXTINF:-1 tvg-id="6022fb22-1a29-4b7f-9a93-485730458e8a" group-title="The Netherlands | Unknown region | Unknown city",NPO Radio4
+http://icecast.omroep.nl/radio4-bb-mp3
+#EXTINF:-1 tvg-id="f9a419f9-c0c3-49b2-8ed7-9785a052b59b" tvg-logo="https://nuradio.nl/wp-content/uploads/2025/07/NU.png" group-title="The Netherlands | Unknown region | Unknown city",NU Radio
+https://mscp2.live-streams.nl:8172/nuradio
+#EXTINF:-1 tvg-id="89615340-1d71-4dca-9338-6fce7e425650" tvg-logo="https://www.oldskoolradio.nl/wp-content/uploads/2026/03/facebook.jpg" group-title="The Netherlands | Unknown region | Unknown city",Oldskooldisco
+https://caster08.streampakket.com/proxy/arjanhoo?mp=/stream
+#EXTINF:-1 tvg-id="0fc7c55c-4a8e-11e9-a4d7-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Olympia Radio
+http://streams.olympia-radio.nl/olympia
+#EXTINF:-1 tvg-id="c87e2140-7453-4ae0-9ea8-b10cb1ee899a" tvg-logo="https://flakkeenieuws.nl/images/logo-archipel.png" group-title="The Netherlands | Unknown region | Unknown city",Omroep Archipel
+http://server-28.stream-server.nl:8872/stream
+#EXTINF:-1 tvg-id="3c78a04e-c2b6-419f-9af0-b204b5024672" tvg-logo="https://omroepbrabant.bbvms.com/mediaclip/1089338/pthumbnail/368/207.webp?cpPassThrough" group-title="The Netherlands | Unknown region | Unknown city",Omroep Brabant - Radio
+https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq
+#EXTINF:-1 tvg-id="dd82b5f2-fceb-4c5a-9c36-5a1960406634" group-title="The Netherlands | Unknown region | Unknown city",Omroep Heemskerk
+https://live.omroepheemskerk.nl/hfm
+#EXTINF:-1 tvg-id="110f2b4d-8e38-425e-9914-2b982aa94b48" tvg-logo="https://omroepzilt.nl/wp-content/uploads/2022/08/cropped-cropped-WitteZ-MAX-150px-e1659601380483.png" group-title="The Netherlands | Unknown region | Unknown city",Omroep Zilt
+https://omroepzilt1.streampartner.nl/live?type=.mp3
+#EXTINF:-1 tvg-id="7cfb41b4-657d-4abc-991e-272f291badc8" tvg-logo="https://oudepiratenhits.nl/wp-content/uploads/2020/09/logo-27.png" group-title="The Netherlands | Unknown region | Unknown city",Oudepiratenhits
+https://server-67.stream-server.nl:8910/stream
+#EXTINF:-1 tvg-id="7ef5a952-ee37-4733-90ac-477415b22d57" group-title="The Netherlands | Unknown region | Unknown city",Pepperbox
+https://stream.pepperboxradio.nl:8000/radio.mp3
+#EXTINF:-1 tvg-id="c5c19438-ae6a-4f82-8038-df424095e575" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Aardschok
+https://streams.pinguinradio.com/Aardschok192.mp3
+#EXTINF:-1 tvg-id="d64cfc38-e7bd-4e37-8e47-472b9ac7a387" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Classics
+http://streams.pinguinradio.com/PinguinClassics192.mp3
+#EXTINF:-1 tvg-id="2b54d1c1-3972-48f2-a249-ad6321ad8f33" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Groove
+https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412
+#EXTINF:-1 tvg-id="36f80316-fd28-4ae5-b797-30a095826a02" tvg-logo="https://pinguinradio.com/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Indie
+https://streams.pinguinradio.com/PinguinRadio320.mp3?ngsw-bypass
+#EXTINF:-1 tvg-id="f2c1ba0a-6c49-11ea-b1cf-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Pluche
+https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384
+#EXTINF:-1 tvg-id="45c99da1-5ddb-4d57-b945-781a5ed56e43" group-title="The Netherlands | Unknown region | Unknown city",Pinguin Showcase
+https://samcloud.spacial.com/api/listen?sid=110690&m=sc&rid=190799
+#EXTINF:-1 tvg-id="73c6e268-331f-413e-9f45-e1cf140b2608" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 10
+https://piraten.fm/top/10
+#EXTINF:-1 tvg-id="4fea3559-c4e2-40b9-ac56-15521328e9b3" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 12
+https://piraten.fm/top/12
+#EXTINF:-1 tvg-id="2047fa4b-e9d1-404a-833e-dba969f0fbbd" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 12
+https://piraten.fm/top/12
+#EXTINF:-1 tvg-id="3006e5d6-a692-4de6-a4e6-be989d1326cd" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 13
+https://piraten.fm/top/13
+#EXTINF:-1 tvg-id="95e6ed67-0dc1-4ef5-8005-3cf52edb46dd" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 18
+https://piraten.fm/top/18
+#EXTINF:-1 tvg-id="f4606754-983d-4b7d-949f-f308f4c28efd" tvg-logo="https://piraten.fm/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 2
+https://piraten.fm/top/2
+#EXTINF:-1 tvg-id="db0ae246-5c55-451d-9aeb-a1618bfcda62" tvg-logo="https://piraten.fm/assets/stream.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.FM - 9
+https://piraten.fm/top/9
+#EXTINF:-1 tvg-id="1028583f-e87c-494e-8f50-669ae0d36bb8" tvg-logo="https://piraten.fm/_nuxt/icons/icon_64x64.123069.png" group-title="The Netherlands | Unknown region | Unknown city",Piraten.fm Top stream 1
+https://piraten.fm/top/1
+#EXTINF:-1 tvg-id="9a1c9e62-b45f-4d26-8d9a-5acabda1bb1d" group-title="The Netherlands | Unknown region | Unknown city",Piratenhits Internetradio
+https://www.piratenhits.com:8052/live
+#EXTINF:-1 tvg-id="49395b0a-9849-4c8b-b76b-550e61d15fb2" group-title="The Netherlands | Unknown region | Unknown city",PJD2 The Voice of Sint Maarten 102.7 FM
+http://142.4.219.8:8181/stream
+#EXTINF:-1 tvg-id="6801ed5c-e5ce-4c45-a6cf-ec000bac248c" group-title="The Netherlands | Unknown region | Unknown city",Progressieve Rock
+https://progressieverock.nl/luisteren
+#EXTINF:-1 tvg-id="1baf43c4-7fba-4077-8644-af24a9f0cfd1" group-title="The Netherlands | Unknown region | Unknown city",Pure Lounge Radio
+https://mscp4.live-streams.nl:8142/lounge.mp3
+#EXTINF:-1 tvg-id="dc69301f-c783-4ca1-a4f6-ca37db3ea4f8" tvg-logo="https://pureradio.eu/wp-content/uploads/2023/02/Logo-Pure-Radio-Hardcore-Channel-170x170.jpg.webp" group-title="The Netherlands | Unknown region | Unknown city",Pure Radio Holland - Hardcore Channel
+https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_hardcore_channel/aac-plus?ver=866785
+#EXTINF:-1 tvg-id="ea2dfbe9-5fd2-4f86-baac-c82c398af3b0" tvg-logo="https://pureradio.eu/wp-content/uploads/2023/02/Logo-Pure-Radio-Underground-Channel-170x170.jpg.webp" group-title="The Netherlands | Unknown region | Unknown city",Pure Radio Holland - The Underground Channel
+https://streamserver.pure-isp.eu/listen/pure_radio_holland_the_underground_channel/aac-plus?ver=412779
+#EXTINF:-1 tvg-id="155b08b4-97da-11e9-a605-52543be04c81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="The Netherlands | Unknown region | Unknown city",Qmusic Het Foute Uur
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3
+#EXTINF:-1 tvg-id="9103990d-f203-410e-8764-0cd81b415e6d" tvg-logo="https://qmusic.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",QMUSIC NEDERLAND
+https://stream.qmusic.nl/qmusic/mp3
+#EXTINF:-1 tvg-id="a93f2679-c2c4-4511-9166-f7f88193cd04" tvg-logo="https://qmusic.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Qmusic NL
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3
+#EXTINF:-1 tvg-id="4e9c82d5-97da-11e9-a605-52543be04c81" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg" group-title="The Netherlands | Unknown region | Unknown city",Qmusic Non-Stop
+https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3
+#EXTINF:-1 tvg-id="5832bacf-33a8-4bf2-8d89-e8c6cda223e2" tvg-logo="https://qmusic.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Qmusic Summer
+https://stream.qmusic.nl/thema/mp3
+#EXTINF:-1 tvg-id="2e96250c-0918-47f6-b778-8d2fef3be807" group-title="The Netherlands | Unknown region | Unknown city",Radio 1
+https://icecast.omroep.nl/radio1-bb-mp3
+#EXTINF:-1 tvg-id="d227990c-2385-4419-8159-1c73a33a58dd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScXQ3C4MdB2iKNRXVmQSy-fl3MBqAi-SX2JU3p-ZeLSiLCVbDw&s" group-title="The Netherlands | Unknown region | Unknown city",Radio 10
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+#EXTINF:-1 tvg-id="2e625924-e746-4bb8-8d08-4cb64d6ac74b" tvg-logo="https://cdn-profiles.tunein.com/s88604/images/logod.png?t=638756566660000000" group-title="The Netherlands | Unknown region | Unknown city",Radio 10 90's Hits
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3
+#EXTINF:-1 tvg-id="54660f01-599c-4781-8fe2-008729962b4b" group-title="The Netherlands | Unknown region | Unknown city",RADIO 10 TOP 4000
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3
+#EXTINF:-1 tvg-id="262a29e3-78c0-4a41-ba32-6bba1d919f1a" tvg-logo="https://mlq1mqi3f9w4.i.optimole.com/w:200/h:30/q:mauto/f:best/https://radio182.nl/wp-content/uploads/2020/06/logo_mobile-1.png" group-title="The Netherlands | Unknown region | Unknown city",Radio 182
+https://player.streamforce.nl:8306/stream
+#EXTINF:-1 tvg-id="8acf16fc-250a-4260-a762-acb882ad644e" group-title="The Netherlands | Unknown region | Unknown city",Radio 538 Nonstop
+http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
+#EXTINF:-1 tvg-id="35aa79d3-0016-4ecb-a170-1ef4bd4ba949" group-title="The Netherlands | Unknown region | Unknown city",Radio Bergeijk FLAC
+https://stream.radiobergeijk.nl/listen/radio_bergeijk/flac
+#EXTINF:-1 tvg-id="688fad81-4770-4a20-8d14-33d6324e9b74" group-title="The Netherlands | Unknown region | Unknown city",Radio Bildtstar
+https://radio-bildtstar.nl/luisteren
+#EXTINF:-1 tvg-id="9b7f745a-5025-430e-bc79-7226dcaeb35b" tvg-logo="https://radiocaroline259.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Radio Caroline 259 Gold
+https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3
+#EXTINF:-1 tvg-id="7159b378-72cc-4b26-b7aa-fc2f1090480f" tvg-logo="https://radiocaroline259.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Radio Caroline 259 Gold 64kbps
+https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3
+#EXTINF:-1 tvg-id="a9e6e0f3-69f9-413a-89d0-6ce0de3c1ca3" tvg-logo="https://www.radiocentraal.fm/gallery_gen/b715c7978dd286874868c1c27fe913de_1450x800_fit.png?ts=1764837910" group-title="The Netherlands | Unknown region | Unknown city",Radio Centraal Den Haag The Netherlands
+http://mediaserv30.live-streams.nl:8015/tunein/centraal
+#EXTINF:-1 tvg-id="a11e0849-850a-41fc-a79c-100f6f6ea9a0" group-title="The Netherlands | Unknown region | Unknown city",Radio Chilling Station
+http://mediaserv30.live-streams.nl:8090/stream
+#EXTINF:-1 tvg-id="c4eba97e-d692-43ed-8735-73e12e4b6f32" group-title="The Netherlands | Unknown region | Unknown city",Radio Continu
+https://stream.radiocontinu.nl/radiocontinu
+#EXTINF:-1 tvg-id="3e26c16a-f038-43e7-b225-39eea853a5ca" tvg-logo="https://radiocybernet.org/wp-content/uploads/2020/03/cropped-antenna-192x192.jpg" group-title="The Netherlands | Unknown region | Unknown city",Radio Cybernet
+http://radio.dyne.org/radiocybernet.mp3?_=1
+#EXTINF:-1 tvg-id="d39195bc-2cc4-4015-a493-e388a3f8306d" group-title="The Netherlands | Unknown region | Unknown city",Radio Fantasy Rotterdam
+http://213.202.241.199:8024/stream
+#EXTINF:-1 tvg-id="0b684627-7b80-46aa-a113-eaad94824767" tvg-logo="https://www.radiohollandonline.com/wp-content/uploads/2020/02/logo-1.png" group-title="The Netherlands | Unknown region | Unknown city",Radio Holland Online
+https://stream.radiohollandonline.com/
+#EXTINF:-1 tvg-id="1f3703df-937a-4ee1-b680-4b82de94e061" group-title="The Netherlands | Unknown region | Unknown city",Radio Joe
+https://stream.joe.nl/joe/mp3
+#EXTINF:-1 tvg-id="d0255a93-183f-4545-b0b1-b7aff2e4e6ac" tvg-logo="https://www.radiomonique.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Radio Monique 963 AAC 96
+https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc
+#EXTINF:-1 tvg-id="963da6cd-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Radio Monique 963 Gold
+http://www.rmgoldserver.eu:8963/
+#EXTINF:-1 tvg-id="64083d8a-122b-4246-bbd8-0e13f0990ecc" group-title="The Netherlands | Unknown region | Unknown city",Radio NL
+https://stream.radionl.fm/radionl
+#EXTINF:-1 tvg-id="69b4c670-8466-4620-a5af-72949a2df5e2" group-title="The Netherlands | Unknown region | Unknown city",radio noordvaader
+http://www1.radionoordvaarder.nl:8000/;
+#EXTINF:-1 tvg-id="73a08888-b51c-42f2-a960-0f2d755aa911" group-title="The Netherlands | Unknown region | Unknown city",Radio Noordvaarder Healing
+http://www1.radionoordvaarder.nl:8500/;
+#EXTINF:-1 tvg-id="a66ad866-6e00-4370-a409-43197b5f33c0" tvg-logo="https://www.olympia-radio.nl/assets/themes/olympia-radio_nl/img/logo.png" group-title="The Netherlands | Unknown region | Unknown city",Radio Olympia - 100% Piratenhits en Nederlandstalige muziek
+https://streams.olympia-streams.nl/olympia
+#EXTINF:-1 tvg-id="5cf5a7de-1cf8-4225-91e8-58d0d0dcddc1" group-title="The Netherlands | Unknown region | Unknown city",Radio Pechaan
+http://mscp3.live-streams.nl:8050/stream
+#EXTINF:-1 tvg-id="ba5a354f-5072-4390-83af-b585b00152a2" group-title="The Netherlands | Unknown region | Unknown city",Radio Seabreeze
+https://live.radioseabreeze.nl/
+#EXTINF:-1 tvg-id="d8a6e804-eee4-429b-a639-bafcd93372b8" group-title="The Netherlands | Unknown region | Unknown city",Radio Sputnik
+http://radiosputnik.nl:8002/flac
+#EXTINF:-1 tvg-id="5c2dcc27-a7fb-4c79-bb43-7097cfdb0011" group-title="The Netherlands | Unknown region | Unknown city",Radio sputnik
+http://radiosputnik.nl:8002/flac
+#EXTINF:-1 tvg-id="1d9bcb57-1445-4ade-84d5-9285c37f6b76" tvg-logo="https://www.radiostaddenhaag.com/wp-content/uploads/2024/09/cropped-rsdhlogo2024@075x-e1727282517321.png" group-title="The Netherlands | Unknown region | Unknown city",Radio Stad Den Haag
+https://stream.radiostaddenhaag.com/stream/1/;
+#EXTINF:-1 tvg-id="a324a94d-2166-42b0-a782-9a06e382ae60" group-title="The Netherlands | Unknown region | Unknown city",Radio Time Out Trance
+https://s3.slotex.pl/shoutcast/7056/stream
+#EXTINF:-1 tvg-id="74c8cec5-fe06-406b-8681-f6eb21d0104b" tvg-logo="https://radiotrammelant.nl/wp-content/uploads/2021/08/logo_3.png" group-title="The Netherlands | Unknown region | Unknown city",Radio Trammelant
+https://server-67.stream-server.nl:8762/stream
+#EXTINF:-1 tvg-id="0e65ad7a-b179-4b5d-994b-d351349ee955" group-title="The Netherlands | Unknown region | Unknown city",Radio Veronica
+http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac
+#EXTINF:-1 tvg-id="416df3af-c4ed-44d2-a405-7417b17d2e0a" group-title="The Netherlands | Unknown region | Unknown city",Radio Veronica
+https://19993.live.streamtheworld.com/VERONICA_SC
+#EXTINF:-1 tvg-id="648bf562-c3c9-4d5d-9157-ff7e3c65c48e" tvg-logo="https://radio074.nl/wp-content/uploads/2025/02/logo-radio074-golven-grijs-transparant-CLEAN.png" group-title="The Netherlands | Unknown region | Unknown city",Radio074
+https://server-67.stream-server.nl:8746/stream
+#EXTINF:-1 tvg-id="29b23cbc-5c79-4da0-a6d5-6213140deccb" group-title="The Netherlands | Unknown region | Unknown city",RADIO10AAC
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac
+#EXTINF:-1 tvg-id="8c94dd3e-c9bf-4cb3-91a6-786024e3911b" group-title="The Netherlands | Unknown region | Unknown city",Radio416
+https://server6.radio-streams.net/proxy/radio416/stream
+#EXTINF:-1 tvg-id="a532d0a7-77f2-4dd0-9077-adadcfa8a603" tvg-logo="https://radioachterhoek.nl/wp-content/uploads/2019/05/FB-PF-768x768.png" group-title="The Netherlands | Unknown region | Unknown city",Radioachterhoek.nl
+https://stream.radioachterhoek.nl/live
+#EXTINF:-1 tvg-id="005a55fd-aaf5-43d3-9fec-673442c7da04" tvg-logo="https://player.radiofrl.com/api/station/radio_frl/streamer/1/art-1743440993.jpg" group-title="The Netherlands | Unknown region | Unknown city",RadioFRL
+https://player.radiofrl.com/listen/radio_frl/Mp3
+#EXTINF:-1 tvg-id="8ebab69d-3447-4099-b639-d8f12dafbf79" group-title="The Netherlands | Unknown region | Unknown city",Radionickita
+https://fra-pioneer08.dedicateware.com:1685/stream
+#EXTINF:-1 tvg-id="b9201e54-c66a-489b-9db5-f487c0c4bcdf" group-title="The Netherlands | Unknown region | Unknown city",Real Hardstyle Radio
+https://stream.realhardstyle.nl/
+#EXTINF:-1 tvg-id="b9e24bfd-665a-4cbc-9b58-0e3f90764744" tvg-logo="https://www.realityfm.nl/wp-content/uploads/2024/07/cropped-REALITY.png" group-title="The Netherlands | Unknown region | Unknown city",Reality FM
+http://everestcast.live-streams.nl:8691/stream
+#EXTINF:-1 tvg-id="a488aff7-b944-4df0-85e3-005dd1782b29" tvg-logo="https://reformatorischeomroep.nl/apple-touch-icon.png" group-title="The Netherlands | Unknown region | Unknown city",Reformatorische Omroep Radio 2
+http://ro2.reformatorischeomroep.nl:8003/live
+#EXTINF:-1 tvg-id="a6e3a4ff-4a0d-423b-91d5-f1ae2eaa8494" tvg-logo="https://www.regio8.nl/files/202505/dist/a95c2fd77909fd86c356a5ed1b0919ef.png" group-title="The Netherlands | Unknown region | Unknown city",Regio8
+https://radio.regio8.nl/regio8
+#EXTINF:-1 tvg-id="3118034f-3149-47c3-a7e2-59618a9c9d17" tvg-logo="https://www.riversideradio.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Riverside Radio
+https://stream.and-stuff.nl:8443/riversideMp3
+#EXTINF:-1 tvg-id="eda5f188-318e-4246-8c83-031ace70827a" group-title="The Netherlands | Unknown region | Unknown city",Riverside Radio
+https://stream.and-stuff.nl:8443/riverside
+#EXTINF:-1 tvg-id="820bd1b2-4da1-4ca3-a39d-9dbd10f409ae" tvg-logo="https://www.robintimo.nl/wp-content/uploads/2022/10/Logo-van-Robintimo-Radio.webp" group-title="The Netherlands | Unknown region | Unknown city",Robintimo Radio
+https://stream.robintimo.nl:8000/radio.mp3
+#EXTINF:-1 tvg-id="8d20b53e-74f2-4ee6-8a65-3c75f294327a" group-title="The Netherlands | Unknown region | Unknown city",RTV Gemeente Oldambt
+http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO
+#EXTINF:-1 tvg-id="40b45602-44ff-409a-93f2-3ab3c3df2158" tvg-logo="https://rtvmaastricht.nl/rtvmaastricht_nl/images/logo-xs.png" group-title="The Netherlands | Unknown region | Unknown city",RTV Maastricht Radio 107.5 FM
+https://stream.rtvmaastricht.nl/rtv/radio_audio/icecast.audio
+#EXTINF:-1 tvg-id="cbb843c5-ff7c-43e1-82fd-306719b588af" tvg-logo="https://www.salland1.nl/wp-content/uploads/2023/03/cropped-Salland1-Logo-Square-On-White-192x192.png" group-title="The Netherlands | Unknown region | Unknown city",Salland1 Radio
+https://stream.and-stuff.nl:8443/live-airplay_320
+#EXTINF:-1 tvg-id="acdabdc2-7903-4ce6-b0ed-d987aadd3553" tvg-logo="https://static.wixstatic.com/media/10c9fc_5ef184f610d64db6b3f8088767325c05~mv2.png/v1/fill/w_478,h_523,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Shine%20logo%20gold.png" group-title="The Netherlands | Unknown region | Unknown city",Shine Radio
+https://caster05.streampakket.com/proxy/9320/stream
+#EXTINF:-1 tvg-id="3210cd2a-4774-4ac1-9ee3-077c30f46df9" tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Sky LoveSongs
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3
+#EXTINF:-1 tvg-id="960d7b8c-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Sky Radio 101 FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac
+#EXTINF:-1 tvg-id="961f1bea-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Sky Radio Christmas
+http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3
+#EXTINF:-1 tvg-id="af809e4a-7ff4-4630-8b7e-9c09ec249679" tvg-logo="https://www.skyradio.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",Sky Radio Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA
+#EXTINF:-1 tvg-id="961f1876-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",Sky Radio Lounge
+http://22723.live.streamtheworld.com/SRGSTR07AAC_SC
+#EXTINF:-1 tvg-id="ead0433e-c0d5-4ef0-be48-7d887990ce9a" group-title="The Netherlands | Unknown region | Unknown city",Sky Radio Nederland
+https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3?dist=skyradio_web&amp;ttag=talpa_consent:1&amp;gdpr=1&amp;gdpr_consent=CPd5woAPd5woAADABBNLCcCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA%22%20title=%22Sky%20Radio%20-%20Non-Stop%22
+#EXTINF:-1 tvg-id="962e7e22-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.slam.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",SLAM!
+http://stream.slam.nl/slam
+#EXTINF:-1 tvg-id="0337e22a-a4f7-4938-926e-17637172706b" group-title="The Netherlands | Unknown region | Unknown city",Slam! 00's
+https://22353.live.streamtheworld.com/WEB15_MP3_SC
+#EXTINF:-1 tvg-id="7a5fe964-82ba-4354-b3e5-4c2dbc6fb635" group-title="The Netherlands | Unknown region | Unknown city",Slam! 40
+https://22673.live.streamtheworld.com/WEB14_MP3_SC
+#EXTINF:-1 tvg-id="26532026-a56a-4aa0-9dca-d78acd1bab71" tvg-logo="https://slam.nl/favicon.ico" group-title="The Netherlands | Unknown region | Unknown city",SLAM! Juize
+http://stream.slam.nl/WEB09_MP3
+#EXTINF:-1 tvg-id="e1f69c88-8eba-48c2-b6c0-30dbd2ba1433" tvg-logo="https://api.radioveronica.nl/media/kyopzbwj/slam-wkndmx-1_1.png" group-title="The Netherlands | Unknown region | Unknown city",SLAM! WKNDMX
+http://streaming.slam.nl/web11_aac
+#EXTINF:-1 tvg-id="66b9ebaf-09c8-4f15-9afe-11009c8f21eb" group-title="The Netherlands | Unknown region | Unknown city",Slow Radio
+https://stream1.slowradio.com/
+#EXTINF:-1 tvg-id="d4f98822-bfd3-4fac-8660-8463a50ad564" group-title="The Netherlands | Unknown region | Unknown city",Soul Show NL
+https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073
+#EXTINF:-1 tvg-id="0ffe4b19-3c2b-4283-9c5b-80ff21950784" group-title="The Netherlands | Unknown region | Unknown city",Soulshow Radio
+https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3
+#EXTINF:-1 tvg-id="4992d27f-503b-441d-ab57-0bfd8f6ad55a" group-title="The Netherlands | Unknown region | Unknown city",Starlicht
+http://live.urkfm.nl:8000/urkfm.mp3
+#EXTINF:-1 tvg-id="949419a7-b875-45d3-869c-6f4fb2d107a4" group-title="The Netherlands | Unknown region | Unknown city",Synthwave City FM - New
+https://synthwave-rex.radioca.st/stream
+#EXTINF:-1 tvg-id="dfcb28cd-6ddd-4e1d-9e35-5aa78b988842" tvg-logo="https://talkradio.nl/wp-content/uploads/2026/04/cropped-Screenshot-2026-04-25-at-13.24.20-32x32.png" group-title="The Netherlands | Unknown region | Unknown city",TalkRadio.nl
+https://talkradio.streaming.deliver.media/talkradio_mp3_192
+#EXTINF:-1 tvg-id="960e316d-0601-11e8-ae97-52543be04c81" group-title="The Netherlands | Unknown region | Unknown city",The Great American Songbook
+http://tgas.dyndns.org:8001/;
+#EXTINF:-1 tvg-id="235641a0-0029-4c63-969d-e146922ba143" group-title="The Netherlands | Unknown region | Unknown city",The MOD Station
+http://23.81.35.187:8030/stream
+#EXTINF:-1 tvg-id="35f261d6-7400-4fec-80da-cf22ce4fc0bf" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICwv7_OlwgMCxIOU3RhdGlvblByb2ZpbGUYgIDwwJWotwgMogEEemVubw/images/logo" group-title="The Netherlands | Unknown region | Unknown city",Tigray Beat FM Radio
+https://stream.zeno.fm/pd13h8kft68uv
+#EXTINF:-1 tvg-id="c8c6347c-4330-41c6-9d38-406c1607556e" group-title="The Netherlands | Unknown region | Unknown city",Tirolia-Express
+https://server-28.stream-server.nl:8846/stream
+#EXTINF:-1 tvg-id="1f6cc2e1-fe65-4356-a5e2-cdd6cc083ee7" group-title="The Netherlands | Unknown region | Unknown city",Tukker FM
+https://stream.tukkerfm.nl/tukkerfm
+#EXTINF:-1 tvg-id="961849a8-0601-11e8-ae97-52543be04c81" tvg-logo="https://ujala.nl/wp-content/uploads/2017/02/cropped-ujala-logo_los-180x180.png" group-title="The Netherlands | Unknown region | Unknown city",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 tvg-id="cee2cc1b-eb0b-43f6-b9c5-3048182be951" tvg-logo="https://unique-fm.nl/wp-content/uploads/2024/04/Logo-Unique-Classic-Rock-1.jpg" group-title="The Netherlands | Unknown region | Unknown city",Unique Classic Rock
+http://mscp2.live-streams.nl:8180/radio
+#EXTINF:-1 tvg-id="5abcdcd5-474b-4130-9311-df1fa65e3c8c" group-title="The Netherlands | Unknown region | Unknown city",Urk FM geestelijk
+http://urk.fm:8000/geestelijk.mp3
+#EXTINF:-1 tvg-id="d973dec0-1477-42a8-ac05-135339bded53" tvg-logo="https://cdn.nieuwsned.nl/07e1cd7dca89a1678042477183b7ac3f/files/cropped-cropped-logo-vvz-2024-blauw-rond.png" group-title="The Netherlands | Unknown region | Unknown city",VOORSTVELUWEZOOM
+https://mscp2.live-streams.nl:8122/radio
+#EXTINF:-1 tvg-id="3a870824-c505-4756-8855-a904c5a499ff" tvg-logo="https://www.waterlandradio.nl/wp-content/uploads/2023/04/logo_waterlandradio_mobile.png" group-title="The Netherlands | Unknown region | Unknown city",Waterland Radio
+https://waterlandradio.beheerstream.nl:7020/stream
+#EXTINF:-1 tvg-id="2c4f90b8-0878-463d-a589-6cde0eb4c36b" tvg-logo="https://www.westradio.nl/img/AppIcons/WestRadio.AppIcon.256px.png" group-title="The Netherlands | Unknown region | Unknown city",WestRadio | AAC 64kbps
+http://streaming.westradio.nl/WestRadio-aac-64
+#EXTINF:-1 tvg-id="01855155-979f-49a5-94b9-a0496b7cdc67" tvg-logo="https://www.westradio.nl/img/AppIcons/WestRadio.AppIcon.256px.png" group-title="The Netherlands | Unknown region | Unknown city",WestRadio | MP3 320kbps
+http://streaming.westradio.nl/WestRadio-mp3-320
+#EXTINF:-1 tvg-id="4e913f34-036e-4b64-9a02-3bf0d7d5db02" tvg-logo="https://www.westradio.nl/img/AppIcons/WestRadio.AppIcon.256px.png" group-title="The Netherlands | Unknown region | Unknown city",WestRadio | MP3 96kbps
+http://streaming.westradio.nl/WestRadio-mp3-96
+#EXTINF:-1 tvg-id="221c9fa8-9de7-4c0c-876c-914c5853eca4" group-title="The Netherlands | Unknown region | Unknown city",WILD FM
+https://stream.wildfm.nl/wildfm.mp3
+#EXTINF:-1 tvg-id="3cafd1fc-ee92-4ea6-a6ce-8baa217f717f" tvg-logo="https://wildfm-nl.saits.online/assets/logo-B6zrql70.png" group-title="The Netherlands | Unknown region | Unknown city",WildFM
+https://stream.wildfm.nl/wildfm.mp3
+#EXTINF:-1 tvg-id="fb70c8ab-d576-413a-9a31-dfbc7cc8a386" tvg-logo="https://www.wmrclassic.com/wmr_files/classic_30.png" group-title="The Netherlands | Unknown region | Unknown city",World Music Radio Classic!
+https://server-67.stream-server.nl:8792/stream
+#EXTINF:-1 tvg-id="f7dff436-f7b5-428d-8d66-3b693c836d99" tvg-logo="https://www.zap.fm/uploads/logo/logo.png" group-title="The Netherlands | Unknown region | Unknown city",ZAP! FM
+https://zapstream.nl/1
+#EXTINF:-1 tvg-id="b4239763-1edf-452d-8a47-ed646ab66e97" tvg-logo="https://www.classic.nl/favicon.ico" group-title="The Netherlands | Utrecht | Amersfoort",Classic Mind Radio
+https://classic.nl/streams/?s=mindradio
+#EXTINF:-1 tvg-id="ab16f423-6d03-47c2-bc7a-0e4751c51df4" tvg-logo="https://classic.nl/images/icons/favicon-32x32.png" group-title="The Netherlands | Utrecht | Amersfoort",Classic NL
+https://classic.nl/streams/?s=main
+#EXTINF:-1 tvg-id="41a39ffd-7c02-4b75-a627-d1105c43e040" tvg-logo="https://roulettefm.nl/roulettefm_nl/images/logo.svg" group-title="The Netherlands | Utrecht | Bilthoven",Roulette FM
+https://stream.roulettefm.nl/
+#EXTINF:-1 tvg-id="c7fa07e3-6b96-4df1-af1c-c23a28ad339c" tvg-logo="https://www.radio10.nl/favicon.ico" group-title="The Netherlands | Utrecht | IJsselstein",Radio10
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3
+#EXTINF:-1 tvg-id="21739268-31e3-499f-8ba2-03444154fca0" group-title="The Netherlands | Utrecht | Unknown city",Ice Radio The Alternative
+https://stream.iceradio.nl/iceradio
+#EXTINF:-1 tvg-id="466c6af1-bb23-4d42-8509-3fb73d872a14" tvg-logo="https://images.cvandaag.nl/artikel-foto/0fdee9961e3678d8bd55c560ea6f0384/groot-nieuws-radio.png" group-title="The Netherlands | Utrecht | Veenendaal",Groot Nieuws Radio Non-Stop
+https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3
+#EXTINF:-1 tvg-id="9f48090e-2d6a-4d62-99b3-697174ba45c5" tvg-logo="https://wos.nl/favicons/wos_media_favicon.png" group-title="The Netherlands | Westland | Naaldwijk",WOS Radio
+https://ms2.mx-cd.net/radio/99-660291/Radio_WOS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="846d8d2e-9a5a-4cba-8ea7-fd62bcfeb708" group-title="The Netherlands | Zeeland | Dirksland",Fomix
+https://stream.radiofomix.nl/listen/fomix/stream.mp3
+#EXTINF:-1 tvg-id="66660b64-7df0-4f23-9656-5e1d8c728753" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/76738.v5.png" group-title="The Netherlands | Zeeland | Goes",Stichting Streekomroep de Bevelanden SOB FM
+http://stream.sobfm.nl:8686/stream
+#EXTINF:-1 tvg-id="c3c31f5f-5d5a-4162-add1-060f6dff4b66" tvg-logo="https://www.pureclassix.com/" group-title="The Netherlands | Zeeland | Unknown city",Pureclassix
+http://mscp4.live-streams.nl:8140/live.mp3
+#EXTINF:-1 tvg-id="a76886de-703d-4c64-91ba-75673bfc7235" tvg-logo="https://s.regiogroei.cloud/img/favicons/zeeland/android-chrome-192x192.png" group-title="The Netherlands | Zeeland | West-Souburg",Omroep Zeeland Radio
+https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio
+#EXTINF:-1 tvg-id="db790a09-381c-460d-ae71-55796cb96fa0" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/77527.v8.png" group-title="The Netherlands | Zeeland, Sluiskil | Sluiskil",Sunset Radio
+https://server-28.stream-server.nl:8854/stream
+#EXTINF:-1 tvg-id="b721d3fd-d4ea-4598-8256-0e59c242df33" group-title="The Netherlands | Zuid - Limburg | Valkenburg",Radio G-FM Nederland
+https://stream.radiogfm.nl:8200/high.aac
+#EXTINF:-1 tvg-id="96d8225f-abc2-46f7-9c6f-865a771275da" group-title="The Netherlands | Zuid Holland | Middelharnis",GEN-X Radio
+http://computerdokter.eu:8000/
+#EXTINF:-1 tvg-id="88de618b-a389-4a25-bf9f-3375f3378f29" tvg-logo="https://glassrock.nl/grlogo.png" group-title="The Netherlands | Zuid Holland | Unknown city",GlassRock
+https://mscp3.live-streams.nl:8092/stream
+#EXTINF:-1 tvg-id="ccec1c03-1ba4-4dfa-a8e3-1ec05e6713c8" group-title="The Netherlands | Zuid-Holland | Alblasserdam",AFM Alblasserdam
+https://mscp3.live-streams.nl:8042/live
+#EXTINF:-1 tvg-id="10ca276d-2aa4-43cd-8c4e-cc5fa5e341c4" group-title="The Netherlands | Zuid-Holland | Unknown city",AFM Alblasserdam
+https://mscp3.live-streams.nl:8042/live
+#EXTINF:-1 tvg-id="aa01e1f5-9bb0-4cc1-a77d-88c3c2e712d4" tvg-logo="https://www.frenchcore24fm-radio.nl/apple-touch-icon.png" group-title="The Netherlands | Zuid-Holland | Unknown city",FRENCHCORE24FM Radio
+https://a8.asurahosting.com:7890/radio.mp3
+#EXTINF:-1 tvg-id="96244e9c-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.hardcoreradio.nl/wp-content/themes/hardcore-radio/static/images/favicon/apple-touch-icon.png" group-title="The Netherlands | Zuid-Holland | Unknown city",Hardcore Radio
+http://shoutcast1.hardcoreradio.nl/
+#EXTINF:-1 tvg-id="b78c2dd2-2812-4ce5-8ff4-87fdd08779cb" tvg-logo="https://www.allradio.nl/uploaded/logo/hardcore-power.jpg" group-title="The Netherlands | Zuid-Holland, Den Haag | Schipluiden",Hardcore Power Radio (2nd server)
+https://loa.beheerstream.nl:8012/stream
+#EXTINF:-1 tvg-id="a5700462-a3ba-47d1-835f-c72bc2ef81e7" tvg-logo="https://www.radiosangam.nl/wp-content/uploads/2016/02/260pxlogo.png" group-title="The Netherlands | Zuid-Holland, Den Haag | Unknown city",Radio Sangam
+https://mediaserv68.live-streams.nl:8067/stream
+#EXTINF:-1 tvg-id="3880b004-8ccc-48bd-ad05-fe0063920b5c" group-title="The Netherlands | Zuid-Holland, Rotterdam | Carnisse",Radio De Wasrol
+https://streams.radioerfgoed.nl/radiodewasrol
+#EXTINF:-1 tvg-id="dae1d092-9273-46fc-9014-43f61a6978bf" tvg-logo="https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png" group-title="The Netherlands | Zuid-Holland, Rotterdam | Delfshaven",Radio Rijnmond
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3
+#EXTINF:-1 tvg-id="27256fc5-7f3c-4268-afb5-5ba4485e95cd" tvg-logo="https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png" group-title="The Netherlands | Zuid-Holland, Rotterdam | Delfshaven",Radio Rijnmond (AAC+)
+https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp
+#EXTINF:-1 tvg-id="5568b64e-92ca-44a3-a99f-d206ea464254" tvg-logo="https://www.only80sradio.nl/wp-content/uploads/2020/05/cropped-Only-80sRadio2.png" group-title="The Netherlands | Zuid-Holland, Rotterdam | Rotterdam",Only 80s Radio
+https://server-28.stream-server.nl:8850/stream
+#EXTINF:-1 tvg-id="eb11dbdd-1db4-4c86-b3d6-45666d0085a4" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4zgFmUGemN.png" group-title="The Netherlands | Zuid-Holland, Rotterdam | Rotterdam",Webradio Happy-Tigers
+https://server-67.stream-server.nl:8756/stream
+#EXTINF:-1 tvg-id="451e6499-1da9-400d-9a28-fe5d18622d3f" tvg-logo="https://rtvhollandsmidden.nl/wp-content/uploads/2023/11/logo-rtvhm.png" group-title="The Netherlands | Zuid-Holland, Ter Aar | Ter Aar",RTV Hollands Midden
+https://securestream2.digipal.nl:1805/stream
+#EXTINF:-1 tvg-id="e6a5588b-5e07-4999-97de-d65bd8f1952c" tvg-logo="https://rtvmiddenholland.nl/wp-content/uploads/2024/03/Logo-rtw-waddinxveen.webp" group-title="The Netherlands | Zuid-Holland, Waddinxveen | Oranjewijk",RTW
+https://player.streamforce.nl:8502/stream
+#EXTINF:-1 tvg-id="79747bb1-951c-4e75-8529-d79564a38064" tvg-logo="https://www.zfmzoetermeer.nl/wp-content/uploads/2023/08/2023-WIT-ZFM-ZOETERMEER-NL-768x72.png" group-title="The Netherlands | Zuid-Holland, Zoetermeer, Duitslandlaan 23 | Zoetermeer",ZFM Zoetermeer
+http://kippingmultimediaal.nl:8000/ZFMmobiel

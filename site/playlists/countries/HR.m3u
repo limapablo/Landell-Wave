@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="630e56b9-7675-42e7-b1cc-bebbabdbf082" tvg-logo="https://prigorskiradio.hr/wp-content/uploads/2023/01/prigorskiradio_web_logo.png.webp" group-title="Croatia | Antuna Gustava Matoša 3, Križevci | Križevci",Prigorski radio 96.6MHz
+http://s8.iqstreaming.com:8048/stream
+#EXTINF:-1 tvg-id="fb766cf5-cabe-4247-917b-b438f4c1b38a" group-title="Croatia | Belgrade | Unknown city",Naxi House
+http://naxidigital-house128.streaming.rs:8000/
+#EXTINF:-1 tvg-id="f05bd116-68a0-11ea-9d09-52543be04c81" group-title="Croatia | Dubrovnik | Unknown city",Soundset Ragusa
+http://178.218.163.171:8012/stream
+#EXTINF:-1 tvg-id="0b5c1211-b55d-4b3f-91ec-2abb365d8767" group-title="Croatia | Grad Zagreb | Buzin",Top Radio
+http://c5.hostingcentar.com:8000/streams/topradio/
+#EXTINF:-1 tvg-id="92248da8-2e1d-438a-8c95-dc59c3f23ebe" tvg-logo="https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ" group-title="Croatia | Grad Zagreb | Centar",bravo! balade
+http://c5.hostingcentar.com:8360/stream?1510
+#EXTINF:-1 tvg-id="9f21fc9f-6cc0-4aea-b6d3-60ba1b546f71" tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8" group-title="Croatia | Grad Zagreb | Centar",Otvoreni Chill
+https://stream.otvoreni.hr/chill
+#EXTINF:-1 tvg-id="960125a3-5b14-4dfc-970f-0a508dbd618d" tvg-logo="https://www.radiotvornica.hr/favicon.png" group-title="Croatia | Grad Zagreb | Centar",Radio Tvornica
+https://c8.hostingcentar.com/streams/radiotvornica?type=http&nocache=50001
+#EXTINF:-1 tvg-id="ec4801d4-e0bd-46a1-831e-838dd239c4d4" group-title="Croatia | Grad Zagreb | Centar",Yammat FM Romantic Rebels & Pop Waves
+https://stream.yammat.fm/listen/romantic_rebels__pop_waves/radio.mp3
+#EXTINF:-1 tvg-id="2ced10e8-9982-4e60-9ae2-4b4b36cf9f36" group-title="Croatia | Grad Zagreb | Centar",Yammat FM Soul Sayer
+https://stream.yammat.fm/listen/soul_sayer/radio.mp3
+#EXTINF:-1 tvg-id="6b2a640d-adbd-4836-9b75-4a7e58d46e09" group-title="Croatia | Grad Zagreb | Centar",Yammat FM Street Spitta
+https://stream.yammat.fm/listen/street_spitta/radio.mp3
+#EXTINF:-1 tvg-id="9626d18e-0601-11e8-ae97-52543be04c81" group-title="Croatia | Grad Zagreb | Unknown city",Antena Zagreb Dance
+http://live.antenazagreb.hr:8015/
+#EXTINF:-1 tvg-id="9625ab4e-0601-11e8-ae97-52543be04c81" group-title="Croatia | Grad Zagreb | Unknown city",Antena Zagreb Hit
+http://live.antenazagreb.hr:8011/
+#EXTINF:-1 tvg-id="9626f758-0601-11e8-ae97-52543be04c81" group-title="Croatia | Grad Zagreb | Unknown city",Antena Zagreb Love
+http://live.antenazagreb.hr:8007/
+#EXTINF:-1 tvg-id="02a0222a-f54f-11e8-a471-52543be04c81" tvg-logo="https://extrafm.hr/apple-touch-icon.png" group-title="Croatia | Grad Zagreb | Unknown city",Extra FM
+http://streams.extrafm.hr:8110/;
+#EXTINF:-1 tvg-id="f4737266-8a7b-42c2-98de-78a30a72457e" group-title="Croatia | Grad Zagreb | Unknown city",Otvoreni Radio - Chill
+https://stream.otvoreni.hr/chill
+#EXTINF:-1 tvg-id="1e945232-2289-4e1b-9e31-79f21ec3d466" group-title="Croatia | Grad Zagreb | Unknown city",TOP ROCK
+http://116.202.235.114:8408/
+#EXTINF:-1 tvg-id="f733c9ed-6e40-4566-a1f3-2ca200ff4f1e" group-title="Croatia | Grad Zagreb | Unknown city",TOP YOU
+http://116.202.235.114:8402/
+#EXTINF:-1 tvg-id="17428ba2-ccfc-4d91-aa98-41fe13d3f9da" tvg-logo="https://play-lh.googleusercontent.com/k2ngsQQBViSRECHD9P4jvH48hwjpGut6t7YWzfoVZSGBrqFHeJGwkTaW9_VYHVc2EQ" group-title="Croatia | Grad Zagreb | Zagreb",bravo! rock
+http://c5.hostingcentar.com:8348/stream?1996
+#EXTINF:-1 tvg-id="287714a6-50e4-41f9-b001-644eafa378fb" group-title="Croatia | Grad Zagreb | Zagreb",Otvoreni Fitness
+http://stream2.otvoreni.hr/fitness
+#EXTINF:-1 tvg-id="9670b906-4038-4a64-97af-617f7b6196cc" tvg-logo="https://kaj.hr/wp-content/uploads/2024/01/logoradiokaj-2.png" group-title="Croatia | Haendelova 4, Prečko | Zagreb",Radio Kaj
+http://s8.iqstreaming.com:8050/stream
+#EXTINF:-1 tvg-id="43a06798-bea3-4912-be7f-0f8dcc0f3369" group-title="Croatia | Istarska 2, Osijek | Osijek",Bijelo Plavi radio
+http://s8.iqstreaming.com:8028/stream
+#EXTINF:-1 tvg-id="8380b0a5-ff8d-4c3d-9176-3f66bc3e1882" group-title="Croatia | ISTRA | Umag",Radio Eurostar Umag
+http://mcp1.mydataknox.com:8012/stream
+#EXTINF:-1 tvg-id="46400731-47b8-4e4b-853e-bd8fabb06b87" group-title="Croatia | Karlovac | Karlovac",Karlovac Grill Mix radio
+http://s8.iqstreaming.com:8006/stream
+#EXTINF:-1 tvg-id="b7b99e0d-b083-4606-9f5e-62dd0e64a3b7" group-title="Croatia | Karlovac | Karlovac",Karlovac NOW Dance 90's radio
+http://s8.iqstreaming.com:8010/stream
+#EXTINF:-1 tvg-id="10810cb5-dcdf-4608-ac3b-3d325ef11073" group-title="Croatia | Karlovac | Karlovac",Karlovac NOW Dance 90's radio
+http://s8.iqstreaming.com:8010/stream
+#EXTINF:-1 tvg-id="6860bf18-9822-4bbb-8326-52b5c204717b" group-title="Croatia | Karlovac | Karlovac",PRVI KARLOVACKI
+http://s8.iqstreaming.com:8002/stream
+#EXTINF:-1 tvg-id="7f7b7a79-b12e-4f38-8935-33da6580cf58" group-title="Croatia | Korčula island, Korčula | Korčula",Radio Korčula 107,5FM
+http://shoutcast.pondi.hr:8005/;
+#EXTINF:-1 tvg-id="1001ef63-b86b-482a-ace1-c09d8d4fefd4" tvg-logo="https://rhzk.hr/wp-content/uploads/2017/10/header-2-copy1-585x80.jpg" group-title="Croatia | Krapina-Zagorje | Krapina",RADIO HRVATSKO ZAGORJE KRAPINA
+http://s8.iqstreaming.com:8072/stream
+#EXTINF:-1 tvg-id="059ac536-2d21-45d1-8342-506c5a6d0326" group-title="Croatia | Krke | Skradin",Radio Krka
+http://cmr-hosting.com/9700/stream
+#EXTINF:-1 tvg-id="a43fe521-6b1b-4297-9d0d-26e0b903b328" tvg-logo="https://www.radio105.hr/favicon.ico" group-title="Croatia | Medjimurje | Unknown city",Radio 105 Selnica (HR)
+https://azuracast.novi-net.net/radio/8050/radio105.aac
+#EXTINF:-1 tvg-id="59789869-2545-49c2-bb06-5e6f3246fe39" tvg-logo="https://www.pomorskiradio.hr/wp-content/uploads/2021/12/prb_novi_logo_horiz-1-scaled-e1639421254142-1024x243.jpg" group-title="Croatia | Nautička 3, 51222 Bakar | Bakar",Pomorski Radio Bakar
+http://matrix-server.hr:8010/live.mp3
+#EXTINF:-1 tvg-id="2beeeeea-fe3a-4a3d-b8f6-fb6aeab2e594" group-title="Croatia | Primorje-Gorski Kotar | Rijeka",Radio Roža
+http://stream.radio-roza.org/live.ogg
+#EXTINF:-1 tvg-id="96194660-0601-11e8-ae97-52543be04c81" group-title="Croatia | Sisačko-moslavačka županija | Unknown city",Radio Quirinus 91.7
+http://s8.iqstreaming.com:8064/stream
+#EXTINF:-1 tvg-id="2b72e4cd-edb6-4001-a7cd-7a824f3a3d59" group-title="Croatia | Splitsko Dalmatinska | Split",Radio Dalmacija - Olivet
+http://c5.hostingcentar.com:8275/stream
+#EXTINF:-1 tvg-id="93173a0b-ae4c-48e9-ad92-bef4c8fc4151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Radio_Dalmacija_logo.jpg/300px-Radio_Dalmacija_logo.jpg" group-title="Croatia | Splitsko Dalmatinska | Unknown city",Radio Dalmacija - Furešta
+http://c5.hostingcentar.com:8215/stream
+#EXTINF:-1 tvg-id="20e1f99e-8090-4f51-bc57-42752922a10a" tvg-logo="https://www.radiodalmacija.hr/favicon.ico" group-title="Croatia | Splitsko Dalmatinska | Unknown city",Radio Dalmacija - Hajdučke
+http://c5.hostingcentar.com:8221/stream
+#EXTINF:-1 tvg-id="2dcb60cb-87a8-4640-819a-5a0c1c6e5022" tvg-logo="https://www.radiodalmacija.hr/favicon.ico" group-title="Croatia | Splitsko Dalmatinska | Unknown city",Radio Dalmacija - Oliver
+http://c5.hostingcentar.com:8275/stream
+#EXTINF:-1 tvg-id="72b0ac2f-7ca0-4499-9935-42f8e9a9e699" group-title="Croatia | Splitsko-Dalmatinska | Unknown city",KLFM.org
+https://klfmorgborg.radioca.st/stream?type=http&nocache=1089
+#EXTINF:-1 tvg-id="a6d33374-442b-45d1-aab8-f4f1acda1c03" group-title="Croatia | Splitsko-Dalmatinska | Unknown city",Radio Brac
+http://s8.iqstreaming.com:8066/stream
+#EXTINF:-1 tvg-id="2cd4de45-a896-47a4-9443-7553405c353b" tvg-logo="https://clubmusic-1.com/favicon.ico" group-title="Croatia | Unknown region | Unknown city",..:: CLUB MUSIC RADIO ::....:: CRO HITS ::..
+http://cmr-hosting.com:8060/stream?type=http&nocache=823456
+#EXTINF:-1 tvg-id="cce535eb-a691-43a2-8e0f-094b6dad73b8" group-title="Croatia | Unknown region | Unknown city",..:: CLUB MUSIC RADIO ::....:: Folk ::..
+http://cmr-hosting.com:8010/stream?type=http&nocache=401572
+#EXTINF:-1 tvg-id="398e354d-303a-421a-953e-4e0a415b17ae" tvg-logo="https://clubmusic-1.com/favicon.ico" group-title="Croatia | Unknown region | Unknown city",..:: CLUB MUSIC RADIO ::....:: TAMBURA ::..
+http://cmr-hosting.com:8070/stream?type=http&nocache=646624
+#EXTINF:-1 tvg-id="a0a53101-7ce3-4a69-aa5c-cac3cef968cd" tvg-logo="https://cdn-profiles.tunein.com/s83931/images/bannerx.jpg?t=636748543016900000" group-title="Croatia | Unknown region | Unknown city",Antena Zagreb - Live
+http://live.antenazagreb.hr:8000/;
+#EXTINF:-1 tvg-id="74b351da-f9f9-4eb0-861e-6e307e078d58" group-title="Croatia | Unknown region | Unknown city",Banovina Light
+https://audio.radio-banovina.hr:7008/stream
+#EXTINF:-1 tvg-id="08d2313f-5550-4e51-8179-bd2c066d7e2e" group-title="Croatia | Unknown region | Unknown city",Club Music Radio - 70's 80's 90's
+https://cmr-hosting.com:7003/;stream/1
+#EXTINF:-1 tvg-id="98cbe29c-83cc-4091-bc0f-52a39dcbc58c" group-title="Croatia | Unknown region | Unknown city",CMC Jugoton
+http://radio-stream.cmc.com.hr:8020/autodj
+#EXTINF:-1 tvg-id="d1d1bb28-585a-4217-8f69-810aaa51294a" group-title="Croatia | Unknown region | Unknown city",CMC Lagano
+http://radio-stream.cmc.com.hr:8030/autodj
+#EXTINF:-1 tvg-id="f804fb11-fa49-4b3a-ac21-edc6bde02065" group-title="Croatia | Unknown region | Unknown city",CMC Zabavni
+http://radio-stream.cmc.com.hr:8085/autodj
+#EXTINF:-1 tvg-id="6153764f-fb00-4496-a66c-4de307603d97" tvg-logo="https://dvb.digital/favicon_io/apple-touch-icon.png" group-title="Croatia | Unknown region | Unknown city",dvb.digital
+https://radio.dvb.digital/listen/dvb.digital/hq.mp3
+#EXTINF:-1 tvg-id="f654975c-1da7-4fa8-948d-7ec7ba5a1974" group-title="Croatia | Unknown region | Unknown city",GalacticFM - Progressive House & Trance
+https://a1.asurahosting.com/listen/galacticfm_-_progressive_house__trance/radio.mp3
+#EXTINF:-1 tvg-id="03695c36-2798-45dd-8ac3-ae112d242ed5" group-title="Croatia | Unknown region | Unknown city",Happy Fest
+https://audio.social3.hr/listen/happy_fest/stream?9763
+#EXTINF:-1 tvg-id="6a79b8c7-92be-4b26-95f2-939f2af00d95" group-title="Croatia | Unknown region | Unknown city",Happy FM
+http://c5.hostingcentar.com:8072/
+#EXTINF:-1 tvg-id="b2d03353-d3c5-41fc-9b88-b64c971e46f2" tvg-logo="https://happyfm.hr/apple-touch-icon.png" group-title="Croatia | Unknown region | Unknown city",Happy FM - Legenda
+http://c5.hostingcentar.com:8396/
+#EXTINF:-1 tvg-id="707f6233-7b09-4059-9b2f-453502c3761d" group-title="Croatia | Unknown region | Unknown city",Happy FM - Party
+http://c5.hostingcentar.com:8390/
+#EXTINF:-1 tvg-id="73c4e66f-ab36-478d-b3c5-0e0b7c219b24" tvg-logo="https://www.zgportal.com/wp-content/uploads/2022/11/happy-fm-radio-sa-srcem-i-tijelom-2022.jpg" group-title="Croatia | Unknown region | Unknown city",Happy FM Tambura
+http://c5.hostingcentar.com:8378/stream?3238
+#EXTINF:-1 tvg-id="f639d138-0adc-4883-a24a-096e3493e7f5" group-title="Croatia | Unknown region | Unknown city",HRT Drugi program
+https://25453.live.streamtheworld.com/PROGRAM2AAC.aac
+#EXTINF:-1 tvg-id="961d7b4f-0601-11e8-ae97-52543be04c81" group-title="Croatia | Unknown region | Unknown city",HRT HR 2 - Drugi program
+http://22733.live.streamtheworld.com:3690/PROGRAM2AAC_SC
+#EXTINF:-1 tvg-id="961bd30f-0601-11e8-ae97-52543be04c81" group-title="Croatia | Unknown region | Unknown city",HRT HR 3 - Treći program
+http://25503.live.streamtheworld.com:3690/PROGRAM3AAC_SC
+#EXTINF:-1 tvg-id="961d3c6b-0601-11e8-ae97-52543be04c81" group-title="Croatia | Unknown region | Unknown city",HRT Radio Dubrovnik
+http://27783.live.streamtheworld.com:3690/DUBROVNIKAAC_SC
+#EXTINF:-1 tvg-id="961d03f2-0601-11e8-ae97-52543be04c81" group-title="Croatia | Unknown region | Unknown city",HRT Radio Rijeka
+http://23613.live.streamtheworld.com/RIJEKAAAC_SC
+#EXTINF:-1 tvg-id="c65436db-e6b8-425f-b925-0396b056ea89" tvg-logo="https://radio.hrt.hr/hrt-180x180.png" group-title="Croatia | Unknown region | Unknown city",Hrvatski radio - Klasik (HRT)
+http://19983.live.streamtheworld.com/HR_CLASSICSAAC_SC
+#EXTINF:-1 tvg-id="d2f49a4a-54e3-4059-8f5c-2120962ae81e" group-title="Croatia | Unknown region | Unknown city",Otvoreni Radio - Fitness
+https://stream.otvoreni.hr/fitness
+#EXTINF:-1 tvg-id="9c7280a1-e650-4cf3-897f-480a50653e74" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlK-8aTHvPbp6FfftKfbaHNfK2-NOtAZLhFw&s" group-title="Croatia | Unknown region | Unknown city",Radio 2
+http://listen.mitchfm.com/
+#EXTINF:-1 tvg-id="d5eee22a-6fc0-11e8-83fa-52543be04c81" tvg-logo="https://radio808.com/wp-content/uploads/2018/02/cropped-logo-808-192x192.png" group-title="Croatia | Unknown region | Unknown city",Radio 808
+http://stream.radio808.info:8003/
+#EXTINF:-1 tvg-id="110b733c-a6ea-4ac4-bd75-117617b19a3a" group-title="Croatia | Unknown region | Unknown city",Radio Boom Hits
+https://stream.zeno.fm/7n7hwy8s9k0uv
+#EXTINF:-1 tvg-id="0be05318-b6ad-11e8-aaf2-52543be04c81" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/5uLKDLksVe.png" group-title="Croatia | Unknown region | Unknown city",Radio Dalmacija
+http://shoutcast.pondi.hr:8000/;
+#EXTINF:-1 tvg-id="7d7f2c9b-d0be-4b43-8153-6917a67e8420" group-title="Croatia | Unknown region | Unknown city",Radio Daruvar
+https://mcp1.mydataknox.com:8020/live.mp3
+#EXTINF:-1 tvg-id="cb31301a-6e75-4d70-8139-e495cdeaaea2" tvg-logo="https://kaj.hr/wp-content/uploads/2024/01/logoradiokaj-2.png" group-title="Croatia | Unknown region | Unknown city",Radio Kaj
+http://s8.iqstreaming.com:8050/stream
+#EXTINF:-1 tvg-id="3eba933a-a037-447b-b3ca-ffeb8ca90b08" group-title="Croatia | Unknown region | Unknown city",Radio Križevci
+https://s8.iqstreaming.com:8048/stream
+#EXTINF:-1 tvg-id="12ebc143-6d72-42db-89b4-3610f97c9409" group-title="Croatia | Unknown region | Unknown city",Radio Marija Bistrica
+http://178.218.163.171:8024/stream
+#EXTINF:-1 tvg-id="f5657e54-282b-4b3f-943f-347127108768" tvg-logo="https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png" group-title="Croatia | Unknown region | Unknown city",Radio Max
+https://azuracast.novi-net.net/listen/radiomax/radiomax.mp3
+#EXTINF:-1 tvg-id="261be74b-ec3c-4327-bba1-01ac505d556e" tvg-logo="https://i0.wp.com/radio.rojc.eu/wp-content/uploads/2023/08/radio-rojc-frekvencija-logo-4-1-3.png" group-title="Croatia | Unknown region | Unknown city",Radio Rojc
+https://cf.widecastcdn.live/Z07ww1NUNl/live.m3u8
+#EXTINF:-1 tvg-id="d0ee079a-b106-4e37-98db-b9fb03f141f9" tvg-logo="https://radio-stubica.hr/favicon.ico" group-title="Croatia | Unknown region | Unknown city",Radio stubica
+http://radiostubica.hc.hr:7006/stream
+#EXTINF:-1 tvg-id="55e5a025-8c6e-41ba-9397-b564f71f1b4b" group-title="Croatia | Unknown region | Unknown city",Radio Techno Dance Kneginec
+http://stream.zeno.fm/8d2pyzm5wp8uv
+#EXTINF:-1 tvg-id="d19ffbcd-0e72-4d25-a2e4-b4de50883e1d" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Croatia | Unknown region | Unknown city",Radio Vinkovci
+https://onlineradiobox.com/json/hr/vinkovci/play?platform=web
+#EXTINF:-1 tvg-id="6f47be9d-c341-4401-9d74-b087e83661ae" group-title="Croatia | Unknown region | Unknown city",Tamburaški radio
+https://listen.radioking.com/radio/552965/stream/612287
+#EXTINF:-1 tvg-id="e33738f0-7482-4aa7-9a3d-4e6d299d9747" group-title="Croatia | Unknown region | Unknown city",Tvoj Feel Good radio ! Otvoreni
+https://stream2.otvoreni.hr/otvoreni
+#EXTINF:-1 tvg-id="72c20df5-257c-11e9-a80b-52543be04c81" group-title="Croatia | Unknown region | Unknown city",ULTRA Split
+http://c5.hostingcentar.com:8061/stream
+#EXTINF:-1 tvg-id="ac78d4f5-ac2b-4d9e-8f33-2187a41fb539" tvg-logo="https://www.yammat.fm/wp-content/themes/yammat/src/img/favicon/1024x1024.png" group-title="Croatia | Unknown region | Unknown city",Yammat FM
+https://stream.yammat.fm/radio/8000/yammat.mp3
+#EXTINF:-1 tvg-id="6e5f90fa-a898-4f20-8f97-74843e988e33" group-title="Croatia | Unknown region | Unknown city",Zagorski radio
+https://s8.iqstreaming.com:2020/stream/zagorski/stream
+#EXTINF:-1 tvg-id="ed25c1d5-b229-449f-b66f-43be3643f661" tvg-logo="https://zfm.hr/wp-content/uploads/2020/01/LOGO-2019-SMALL.png" group-title="Croatia | Unknown region | Unknown city",ZFM 99.5 & 96.0
+https://ec2s.crolive.com.hr:7015/stream
+#EXTINF:-1 tvg-id="e5a8ffd5-58c7-453a-b286-1197a6b317ad" tvg-logo="https://radiomax.hr/wp-content/uploads/2025/02/cropped-logo350x100-protizrni-768x256.png" group-title="Croatia | Varaždinska | Unknown city",Radio Max
+https://azuracast.novi-net.net/radio/8010/radiomax.aac
+#EXTINF:-1 tvg-id="761a166b-0350-48f0-a503-edb1a227233f" tvg-logo="https://www.folkyton.com/index_htm_files/292@2x.png" group-title="Croatia | Velika Mlaka | Velika Mlaka",FolkyTon Radio
+https://ec2s.crolive.com.hr:6035/stream
+#EXTINF:-1 tvg-id="cf16320d-d519-431e-b972-93e691cce9ab" group-title="Croatia | Vukovar | Unknown city",Tamburaški radio
+https://listen.radioking.com/radio/552965/stream/612287
+#EXTINF:-1 tvg-id="d853347f-202a-49bc-9b13-2f2bea321c19" group-title="Croatia | Zagorje | Unknown city",Radio Max 99.3 (Cerje Nebojse, Maruševec)
+https://azuracast.novi-net.net/listen/radiomax/radiomax.aac?refresh=1676766574706
+#EXTINF:-1 tvg-id="120f5847-68d7-41d1-8b28-51614984d1f3" group-title="Croatia | Zagreb | Centar",Club Music Radio Tambura
+http://cmr-hosting.com:8070/
+#EXTINF:-1 tvg-id="503a6fa2-6aba-48c7-af7d-467303752dae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Narodni_Logo_2.png" group-title="Croatia | Zagreb | Centar",Narodni - Ne pitaj, samo sviraj!
+http://c5.hostingcentar.com:8348/;
+#EXTINF:-1 tvg-id="a4918d66-9b48-468f-909b-aec802d25032" tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w240-h480-rw" group-title="Croatia | Zagreb | Centar",Otvoreni Radio
+http://stream2.otvoreni.hr/otvoreni
+#EXTINF:-1 tvg-id="2efbb8fa-330c-403b-aa71-90f64fe175ec" tvg-logo="https://radio101.hr/favicon.ico" group-title="Croatia | Zagreb | Centar",Radio 101 Rock
+https://live.radio101.hr:8010/
+#EXTINF:-1 tvg-id="46323be7-02f1-49e0-899a-2177046fcdb3" group-title="Croatia | Zagreb | Centar",Top Radio Gold
+https://audio.social3.hr/listen/top_radio_gold/stream?7802
+#EXTINF:-1 tvg-id="b19f2749-9c66-48ac-b3ae-a6bfd05030ae" tvg-logo="https://radio.hrt.hr/static/klasik.jpg" group-title="Croatia | Zagreb | Novi Zagreb",Hrvatski radio - Klasik
+http://23543.live.streamtheworld.com:3690/HR_CLASSICS_SC
+#EXTINF:-1 tvg-id="b5a95956-8349-42cc-8b07-d73b5f8d4122" tvg-logo="https://radio.hrt.hr/static/pop.jpg" group-title="Croatia | Zagreb | Novi Zagreb",Hrvatski radio - Pop glazba
+http://25633.live.streamtheworld.com:3690/HR_POP_SC
+#EXTINF:-1 tvg-id="ae9f57bd-2efd-43ed-95ec-89b4c7aafbe8" tvg-logo="https://aviion-frontcdn.aviion.tv/epg/Rockradio.jpg" group-title="Croatia | Zagreb | Novi Zagreb",Hrvatski radio - Rock
+http://25633.live.streamtheworld.com/HR_ROCK_SC
+#EXTINF:-1 tvg-id="ae1aa882-22a6-4cda-89ee-ed348548046c" group-title="Croatia | Zagreb | Novi Zagreb",Laganini FM Zagreb NEW
+http://sky.doscast.com:8331/stream?
+#EXTINF:-1 tvg-id="964939e3-0601-11e8-ae97-52543be04c81" group-title="Croatia | Zagreb | Unknown city",HRT HR 1 - Prvi program
+http://25643.live.streamtheworld.com/PROGRAM1_SC
+#EXTINF:-1 tvg-id="8c567bfe-84b4-40bc-8d35-94fac68a674e" group-title="Croatia | Zagreb | Unknown city",HRT HR 2
+https://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3
+#EXTINF:-1 tvg-id="f1d937f5-70be-45c0-bd26-bf512a705f7f" tvg-logo="https://topradio.hr/favicon.ico" group-title="Croatia | Zagreb | Unknown city",Top Radio Pop
+https://audio.social3.hr/listen/top_radio_pop/stream?5483
+#EXTINF:-1 tvg-id="76ca4ca5-20aa-4015-9825-7fd035dfb077" group-title="Croatia | Zagreb | Unknown city",Top Radio Rock
+https://audio.social3.hr/listen/top_radio_rock/stream?7435
+#EXTINF:-1 tvg-id="bc725fa2-d147-4786-a518-6a0c1624c907" tvg-logo="https://topradio.hr/favicon.ico" group-title="Croatia | Zagreb | Unknown city",Top Radio Yugo
+https://audio.social3.hr/listen/top_exyu/stream?8298
+#EXTINF:-1 tvg-id="3a23d0e2-4ceb-4439-a33a-6feb575b1bf6" tvg-logo="https://play-lh.googleusercontent.com/7GF9uqVfOXStFXPZPuTBbYvD-HGk4TOgXw_xnbqOIDk13Ai_mQhUubMX1swofaNBkh8=w480-h960" group-title="Croatia | Zagreb | Zagreb",Otvoreni - Live
+https://stream.otvoreni.hr/otvoreni
+#EXTINF:-1 tvg-id="96235f09-0601-11e8-ae97-52543be04c81" group-title="Croatia | Zagrebačka županija | Unknown city",Obiteljski Radio Ivanić
+http://s8.iqstreaming.com:8080/stream
+#EXTINF:-1 tvg-id="2e779571-5cc1-4feb-9803-9b82632dcef1" tvg-logo="https://www.noviradio.hr/wp-content/uploads/2020/05/novi-radio-logo2.png" group-title="Croatia | Zrinsko-frankopanska 13, Zadar | Zadar",Novi radio Zadar
+http://s8.iqstreaming.com:8022/stream

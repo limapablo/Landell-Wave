@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="44d07a12-8e3d-4721-875b-8a435d4690d1" tvg-logo="https://online-radio.eu/logo/144/144671.jpg" group-title="Turkmenistan | Unknown region | Unknown city",Alaşehir Damar FM
+http://178.32.4.127:8358/;
+#EXTINF:-1 tvg-id="66b95d12-443d-4304-92cb-0efffd111b65" tvg-logo="https://turkmedya.com.tr/assets/img/favico.png" group-title="Turkmenistan | Unknown region | Unknown city",Tv24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8

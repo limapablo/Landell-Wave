@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="270fdac5-b50c-4775-ac3f-aa0638d1902e" tvg-logo="https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/favicon.ico" group-title="New Zealand | Auckland | Auckland",Radio Hauraki
+https://23163.live.streamtheworld.com/NZME_04AAC/HLS/playlist.m3u8
+#EXTINF:-1 tvg-id="2e1c8d8a-605a-4b18-bfe2-751a3648713d" group-title="New Zealand | Auckland | Freemans Bay",The Edge
+https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8
+#EXTINF:-1 tvg-id="e6f28764-3433-439c-9eb8-8f9fd0e95a88" tvg-logo="https://listen.eastfm.nz/logo.png" group-title="New Zealand | Auckland | Howick",East FM
+https://listen.eastfm.nz/stream-aac-64
+#EXTINF:-1 tvg-id="55274882-6130-4c33-bb2b-72012215dca1" tvg-logo="https://www.thesound.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-thesound/resources/favicons/apple-touch-icon-180x180.png" group-title="New Zealand | Auckland | Meadowbank",The Sound
+https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8
+#EXTINF:-1 tvg-id="f93ed26a-d2f9-4fa6-8509-4413d885138c" tvg-logo="https://sayhifm.com/images/favicon.ico" group-title="New Zealand | Auckland | Takanini",SayHiFM
+https://play.radioking.io/sayhifm
+#EXTINF:-1 tvg-id="6b0dee5f-2288-4b49-a1e2-497959078190" tvg-logo="https://wsradio.net/wp-content/uploads/2016/08/cropped-WanderingsheepRadioLogoSQ-big-192x192.png" group-title="New Zealand | Auckland | Turangi",JAZZ CAFE
+https://radio.wanderingsheep.net:8000/jazzcafe
+#EXTINF:-1 tvg-id="59b2ab71-7653-4123-ae84-bdbf56fdab6e" tvg-logo="https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png" group-title="New Zealand | Auckland | Unknown city",95bFM - FLAC
+https://streams.95bfm.com/stream112
+#EXTINF:-1 tvg-id="b92c342d-a349-4e4e-b49d-e89a88cadc5c" tvg-logo="https://www.madfm.net/favicon.ico" group-title="New Zealand | Auckland | Unknown city",MAD FM Auckland 106.7
+https://madfm-gecko.radioca.st/stream
+#EXTINF:-1 tvg-id="69b26bba-7b57-46c8-91f2-032febb52473" tvg-logo="https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg" group-title="New Zealand | Auckland | Unknown city",Magic
+https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8
+#EXTINF:-1 tvg-id="89440784-a9c3-46b2-9474-1ed2c8baac72" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Mai_FM_logo.svg/1200px-Mai_FM_logo.svg.png" group-title="New Zealand | Auckland | Unknown city",Mai FM
+https://mediaworks.streamguys1.com/mai_net_icy
+#EXTINF:-1 tvg-id="2ef52514-f78f-483e-94b6-7b7a11d8808a" tvg-logo="https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png" group-title="New Zealand | Auckland | Unknown city",RNZ National AAC (128kbps)
+http://radionz-ice.streamguys.com/National_aac128
+#EXTINF:-1 tvg-id="c6723382-d7b8-45e2-99ad-40a4b2b3a009" tvg-logo="https://yoursanctuary.nz/_ipx/_/images/cover.jpg" group-title="New Zealand | Auckland | Unknown city",Sanctuary - AAC
+https://rhema-radio.streamguys1.com/rhema-sanctuary.aac
+#EXTINF:-1 tvg-id="96222109-0601-11e8-ae97-52543be04c81" tvg-logo="https://yoursanctuary.nz/_ipx/_/images/cover.jpg" group-title="New Zealand | Auckland | Unknown city",Sanctuary - MP3
+https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3
+#EXTINF:-1 tvg-id="b61e2d85-286e-4510-b6af-a7549cfeb13d" tvg-logo="https://sportnation.nz/radio.png" group-title="New Zealand | Auckland | Unknown city",Sport Nation - AAC
+https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8
+#EXTINF:-1 tvg-id="74ee4b8c-1c55-4a2f-8fa6-2d6136e6fb8f" tvg-logo="https://cdn-profiles.tunein.com/s17930/images/logod.png?t=638017388010000000" group-title="New Zealand | Auckland | Unknown city",The Breeze 93.4
+https://mediaworks.streamguys1.com/breeze-akl-high_icy
+#EXTINF:-1 tvg-id="2fa6da4e-e494-4a5f-a29a-bf94bd77c864" tvg-logo="https://i.postimg.cc/gkQ2VPks/the-hits-c99846c6.png" group-title="New Zealand | Auckland | Unknown city",The Hits
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ
+#EXTINF:-1 tvg-id="48a88c41-f9cb-4a15-b504-97c48af247fc" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg" group-title="New Zealand | Auckland | Unknown city",UP FM 107.5
+https://stream.upfm.live/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="064b2425-e377-49b5-98bb-e6459596b020" tvg-logo="https://static.wixstatic.com/media/53e57b_acd90b3739fe4bde8acaadfd96d35520~mv2.jpg/v1/fill/w_415,h_415,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Radio%20Monkey-01%20(1).jpg" group-title="New Zealand | Bay of Plenty | Awakeri",Keep Laughing Forever Radio
+http://carol.epichosts.co.uk:8610/autodj.mp3
+#EXTINF:-1 tvg-id="209eeeef-33b4-4080-b1b0-1a38f7d07fa7" group-title="New Zealand | Canterbury | Christchurch",Power Hit FM 87.8 - Christchurch, NZ
+http://listen.powerhitfm.co.nz:16100/stream
+#EXTINF:-1 tvg-id="5705e8c2-6208-41c9-8ad1-3fb780405548" tvg-logo="https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg" group-title="New Zealand | Dunedin | Unknown city",Kiwi Folk Radio
+https://streamer.radio.co/sde527a41e/listen
+#EXTINF:-1 tvg-id="5f98d68a-be85-4e00-aad8-5d8cb66d75fc" tvg-logo="https://www.rnz.co.nz/x/favicons/production/apple-touch-icon-14e8cc0d5e9a21845ce6a582e39617baeebe39d41412666ecebcdba7f3c1770a.png" group-title="New Zealand | Greater Wellington | Unknown city",RNZ Parliament MP3 (Sanctuary outside Parliament hours)
+http://radionz-ice.streamguys.com/parliament.mp3
+#EXTINF:-1 tvg-id="b35e26d9-1962-4dd5-9c5c-e931eceff1c4" tvg-logo="https://cdn3.firecrestsystems.com/FC_Kidnappers/Images/RadioHawkesBay-Logo-NB.png" group-title="New Zealand | Hawkes Bay | Unknown city",Radio Hawkes Bay
+https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="0d8da890-b6dd-4c28-acf6-a862b0902bba" group-title="New Zealand | Manawatu | Unknown city",MPR Manawatu People's Radio
+https://live.accessmedia.nz/MPR.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="73a6f6f6-871e-4d27-97ec-92ec2793f093" group-title="New Zealand | Manawatu-Wanganui | Bulls",The Platform Kiwi
+https://streaming.shoutcast.com/the-platformlive
+#EXTINF:-1 tvg-id="0c144adf-06dd-481e-b425-be47c76cc0be" tvg-logo="https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png" group-title="New Zealand | Nelson | Nelson",More FM - Nelson
+https://mediaworks.streamguys1.com/more-nsn-high_icy
+#EXTINF:-1 tvg-id="e3daf602-40fe-433a-810f-4807031f4af4" group-title="New Zealand | Nelson | Nelson South",Radio A - Nelson NZ
+https://listen.radioking.com/radio/106324/stream/145267
+#EXTINF:-1 tvg-id="94849e09-82db-4d33-b8ec-a041e8be516f" group-title="New Zealand | Nelson | Stoke",Brian FM 105.6 Nelson NZ
+https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8?
+#EXTINF:-1 tvg-id="aac62510-997b-4565-b22f-85d637564a68" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radio.net%2Fimages%2Fbroadcasts%2Fe3%2F9b%2F126709%2F1%2Fc300.png&f=1&nofb=1" group-title="New Zealand | Paekakariki | Unknown city",Paekakariki 88.2FM
+https://icecast.groundtruth.co.nz/paekakfm.aac
+#EXTINF:-1 tvg-id="af6c48a0-3051-401c-97da-f84b4171c7d6" group-title="New Zealand | Palmerston North | Palmerston North",2XS FM Palmerston North
+http://125.236.204.178:8001/listen.mp3
+#EXTINF:-1 tvg-id="80cf7a66-748f-4538-8de4-893e57827d8c" tvg-logo="https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png" group-title="New Zealand | Raglan Hamilton | Raglan",Raglan Communtiy Radio
+https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956
+#EXTINF:-1 tvg-id="9e220835-ca65-4570-94f6-f31f70d6542f" group-title="New Zealand | South Canterbury | Unknown city",100,3FM South Canterbury
+http://uk4-vn.mixstream.net:8066/stream/1/
+#EXTINF:-1 tvg-id="4c4d2d7b-cab3-4003-bd39-a6225252b055" group-title="New Zealand | Taranaki | Unknown city",The Most FM 104.4
+http://gordon.mostfm.com:8000/high
+#EXTINF:-1 tvg-id="a5cafde1-44e4-438e-ba98-e224acd75fb7" tvg-logo="https://www.freshfm.net/favicon.ico" group-title="New Zealand | Tasman | Unknown city",FreshFM
+https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8
+#EXTINF:-1 tvg-id="270a3bee-247e-4398-b31f-9ce35f71d247" tvg-logo="https://www.sub.fm/wp-content/uploads/2017/07/cropped-black-sub-180x180.png" group-title="New Zealand | Tauranga | Unknown city",Sub FM
+https://fmsub.radioca.st/stream?type=http&nocache=140
+#EXTINF:-1 tvg-id="98d8ab1e-729a-42ea-b397-4505b159a69c" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/602/bandwagon-radio.8250a334.jpg" group-title="New Zealand | Unknown region | Unknown city",Bandwagon Radio
+https://streaming.radio.co/scfae3b30e/listen
+#EXTINF:-1 tvg-id="de11ceb8-6ef9-11ea-b1cf-52543be04c81" group-title="New Zealand | Unknown region | Unknown city",Coast Access Radio
+https://live.accessmedia.nz/Coast.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="964c54ec-0601-11e8-ae97-52543be04c81" group-title="New Zealand | Unknown region | Unknown city",Gaia FM New Zealand
+http://s2.stationplaylist.com:9000/gaiafm.aac
+#EXTINF:-1 tvg-id="d831d32a-365a-465e-aec2-82c83cd04abb" tvg-logo="https://images.ctfassets.net/r65x6q43xsmv/308P6uWsXoijQkQbMBTsGV/8a6cca4fc65e97c504a99a8ec44536bb/GRG_RVA_CocktailHour_600x600_1_.png?fm=png&w=200&q=95&f=center" group-title="New Zealand | Unknown region | Unknown city",George FM - Cocktail Hour
+https://playerservices.streamtheworld.com/api/livestream-redirect/COCKTAILHOUR_S01AAC.aac
+#EXTINF:-1 tvg-id="0e9bb734-b0da-427e-900f-bdf87bce0650" tvg-logo="https://images.ctfassets.net/r65x6q43xsmv/6kYCr49AIFrqBnXRbmHo5M/d8f64b4efeb114d188ce0599d44257c1/lates_bangers_new_new.png?fm=png&w=200&q=95&f=center" group-title="New Zealand | Unknown region | Unknown city",George FM - Latest Bangers
+https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFRESHHITS_S01.aac
+#EXTINF:-1 tvg-id="e1bd4a00-7c0f-4c50-abc6-91fff1f53f21" group-title="New Zealand | Unknown region | Unknown city",Jazz Cafe
+http://radio.wanderingsheep.tv:8000/jazzcafe
+#EXTINF:-1 tvg-id="4db39f80-ac48-4db2-b20f-343a0397bb9b" tvg-logo="https://jazzgroove.org/favicon.ico" group-title="New Zealand | Unknown region | Unknown city",JAZZGROOVE.org - Smooth Jazz (64k)
+http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780
+#EXTINF:-1 tvg-id="343467aa-9c72-43ea-8a8f-53d89acefebe" tvg-logo="https://klc-radio.web.app/radio/img/logo.png" group-title="New Zealand | Unknown region | Unknown city",Keep Laughing Forever Radio
+https://la-ssd.myautodj.com:1160/stream?_=1790929716573
+#EXTINF:-1 tvg-id="d596f379-e7a5-49c6-923c-117e26d9d365" group-title="New Zealand | Unknown region | Unknown city",metalradio.co.nz
+http://curiosity.shoutca.st:9073/stream
+#EXTINF:-1 tvg-id="0189c6f6-3880-4381-8511-a4b694753ccf" group-title="New Zealand | Unknown region | Unknown city",metalradio.co.nz
+http://curiosity.shoutca.st:9073/stream
+#EXTINF:-1 tvg-id="903bad58-6ccb-4789-9b32-98a1b7b456f7" group-title="New Zealand | Unknown region | Unknown city",MIX FM Wellington
+https://stream.mixfm.nz/
+#EXTINF:-1 tvg-id="8fcf0980-e6e2-4ab6-a815-0a655274e63f" tvg-logo="https://i0.wp.com/www.nznetradio.net.nz/wp-content/uploads/2025/08/cropped-NZ-Net-Radio-logo-2025-2048-600.jpg?resize=768%2C401&ssl=1" group-title="New Zealand | Unknown region | Unknown city",New Zealand Net Radio
+https://radio.nznetradio.net.nz/stream3
+#EXTINF:-1 tvg-id="ceedb798-dc82-11e8-a9cc-52543be04c81" tvg-logo="https://www.newstalkzb.co.nz/content/news/images/interface/icons/newstalkzb/apple-touch-icon.png" group-title="New Zealand | Unknown region | Unknown city",Newstalk ZB Wellington
+http://playerservices.streamtheworld.com/api/livestream-redirect/NZME_31AAC.m3u8
+#EXTINF:-1 tvg-id="9513a5a0-481a-4250-b136-ef97b0fa01d4" group-title="New Zealand | Unknown region | Unknown city",Plains FM 96.9
+http://live.accessmedia.nz/plains.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="91828462-6d40-4ca4-b71a-a0d3246e65a3" tvg-logo="https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/apple-touch-icon.png" group-title="New Zealand | Unknown region | Unknown city",Radio Hauraki
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC
+#EXTINF:-1 tvg-id="14928631-8213-42aa-bfc1-aad43f604154" group-title="New Zealand | Unknown region | Unknown city",Radio Sangeet Masti
+https://servidor19-4.brlogic.com:7304/live?source=website
+#EXTINF:-1 tvg-id="95c328e9-49a3-46e7-ae10-2e0c54715fab" tvg-logo="https://static.wixstatic.com/media/3e4049_c61d1cbe9d9f4edd919ee7b6376b0f9b~mv2.jpg/v1/fill/w_97,h_97,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RR_blueonblack-1.jpg" group-title="New Zealand | Waikato | Unknown city",Radio Robotic
+https://stream.zeno.fm/x4hneey2vwzuv
+#EXTINF:-1 tvg-id="74cf3ba5-6899-43d2-b57d-f8cc5f73c512" tvg-logo="https://www.wix.com/favicon.ico" group-title="New Zealand | Waikato, Morrinsville | Unknown city",Positively Morrinsville 87.7FM
+https://c16.radioboss.fm:8262/stream?1652324863134
+#EXTINF:-1 tvg-id="4cdfc847-8d43-4a80-8e62-16f00148d072" group-title="New Zealand | wellington | Unknown city",Mushroom FM
+http://65.108.124.70:8676/live
+#EXTINF:-1 tvg-id="2467841a-260b-499a-b2e3-48f7c370ef46" tvg-logo="https://kixfm.co.nz/images/cover.png" group-title="New Zealand | Wellington Region | Strathmore Park",KIX FM
+https://stream.kixfm.co.nz:8178/stream
+#EXTINF:-1 tvg-id="8f9c58ba-8526-4bdd-b145-02fabe40e635" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696f3" group-title="New Zealand | Wellington Region | Thorndon",ZM Wellington (new)
+https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_33AAC.m3u8
+#EXTINF:-1 tvg-id="d19d47a8-0ca0-438f-9273-25a117109dfe" tvg-logo="https://www.beagleradio.co.nz/wp-content/themes/beagle/gfx/logo-header.gif" group-title="New Zealand | Whangarei | Whangarei",Beagle 88.1
+https://stream.beagleradio.co.nz/stream

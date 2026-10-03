@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="376cb244-4116-4ba4-a525-c6cc8283fc9b" tvg-logo="https://wolffmradio.se/wp-content/uploads/2026/01/logotype.webp" group-title="Sweden | Dalarna | Falun",Wolf FM
+https://sstream.ueteknik.se/listen/wolffm/radio.mp3
+#EXTINF:-1 tvg-id="2151bfe6-6792-4cbe-8c7c-2d9fe54fdbc0" group-title="Sweden | Dalarna | Siljansnäs",Sveriges Radio P4 Dalarna
+https://live1.sr.se/p4dala-aac-320
+#EXTINF:-1 tvg-id="6fbe6280-8425-4673-a740-7e1fa12a2da5" tvg-logo="https://radio45.se/webplayer/favicon-96x96.png" group-title="Sweden | Dalsland | Unknown city",Radio45 (Dalsland Sweden)
+https://streaming.943.se/radio45
+#EXTINF:-1 tvg-id="1576f6f2-8949-4106-a870-d6a2c11c99f4" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden | Halland | Halmstad",Sveriges Radio - P4 Halland
+https://sverigesradio.se/topsy/ljudfil/srse/8266576.mp3
+#EXTINF:-1 tvg-id="9642aad0-0601-11e8-ae97-52543be04c81" tvg-logo="https://guldkanalen.se/wp-content/uploads/2015/10/cropped-favoicon-180x180.gif" group-title="Sweden | Malmoe | Unknown city",Guldkanalen Malmö/Lund
+http://stream.dbmedia.se/gk96
+#EXTINF:-1 tvg-id="5c7ef11f-a6a0-4697-9d87-6df7a3209258" group-title="Sweden | National, Sweden | Unknown city",Sveriges Radio P1
+https://live1.sr.se/p1-mp3-96
+#EXTINF:-1 tvg-id="d2cdc958-4871-4423-9884-f2a49c3c2445" tvg-logo="https://sverigesradio.se/icon.png" group-title="Sweden | Scania | Malmö",SR P4 Radio Malmöhus
+https://ljud1-cdn.sr.se/lc/p4malm.m3u8
+#EXTINF:-1 tvg-id="1497077e-2db2-4579-a911-5f8cddff3529" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden | Select One | Norrköping",Sveriges Radion P4 Östergötland
+https://live1.sr.se/p4ostg-mp3-96
+#EXTINF:-1 tvg-id="1808e244-4ca2-4a4d-be3a-17babddef88a" tvg-logo="https://www.radio-kullabygden.se/wp-content/uploads/2016/04/hnfloggo_100px.png" group-title="Sweden | Skåne | Höganäs",Höganäs Närradio
+https://deb.patrikmalmgrenrask.se:10443/
+#EXTINF:-1 tvg-id="a6a09847-6e2e-4076-9b30-773023caf2e7" group-title="Sweden | Skåne | Söderköping",Guldkanalen 60-tal
+https://stream.dbmedia.se/gk60tal96
+#EXTINF:-1 tvg-id="e4f6d392-f704-4cf0-8d26-9c931cebeaf6" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p3.png" group-title="Sweden | Stockholm | Gamla Stan",Sveriges Radio - P3
+https://live1.sr.se/p3-mp3-96
+#EXTINF:-1 tvg-id="3f589db8-fb66-4d2a-b4d9-03a8bece9b7e" tvg-logo="https://cdn.khz.se/images/700x700/63d7c54c7bc4a8d5cd1ee7b9296beef8.png" group-title="Sweden | Stockholm | Kungsholmen",RIX FM Fresh
+https://wr04-ice.stream.khz.se/wr04_mp3
+#EXTINF:-1 tvg-id="9ccab272-2072-4baa-baad-52170ecd0c11" group-title="Sweden | Stockholm | Kungsholmen",SR4- Sthlm
+https://live1.sr.se/p4sth-aac-32
+#EXTINF:-1 tvg-id="6dfb955d-609a-4c53-af79-39f9660a408d" tvg-logo="https://radio.ericade.net/favicon.png" group-title="Sweden | Stockholm | Kungsholmen",The ERICADE Radio Network
+https://radio.ericade.net/sc/stream/1/
+#EXTINF:-1 tvg-id="681d2589-e135-46bd-a11a-272d8d13e8f8" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",American Truckers
+https://mml2.prostream.se/listen/american_truckers/radio.mp3
+#EXTINF:-1 tvg-id="53ef6c63-7b27-4245-bf7c-420b16f5538a" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Country
+https://mml1.prostream.se/listen/country/radio.mp3
+#EXTINF:-1 tvg-id="a615437b-ff32-4da2-904e-8390f7ed1052" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Decades
+https://mml1.prostream.se/listen/decades/radio.mp3
+#EXTINF:-1 tvg-id="9c97c1ea-73e3-4013-8b47-13a5936c764b" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Groove Revival Radio
+https://mml2.prostream.se/listen/groove_revival_radio/radio.mp3
+#EXTINF:-1 tvg-id="6b3dc713-d0a0-4f02-bfb2-756f293ec0cb" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Mad Mix Curated
+https://mml2.prostream.se/listen/mad_mix_curated/radio.mp3
+#EXTINF:-1 tvg-id="f75454ef-f163-49c7-b80b-cc707b382f09" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Party 247
+https://mml2.prostream.se/listen/party_247/radio.mp3
+#EXTINF:-1 tvg-id="5cc4f5dc-9693-46c2-91cc-e2f8eb0f215d" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",PopBurst
+https://mml1.prostream.se/listen/popburst/radio.mp3
+#EXTINF:-1 tvg-id="2ba48445-fb13-4167-9db8-3f2b4254461b" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Reggae
+https://mml1.prostream.se/listen/reggae/radio.mp3
+#EXTINF:-1 tvg-id="2808c734-6166-4cda-9bbd-d4e05c0c4c32" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Relax & Meditation
+https://mml1.prostream.se/listen/relax_meditation/radio.mp3
+#EXTINF:-1 tvg-id="9a58e0e1-7718-4d9a-8179-c9c95a255fd6" group-title="Sweden | Stockholm | Stockholm",Sveriges Kristna Radio
+https://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:-1 tvg-id="3560701c-22a9-4955-a667-fc979b066863" tvg-logo="https://madmix.se/images/logo.jpg" group-title="Sweden | Stockholm | Stockholm",Urban Flow
+https://mml2.prostream.se/listen/urban_flow/radio.mp3
+#EXTINF:-1 tvg-id="b30f805d-8402-4555-b182-dcf5fa0820da" tvg-logo="https://cdn.khz.se/images/90x90/283491c5df7ee85947ab916a80f50578.png" group-title="Sweden | Stockholm | Södermalm",STAR FM 107,1
+https://fm05-ice.stream.khz.se/fm05_mp3
+#EXTINF:-1 tvg-id="ccfd647b-93da-4275-aa8f-0c39f56feac5" tvg-logo="https://popradio.se/data/media/0/0/jrMediaPro_logo.png" group-title="Sweden | Stockholm | Trångsund",Pop Radio Stockholm
+http://master.shoutcast.com:8000/popradio-stockholm
+#EXTINF:-1 tvg-id="54e3f7cd-47a0-414a-ac11-1b7850ed5973" group-title="Sweden | Stockholm | Unknown city",Stocholm Närradio FM 95.3
+http://live.narradio.se:8020/;stream.mp3
+#EXTINF:-1 tvg-id="957584f4-cef4-11e8-a54a-52543be04c81" group-title="Sweden | Stockholm | Unknown city",Stockholm FM 101,1 Sweden
+http://radiostreamone.mine.nu/18020
+#EXTINF:-1 tvg-id="b667d92a-e0a3-4b84-aba6-1f455cc5e592" group-title="Sweden | Stockholm | Unknown city",Stockholm Närradio FM 101.1
+http://live.narradio.se:8030/;stream.mp3
+#EXTINF:-1 tvg-id="e79af81b-db6d-4f60-9ce1-39ff9b5874ab" tvg-logo="https://cdn.khz.se/images/180x180/a70c1024cd53244ef1d912961ca37be4.png" group-title="Sweden | Stockholm | Årsta",Gamla Favoritter
+https://wr09-ice.stream.khz.se/wr09_mp3
+#EXTINF:-1 tvg-id="697e5012-5cdc-46b5-abe6-18cebd3b3dd1" group-title="Sweden | Stockholm | Östermalm",Sveriges Radio - P2
+https://edge1.sr.se/p2-flac
+#EXTINF:-1 tvg-id="c8c4a599-7230-4a08-997d-36c74b08c2ce" group-title="Sweden | Sweden | Östermalm",Sveriges Radio P2 flac
+https://edge1.sr.se/p2-flac
+#EXTINF:-1 tvg-id="964338ec-0601-11e8-ae97-52543be04c81" tvg-logo="https://websitebuilder.one.com/favicon/favicon.ico" group-title="Sweden | Unknown region | Unknown city",Borås Närradio
+http://lyssna.fnf.nu:8080/radioboras.mp3
+#EXTINF:-1 tvg-id="38e8cb32-9efa-11e9-a787-52543be04c81" group-title="Sweden | Unknown region | Unknown city",BozRadio
+http://streaming.live365.com/a80252
+#EXTINF:-1 tvg-id="fe4b3646-7164-11e8-83fa-52543be04c81" group-title="Sweden | Unknown region | Unknown city",Country Rocks Radio
+http://stream.dbmedia.se/crrMP3
+#EXTINF:-1 tvg-id="b8f2ef5c-eaac-499c-b006-6a2fd276efb1" tvg-logo="https://www.dagnysjukebox.se/wp-content/uploads/2021/06/cropped-dagnys-jukebox-logo-180x180.png" group-title="Sweden | Unknown region | Unknown city",Dagnys Jukebox
+https://stream.dagnysjukebox.se/dagny
+#EXTINF:-1 tvg-id="d99b56f3-fa85-4c91-86a3-3c2e8135ea3d" tvg-logo="https://www.dagnysjukebox.se/wp-content/uploads/2021/06/cropped-dagnys-jukebox-logo-180x180.png" group-title="Sweden | Unknown region | Unknown city",Dagnys Jukebox
+https://stream.dagnysjukebox.se/dagny
+#EXTINF:-1 tvg-id="678cb641-f43d-456b-8980-cba70cb7c414" tvg-logo="https://playnow.se/wp-content/uploads/gk_play.jpg" group-title="Sweden | Unknown region | Unknown city",Guldkanalen (80-tal)
+https://stream.dbmedia.se/gk80tal96
+#EXTINF:-1 tvg-id="d66b22ac-0743-41e5-99d6-affdb54d74c0" tvg-logo="https://hitzfm.nu/wp-content/uploads/2022/08/nedladdning-4-170x168.jpeg" group-title="Sweden | Unknown region | Unknown city",Hitzfm 97,8 Sommenbygd
+https://s2.stationplaylist.com:7098/listen.mp3
+#EXTINF:-1 tvg-id="2d71c5a8-6fde-4624-8d1b-1d77b7a04150" tvg-logo="https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png" group-title="Sweden | Unknown region | Unknown city",Julkanalen
+http://fm10-ice.stream.khz.se/fm10_mp3
+#EXTINF:-1 tvg-id="9fcf5f38-9bfe-4d2a-a453-a655a1729fde" group-title="Sweden | Unknown region | Unknown city",Linköpings närradio
+https://stream.linkopingsnarradio.se:8005/radioprogram
+#EXTINF:-1 tvg-id="d2b34ded-eb3e-47e0-8d6e-de27122537e2" group-title="Sweden | Unknown region | Unknown city",MRS 90.5 Stockholm
+http://radiostreamone.mine.nu/MRS9050one
+#EXTINF:-1 tvg-id="5dfe2bf3-0d7b-4df3-a3e3-ce7c465cf115" group-title="Sweden | Unknown region | Unknown city",NRJ
+http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3
+#EXTINF:-1 tvg-id="d20a7b4a-4fe6-4f5f-ace5-16c7c9091c80" group-title="Sweden | Unknown region | Unknown city",Oldies FM
+https://stream3.themediasite.co.uk:8030/
+#EXTINF:-1 tvg-id="b5bd600f-9d41-4a52-8dbb-91eaccfe4ebf" group-title="Sweden | Unknown region | Unknown city",P4 Jämtland
+https://live1.sr.se/p4jmtl-aac-320
+#EXTINF:-1 tvg-id="e3400276-f47e-4f63-94d4-c4f82aee184b" group-title="Sweden | Unknown region | Unknown city",P4 VÄRMLAND
+https://live1.sr.se/p4vrml-aac-320
+#EXTINF:-1 tvg-id="6a4f38ed-3c22-45b1-a2f3-5da0c8f47c2d" group-title="Sweden | Unknown region | Unknown city",Pain
+https://stream.pcradio.ru/Pain-hi
+#EXTINF:-1 tvg-id="f4fcca1a-ba7e-11e9-acb2-52543be04c81" tvg-logo="https://piraterock.se/favicon.ico" group-title="Sweden | Unknown region | Unknown city",Pirate Rock Västkustens bästa rock
+http://stream.piraterock.se:8101/webradio
+#EXTINF:-1 tvg-id="96148cf5-0601-11e8-ae97-52543be04c81" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/300x300/profile/5/d/0/1/aa1b-e4e6-48e8-9128-75506e38dd92.jpg" group-title="Sweden | Unknown region | Unknown city",Polushon
+http://whsh4u-clients.com:9389/stream
+#EXTINF:-1 tvg-id="1953e58a-7374-459e-8ac2-f5a8af912ad5" tvg-logo="https://www.ilikeradio.se/powerhitradio/wp-content/themes/ilikeradio/favicon.png" group-title="Sweden | Unknown region | Unknown city",Power Hit Radio
+https://fm04-ice.stream.khz.se/fm04_mp3
+#EXTINF:-1 tvg-id="e69f59c2-3a3b-4063-8342-da609245769e" group-title="Sweden | Unknown region | Unknown city",Radio Gold Sweden
+https://streaming.943.se/radiogold
+#EXTINF:-1 tvg-id="15e028aa-8914-49d8-9241-ea8aded0f6b6" tvg-logo="https://radiohaninge.se/images/logo/rhdlogo01.png" group-title="Sweden | Unknown region | Unknown city",Radio Haninge Direkt
+http://213.115.49.175:1157/;
+#EXTINF:-1 tvg-id="f705d3e2-d76e-47eb-8f24-fb739fee8a8f" group-title="Sweden | Unknown region | Unknown city",Radio Hope
+http://s2.radio.co/sfbf5f5b85/listen
+#EXTINF:-1 tvg-id="be9cd5b3-570c-410c-ab98-7f99af678b20" tvg-logo="https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png" group-title="Sweden | Unknown region | Unknown city",Radio Nostalgi SE
+https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3
+#EXTINF:-1 tvg-id="3fc2ea83-9ed6-44a5-b6ed-cc0e648c7ee0" group-title="Sweden | Unknown region | Unknown city",Radio Sandviken
+http://rssand.se:4027/;
+#EXTINF:-1 tvg-id="dcffc252-0460-4e02-9063-73e7e0e5af7f" tvg-logo="https://radiosydvast.se/wp-content/uploads/2021/05/rs-logo-banner-3-768x43.png" group-title="Sweden | Unknown region | Unknown city",Radio Sydvast
+http://radiosydvast.duckdns.org:12932/stream
+#EXTINF:-1 tvg-id="271de73b-4fa6-4c19-8132-33397f31bf7c" tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png" group-title="Sweden | Unknown region | Unknown city",REPLAY NEWS - Svenska
+https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3
+#EXTINF:-1 tvg-id="0a1d8945-08fe-4092-96c4-019ac9a38022" group-title="Sweden | Unknown region | Unknown city",Rix FM
+http://fm01-ice.stream.khz.se/fm01_mp3
+#EXTINF:-1 tvg-id="d1c40bbb-618a-11e8-b15b-52543be04c81" group-title="Sweden | Unknown region | Unknown city",SceneSat Radio (AAC+ mobile)
+https://streams.scenesat.com/main/mobile.aac
+#EXTINF:-1 tvg-id="9614fe6c-0601-11e8-ae97-52543be04c81" group-title="Sweden | Unknown region | Unknown city",SceneSat Radio (MP3)
+https://streams.scenesat.com/main/hq.mp3
+#EXTINF:-1 tvg-id="6a26ca98-58b4-4127-8c3d-869564bc672c" tvg-logo="https://cdn.khz.se/images/90x90/36c929ecf6458a078f49fc6ac5f1ea1b.png" group-title="Sweden | Unknown region | Unknown city",Star 90's
+http://wr12-ice.stream.khz.se/wr12_mp3
+#EXTINF:-1 tvg-id="96412afe-0601-11e8-ae97-52543be04c81" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden | Unknown region | Unknown city",Sveriges Radio - Ekot sänder direkt
+https://live1.sr.se/ekotdirekt-aac-320
+#EXTINF:-1 tvg-id="287a4851-de0c-4184-8255-b435d6b62e0b" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p2.png" group-title="Sweden | Unknown region | Unknown city",Sveriges Radio - P2 Klassiskt
+https://live1.sr.se/p2-aac-320
+#EXTINF:-1 tvg-id="9642a6a5-0601-11e8-ae97-52543be04c81" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-default.png" group-title="Sweden | Unknown region | Unknown city",Sveriges Radio - P6
+https://live1.sr.se/p6-aac-320
+#EXTINF:-1 tvg-id="5dde70fa-c630-4ad5-840c-8af6bddb145a" group-title="Sweden | Unknown region | Unknown city",The ERICADE Radio Network
+https://radio.ericade.net/sc/stream/1/
+#EXTINF:-1 tvg-id="fcc6c03e-5363-4028-9a58-5d63ec913c76" tvg-logo="https://www.tyresoradion.se/images/favicon/apple-touch-icon.png" group-title="Sweden | Unknown region | Unknown city",Tyresöradion
+https://s5.radio.co/s8ace52d32/listen
+#EXTINF:-1 tvg-id="b66bf5c5-1630-4d4c-9e7b-5017ca9594cc" tvg-logo="https://play-lh.googleusercontent.com/sjJ6efGC0YpjeT2ehVnVuIewLsEyf2SmqGTWr-wIxc12Ch4rJYBtxJnsedvVNLHTkDYYL8pxvoEgtT6vWm5btYo" group-title="Sweden | Unknown region | Unknown city",Vinylgodis
+https://fwd.autopo.st/runedervall
+#EXTINF:-1 tvg-id="9e1e37f2-ae49-4497-ba91-3dccaf2bd85f" group-title="Sweden | Uppsala | Alsike",Sveriges Radio P4 Uppland
+https://live1.sr.se/p4uppl-aac-320
+#EXTINF:-1 tvg-id="4a5ce51f-7966-11ea-8a3b-52543be04c81" group-title="Sweden | Uppsala | Unknown city",Himlen TV7
+http://vod.tv7.fi:1935/tv7-se/mp4:tv7-se.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="73b5026f-40f2-49e8-846d-4d6f77e20d18" group-title="Sweden | Västmanland | Västerås",P4 Västmanland
+https://live1.sr.se/p4vstm-mp3-96
+#EXTINF:-1 tvg-id="003dea75-02eb-40c2-8a92-5150a709b74d" tvg-logo="https://sverigesradio.se/dist/images/apple-touch-icon-p4.png" group-title="Sweden | Västra Götaland | Gothenburg",Sveriges Radio P4 Göteborg
+https://live1.sr.se/p4gbg-aac-320
+#EXTINF:-1 tvg-id="1e6e8797-ca3e-41d2-881b-56fa455f3ee1" tvg-logo="https://static-cdn.sr.se/images/3632/2276510_512_512.jpg" group-title="Sweden | Västra Götaland | Unknown city",Sveriges Radio P1
+https://live1.sr.se/p1-aac-32
+#EXTINF:-1 tvg-id="67d48eb9-c3b0-459d-b494-ca1ebb5cb766" tvg-logo="https://www.radiotreby.se/wp-content/uploads/fbrfg/apple-touch-icon.png?v=yyx94lglyx" group-title="Sweden | Västra Götaland | Vara",Radio Treby
+http://streaming.943.se/treby878

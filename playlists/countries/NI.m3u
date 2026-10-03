@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1cd7292c-c687-4c48-a818-16787dcd80b1" tvg-logo="https://cdn-profiles.tunein.com/s240544/images/logod.png" group-title="Nicaragua | Esteli | Estelí",Stereo Beso 94.5 FM
+https://a9.asurahosting.com:7140/
+#EXTINF:-1 tvg-id="963c1ab6-0601-11e8-ae97-52543be04c81" group-title="Nicaragua | Unknown region | Unknown city",Nicaragua Reggae Radio.com
+http://online.radiodifusion.net:8054/stream/1/
+#EXTINF:-1 tvg-id="76fba99d-0a3f-4cdc-942a-9038f7a9700c" group-title="Nicaragua | Unknown region | Unknown city",Radio Estrella del Mar
+https://streamer.radio.co/sd5242d0b6/listen

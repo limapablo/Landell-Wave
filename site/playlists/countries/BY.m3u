@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0dfcd823-d005-422b-8a58-f589c1530a2c" group-title="Belarus | Minsk | Minsk",Народное Радио
+https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio
+#EXTINF:-1 tvg-id="270d50a7-cb2b-42df-8967-05ff4756a54c" tvg-logo="https://www.novoeradio.by/favicon.ico" group-title="Belarus | Minsk | Minsk",Новое радио - Fresh
+https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio
+#EXTINF:-1 tvg-id="41363e63-9606-40cd-a52a-3689527ead6b" group-title="Belarus | Minsk | Unknown city",Radio Unistar
+https://edge2.usp.unistar.by/hls/unistar_main/96k.m3u8
+#EXTINF:-1 tvg-id="962e0fbe-0601-11e8-ae97-52543be04c81" group-title="Belarus | Minsk | Unknown city",Еўрарадыё Alternative
+http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910
+#EXTINF:-1 tvg-id="962df7f6-0601-11e8-ae97-52543be04c81" tvg-logo="https://euroradio.fm/themes/custom/euroradio/favicon.ico" group-title="Belarus | Minsk | Unknown city",Еўрарадыё BY
+http://stream1.euroradio.fm:8000/euroradio1
+#EXTINF:-1 tvg-id="8ee49294-2360-4859-8154-4e98435f2e47" tvg-logo="https://vayar.mil.by/favicon.ico" group-title="Belarus | Minsk | Unknown city",Компас FM
+https://radio.mil.by/live
+#EXTINF:-1 tvg-id="7f782637-2ae4-4f7c-b235-90520a7649f1" group-title="Belarus | Unknown region | Unknown city",Easy Listening BLR
+http://178.172.235.5:8001/10
+#EXTINF:-1 tvg-id="0f9151df-bcae-47c3-b737-0cb5ad259163" tvg-logo="https://myradio24.com/users/3355/nocover.jpg" group-title="Belarus | Unknown region | Unknown city",LOVE IS RADIO
+https://myradio24.org/3355
+#EXTINF:-1 tvg-id="e994e638-ec90-47fc-8386-4e7af513b614" tvg-logo="https://rossard.eu/wp-content/uploads/2026/06/icon-192x192-1.png" group-title="Belarus | Unknown region | Unknown city",Radio R
+https://radio.rossard.eu/listen/radio_r/radio.aac
+#EXTINF:-1 tvg-id="3227ccaf-ac72-4fa1-bbae-57448f1aaaca" group-title="Belarus | Unknown region | Unknown city",Radio Racyja
+http://air.racyja.com:8000/racja320
+#EXTINF:-1 tvg-id="2166cd91-641f-47b8-a492-1888452e699b" group-title="Belarus | Unknown region | Unknown city",Radio Skif
+http://178.172.150.248:2530/
+#EXTINF:-1 tvg-id="272054f7-6f76-4886-a399-de1b7bef46c4" group-title="Belarus | Unknown region | Unknown city",Город FM Брест 97,7
+https://stream2.datacenter.by/GorodFM
+#EXTINF:-1 tvg-id="6d719810-0ec9-4d6d-a2d8-fd5698b9de89" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20250120_155441613.jpg?alt=media&token=240e8f46-b33d-4f60-bee3-04303ea83caf" group-title="Belarus | Unknown region | Unknown city",Легенды ФМ Минск 94.1 FM
+http://live.legendy.by:8000/legendyfm
+#EXTINF:-1 tvg-id="c4411911-175a-482b-a61d-dd358d868cd8" tvg-logo="https://radioslovo.net/assets/css/img/favicon.ico" group-title="Belarus | Unknown region | Unknown city",Открытое Слово
+https://rt.radioslovo.net:4395/radio
+#EXTINF:-1 tvg-id="2221668c-ffb7-4982-be00-e990702e21b2" group-title="Belarus | Unknown region | Unknown city",Радио витебск
+https://stream2.datacenter.by/vtvby
+#EXTINF:-1 tvg-id="2626d81c-6a22-416b-bfdc-ca9391065fd0" tvg-logo="https://www.radiomaria.by/images/icons/icon-128.png" group-title="Belarus | Unknown region | Unknown city",Радые Марыя
+https://server.radiorm.by:8443/live
+#EXTINF:-1 tvg-id="b8c630d5-fa3a-4abd-a78d-65314a7b0c12" group-title="Belarus | Unknown region | Unknown city",Радыё Марыя
+https://server.radiorm.by:8443/live
+#EXTINF:-1 tvg-id="9ebf344d-3885-49fa-8b1e-29f5367fda0f" tvg-logo="https://wwv.zvuch.com/img/radio/323617_big.jpg" group-title="Belarus | Минск | Unknown city",Мелодии Века 96.2fm
+https://radiorecord.hostingradio.ru/sd9096.aacp

@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="961babbe-0601-11e8-ae97-52543be04c81" group-title="Finland | Etelä-Pohjanmaa | Unknown city",Radio Dei Pohjanmaa
+http://isojako.radiodei.fi:8000/lapua
+#EXTINF:-1 tvg-id="894979fa-cd9e-4d5e-bd01-548eb71f5c20" group-title="Finland | Keski-Suomi | Jyväskylä",YLE radio Suomi, Jyväskylä
+https://icecast.live.yle.fi/radio/YleJKL/icecast.audio
+#EXTINF:-1 tvg-id="12f3ea7f-4041-4d54-9a57-fdb0f0c32714" tvg-logo="https://www.radiose.fi/wp-content/uploads/2024/06/RadioSE.fi-Suomen-monipuolisin-musiikkikanava-white-1024x327.png.webp" group-title="Finland | Kymenlaakso | Kouvola",RadioSE.fi
+https://wr2.downtime.fi/kaakko.aac
+#EXTINF:-1 tvg-id="961bae28-0601-11e8-ae97-52543be04c81" group-title="Finland | Lappi | Unknown city",Radio Dei Kemi
+http://isojako.radiodei.fi:8000/tornio
+#EXTINF:-1 tvg-id="7bbec1fb-da28-45db-b0c5-72100f09c37a" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/463.png?ver=1583241345" group-title="Finland | National (Finland) | Unknown city",Radio Classic
+https://streaming.radioplay.fi/fi_classic_128.mp3
+#EXTINF:-1 tvg-id="4ab82b0e-cef6-4d86-9235-2591c37813bf" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1710402023/brand_manager/stations/mdenzfihtj0m7lqv8lhb.png" group-title="Finland | National (Finland) | Unknown city",SuomiRap
+https://streaming.radioplay.fi/fi_suomirap_128.mp3
+#EXTINF:-1 tvg-id="1898ce90-f0a9-4a9a-99bd-18ee739322bb" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1695977442/brand_manager/stations/axgv7nukphikxkagqldx.png" group-title="Finland | Northern Ostrobothnia (Pohjois-Pohjanmaa) | Unknown city",Radio Mega
+https://streaming.radioplay.fi/fi_radiomega_128.mp3
+#EXTINF:-1 tvg-id="3ca1561c-75eb-4afd-b297-81162c88ddb3" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/254.png?ver=1509982856" group-title="Finland | Pirkanmaa | Koivistonkylä",Radio Nova
+http://live-bauerfi.sharp-stream.com/fi_radionova_64.aac?direct=true&aw_0_1st.playerid=BMUK_inpage_html5&aw_0_1st.skey=1784119314&aw_0_1st.bauer_loggedin=true
+#EXTINF:-1 tvg-id="5fa5e2f9-c8fd-4100-9bd3-447a768edd70" tvg-logo="https://i0.wp.com/catskinrex.net/wp-content/uploads/2025/02/cropped-catskinrex_logo_cut_50_2-1.png" group-title="Finland | Pirkanmaa | Nokia",Radio W&M
+https://stream.zeno.fm/qgeotx9vzpluv
+#EXTINF:-1 tvg-id="ec8d5679-6b61-49b5-9bfc-3e71a8777c44" tvg-logo="https://images.cdn.yle.fi/image/upload/f_auto,fl_progressive/q_auto/w_2890,h_2890,c_crop,x_632,y_612/w_700/v1641897373/39-90051461dd5d3129248.jpg" group-title="Finland | Pirkanmaa | Unknown city",YLE Radio Suomi - Tampere
+https://icecast.live.yle.fi/radio/YleTampere/icecast.audio
+#EXTINF:-1 tvg-id="961baa19-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Finland | Pohjanmaa | Unknown city",Radio Dei Kristiinankaupunki
+http://isojako.radiodei.fi:8000/kristiinankaupunki
+#EXTINF:-1 tvg-id="768a8929-c719-4ae2-ad04-c8e031fad2d8" tvg-logo="https://www.radiovaasa.fi/wp-content/uploads/2020/12/cropped-radiovaasa-favicon-300x300.png" group-title="Finland | Pohjanmaa | Unknown city",Radio Vaasa
+https://stream.protonbroadcast.com:8443/radiovaasa.mp3
+#EXTINF:-1 tvg-id="0559438c-2c99-44b5-b0c9-f1ae8a631bba" tvg-logo="https://www.karjalainensyke.fi/wp-content/uploads/sites/5/2024/08/og-image-karjalainensyke.jpg" group-title="Finland | Pohjois-Karjala | Unknown city",Karjalainen Syke
+https://radio.diks.fi/karjalainensyke
+#EXTINF:-1 tvg-id="5ccaf433-c2df-46e7-8e38-61e4445fe43c" tvg-logo="https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://areena.yle.fi/podcastit/ohjelmat/57-3gO4bl7J6?_c=yle-radio-suomi-lahti&size=128" group-title="Finland | Päijät-Häme | Lahti",YleRadioSuomiLahti
+https://icecast.live.yle.fi/radio/YleLahti/icecast.audio
+#EXTINF:-1 tvg-id="ff752290-8b6d-48bf-a0de-608287c7d30b" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1757058708/brand_manager/stations/qbecm3zuewkfkdpho0na.jpg" group-title="Finland | Southwest Finland (Varsinais-Suomi) | Unknown city",Radio Auran Aallot
+https://streaming.radioplay.fi/fi_auranaallot_128.mp3
+#EXTINF:-1 tvg-id="a1d96ed6-a5db-41cb-b294-8ed44973a468" group-title="Finland | Suomi | Unknown city",FinnRadio
+https://servidor39-5.brlogic.com:7076/live
+#EXTINF:-1 tvg-id="297bb132-c38f-47f7-aa30-03a3cfc0de13" group-title="Finland | Suomi | Unknown city",Kesäseuraradio
+https://kesaseuraradio.out.airtime.pro/kesaseuraradio_b
+#EXTINF:-1 tvg-id="2c794d05-0cc1-4dfa-be31-52c0ab2cc19d" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1600857978/brand_manager/stations/urn8bckvf691ddznsnvb.png" group-title="Finland | Unknown region | Unknown city",Basso
+https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 tvg-id="495de093-2d90-4a51-ae8c-743086872fcd" tvg-logo="https://doubleclap.dance/wp-content/uploads/2021/05/Doubleclap-Radio-logo-white.png" group-title="Finland | Unknown region | Unknown city",DOUBLECLAP RADIO
+https://s3.radio.co/scfd7273b2/low
+#EXTINF:-1 tvg-id="f7001430-7f36-4562-93b8-31b7f070a327" tvg-logo="https://fuengirola.fi/wp-content/uploads/2024/09/FugeFM-logo.jpg" group-title="Finland | Unknown region | Unknown city",FugeFM
+https://streaming.broadcast.radio/fugefm
+#EXTINF:-1 tvg-id="35351baf-4094-429f-860c-875f2c567384" tvg-logo="https://www.jarviradio.fi/favicon.ico" group-title="Finland | Unknown region | Unknown city",Järviradio
+https://jarviradio.radiotaajuus.fi:9000/jr
+#EXTINF:-1 tvg-id="962c3d1d-0601-11e8-ae97-52543be04c81" group-title="Finland | Unknown region | Unknown city",Kaaosradio - 24h Chill
+http://stream.kaaosradio.fi:8000/chill
+#EXTINF:-1 tvg-id="b302c01c-2a1b-4c8c-9440-ac3d6226c668" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/427.png?ver=1577957742" group-title="Finland | Unknown region | Unknown city",Kasari
+https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 tvg-id="beea9118-0432-494c-b67b-b5dfbc39cabe" tvg-logo="https://www.mtvuutiset.fi/favicon.ico" group-title="Finland | Unknown region | Unknown city",MTV Uutiset
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+#EXTINF:-1 tvg-id="b6280ede-e2df-4b68-b82c-63c8648aa51b" group-title="Finland | Unknown region | Unknown city",Nightwish
+https://stream.pcradio.ru/Nightwish-hi
+#EXTINF:-1 tvg-id="43697d5f-6d6a-4390-b9eb-5974f963ffc1" tvg-logo="https://www.radiodei.fi/wp-content/uploads/2016/05/default.png" group-title="Finland | Unknown region | Unknown city",Radio Dei Kajaani
+https://stream.dei.fi:8443/kajaani
+#EXTINF:-1 tvg-id="dd6fb0c5-42ac-4eff-9c11-3833d7fe7737" tvg-logo="https://theproadmin.online/radio5/world/images/finland/83263_radio.png" group-title="Finland | Unknown region | Unknown city",Radio Kaakko
+https://wr2.downtime.fi/kaakko.mp3
+#EXTINF:-1 tvg-id="75c67c01-bc98-4cc0-8b11-3a324bb4c565" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1590476006/brand_manager/stations/gnxolu1alqpmvisgznda.png" group-title="Finland | Unknown region | Unknown city",Radio Pori
+https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 tvg-id="5ebce343-df89-4add-91e4-35ae5fb43f47" tvg-logo="https://www.radiosandels.fi/attachments/Image/InShot_20211202_175929630_1.gif?template=generic" group-title="Finland | Unknown region | Unknown city",RADIO SANDELS
+https://radiosandels.radiotaajuus.fi:9050/radio
+#EXTINF:-1 tvg-id="b6b4301e-7c69-4c01-b798-5083b5b11f5c" tvg-logo="https://www.radiotempo.fi/wp-content/themes/radiotempo/images/logo.png" group-title="Finland | Unknown region | Unknown city",Radio Tempo
+https://cast.radiotempo.fi/radiotempo
+#EXTINF:-1 tvg-id="4d1a27b8-9c81-4bd1-b79d-ca43b75c1b0a" group-title="Finland | Unknown region | Unknown city",Yle radio Suomi Pohjanmaa
+https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio
+#EXTINF:-1 tvg-id="942a812b-1fa2-4112-8a78-65e74bf67006" tvg-logo="https://alandsradio.ax/sites/all/themes/alandsradio/images/ar-default-60x60.png" group-title="Finland | Unknown region | Unknown city",Ålands Radio
+https://stream.alandsradio.ax/stream.ogg
+#EXTINF:-1 tvg-id="a32f25c3-c9cf-405e-be18-9707212f9b98" group-title="Finland | Uusimaa | Eira",Roll FM
+https://rollfm.online/
+#EXTINF:-1 tvg-id="98f551af-b40b-4035-a9cb-a531320a45d9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Groove_color_RGB.png" group-title="Finland | Uusimaa | Helsinki",Groove FM
+https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
+#EXTINF:-1 tvg-id="1917621f-352f-4589-8e4d-74c0402cd11b" tvg-logo="https://w7.pngwing.com/pngs/469/239/png-transparent-nrj-group-nrj-hits-internet-radio-nrj-international-in-maintenance-text-fm-broadcasting-logo-thumbnail.png" group-title="Finland | Uusimaa | Helsinki",NRJ
+https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 tvg-id="85166474-fa4a-4063-acd2-4990c1644810" tvg-logo="https://assets.planetradio.co.uk/img/ConfigLockScreenImageUrl/254.jpg" group-title="Finland | Uusimaa | Helsinki",Radio Nova
+https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein
+#EXTINF:-1 tvg-id="d0f198e1-e71c-4aef-82e5-03058d00b790" group-title="Finland | Uusimaa | Linjat",Groove FM
+https://aud-stream-groove.nm-elemental.nelonenmedia.fi/playlist.m3u8
+#EXTINF:-1 tvg-id="7ee5f5ca-0bd0-4e53-b09a-aa5fe630ed73" tvg-logo="https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/HitMix_2560x2560.jpg?itok=0vJyAWi8" group-title="Finland | Uusimaa | Länsi-Pasila",HitMix
+https://aud-stream-hitmix.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+#EXTINF:-1 tvg-id="218b95bb-e82c-49d6-ad7c-c8fdac9f44a4" tvg-logo="https://static.novelist.nelonenmedia.fi/files/styles/1_360x360/s3/promo-items/square/2024/AitoIskelma_2560x2560.jpg?itok=hieHKR3-" group-title="Finland | Uusimaa | Pasila",Aito Iskelmä
+https://aud-stream-aitoiskelma.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8
+#EXTINF:-1 tvg-id="675970e4-ead1-4129-a680-1e7b64c96ecb" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1675671002/brand_manager/stations/fmt3fagoxw3unvuxm1aj.jpg" group-title="Finland | Uusimaa | Unknown city",Radio City
+https://streaming.radioplay.fi/fi_radiocity_128.mp3
+#EXTINF:-1 tvg-id="961ba952-0601-11e8-ae97-52543be04c81" group-title="Finland | Uusimaa | Unknown city",Radio Dei Helsinki
+http://isojako.radiodei.fi:8000/helsinki
+#EXTINF:-1 tvg-id="09e92885-f0f0-4e8d-89d5-c66f5606bb6b" tvg-logo="https://www.rollfm.fi/favicon.ico" group-title="Finland | Uusimaa | Vantaa",Roll FM
+http://stream.rollfm.fi/

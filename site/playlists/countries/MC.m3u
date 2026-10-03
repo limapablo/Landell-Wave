@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ca5129a8-43b7-4c2d-882f-83c412265358" tvg-logo="https://yellow.radio/logo-yellow.radio.jaune.png" group-title="Monaco | Monaco | Monaco-Ville",Yellow.radio
+https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
+#EXTINF:-1 tvg-id="960d75a0-0601-11e8-ae97-52543be04c81" group-title="Monaco | Unknown region | Unknown city",Radio Monaco 98.2
+http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3
+#EXTINF:-1 tvg-id="346d36f4-497a-11e8-b1b0-52543be04c81" group-title="Monaco | Unknown region | Unknown city",Radio Monte Carlo
+http://edge.radiomontecarlo.net/RMC.mp3

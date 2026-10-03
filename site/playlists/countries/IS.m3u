@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0ec0f183-4681-478f-b507-cb4ca6333541" tvg-logo="https://www.ruv.is/apple-touch-icon.png" group-title="Iceland | Capital Region | Garðabær",Rás2
+http://netradio.ruv.is/ras2.aac
+#EXTINF:-1 tvg-id="2d2142a7-259e-475a-be9c-54a4caf537e5" tvg-logo="https://www.ruv.is/apple-touch-icon.png" group-title="Iceland | Capital Region | Reykjavík",RUV 1
+http://netradio.ruv.is/ras1.aac
+#EXTINF:-1 tvg-id="961e8c73-0601-11e8-ae97-52543be04c81" group-title="Iceland | Iceland | Unknown city",X977
+http://icecast.365net.is:8000/orbXid.aac
+#EXTINF:-1 tvg-id="625512ba-218e-49b5-a676-efc76c5871c7" tvg-logo="https://www.sudurlandfm.is/wp-content/uploads/2016/05/logo_blue-3.png" group-title="Iceland | South | Selfoss",Suðurland FM
+https://ice-11.spilarinn.is/xsudurlandfm
+#EXTINF:-1 tvg-id="86590d5f-5e43-49a7-a774-d9f34d47e49f" group-title="Iceland | Suðurnesjabær | Garður",RADIO AKI ASGEIRSSON : Tonlist / Music by Aki Asgeirsson
+https://kast.aki.is/radio
+#EXTINF:-1 tvg-id="365a410b-cd82-4410-b351-6f443c3e8c1e" tvg-logo="https://www.radio.net/300/flashback60s.png" group-title="Iceland | Unknown region | Unknown city",Flashback 60s
+https://ice-11.spilarinn.is/60flashback
+#EXTINF:-1 tvg-id="fc157689-436b-4da8-a3d5-18d72bbda568" tvg-logo="https://www.fred.fm/wp-content/uploads/2014/12/Fred-Logo_trasp_-copia.png" group-title="Iceland | Unknown region | Unknown city",Fred Film Radio-26 Íslenska
+https://s10.webradio-hosting.com/proxy/fredradiois/stream
+#EXTINF:-1 tvg-id="8d472d16-8ce9-49ed-9b60-df7cd7041566" group-title="Iceland | Unknown region | Unknown city",K 100
+https://ice-11.spilarinn.is/kaninnmobile
+#EXTINF:-1 tvg-id="9624075b-0601-11e8-ae97-52543be04c81" group-title="Iceland | Unknown region | Unknown city",Trolli FM 103.7 Siglufjordu
+http://live.trolli.is:8200/;

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="000530f4-a8ef-41c1-8a64-62e1add7aa44" tvg-logo="https://nova.com.na/wp-content/uploads/2020/06/Nova-favicon.png" group-title="Namibia | Khomas Region | Windhoek",Nova 103.5
+https://edge.iono.fm/xice/185_medium.aac
+#EXTINF:-1 tvg-id="3b1d077c-c2e9-468b-948f-fb6370cccace" group-title="Namibia | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="f1b2c556-6606-4526-819b-40cd5afd9c89" tvg-logo="https://www.k7.com.na/wp-content/uploads/2023/06/K7-Logo.webp" group-title="Namibia | Unknown region | Unknown city",Kanaal 7
+https://zas3.ndx.co.za:8040/stream?1702480638726

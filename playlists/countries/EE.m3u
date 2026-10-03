@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="19233009-58fb-43cc-89cd-84ffa36d3676" group-title="Estonia | Harjumaa | Kesklinn",Duo Country
+http://le304.euddn.net/7c85446baed385ae9ac674eeb5ea98da8ba5ccb84ea3242d2c76aa1852b5bf1e9cf910ade1dc3d8c3f44eecd6f873157fcd7104b3c42179943671ad5483af3a2dd2d45e4fd8a0e8635b7ed58d8d4aefc6d9cdf88fe94741497252ce4ea10938f3b8aa46c8290deb7fe2ad3bc5f28e0c4e42b60f68310cf29be0aed68ea60b4e12ac8f70d011bca6d6f496cb4a5a9b7183881523c0a72bc47baebc3873b66cb0b0d358767b9ab5d3f3fe54db3c7e0c2bf8ad4028ff135bc030740dfebfb40ccb3/dc_duocountry.aac
+#EXTINF:-1 tvg-id="1b6fd0fd-a475-4f6d-ab49-645b744447e1" group-title="Estonia | Harjumaa | Kesklinn",KlaRa Nostalgia
+https://icecast.err.ee/klaranostalgia.mp3
+#EXTINF:-1 tvg-id="3b46b40f-e906-4566-9213-0f8e79e16da4" group-title="Estonia | Harjumaa | Kesklinn",R2 Eesti
+https://icecast.err.ee/r2eestikorge.mp3
+#EXTINF:-1 tvg-id="a13e6834-cb4c-423d-912b-d8b25962b88b" tvg-logo="https://elmar.pleier.ee/favicons/elmar/apple-touch-icon.png" group-title="Estonia | Harjumaa | Tallinn",Elmari Kuld
+https://le11.euddn.net/d15d071d4f73afad16807c29a8cfe7447ef9fb6dc8928de64be3300e8ca0f3ca5c5b547137da3e2640917468e13ac1d7701b052f6ec9a2a3e207246d31ad7e936db6e1331b35e581cf1c988b303c617e81caf69b44a4afdcaceb809a218d0a9dd4aec230d75e57587a911bdb0faaaaa126ba9f040b7014729c340e2ab241ccfc0af5a1112d14756b8f322bf7a153eace53f699eeebaffdff8ab7ca1c91e4b2505f8f7dee05e2d8150305addddea91bd3/elmarikuld.aac
+#EXTINF:-1 tvg-id="73aee9c7-474d-4038-9b4a-ab259658eaf6" group-title="Estonia | Harjumaa | Tallinn",IDA
+https://broadcast.idaidaida.net:8000/stream
+#EXTINF:-1 tvg-id="f3fe9e03-7cb6-42b3-a71a-f5a94885d0da" group-title="Estonia | Harjumaa | Tallinn",NRJ Tallinn
+https://edge03.cdn.bitflip.ee:8888/NRJ
+#EXTINF:-1 tvg-id="8545fda3-dab7-4897-9263-462815742015" group-title="Estonia | Harjumaa | Tallinn",Sky Plus
+https://stream.skymedia.ee/live/SKYPLUS
+#EXTINF:-1 tvg-id="1eaa705b-38f7-40f4-9417-3a9e7d760c9b" tvg-logo="https://cdn.instant.audio/images/brand/icon_192x192.png" group-title="Estonia | Järvamaa | Paide",Estonian Party Radio
+http://maggie.torontocast.com:8110/stream
+#EXTINF:-1 tvg-id="d3d942e0-89e7-4c55-8f18-e6b03057d0e3" tvg-logo="https://site.prelive.sky.ee/sites/default/files/2021-08/skyplus.svg" group-title="Estonia | Järvamaa | Särevere",Sky Plus D'N'B
+https://edge01.cdn.bitflip.ee:8888/NRJdnb
+#EXTINF:-1 tvg-id="27a69f19-4001-4bf4-b602-92511bc1e682" tvg-logo="https://www.hpsbassline.club/favicon.ico" group-title="Estonia | Läänemaa | Haapsalu",HPS Bassline
+https://azura.hpsbassline.club/listen/haapsaly_bassline/radio.mp3
+#EXTINF:-1 tvg-id="394136ea-c672-49d8-b98a-fdd3c5b9c4a0" tvg-logo="https://pcr.fm/favicon.png" group-title="Estonia | Parnu | Unknown city",PCR.fm (Parnu Club Radio)
+https://pcrfm.radiocult.fm/stream
+#EXTINF:-1 tvg-id="2634a58d-684b-44b1-9ed5-b0006494bec9" tvg-logo="https://cdn.onlineradiobox.com/img/favicon-194x194.png" group-title="Estonia | Tallinn | Kesklinn",Retro Love
+https://edge05.cdn.bitflip.ee:8888/RetroJ6ulud
+#EXTINF:-1 tvg-id="af59d217-e29d-4274-b817-6be6dd78d54c" tvg-logo="https://site.prelive.sky.ee/sites/default/files/2023-11/mini_kissfm.svg" group-title="Estonia | Tallinn | Kristiine",Kiss FM
+https://stream.skymedia.ee/live/KISS
+#EXTINF:-1 tvg-id="af1616c5-56b9-49b0-b7c2-38dfb3c07a49" tvg-logo="https://sky.ee/favicon.ico" group-title="Estonia | Tallinn | Kristiine",Kiss FM
+https://edge02.cdn.bitflip.ee:8888/KISS
+#EXTINF:-1 tvg-id="278b3d8e-8f30-43cd-853d-a0cd7aba4894" tvg-logo="https://site.prelive.sky.ee/sites/default/files/2024-11/legendaarne_3.svg" group-title="Estonia | Tallinn | Tallinn",Legendaarne Raadio
+https://stream.skymedia.ee/live/Legendaarne
+#EXTINF:-1 tvg-id="676104ca-2089-46e3-961e-22472194bcc2" group-title="Estonia | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="bc4cbd91-545c-4b56-b8be-52f8882d0049" tvg-logo="https://idaidaida.net/_nuxt/icons/icon_512x512.4be776.png" group-title="Estonia | Unknown region | Unknown city",IDA Raadio - Tallinn
+https://broadcast.idaidaida.net:8000/stream
+#EXTINF:-1 tvg-id="639b8e0e-c798-424f-9a0a-789d10f90fa7" tvg-logo="https://klara.err.ee/assets/icons/favicon.png" group-title="Estonia | Unknown region | Unknown city",Klara Jazz
+http://icecast.err.ee/klarajazz.opus
+#EXTINF:-1 tvg-id="bea3ee49-f679-47f4-ba33-4188bf3f79cb" tvg-logo="https://klara.err.ee/assets/icons/favicon.png" group-title="Estonia | Unknown region | Unknown city",Klara Klassika (128 kbps Ogg Opus) | Eesti Rahvusringhääling | err.ee
+http://icecast.err.ee/klaraklassika.opus
+#EXTINF:-1 tvg-id="5502ef32-d037-4730-89c6-f574d3be3d72" group-title="Estonia | Unknown region | Unknown city",Klassikaraadio (128 kbps Ogg Opus) | Eesti Rahvusringhääling | klassikaraadio.err.ee
+http://icecast.err.ee/klassikaraadio.opus
+#EXTINF:-1 tvg-id="59635e48-2f8a-4043-a061-8d656f6d07b4" group-title="Estonia | Unknown region | Unknown city",Pereraadio Kuressaare
+http://icecast.pereraadio.ee:8000/Kuressaare
+#EXTINF:-1 tvg-id="4e167516-d0cc-4981-978f-93b0b97128ee" group-title="Estonia | Unknown region | Unknown city",Pereraadio Tartu
+http://icecast.pereraadio.ee:8000/Tartu
+#EXTINF:-1 tvg-id="0de9ba51-23cd-4830-ad91-0cdf98a5a10a" group-title="Estonia | Unknown region | Unknown city",Pereraadio Tartu
+http://icecast.pereraadio.ee:8000/Tartu
+#EXTINF:-1 tvg-id="1e549790-a0fe-4b30-82fb-8a8976448cb0" group-title="Estonia | Unknown region | Unknown city",R2Altpop
+http://icecast.err.ee/r2alternatiiv.opus
+#EXTINF:-1 tvg-id="6e25ec62-c2d4-4d80-9f22-cb9edc3157a8" tvg-logo="https://s.err.ee/www/images/favicon/R2Favicon@2x.png?2740" group-title="Estonia | Unknown region | Unknown city",Raadio 2 (128 kbps Ogg Opus) | Eesti Rahvusringhääling | r2.err.ee
+http://icecast.err.ee/raadio2.opus
+#EXTINF:-1 tvg-id="5be25c88-4f25-4a69-96ff-e48979e796f5" tvg-logo="https://raadioduo.pleier.ee/favicons/duo/apple-touch-icon.png" group-title="Estonia | Unknown region | Unknown city",Raadio Duo
+https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac
+#EXTINF:-1 tvg-id="7ad100e7-b1b9-4b0d-bd9a-3030586766cc" group-title="Estonia | Unknown region | Unknown city",Raadio Relax International
+https://stream.relaxfm.ee/international
+#EXTINF:-1 tvg-id="26a83979-8d28-4521-a744-d752ecd9441a" tvg-logo="https://s.err.ee/www/images/favicon/R-TLN_Favicon@2x.png?2740" group-title="Estonia | Unknown region | Unknown city",Raadio Tallinn (128 kbps Ogg Opus) | Eesti Rahvusringhääling | raadiotallinn.err.ee
+http://icecast.err.ee/raadiotallinn.opus
+#EXTINF:-1 tvg-id="3bf46ae3-91e6-4e80-87a9-78fd99119d52" group-title="Estonia | Unknown region | Unknown city",Radio Eli
+http://icecast.pereraadio.ee:8000/RadioEli
+#EXTINF:-1 tvg-id="fde1bf20-db90-4691-a10f-18f91599e597" tvg-logo="https://olematu.ee/img/favicon.png" group-title="Estonia | Unknown region | Unknown city",Radio Olematu
+https://radio.olematu.ee/listen/radio_olematu/radio.mp3
+#EXTINF:-1 tvg-id="32eb1eb1-b712-4137-b670-0a620ce04d97" group-title="Estonia | Unknown region | Unknown city",Relax cafe
+https://stream.relaxfm.ee/cafe
+#EXTINF:-1 tvg-id="08124bf3-9169-4fd2-bbaf-4fd1541cca63" group-title="Estonia | Unknown region | Unknown city",Semeinoje Radio
+http://icecast.pereraadio.ee:8000/Semeinoje
+#EXTINF:-1 tvg-id="3f930fbb-d418-459e-8923-3584620a2428" tvg-logo="https://sky.ee/favicon.ico" group-title="Estonia | Unknown region | Unknown city",Sky Plus
+https://skymedia-live.bitflip.ee/SKYPLUS
+#EXTINF:-1 tvg-id="a1b766be-8f2a-4556-8f6c-be42ed0accb3" group-title="Estonia | Unknown region | Unknown city",Sky-Radio
+https://stream.skymedia.ee/live/SKY
+#EXTINF:-1 tvg-id="694c17ea-4de8-4055-a6a5-a2b1dcadfb91" tvg-logo="https://cdn.instant.audio/images/logos/raadiod-com/star-fm.png" group-title="Estonia | Unknown region | Unknown city",Star FM
+https://ice.leviracloud.eu/star320-mp3
+#EXTINF:-1 tvg-id="26b44f47-910e-455e-91bc-7304cf7f728e" tvg-logo="https://i.ibb.co/tmy5mXw/Vikerraadio.png" group-title="Estonia | Unknown region | Unknown city",Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3
+#EXTINF:-1 tvg-id="961f5b44-0601-11e8-ae97-52543be04c81" group-title="Estonia | Unknown region | Unknown city",Vikerraadio
+http://icecast.err.ee/vikerraadio.mp3

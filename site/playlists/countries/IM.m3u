@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1167f32f-686b-470e-b97b-88f3057eb4dc" tvg-logo="https://mmo.aiircdn.com/5/654dfce44e0a2.png" group-title="Isle Of Man | Douglas | Douglas",3FM (48Kbps AAC+)
+https://n07a-eu.rcs.revma.com/s1q7dc4c0znwv
+#EXTINF:-1 tvg-id="fd3cd8c1-d551-46da-8b09-e02060028ea8" tvg-logo="https://mmo.aiircdn.com/5/654dfce44e0a2.png" group-title="Isle Of Man | Unknown region | Unknown city",3FM (128Kbps MP3)
+https://n07a-eu.rcs.revma.com/0kv9v43t87zuv
+#EXTINF:-1 tvg-id="55abcda5-9e18-4497-a18f-0d77511f2163" group-title="Isle Of Man | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="9647b07f-0601-11e8-ae97-52543be04c81" group-title="Isle Of Man | Unknown region | Unknown city",Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)
+http://stream.laut.fm/alive
+#EXTINF:-1 tvg-id="1cd0cfad-6dcf-4491-b9ec-d695ae763926" group-title="Isle Of Man | Unknown region | Unknown city",Isle of Man Free Radio
+https://play.radioking.io/ian-byrne

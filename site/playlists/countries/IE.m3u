@@ -1,0 +1,117 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e0e39893-e989-4ec3-a57a-e184c4e0af7a" group-title="Ireland | Co. Clare | Killaloe",Scariff Bay Community Radio
+https://s4.radio.co/s87ac5cf5a/listen
+#EXTINF:-1 tvg-id="a411cbbe-6f63-47aa-a7a5-90d7d186a8d0" tvg-logo="https://i.pinimg.com/1200x/81/c0/44/81c044d4553049ecbc09296ca53b2eae.jpg" group-title="Ireland | Connacht | Ballinasloe",Rana Sundi
+https://base44.app/api/apps/6a1fdf6444e437e5f3a701be/files/mp/public/6a1fdf6444e437e5f3a701be/1189115bf_AmordeAltavoz1.mp3
+#EXTINF:-1 tvg-id="9ddd4727-33c3-471d-b588-6235816ed054" tvg-logo="https://scontent-ord5-3.xx.fbcdn.net/v/t39.30808-1/436440440_970042031791081_1555864966190315055_n.jpg?stp=cp0_dst-jpg_s40x40_tt6&_nc_cat=106&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=VOS4bnUf8uAQ7kNvgFCWn0t&_nc_zt=24&_nc_ht=scontent-ord5-3.xx&_nc_gid=ACDBfq4x0451vwpJ3N_UoIL&oh=00_AYCp0eS4BeH0Gz0LZgSFMgjLoIfWeWp9UuAy5As-TIWP6w&oe=675D2DE1" group-title="Ireland | Connacht | Galway",RabbitHole Radio
+http://stream.zeno.fm/c88dha3fmzzuv
+#EXTINF:-1 tvg-id="ca6de309-f3fc-4e52-80e7-eacb885dd318" group-title="Ireland | Dublin | Clonskeagh",RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1 tvg-id="17bd5838-0913-498e-b914-bbdd564e2ee5" group-title="Ireland | Dublin | Clonskeagh",RTÉ Raidió na Gaeltachta
+https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8
+#EXTINF:-1 tvg-id="d642f94f-cd58-4f64-bd7a-5e6359b2512c" tvg-logo="https://90snetwork.com/" group-title="Ireland | Dublin | Clonskeagh",The 90s Network
+http://uk1.streamingpulse.com:7020/stream
+#EXTINF:-1 tvg-id="b75b0946-9f42-4c9d-bff2-ea13f9141356" tvg-logo="https://www.redfm.ie/i/android-chrome-192x192.png" group-title="Ireland | Dublin | Cork",Cork's RedFM
+https://live-bauerie.sharp-stream.com/RED
+#EXTINF:-1 tvg-id="6650bb57-12aa-41d3-8ae4-ed5dcf0909cd" group-title="Ireland | Dublin | Dublin",8Radio
+https://stream.rcast.net/66127
+#EXTINF:-1 tvg-id="22c99429-2ccb-4fc2-b354-91957ef94e00" tvg-logo="https://www.todayfm.com/i/android-icon-192x192.png" group-title="Ireland | Dublin | Dublin",Today FM 90s
+https://live-bauerie.sharp-stream.com/T90
+#EXTINF:-1 tvg-id="6ed98dba-c585-42a8-85de-a2b45e8b7d45" tvg-logo="https://mmo.aiircdn.com/301/67eecd2991bb4.png" group-title="Ireland | Dublin | Ringsend",Onic 80s
+https://live.onic.ie/stream-80s?_=184336
+#EXTINF:-1 tvg-id="42aced42-4f18-4b3b-a7c4-a522f71877a7" tvg-logo="https://mmo.aiircdn.com/301/67eece1b64dda.png" group-title="Ireland | Dublin | Ringsend",Onic Country
+https://live.onic.ie/stream-country?_=267164
+#EXTINF:-1 tvg-id="826ea1a0-238b-44c2-8964-4c1449a299e6" tvg-logo="https://mmo.aiircdn.com/301/67eea1328caba.png" group-title="Ireland | Dublin | Ringsend",Onic Hits
+https://live.onic.ie/stream-hits?_=408214
+#EXTINF:-1 tvg-id="e9a7b860-6641-491d-bde2-24cad72c3026" group-title="Ireland | Dublin | Unknown city",98FM Throwback
+https://live-bauerie.sharp-stream.com/98
+#EXTINF:-1 tvg-id="264a1e04-46a9-4f46-944d-ca65e1c2ff36" tvg-logo="https://www.google.com/imgres?q=classic%20hits%2080%27s%20icon&imgurl=https%3A%2F%2Fstatic.mytuner.mobi%2Fmedia%2Ftvos_radios%2F935%2Fclassic-hits-80s.570a3c5f.png&imgrefurl=https%3A%2F%2Fwww.radio-ireland.com%2Fclassic-hits-80s&docid=y6gt-Cu1A1HPtM&tbnid=Hla6m0zY1ls_TM&vet=12ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA" group-title="Ireland | Dublin | Unknown city",Classic Hits 80s
+https://edge7.audioxi.com/CH80S
+#EXTINF:-1 tvg-id="001ea586-423e-4c2b-afee-460c60e24100" tvg-logo="https://www.liveradio.ie/files/images/491331/resized/180x172c/screenshot_20211216_030436_instagram.jpg" group-title="Ireland | Dublin | Unknown city",Club FM Dublin
+https://c6.radioboss.fm:8225/stream
+#EXTINF:-1 tvg-id="11e3be6e-1b64-4fe1-9245-f302ac938cf2" tvg-logo="https://play-lh.googleusercontent.com/mVz6RPCPV4vBX875xKk8tiBJ-z-A2hqbf3QO2SSSYxe_RtyPUumEXlxmETuYbsXHsUw" group-title="Ireland | Dublin | Unknown city",Dublin Digital Radio
+https://dublin-digital-radio.radiocult.fm/stream
+#EXTINF:-1 tvg-id="43d1fc29-a033-4fa7-a3d9-74b2ccd0dd2c" tvg-logo="https://www.funkyasstunes.com/public_3a05_aceb1777f3554a7da05b8a52cb676132.png" group-title="Ireland | Dublin | Unknown city",Funky Ass Tunes
+https://ams1.reliastream.com/proxy/john12/stream
+#EXTINF:-1 tvg-id="da8d25af-df97-4ab2-8b7f-2d9f674ff7e2" tvg-logo="https://gravityhits.ie/wp-content/uploads/2024/10/gravity512_3.png" group-title="Ireland | Dublin | Unknown city",Gravity Hits
+https://live.btsstream.com/stream/gravityhits
+#EXTINF:-1 tvg-id="ab60fa96-0abd-4896-9156-91874f8240d2" group-title="Ireland | Dublin | Unknown city",PlanetRadioie
+https://media.planetradio.ie/radio/8000/OnAir
+#EXTINF:-1 tvg-id="f3d6ed6f-bdd3-42bf-b4a6-6db8eadd5bc0" tvg-logo="https://www.nova.ie/wp-content/uploads/2024/11/color-logo.png" group-title="Ireland | Dublin | Unknown city",Radio Nova 100
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+#EXTINF:-1 tvg-id="79275323-ea2c-11e9-a96c-52543be04c81" group-title="Ireland | Dublin | Unknown city",St. Ita's Hospital Radio
+http://uk2.streamingpulse.com:8042/stream
+#EXTINF:-1 tvg-id="b27fcc5a-2949-4df6-8d0a-d812f6f48063" tvg-logo="https://www.beat102103.com/images/ico/android-icon-192x192.png" group-title="Ireland | Dublin | Waterford",Beat 102-103
+https://live-bauerie.sharp-stream.com/BEAT
+#EXTINF:-1 tvg-id="cfb55d7d-9576-4dc8-ac00-e8e912e10578" group-title="Ireland | GBR | Unknown city",Deephouse radio
+http://ec1.everestcast.host:1490/stream?xi1amefeqvksbquhue3jidp6boikushz
+#EXTINF:-1 tvg-id="e2d36184-272d-4976-9518-4a174e17d11a" tvg-logo="https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png" group-title="Ireland | IE-MO | Unknown city",MPB Radio 2 90s & 00s
+https://sc.mpbnl.nl/radio2-90s00s.mp3
+#EXTINF:-1 tvg-id="2b33fcdc-8eba-4a2d-9e93-59050bd80bb2" group-title="Ireland | Leinster | Drogheda",Ceol FM
+http://ceol.fm:8000/live
+#EXTINF:-1 tvg-id="6340e201-ded8-4610-a9e2-fa1d6df42b62" group-title="Ireland | Leinster | Dublin",BOB fm
+https://bobfm-seanashmore.radioca.st/stream
+#EXTINF:-1 tvg-id="fdacbb42-82fd-48dc-a940-351b787a35d3" tvg-logo="https://station-images-prod.radio-assets.com/175/gemradiogold.png?version=821b631d86bb60e11cc1f872384823d6" group-title="Ireland | Leinster | Dublin",Gem Radio Gold
+https://gemradio.radioca.st/stream/1/
+#EXTINF:-1 tvg-id="fa144ef5-60a2-4866-94ea-b44d2a197622" tvg-logo="https://nearfm.ie/favicon.ico" group-title="Ireland | Leinster | Raheny",NEAR FM
+http://stream11.shoutcastsolutions.com:8114/stream
+#EXTINF:-1 tvg-id="6ef27cbc-6229-4d8f-97a9-0d1fc834695a" tvg-logo="https://pri.ie/wp-content/uploads/2025/01/abb5e732-a0f9-4881-b587-3ac1201eb889_200x200.jpg" group-title="Ireland | Leinster | Unknown city",Radio Leinster
+http://xt.stream.ie/leinster
+#EXTINF:-1 tvg-id="973aedb0-2763-4e70-8ab7-90978ab4278d" group-title="Ireland | Mayo | Castlebar",CFC FM
+https://visual.shoutca.st/stream/crcfm
+#EXTINF:-1 tvg-id="04cf4250-cc1b-4a50-98e9-886058ab3096" group-title="Ireland | Munster | Limerick",Wired FM - FM 99.9 - Limerick, Ireland
+https://s2.radio.co/sf0986595a/listen
+#EXTINF:-1 tvg-id="01dd819d-3f79-4285-b383-89395e820530" group-title="Ireland | Unknown region | Unknown city",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="147538f0-2ca5-4844-97af-90cd2be99c28" group-title="Ireland | Unknown region | Unknown city",98fm Dance
+https://edge.audioxi.com/98DANCE
+#EXTINF:-1 tvg-id="17b6bf00-b9e6-42ee-99d0-13fbbec2c99e" tvg-logo="https://live.mystreamplayer.com/configs/images/northpole_web-icon.png" group-title="Ireland | Unknown region | Unknown city",Christmas FM Classical & Carols
+https://christmasfm.cdnstream1.com/2549_128.mp3?
+#EXTINF:-1 tvg-id="dab42837-8e90-43e0-8d50-c8e3742b4d3f" tvg-logo="https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-192x192.png" group-title="Ireland | Unknown region | Unknown city",Christmas FM Ireland
+https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019
+#EXTINF:-1 tvg-id="ff3b1463-45e2-41a7-a522-e6fd6d2ca859" tvg-logo="https://www.clare.fm/wp-content/uploads/2024/09/CLARE-FM-LOGO-HEADER-TRANS-272x90-1.png" group-title="Ireland | Unknown region | Unknown city",Clare FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLARE_FM.mp3?dist=web
+#EXTINF:-1 tvg-id="cd81d32c-871f-4050-9534-80bc3e60c12b" group-title="Ireland | Unknown region | Unknown city",Cork 96 FM
+http://wg.cdn.tibus.net/96fm
+#EXTINF:-1 tvg-id="9615d92c-0601-11e8-ae97-52543be04c81" group-title="Ireland | Unknown region | Unknown city",Dundalk FM
+http://80.249.249.245:8000/;?1485109331489
+#EXTINF:-1 tvg-id="a83622d1-76b1-4e2a-918d-c0d5f33a9a60" tvg-logo="https://mmo.aiircdn.com/286/6229c6697e623.png" group-title="Ireland | Unknown region | Unknown city",East Coast FM
+https://live-bauerie.sharp-stream.com/EASTCOAST?_=999173
+#EXTINF:-1 tvg-id="a39642b1-9405-43cd-8e0e-bd0a476b30db" group-title="Ireland | Unknown region | Unknown city",Finn Valley FM
+http://visual.shoutca.st:8000/;
+#EXTINF:-1 tvg-id="000c2bf6-0780-4470-807f-23d938f7d59b" tvg-logo="https://gravityhits.ie/wp-content/uploads/2024/10/ghmobile.png" group-title="Ireland | Unknown region | Unknown city",Gravity Hits
+https://live.btsstream.com/stream/gravityhits
+#EXTINF:-1 tvg-id="9615c387-0601-11e8-ae97-52543be04c81" group-title="Ireland | Unknown region | Unknown city",Heartbeat FM
+http://cast5.magicstreams.gr:8010/stream
+#EXTINF:-1 tvg-id="b43cd7fa-f2c1-4227-a98a-dd8a1737a346" tvg-logo="https://heartbeatfm.net/wp-content/uploads/2021/02/cropped-cropped-cropped-Heartbeat-Logo-Master-5.png" group-title="Ireland | Unknown region | Unknown city",Heartbeat FM
+http://cast5.magicstreams.gr:8010/stream
+#EXTINF:-1 tvg-id="706fa89f-6486-4d7d-b93f-3cc85102d6da" tvg-logo="https://heartbeatfm.net/wp-content/uploads/2025/04/Heartbeat-Logo-Master.png" group-title="Ireland | Unknown region | Unknown city",Heartbeat FM
+http://cast5.magicstreams.gr:8010/stream
+#EXTINF:-1 tvg-id="4c4f28cf-6102-4f62-bae4-55d125d2b548" tvg-logo="https://1drv.ms/i/c/0e918ab486233310/EQwy6f0ykkpMufi5iFQScLYBKyixBihc_7Thvs-KQkAlng?e=qMBtlm" group-title="Ireland | Unknown region | Unknown city",Heartbeat FM
+https://cast5.magicstreams.gr:8010/
+#EXTINF:-1 tvg-id="96159d2f-0601-11e8-ae97-52543be04c81" tvg-logo="https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png" group-title="Ireland | Unknown region | Unknown city",Highland Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3
+#EXTINF:-1 tvg-id="bcd91fa9-7242-4443-96dc-aefe52e6798b" tvg-logo="https://irishcountrymusicradio.com/favicon.ico" group-title="Ireland | Unknown region | Unknown city",Irish Country Music Radio
+http://streaming.galaxywebsolutions.com:7502/stream
+#EXTINF:-1 tvg-id="e30883d9-2a3d-4c5b-8518-a472646f5a4a" group-title="Ireland | Unknown region | Unknown city",Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/live
+#EXTINF:-1 tvg-id="88a59146-5416-46ad-97d0-747ef2ad87fb" tvg-logo="https://mm.aiircdn.com/617/5d77b07fec8c4.png" group-title="Ireland | Unknown region | Unknown city",Live95 Limerick
+https://live.onic.ie/stream-live95
+#EXTINF:-1 tvg-id="ccb67f6e-cb99-43b9-85b9-f328be2e310f" tvg-logo="https://www.mpbradio1.com/includes/png/logo.png" group-title="Ireland | Unknown region | Unknown city",MPB Radio 1
+https://sc.mpbnl.nl/radio1.mp3
+#EXTINF:-1 tvg-id="cbaff03f-5f1a-4b25-9822-900325aee353" tvg-logo="https://www.mpbradio1.com/_next/image?url=%2Fincludes%2Fpng%2Flogo.png&w=128&q=80" group-title="Ireland | Unknown region | Unknown city",MPB Radio 1 Dance
+https://icy1.mpbnl.nl/radio1-mm
+#EXTINF:-1 tvg-id="317da756-0089-468d-941c-bb19c4533df2" group-title="Ireland | Unknown region | Unknown city",Near FM
+http://stream11.shoutcastsolutions.com:8114/stream
+#EXTINF:-1 tvg-id="6de5904b-f41d-45f6-be47-c1307df27633" group-title="Ireland | Unknown region | Unknown city",Q102
+https://wg.cdn.tibus.net/q102MP3128
+#EXTINF:-1 tvg-id="9615f63a-0601-11e8-ae97-52543be04c81" group-title="Ireland | Unknown region | Unknown city",Radio Maria Ireland
+http://dreamsiteradiocp2.com:8014/live
+#EXTINF:-1 tvg-id="ee4af689-2f0d-490b-93d2-e72180b76784" group-title="Ireland | Unknown region | Unknown city",Rewind
+https://christmasfm.cdnstream1.com/2551_128.mp3
+#EXTINF:-1 tvg-id="c96b0b99-6dc6-4b76-9971-b48a55c628ca" tvg-logo="https://www.liveradio.ie/files/images/101096/resized/140x134c/rte_lyric_fm.png" group-title="Ireland | Unknown region | Unknown city",RTÉ lyric fm
+http://icecast.rte.ie/lyric
+#EXTINF:-1 tvg-id="1692f135-2fca-4d2d-a315-5019bc890635" group-title="Ireland | Unknown region | Unknown city",RTÉ Radio 1
+http://icecast.rte.ie/radio1
+#EXTINF:-1 tvg-id="4303734f-8ddd-4ecf-b78b-cc5a1c3347a7" tvg-logo="https://trancepulsefm.ie/wp-content/uploads/elementor/thumbs/Trancepulse-1-qhvmeannx5ha8zqboniuwvif323gi2k5pqrpcwjovs.png" group-title="Ireland | Unknown region | Unknown city",TrancePulse Dublin
+https://stream.trance.ie:8443/stream

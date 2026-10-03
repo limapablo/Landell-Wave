@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="10f93ee3-7370-11e9-af37-52543be04c81" group-title="San Marino | Città di San Marino | Unknown city",Radio San Marino Classic
+http://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch02/playlist.m3u8
+#EXTINF:-1 tvg-id="d60a853f-e280-4e8c-bf5c-504718de5bac" group-title="San Marino | Unknown region | Unknown city",Radio San Marino
+https://d18ufyp3q60j7u.cloudfront.net/radio-ch01/radio-ch01/chunklist_w213256444.m3u8

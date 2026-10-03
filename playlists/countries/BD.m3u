@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="46e58cb0-de1f-4664-a5a5-0807d1ef8c0f" tvg-logo="https://radioullash.com/wp-content/uploads/2021/07/cropped-radio-ullash-round-180x180.png" group-title="Bangladesh | Dhaka | Unknown city",Radio Ullash
+http://stream.zeno.fm/gpgkgp9mp18uv.mp3
+#EXTINF:-1 tvg-id="953034fd-4289-41d3-8836-6de4e3577646" tvg-logo="https://cdn-radiotime-logos.tunein.com/s260643q.png" group-title="Bangladesh | Dhaka Division | Kafrul",Radio Bhumi
+https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk
+#EXTINF:-1 tvg-id="e52e5607-4d6f-4efd-a5bc-29a815f8d066" group-title="Bangladesh | Unknown region | Unknown city",Peoples Radio 91.6 FM
+https://s3.myradiostream.com:14498/listen.mp3
+#EXTINF:-1 tvg-id="f53d0d0c-6ef0-4fd8-ba29-43309cc5c443" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/728dfe80-610d-4633-87de-055669555a35/3806933012/radio-shibir-logo" group-title="Bangladesh | Unknown region | Unknown city",S-Radio
+https://as1.digitalsynapsebd.com/proxy/zkpnarpg/stream

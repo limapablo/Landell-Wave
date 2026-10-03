@@ -1,0 +1,459 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="62978ad7-a686-46cb-b45a-d81102e21d85" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/barisr-adyo.jpg" group-title="Türkiye | Adana | Seyhan",Barış Radyo 104.8
+https://yayin2.canliyayin.org:9350/stream?/;stream.mp3
+#EXTINF:-1 tvg-id="887679c9-62fe-486c-8d7c-d27be466c643" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU
+https://stream.radiotedu.com/radio
+#EXTINF:-1 tvg-id="f8e1c5b3-2d2c-4ac5-abfc-b9f5bbc9c130" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-classic.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Classic
+https://stream.radiotedu.com/classic
+#EXTINF:-1 tvg-id="e2bcfb00-eee2-4967-9cbf-3aca512f998a" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-classic.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Classic FLAC
+https://stream.radiotedu.com/classic-flac
+#EXTINF:-1 tvg-id="596f41f5-3665-448d-a8f1-75dd5012cd3f" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-jazz.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Jazz
+https://stream.radiotedu.com/cazz
+#EXTINF:-1 tvg-id="12c8f4dd-2d71-4eb4-a1e1-69cf9817a2ed" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-jazz.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Jazz FLAC
+https://stream.radiotedu.com/cazz-flac
+#EXTINF:-1 tvg-id="e8aebee3-aeb9-4d6c-afea-a830bd006cac" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-lo-fi.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Lo-Fi
+https://stream.radiotedu.com/lofi
+#EXTINF:-1 tvg-id="5b8cfcd0-8f19-4401-95df-04eb344eebaf" tvg-logo="https://radiotedu.com/wp-content/uploads/2026/08/radiotedu-station-logos-v2/radiotedu-rock.png" group-title="Türkiye | Ankara | Kızılay",RadioTEDU Rock
+https://stream.radiotedu.com/rock
+#EXTINF:-1 tvg-id="f9655ac2-b82c-49f4-b6d3-617bf41c26c7" group-title="Türkiye | Ankara | Kızılcaşar",S1LHOUTTE ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:-1 tvg-id="59c37d82-9848-4f9a-8b4f-1aafce0fed86" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/34a7a0ae-669e-4449-9f60-ad17563021c8.png" group-title="Türkiye | Ankara | Mebusevleri",TRT Memleketim FM
+https://radio-trtmemleketimfm.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="581882a7-a356-40c2-8462-34de075c088f" tvg-logo="https://www.heartfm.com.tr/img/logo-darkheart.png" group-title="Türkiye | Ankara | Unknown city",Heart FM 103.4
+https://live.heartfm.com.tr/listen/heart_fm/128.aac
+#EXTINF:-1 tvg-id="106c740c-1852-4b7b-82e1-927656bdf465" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/25a3f157-c5a0-4506-b513-5e63518173bb.png" group-title="Türkiye | Antalya | Antalya",TRT Antalya
+https://radio-trtantalya.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="238b318c-0d7d-4f3b-98e6-b9f29bac7888" tvg-logo="https://radyokaradeniz.com/uploads/settings/logo_69fcfb84e4cd6.png" group-title="Türkiye | Ardeşen | Ardeşen",Radyo Karadeniz
+https://radyomar.80.yayin.com.tr/;
+#EXTINF:-1 tvg-id="4095df64-42ef-4503-8832-0bc1dc24a13b" tvg-logo="https://www.gencfm.com.tr/static/2022/05/18/logo1234-1652884523-699.png" group-title="Türkiye | Bandırma | Bandırma",Genç FM
+https://yayin1.canlitv.fun/radyo/gencfm/chunklist_w1257533803.m3u8
+#EXTINF:-1 tvg-id="cbd35624-d0ed-4676-b0c6-a18358987584" tvg-logo="https://www.radyovenus.net/wp-content/uploads/2020/11/radyovenus-logo.png" group-title="Türkiye | Bandırma | Bandırma",Radyo Venüs
+https://stream2.rtvtakip.com:7005/;stream.mp3
+#EXTINF:-1 tvg-id="cc06c583-3875-4d75-8b90-383c310f1ba8" group-title="Türkiye | Bilecik | Yenipazar",KIYI Muzik
+https://kiyi.radioca.st/stream
+#EXTINF:-1 tvg-id="1020f3df-3507-476a-85ca-152e03cb75ff" tvg-logo="https://radyonida.com.tr/dist/img/radyo-nida.jpg?2" group-title="Türkiye | Bursa | Osmangazi",Radyo Nida
+https://anadolu.liderhost.com.tr/8106/stream
+#EXTINF:-1 tvg-id="f85ee60b-db9a-46ed-a403-d8755e159cfa" tvg-logo="https://radyomaksat.com.tr/uploads/logo/logo_1.png" group-title="Türkiye | Bursa | Unknown city",Radyo Maksat
+https://live.sinirsizhost.com.tr/8038/stream
+#EXTINF:-1 tvg-id="3cb7e617-ead1-4a88-9239-802050b33a13" group-title="Türkiye | Bursa | Unknown city",Turkuvaz Musiki
+https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
+#EXTINF:-1 tvg-id="bdaa3768-d10d-41de-a588-4d7aee5a5c5a" tvg-logo="https://sslyayin.netyayin.net:8084/stream/;stream.mp3" group-title="Türkiye | Erzurum | Unknown city",Dadaş Fm Erzurum
+https://sslyayin.netyayin.net:8084/stream/;stream.mp3
+#EXTINF:-1 tvg-id="05780f0f-6fbd-480c-916f-4133c7292273" group-title="Türkiye | Gevaş | Gevaş",Gevaş Sesi Radyosu
+https://live.radyositesihazir.com:8056/stream
+#EXTINF:-1 tvg-id="0730a3ce-73e4-4f39-b60c-ffeaa6ee1f1b" group-title="Türkiye | Hatay ; Antakya ; Samandağ ; Defne | Balıklıdere",101.4 HATAY TEMPO FM
+https://sslyayin.netyayin.net:1215/stream
+#EXTINF:-1 tvg-id="91c6a4b7-e345-4341-8d92-92c802f1532c" tvg-logo="https://www.istanbulfm.com.tr/assets/logo.png?v=58" group-title="Türkiye | is | Unknown city",istanbul fm
+https://live.radyofenomen.com/istanbulfm/128/playlist.m3u8
+#EXTINF:-1 tvg-id="50136607-1a46-46ce-bef6-b8abae1dd4cd" group-title="Türkiye | Isparta | Isparta",Romantik Ses ISPARTA
+https://radyo.romantikses.com/romantiksesispart/stream
+#EXTINF:-1 tvg-id="f297888e-220b-4345-bf03-8cb094e78ce0" group-title="Türkiye | Istambul | Unknown city",90 lar Pop
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 tvg-id="5729f872-934d-4e28-856e-6b7ae1808863" tvg-logo="https://i.postimg.cc/XYRRHwry/android-chrome-512x512.png" group-title="Türkiye | Istambul | Unknown city",Loops Radio Elektronica Station
+https://ssl22.radyotelekom.com/8232/stream
+#EXTINF:-1 tvg-id="4400ded3-62df-40d9-b1fe-9dfe39cadc12" tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye | Istambul | Unknown city",Loops Radio House Station
+https://loopsdeep.ozelip.com/7806/stream
+#EXTINF:-1 tvg-id="d5fb7ff2-4b30-4f0f-a66f-c44a480337ec" tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye | Istambul | Unknown city",Loops Radio Progressive
+https://progressive.ozelip.com/7670/stream
+#EXTINF:-1 tvg-id="d4ad9b9d-3a4e-4bdd-91ec-9e9d9f1ccc3c" tvg-logo="https://radyomars.com/logo.png" group-title="Türkiye | Istanbul | Adalar",Radyo Mars
+https://yayin.radyomadyo.com:9400/stream
+#EXTINF:-1 tvg-id="a02603e1-01a3-4cb2-ba39-0f3b38d11af4" tvg-logo="https://apacikradyo.com.tr/logo1024" group-title="Türkiye | Istanbul | Eminönü",no name
+http://stream.34bit.net/ar.aac
+#EXTINF:-1 tvg-id="fc8dcd89-2712-4f63-b674-43a39c216423" group-title="Türkiye | Istanbul | Fatih",Radyo Fenomen Dans
+https://live.radyofenomen.com/fenomendans/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="39e9fafe-85ca-422b-b448-20f47c67c47c" group-title="Türkiye | Istanbul | Maslak",İTÜ Radyosu Rock
+http://160.75.86.29:8095/
+#EXTINF:-1 tvg-id="dfd64544-4dd7-49a9-8fd2-90a571b418ec" group-title="Türkiye | Istanbul | Teke",Radio Ava Turkiye
+http://play.markaradyo.com:8002/stream
+#EXTINF:-1 tvg-id="96fd352a-6236-4310-a613-485ffe15d717" tvg-logo="https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_51424770_294131.png" group-title="Türkiye | Istanbul | Unknown city",Abuzer FM
+http://live.radyotvonline.com:9030/;stream.nsv
+#EXTINF:-1 tvg-id="e7336c56-10dc-4d43-8244-eee899cda358" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAlkZWbK47GUO6iQFP2yohP0z_5X3WpdjdMQ&amp;s" group-title="Türkiye | Istanbul | Unknown city",Damar Turk FM
+https://live.radyositesihazir.com:10997/;
+#EXTINF:-1 tvg-id="a23881c5-8c90-11e9-ad01-52543be04c81" tvg-logo="https://enderunfm.com/wp-content/uploads/2023/07/cropped-enderun_fm-180x180.png" group-title="Türkiye | Istanbul | Unknown city",Enderun FM
+http://yayin2.canliyayin.org:7052/;*.mp3
+#EXTINF:-1 tvg-id="45a00245-168f-4996-bb29-585969d7c7d7" tvg-logo="https://mkradyo.com/mk.png?v=20260512-0247" group-title="Türkiye | Istanbul | Unknown city",MK Radyo
+https://live.sinirsizhost.com.tr/8028/stream
+#EXTINF:-1 tvg-id="7ea58b1d-e502-4e03-abb1-65b2408bab2d" group-title="Türkiye | Istanbul | Unknown city",Radyo Fıtrat
+http://radyofitrat.radyotvonline.net/
+#EXTINF:-1 tvg-id="70d5625c-8c8e-11e9-ad01-52543be04c81" group-title="Türkiye | Istanbul | Unknown city",Radyo Gül
+http://yayin2.canliyayin.org:8866/;*.mp3
+#EXTINF:-1 tvg-id="0e545fd4-cbd9-4836-81d2-e183bb02da79" tvg-logo="https://cdn.img.anlatilaninotesi.com.tr/i/favicon/favicon-192x192.png" group-title="Türkiye | Istanbul | Unknown city",Radyo Sputnik
+https://icecast-rian.cdnvideo.ru/voicestm
+#EXTINF:-1 tvg-id="f6eac013-4af1-4a0c-a672-d1a2adb03a68" group-title="Türkiye | Istanbul | Yıldız",A Haber Radyo
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="8c76958a-2cbf-11e8-91bf-52543be04c81" tvg-logo="https://www.dinamo.fm/favicons/dinamo-disco-favicon.jpg" group-title="Türkiye | Istanbul | Yıldız",dinamo.fm discotheque
+http://channels.dinamo.fm/discotheque-mp3
+#EXTINF:-1 tvg-id="72adbb9a-b6c4-4cf3-8c7e-ba264f51b787" tvg-logo="https://www.dinamo.fm/favicons/dinamo-mmradyo-favicon.jpg" group-title="Türkiye | Istanbul | Yıldız",dinamo.fm live from minimuzikhol
+http://channels.dinamo.fm/mmradyo-mp3
+#EXTINF:-1 tvg-id="1111c128-3215-49dd-9741-7858967455c4" tvg-logo="https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg" group-title="Türkiye | Istanbul | Yıldız",dinamo.fm sleep
+http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1 tvg-id="04407d31-2cc0-11e8-91bf-52543be04c81" tvg-logo="https://www.dinamo.fm/favicons/dinamo-sleep-favicon.jpg" group-title="Türkiye | Istanbul | Yıldız",dinamo.fm sleep
+http://channels.dinamo.fm/sleep-mp3
+#EXTINF:-1 tvg-id="ce11fd33-2cbf-11e8-91bf-52543be04c81" tvg-logo="https://www.dinamo.fm/favicons/dinamo-smog-favicon.jpg" group-title="Türkiye | Istanbul | Yıldız",dinamo.fm smog
+http://channels.dinamo.fm/smog-mp3
+#EXTINF:-1 tvg-id="b4d2f7c7-8681-47ff-8bcf-71c06e60e750" tvg-logo="https://www.dinamo.fm/favicons/dinamo-deep-favicon.jpg" group-title="Türkiye | istanbul bagcılar | Yıldız",dinamo.fm deep
+http://channels.dinamo.fm/deep-mp3
+#EXTINF:-1 tvg-id="b5fda548-6745-4c8f-921a-1046aceee560" group-title="Türkiye | izmir | Unknown city",HEY RADYO
+https://usa4.fastcast4u.com/proxy/radyoizmirfm/
+#EXTINF:-1 tvg-id="fcbf07d8-d3b3-4d9f-839a-3cfea3391b35" tvg-logo="https://www.radyo35.com/img/logo.png" group-title="Türkiye | izmir | Unknown city",Radyo 35
+https://yayin.turkhosted.com/6012/stream
+#EXTINF:-1 tvg-id="6a02fc36-675e-422f-9f00-bab672a6233d" group-title="Türkiye | İstanbul | Unknown city",Diyanet Kur'an Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c14192aa92.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="91cfa5ad-03d3-4be8-941f-6905aa8b0222" tvg-logo="https://stream.zeno.fm/lyl2uv7fcvovv" group-title="Türkiye | İSTANBUL | Unknown city",FIND A CUTİE <3
+https://stream.zeno.fm/lyl2uv7fcvovv
+#EXTINF:-1 tvg-id="015ea1ab-f1dd-4f20-8dcb-edd95c3cca59" tvg-logo="https://www.imbatfm.com/wp-content/uploads/2021/04/imbat-fm-logo.png](https://www.imbatfm.com/wp-content/uploads/2021/04/imbat-fm-logo.png" group-title="Türkiye | İzmir Province | Foça",İmbat FM
+https://radyo.medyahost.com.tr/8034/stream
+#EXTINF:-1 tvg-id="6dee7a97-1edf-41ba-b6a8-66851be209b0" group-title="Türkiye | Karakoçan | Karakoçan",Radyo Karakoçan
+https://radyokarakocan.ozelip.com/8006/stream
+#EXTINF:-1 tvg-id="d9eb277b-f0d6-4c02-aeaa-273521944bec" tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/safak-radyo-kayseri.jpg" group-title="Türkiye | Kayseri | Tomarza",Şafak Radyo
+http://safakradyo.com:2626/;
+#EXTINF:-1 tvg-id="ead1ae8e-10ae-4f90-9b83-d6ab9b40830f" tvg-logo="https://www.turkuradyo.info/public/default/images/upload/1190220421012000.png" group-title="Türkiye | kocaeli | Unknown city",Türkü Radyo
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
+#EXTINF:-1 tvg-id="c21d3998-f91b-48e4-9bb1-74fa12ffb9e5" tvg-logo="https://www.kentfm955.com.tr/icons/radyokent_logo_tunein_512.png" group-title="Türkiye | Konya | Ereğli",Radyo Kent
+https://kentfm955.ozelip.com/9306/stream
+#EXTINF:-1 tvg-id="23fb9ea6-caa7-4fc0-9cf5-85531d1e0391" tvg-logo="https://www.radio.net/300/radio-42-fm-medya-konya-pr-music.png" group-title="Türkiye | Konya | Konya",RADYO 42 FM MEDYA KONYA PR MUSIC TURKIYE
+https://a8.asurahosting.com/hls/radyo_42_fm_medya_konya_pr_music/live.m3u8
+#EXTINF:-1 tvg-id="ddf94722-dd93-4fb5-ac19-ad42649a30e1" group-title="Türkiye | Kırklareli | Kırklareli",Serhat FM 91.5
+http://yayin.serhatfm.com:9150/stream
+#EXTINF:-1 tvg-id="a377ac21-14cd-419c-a9d2-65ba353af076" tvg-logo="https://www.radyogonul.com.tr/radyo-gonul-osmaniye.png" group-title="Türkiye | Osmaniye | Osmaniye",Gönül FM 97.3
+https://sslyayin.netyayin.net/gonulfm/stream
+#EXTINF:-1 tvg-id="5a225f62-a544-4ea3-a257-19d1f13e3e4c" tvg-logo="https://www.radyomavidenizim.com/wp-content/uploads/2022/09/images.png" group-title="Türkiye | Pursaklar | Pursaklar",Radyo Mavi Denizim
+https://live.radyositesihazir.com/8076/stream
+#EXTINF:-1 tvg-id="37ba98b1-f055-4363-893a-b0efe305f6a4" tvg-logo="https://sizirfm.com/assets/favicon.ico" group-title="Türkiye | Sivas, turkey | Gemerek",SIZIR FM
+http://stream.radiojar.com/tamm1f7kk48uv
+#EXTINF:-1 tvg-id="83ff951e-113e-4a50-9be7-3a730f472e05" tvg-logo="https://sizirfm.com/assets/favicon.ico" group-title="Türkiye | Sivas, turkey | Unknown city",SIZIR FM
+http://stream.radiojar.com/tamm1f7kk48uv
+#EXTINF:-1 tvg-id="097bda49-2be1-4306-a657-ce5bd922bd40" group-title="Türkiye | Tekirdağ | Sultanköy",Radyo Viva
+https://moondigitaledge.radyotvonline.net/radyoviva/playlist.m3u8
+#EXTINF:-1 tvg-id="ff361dae-f3c6-45fa-91f0-b74daea80c51" tvg-logo="https://enradio.tr/wp-content/uploads/2026/07/enradio-favicon.png" group-title="Türkiye | Türkiye | Unknown city",Enradio
+https://radyo1.radyo-dinle.tc/8098/stream
+#EXTINF:-1 tvg-id="96cd1ba0-dfbb-434a-8ae2-75d7d327794c" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Türkiye | Unknown region | Unknown city",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="7b093ee4-843b-4768-ac98-720121ce83ed" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg" group-title="Türkiye | Unknown region | Unknown city",.Al quran radio
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 tvg-id="3bd0d78d-d5c8-4c3e-9c6e-d231177ac0eb" group-title="Türkiye | Unknown region | Unknown city",AFN İNCİRLİK
+https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_ICK.mp3
+#EXTINF:-1 tvg-id="4e758ac3-15ad-11e9-a80b-52543be04c81" tvg-logo="https://www.alemfm.com/assets/img/alemfm-apple-touch-icon.png" group-title="Türkiye | Unknown region | Unknown city",Alem FM
+http://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="dcdcc68c-5116-48f3-a70b-7c923233d27c" group-title="Türkiye | Unknown region | Unknown city",ALTIN ŞARKILAR
+https://moondigitalmaster.radyotvonline.net/altinsarkilar/playlist.m3u8
+#EXTINF:-1 tvg-id="8c01f241-6fe8-42b1-afd3-d6abf90ec78e" group-title="Türkiye | Unknown region | Unknown city",Ankara Havalari
+http://37.247.98.8/stream/30/;
+#EXTINF:-1 tvg-id="96201b3d-0601-11e8-ae97-52543be04c81" group-title="Türkiye | Unknown region | Unknown city",Arabesk FM
+http://yayin.arabeskfm.biz:8042/
+#EXTINF:-1 tvg-id="bdab03d6-201d-42f9-93c3-05820414d955" group-title="Türkiye | Unknown region | Unknown city",ASPOR
+http://trkvz-radyolar.ercdn.net/asporradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="dad93bd8-632a-4a5f-b174-2ffcef7b4b65" group-title="Türkiye | Unknown region | Unknown city",Axa Rojava
+https://stream.zeno.fm/h6mn2c8ha8zuv
+#EXTINF:-1 tvg-id="f54760bf-3667-435f-b1db-6fb74ba25653" group-title="Türkiye | Unknown region | Unknown city",Banko Fm 1
+http://yayin.netradyom.com:9910/RADYOBANKO
+#EXTINF:-1 tvg-id="837f9f9d-dcae-44a9-acc8-9bd6be8de720" tvg-logo="https://www.bestfm.com.tr/wp-content/uploads/2024/12/LOGOWHITE-2-1.png" group-title="Türkiye | Unknown region | Unknown city",Best FM
+https://ssldyg.radyotvonline.com/best/bestfm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="bf8a2171-8716-452f-bbe7-3aa6d76272dd" group-title="Türkiye | Unknown region | Unknown city",BEST HİT
+https://wowza3.radyotvonline.com/best/bestteen.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="b9b6d6fa-8074-4038-883c-457a2eb17064" group-title="Türkiye | Unknown region | Unknown city",BEST KINA
+https://wowza3.radyotvonline.com/best/bestkina.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="cb8878d6-dca7-4375-ad7a-66e175ce9e73" group-title="Türkiye | Unknown region | Unknown city",BEST RAP
+https://wowza3.radyotvonline.com/best/bestgicir.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="0b70b296-3335-4d7d-bb55-a60d2c4071b1" group-title="Türkiye | Unknown region | Unknown city",BİLECİK FM TURKEY
+http://bilecikfm.kesintisizyayin.com:9980/
+#EXTINF:-1 tvg-id="963e5f78-0601-11e8-ae97-52543be04c81" tvg-logo="https://brtk.net/wp-content/uploads/2024/11/28/cropped-brt-icon-180x180.png?ver=ebc4c4ff24f512d1ba2ae8331bfa527d" group-title="Türkiye | Unknown region | Unknown city",BRTK
+http://sc.brtk.net:8000/
+#EXTINF:-1 tvg-id="2c1b76ea-4675-4e64-a282-50bdd4a9a238" group-title="Türkiye | Unknown region | Unknown city",Can Radyo
+http://yayin1.yayindakiler.com:3124/;
+#EXTINF:-1 tvg-id="800b985f-aed5-4ab6-adb9-854f774af2c3" group-title="Türkiye | Unknown region | Unknown city",Cantürk Radyo
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0
+#EXTINF:-1 tvg-id="ea534546-de6e-4d08-b4bf-447a1cbeee56" tvg-logo="https://cgtnturkcom.teimg.com/cgtnturk-com/uploads/2024/07/cgtn-turk-favicon-altin-1.png" group-title="Türkiye | Unknown region | Unknown city",CGTN Türk Radyo
+https://criturk.radyotvonline.net/
+#EXTINF:-1 tvg-id="2e29c25c-0ec4-42a4-be7f-6fe22911cf31" group-title="Türkiye | Unknown region | Unknown city",CLASSICLAND TURKEY
+https://moondigitaledge.radyotvonline.net/classicland/playlist.m3u8
+#EXTINF:-1 tvg-id="e053f98a-e195-48f0-b07b-b2143c6e0964" group-title="Türkiye | Unknown region | Unknown city",Cnn Türk Radyo
+https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8?listeningSessionID=669e367246737fe5_6249184_Zq120UIn__0000001w2Bs&downloadSessionID=0
+#EXTINF:-1 tvg-id="c569123a-9ae0-40ac-bdbe-10d8f0958a86" group-title="Türkiye | Unknown region | Unknown city",DADA RADYO
+http://stream.laut.fm/dadaradio
+#EXTINF:-1 tvg-id="87d4f034-07d0-4d80-b185-1e29fc0ce445" group-title="Türkiye | Unknown region | Unknown city",Danceland
+https://moondigitaledge.radyotvonline.net/danceland/playlist.m3u8
+#EXTINF:-1 tvg-id="3579eefa-52d5-40ba-9393-1360740e4bcb" group-title="Türkiye | Unknown region | Unknown city",Discoland
+https://moondigitaledge.radyotvonline.net/discoland/playlist.m3u8
+#EXTINF:-1 tvg-id="eea9a230-f288-4312-834e-ac3914f533ca" group-title="Türkiye | Unknown region | Unknown city",DREAM TÜRK
+https://radyo.duhnet.tv/dreamturk
+#EXTINF:-1 tvg-id="91f1f63c-891d-4bb1-9d16-579262ecf73b" group-title="Türkiye | Unknown region | Unknown city",EFSANE HOME
+http://37.247.98.8/stream/24/
+#EXTINF:-1 tvg-id="d9e9d5de-9c90-42d4-bb3c-44332e93bf04" group-title="Türkiye | Unknown region | Unknown city",EGE HAVALARI TURKEY
+https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
+#EXTINF:-1 tvg-id="03fe4753-3683-4913-ac9a-b32d260da990" tvg-logo="https://play-lh.googleusercontent.com/Hf0NtOQoXmIPWe2Hz8C5nptvA6Hx4QOvPmuE1bOkDhjcV6bJgRZBWAXS3Cjtf64QvD0" group-title="Türkiye | Unknown region | Unknown city",Erkam Radyo 2nd Stream
+https://yayin2.canliyayin.org:10910/stream?
+#EXTINF:-1 tvg-id="70c634dc-e5a5-44ed-98c7-538e073a3237" group-title="Türkiye | Unknown region | Unknown city",ERT ELAZIĞ
+https://radyo.yayin.com.tr:8012/
+#EXTINF:-1 tvg-id="faa8e98f-cb42-4e46-9148-71d2ca6e7537" group-title="Türkiye | Unknown region | Unknown city",Erzincan Cem Radyo
+https://erzincan.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-id="04ff41d5-b70a-4201-b06e-f39b5d6b9dcc" group-title="Türkiye | Unknown region | Unknown city",Fenomen Clubbin 256
+https://live.radyofenomen.com/fenomenclubbin/256/chunks.m3u8
+#EXTINF:-1 tvg-id="c5f0b26b-234e-45de-bd3e-23f7ab177d71" group-title="Türkiye | Unknown region | Unknown city",FENOMEN KARISIK
+https://live.radyofenomen.com/fenomenkarisik/abr/fenomenkarisik/128/chunks.m3u8
+#EXTINF:-1 tvg-id="6e99824b-53e8-48c5-acae-6b320ac52f25" group-title="Türkiye | Unknown region | Unknown city",Fenomen Pop 256
+https://live.radyofenomen.com/fenomenpop/256/chunks.m3u8
+#EXTINF:-1 tvg-id="acab9839-3b93-4a7c-a259-298a25e19979" group-title="Türkiye | Unknown region | Unknown city",FENOMEN TÜRK
+https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
+#EXTINF:-1 tvg-id="a16cfab9-0b44-4718-8e72-6ee209ecfe37" group-title="Türkiye | Unknown region | Unknown city",FLOWRADYO
+https://moondigitaledge.radyotvonline.net/flow/playlist.m3u8
+#EXTINF:-1 tvg-id="3d7f4008-2157-4de1-94fc-c94b6fa4336c" group-title="Türkiye | Unknown region | Unknown city",FRİGBO
+https://station.frigbo.com/listen/frigbo/radio.mp3
+#EXTINF:-1 tvg-id="ec87d8d3-757c-41cd-b7de-c313adbc0f84" group-title="Türkiye | Unknown region | Unknown city",Fırat FM
+https://anadolu.liderhost.com.tr:10912/;
+#EXTINF:-1 tvg-id="25932e62-9639-4059-9ea2-e77dc2d2f232" group-title="Türkiye | Unknown region | Unknown city",GENÇ RADYO
+https://yayin.turkhosted.com:6030/
+#EXTINF:-1 tvg-id="7a608b80-4e46-4e7f-8210-2c231e5f4de4" group-title="Türkiye | Unknown region | Unknown city",GREEKLAND
+https://moondigitaledge.radyotvonline.net/greekland/playlist.m3u8
+#EXTINF:-1 tvg-id="e07ce960-0fca-49c5-9f9f-4aa24feb77a8" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSnbp3j7UCOUCra41mcQXEaeuobWPad1G7bwOsZDw=s900-c-k-c0x00ffffff-no-rj" group-title="Türkiye | Unknown region | Unknown city",Gundi FM
+http://gundifm.ozelip.com:7830/;
+#EXTINF:-1 tvg-id="e86785a0-8148-4558-9104-c65ed31eabf8" group-title="Türkiye | Unknown region | Unknown city",Habertürk Radyo
+https://ciner.daioncdn.net/haberturktv/haberturktv_1080p.m3u8?sid=67dy0kx38l3a&app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3
+#EXTINF:-1 tvg-id="7ab25d55-40ef-4dcc-8e85-1dd99650d830" group-title="Türkiye | Unknown region | Unknown city",Halk Radyo
+https://anadolu.liderhost.com.tr:10876/;
+#EXTINF:-1 tvg-id="2ebe95aa-35aa-4f3c-8033-7ef2caaffe12" tvg-logo="https://www.hosmix.com/wp-content/uploads/2025/12/logoh200-200.png" group-title="Türkiye | Unknown region | Unknown city",HOŞ MiX
+http://178.32.4.127:8046/stream
+#EXTINF:-1 tvg-id="23f34553-6c06-46dd-9fe8-99cf0807c112" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic-media.streema.com%2Fmedia%2Fcache%2F67%2F92%2F67927d9794c4535218ca4dfc85e58c1c.jpg&f=1&nofb=1&ipt=199dd090ea0b2d9b521c7b84cc0e2838c2b42aacd8a2ff4a04f2ea06a32ae0b6" group-title="Türkiye | Unknown region | Unknown city",İTÜ Klasik
+http://160.75.86.29:8088/ituklasikmp3
+#EXTINF:-1 tvg-id="4ead410e-2f33-411b-8a06-df9ff62efa56" group-title="Türkiye | Unknown region | Unknown city",Joy Fm
+http://27743.live.streamtheworld.com/JOY_FMAAC_SC
+#EXTINF:-1 tvg-id="55c6b946-33b1-414d-9296-b46ff3417e71" group-title="Türkiye | Unknown region | Unknown city",JOY TÜRK FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_ITUNES.mp3
+#EXTINF:-1 tvg-id="a7dc38d4-920a-4de2-8fac-5106abccf69e" group-title="Türkiye | Unknown region | Unknown city",JoyTürk Akustik
+http://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_AKUSTIK128AAC.aac
+#EXTINF:-1 tvg-id="925c4993-2140-4a3e-9d56-ff644be0339c" group-title="Türkiye | Unknown region | Unknown city",joytürk fm
+https://25553.live.streamtheworld.com/JOY_TURK_SC
+#EXTINF:-1 tvg-id="2d122ba2-553e-45c5-8946-e41c60ace773" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4-DbiEWpWrOXoAn7dYihxUrwemOvxre5n5g&s" group-title="Türkiye | Unknown region | Unknown city",JoyTürk Rock
+http://21633.live.streamtheworld.com/JOYTURK_ROCK128AAC.aac?/;stream.mp3
+#EXTINF:-1 tvg-id="48da3d7a-7d3b-4c93-b2a4-fa1ebc3a8f37" group-title="Türkiye | Unknown region | Unknown city",Kafa Radyo
+https://moondigitalmaster.radyotvonline.net/kafaradyo/playlist.m3u8
+#EXTINF:-1 tvg-id="7ae6b7bf-8629-4024-a9a8-ce62099b3b7e" group-title="Türkiye | Unknown region | Unknown city",KENT RADYO
+https://anadolu.liderhost.com.tr:10906/
+#EXTINF:-1 tvg-id="efee6296-e8b9-4997-9671-b4b7302f0148" tvg-logo="https://cdn1.kralmuzik.com.tr/media/content/19-05/17/kralfm.png" group-title="Türkiye | Unknown region | Unknown city",KRAL FM
+https://dygedge2.radyotvonline.net/kralfm/playlist.m3u8?listenerid=29d0a6a85b59cea2ca801b70d2a3ebaf&awparams=companionAds%3Atrue
+#EXTINF:-1 tvg-id="77ff4907-dc68-4d3b-8d98-89b3e32a66dd" group-title="Türkiye | Unknown region | Unknown city",KRAL TÜRK FM
+https://live.radyositesihazir.com/8032/stream
+#EXTINF:-1 tvg-id="c06ef146-a5b0-485f-a6e3-1df09514a5bf" group-title="Türkiye | Unknown region | Unknown city",Kurd1
+https://listen.radioking.com/radio/119251/stream/158701
+#EXTINF:-1 tvg-id="f940cc74-1673-4bc8-adbc-832d5d51a012" group-title="Türkiye | Unknown region | Unknown city",Kurd1 FM
+https://listen.radioking.com/radio/119251/stream/158701
+#EXTINF:-1 tvg-id="131f6fc8-1e32-49ab-9a4f-d556db5c7f3e" group-title="Türkiye | Unknown region | Unknown city",Kıyı Caz
+http://caz.radioca.st/
+#EXTINF:-1 tvg-id="f3bdf519-758d-48e5-9d9c-ff56fed99530" group-title="Türkiye | Unknown region | Unknown city",Kıyı Caz
+https://caz.radioca.st/stream
+#EXTINF:-1 tvg-id="3be05f55-f76e-4388-a769-c3c202910338" group-title="Türkiye | Unknown region | Unknown city",Kıyı Gece
+https://gece.radioca.st/
+#EXTINF:-1 tvg-id="0377dd73-ac4e-4ab4-88ae-ac81c70676be" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fkiyimuzik.com%2Fwp-content%2Fuploads%2F2019%2F07%2Fkiyi_radyo_logo.png&f=1&nofb=1&ipt=423a3e527aca8329cc1b4cce32694ac0cfa31811f92db41e100b719b331b0590" group-title="Türkiye | Unknown region | Unknown city",Kıyı Müzik
+https://kiyi.radioca.st/stream
+#EXTINF:-1 tvg-id="c1b41b98-7a4a-4b2f-8d68-3322fdd428e1" group-title="Türkiye | Unknown region | Unknown city",Kıyı Türkçe
+https://kiyiturk.radioca.st/
+#EXTINF:-1 tvg-id="d220e7fc-cfc3-48c0-895a-ec109709936d" tvg-logo="https://www.ligradyo.com.tr/assets/img/ligradyo-apple-touch-icon.png" group-title="Türkiye | Unknown region | Unknown city",Lig Radyo
+https://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="f72ecd95-0588-4464-939f-8787384621d6" group-title="Türkiye | Unknown region | Unknown city",literal
+https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac
+#EXTINF:-1 tvg-id="a4c69a47-bb4f-4a09-a1c7-8c89b554fd53" group-title="Türkiye | Unknown region | Unknown city",lokum fm
+http://37.247.98.9/stream/493/?/;stream.mp3
+#EXTINF:-1 tvg-id="5c49eb0a-c973-4260-9574-ac0875964645" tvg-logo="https://loopsradio.com/wp-content/uploads/2023/09/cropped-loopsradiofaviconred-180x180.png" group-title="Türkiye | Unknown region | Unknown city",loops radio
+https://progressive.ozelip.com/7670/stream
+#EXTINF:-1 tvg-id="960e1f3e-0601-11e8-ae97-52543be04c81" group-title="Türkiye | Unknown region | Unknown city",Magic FM
+http://yayin1.yayindakiler.com:3032/
+#EXTINF:-1 tvg-id="960e363d-0601-11e8-ae97-52543be04c81" group-title="Türkiye | Unknown region | Unknown city",Max Fm 95.8 Maximum Music
+http://live2.radyotvonline.com:8025/
+#EXTINF:-1 tvg-id="b1443978-7de0-11e8-b68b-52543be04c81" group-title="Türkiye | Unknown region | Unknown city",MaxFM
+http://live.radyotvonline.com:8090/;
+#EXTINF:-1 tvg-id="8c25a8ea-6299-40e3-988b-1ebd7652906f" group-title="Türkiye | Unknown region | Unknown city",MAZİDEN BİR DEMET
+http://37.247.98.8/stream/25/
+#EXTINF:-1 tvg-id="2c1d30b7-3fbd-43cb-b956-167d822d276f" group-title="Türkiye | Unknown region | Unknown city",Mega Site .
+http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=
+#EXTINF:-1 tvg-id="4f021b77-812d-45ce-88cb-da74e9f41ef2" group-title="Türkiye | Unknown region | Unknown city",MELANKOLİK HOME
+http://37.247.98.8/stream/20/
+#EXTINF:-1 tvg-id="8456989c-06fb-445c-b4d9-9a4e84d608be" group-title="Türkiye | Unknown region | Unknown city",MERKEZ FM SAMSUN TURKEY
+http://uydu.radyotvyayini.com:8016/
+#EXTINF:-1 tvg-id="0012c08a-31e7-48c6-87a9-7f64736e0a38" tvg-logo="https://metrofm.com.tr/favicon.ico" group-title="Türkiye | Unknown region | Unknown city",Metro FM
+http://25703.live.streamtheworld.com/METRO_FMAAC_SC
+#EXTINF:-1 tvg-id="0093fc47-2c9b-4e1b-8025-7c3f384556bb" group-title="Türkiye | Unknown region | Unknown city",MOOD ROCK
+https://radyo.yayin.com.tr:6321/;
+#EXTINF:-1 tvg-id="7a354e91-3468-47bc-81cc-24142e48f3d9" group-title="Türkiye | Unknown region | Unknown city",OĞUZ FM
+https://radyo.yayin.com.tr:5892/
+#EXTINF:-1 tvg-id="30051636-01e2-4d04-97f0-baced7aaed0f" group-title="Türkiye | Unknown region | Unknown city",PAL Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-id="54ddcb67-4d2a-465e-9e0f-fc23728f2791" group-title="Türkiye | Unknown region | Unknown city",PAL Nostalji
+https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8
+#EXTINF:-1 tvg-id="4533a6a3-0b8e-476b-b0ec-b4a56162caa6" group-title="Türkiye | Unknown region | Unknown city",Pir Yolu
+http://radyopiryolu.canliyayinda.com:8165/
+#EXTINF:-1 tvg-id="0dc6e3f7-b313-4bc4-a06a-94f05c51dff5" group-title="Türkiye | Unknown region | Unknown city",pop 90 turkey
+http://21633.live.streamtheworld.com:3690/POP90AAC_SC
+#EXTINF:-1 tvg-id="c5cd0f2d-a8ee-42c6-82b6-df54f04460b8" group-title="Türkiye | Unknown region | Unknown city",POP LAND
+https://moondigitaledge.radyotvonline.net/popland/playlist.m3u8
+#EXTINF:-1 tvg-id="2c0a7b55-c481-49e5-8b1a-9339bb132fd1" group-title="Türkiye | Unknown region | Unknown city",Power dance
+https://listen.powerapp.com.tr/powerdance/abr/powerdance/128/playlist.m3u8
+#EXTINF:-1 tvg-id="a6bdbd5c-6f02-4f14-a56a-c30ff71d82f9" group-title="Türkiye | Unknown region | Unknown city",power love
+https://listen.powerapp.com.tr/powerlove/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="fb1fd397-78fd-11ea-8a3b-52543be04c81" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Türkiye | Unknown region | Unknown city",Power POP
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-id="0319bd18-73e3-4cfc-bc0b-f4f82ca9b1ca" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Türkiye | Unknown region | Unknown city",Power POP
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-id="17a2edeb-d1c4-4163-bfed-4554456832c9" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Türkiye | Unknown region | Unknown city",Power POP
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-id="ab3f51c9-7ceb-45db-b48c-12e22515d086" tvg-logo="https://www.powerapp.com.tr/i/favicov2/apple-icon-120x120.png?v=817" group-title="Türkiye | Unknown region | Unknown city",Power POP
+https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8
+#EXTINF:-1 tvg-id="3c6108ac-a12e-476b-8ce1-3f142485d6c9" group-title="Türkiye | Unknown region | Unknown city",POWER TÜRK FM
+https://live.powerapp.com.tr/powerturk/abr/powerturk/128/playlist.m3u8
+#EXTINF:-1 tvg-id="5ebff522-556b-4c1c-8699-e9f6eddafdcd" group-title="Türkiye | Unknown region | Unknown city",POWER TÜRK TAPTAZE
+https://listen.powerapp.com.tr/powerturktaptaze/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="c143d7ad-2cc0-4a9d-8a1c-d16a3c7f5a86" group-title="Türkiye | Unknown region | Unknown city",powerturk
+https://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="6f239590-bf73-4c14-ba9c-ccedb73fd4d0" group-title="Türkiye | Unknown region | Unknown city",PowerTürk Dans
+https://listen.powerapp.com.tr/powerturkdans/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="72da925c-049c-4639-acbe-ee7a0042a83e" tvg-logo="https://cdn.powergroup.com.tr/image/90x90/powerapp/channels/v3/logo_1403.png" group-title="Türkiye | Unknown region | Unknown city",PowerTürk Rap
+https://live.powerapp.com.tr/powerturkrap/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="26eb1f53-c037-43e8-8f92-3d90769f5972" group-title="Türkiye | Unknown region | Unknown city",Radio Life Kayseri
+https://yayin2.canliyayin.org:10990/;*.mp3
+#EXTINF:-1 tvg-id="6e57a874-b7d9-46f3-9c6d-a2f246049509" group-title="Türkiye | Unknown region | Unknown city",Radio Light
+http://yayin.radiolight.net:8005/live
+#EXTINF:-1 tvg-id="abb57aa7-1106-4f63-95ba-608bfcc3ae3d" group-title="Türkiye | Unknown region | Unknown city",Radioo Mega site
+http://mega.netradyom.com:7900/radio.mp3
+#EXTINF:-1 tvg-id="7db146b3-e03f-4d43-87bb-242b7a9dc81b" group-title="Türkiye | Unknown region | Unknown city",RADYO 16
+https://radyo.yayin.com.tr:6038/
+#EXTINF:-1 tvg-id="22f193e6-20b1-4396-aecc-2f960a2a9d59" group-title="Türkiye | Unknown region | Unknown city",RADYO 44
+https://radyo44.80.yayin.com.tr/stream
+#EXTINF:-1 tvg-id="c3cf5a4e-6673-42d8-9fb6-e7635ec69f64" group-title="Türkiye | Unknown region | Unknown city",Radyo 45lik Canlı Yayın - En İyi Türkçe Nostalji Şarkılar | 70ler 80ler ve 90lar
+https://stream.radyo45lik.com:4545/
+#EXTINF:-1 tvg-id="585600d9-bdc4-4a2e-93c5-2421041cc55c" group-title="Türkiye | Unknown region | Unknown city",Radyo 45lik yeni
+https://stream.radyo45lik.com:4545/
+#EXTINF:-1 tvg-id="df369586-40fc-11e9-aa55-52543be04c81" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png" group-title="Türkiye | Unknown region | Unknown city",Radyo 7
+http://46.20.3.250/;stream
+#EXTINF:-1 tvg-id="ef9dac34-e304-4918-9b18-9e1430e9d323" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png" group-title="Türkiye | Unknown region | Unknown city",Radyo 7
+http://46.20.3.250/;stream
+#EXTINF:-1 tvg-id="85a48511-7f88-44dd-8044-bf1b68cbdf37" tvg-logo="https://cdn.kanal7.com/radyo7//application/assets/home/common/images/apple-touch-icon-114x114.png" group-title="Türkiye | Unknown region | Unknown city",Radyo 7
+http://46.20.3.250/;stream
+#EXTINF:-1 tvg-id="d8ed6337-bc5c-4d37-80ec-efe75881796b" group-title="Türkiye | Unknown region | Unknown city",RADYO 75
+https://anadolu.liderhost.com.tr/8126/stream
+#EXTINF:-1 tvg-id="14797ffb-2fdd-4a54-9748-e96486914dd2" tvg-logo="https://www.radyoakdeniz.com/wp-content/uploads/2024/03/cropped-radyoakdeniz-180x180.png" group-title="Türkiye | Unknown region | Unknown city",RADYO AKDENIZ
+https://yayin.radyoakdeniz.com/9470/stream
+#EXTINF:-1 tvg-id="df734ec2-dff6-4983-ad9b-cce79273bc3f" group-title="Türkiye | Unknown region | Unknown city",RADYO AKUSTİKLAND
+https://moondigitaledge.radyotvonline.net/akustikland/playlist.m3u8
+#EXTINF:-1 tvg-id="3dfe8d72-9ba4-47f2-9f57-a16cd5b273df" tvg-logo="https://radyoalaturka.com.tr/site/assets/img/alaturkaLogo.png" group-title="Türkiye | Unknown region | Unknown city",Radyo Alaturka
+https://yayin.jumboserver.net:9100/stream
+#EXTINF:-1 tvg-id="7a4d13bf-d304-4223-b55d-180688633f8f" group-title="Türkiye | Unknown region | Unknown city",RADYO ANTALYA
+https://sslyayin.netyayin.net:8036/
+#EXTINF:-1 tvg-id="4a070d1f-2f41-42dc-adac-c2282788ddec" group-title="Türkiye | Unknown region | Unknown city",RADYO ARMONİ
+https://radyo.yayindakiler.com:4084/stream
+#EXTINF:-1 tvg-id="306970f9-8063-481d-9f6b-00b99833d206" group-title="Türkiye | Unknown region | Unknown city",Radyo Banko
+http://yayin.netradyom.com:9910/RADYOBANKO
+#EXTINF:-1 tvg-id="3466c02a-e88f-479c-8f61-8114a0d58a12" group-title="Türkiye | Unknown region | Unknown city",RADYO BLACK LOVE
+https://anadolu.liderhost.com.tr:10964/
+#EXTINF:-1 tvg-id="d1200755-0a89-4c2d-be25-cab6be56b56a" group-title="Türkiye | Unknown region | Unknown city",RADYO DOKSANLAR
+https://moondigitaledge.radyotvonline.net/radyolanddoksanlar/playlist.m3u8
+#EXTINF:-1 tvg-id="0a9a8a20-2b30-46a8-ac10-6ef06be16889" tvg-logo="https://radyoduygusal.com/uploads/favicon/oooooooo.jpg" group-title="Türkiye | Unknown region | Unknown city",Radyo Duygusal
+https://radyoduygusal.kesintisizyayin.com:9596/;*.nsv
+#EXTINF:-1 tvg-id="acac6c14-3e6e-44c8-9b36-485522b167a3" group-title="Türkiye | Unknown region | Unknown city",RADYO DÜET
+https://radyo.yayin.com.tr:6032/stream
+#EXTINF:-1 tvg-id="b8454af2-cfba-44dc-a75b-4e17e3a806ad" group-title="Türkiye | Unknown region | Unknown city",RADYO EGE HAVALARI
+http://37.247.98.8/stream/29/
+#EXTINF:-1 tvg-id="9aab2dd5-ec19-469a-a048-e3f7c63f8585" group-title="Türkiye | Unknown region | Unknown city",Radyo Ekin
+http://yayin.turkhosted.com:6006/
+#EXTINF:-1 tvg-id="123cba9a-ec7c-41d9-bd13-a678451dd1ac" group-title="Türkiye | Unknown region | Unknown city",Radyo Eksen
+https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8
+#EXTINF:-1 tvg-id="6399eac6-3a5c-4ce0-9f66-d50762f1543f" group-title="Türkiye | Unknown region | Unknown city",Radyo Ender
+https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3
+#EXTINF:-1 tvg-id="0a79a954-3e10-49a0-956c-9a7318e3bc04" group-title="Türkiye | Unknown region | Unknown city",RADYO EŞME
+https://anadolu.liderhost.com.tr:8358/
+#EXTINF:-1 tvg-id="7f571daf-c551-4104-953c-3cb128fc0ebe" group-title="Türkiye | Unknown region | Unknown city",Radyo Fikir
+https://studio21.radiolize.com/radio/8100/radio.mp3?1647021999
+#EXTINF:-1 tvg-id="710f33b9-d5b3-4b3e-be13-29215a69ee01" group-title="Türkiye | Unknown region | Unknown city",RADYO GERÇEK
+https://ssl120.radyotelekom.com.tr:8198/
+#EXTINF:-1 tvg-id="e536f750-a343-41ec-abec-620d8285a1b5" group-title="Türkiye | Unknown region | Unknown city",Radyo Gol
+https://moondigitaledge.radyotvonline.net/radyogol/playlist.m3u8
+#EXTINF:-1 tvg-id="960e2cdc-0601-11e8-ae97-52543be04c81" group-title="Türkiye | Unknown region | Unknown city",Radyo Hayat
+http://live4.radyotvonline.com:9450/
+#EXTINF:-1 tvg-id="e26b3795-4962-46f9-83b8-fcf201396556" tvg-logo="https://www.mihr.com/Content/images/mihrcom.ico" group-title="Türkiye | Unknown region | Unknown city",Radyo Hidayet Çağı
+https://radio.mihr.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="37603e49-ef5b-45fe-b623-c2838c231b34" group-title="Türkiye | Unknown region | Unknown city",RADYO İMZA
+https://radyo.radyoimza.com:8016/
+#EXTINF:-1 tvg-id="fb984504-b551-4ef2-b919-45d2cc066e03" group-title="Türkiye | Unknown region | Unknown city",RADYO KOÇ
+https://stores.powerapp.com.tr/kocschool/mpeg/icecast.audio
+#EXTINF:-1 tvg-id="3812453c-cfdc-4686-a797-41c4ae384c6a" group-title="Türkiye | Unknown region | Unknown city",Radyo light
+https://yayin.radiolight.net:8005/live
+#EXTINF:-1 tvg-id="beb27462-45e9-48a5-82be-591c74347a12" group-title="Türkiye | Unknown region | Unknown city",Radyo Megasite
+http://mega.netradyom.com:7900/radio.mp3
+#EXTINF:-1 tvg-id="dd2c6c92-54b1-45fb-a464-e528c016a007" group-title="Türkiye | Unknown region | Unknown city",Radyo Megasite
+http://mega.netradyom.com:7900/;
+#EXTINF:-1 tvg-id="f34bebba-3a9e-4636-a593-d29538d7ed76" group-title="Türkiye | Unknown region | Unknown city",radyo mezopotamya
+https://anadolu.liderhost.com.tr/9404/stream
+#EXTINF:-1 tvg-id="fc38140c-9840-4733-861f-5ab34749649c" group-title="Türkiye | Unknown region | Unknown city",RADYO NET
+https://sslyayin.netyayin.net:8068/
+#EXTINF:-1 tvg-id="8f6ffefd-5371-4216-b503-099c7ce2128b" group-title="Türkiye | Unknown region | Unknown city",Radyo S
+http://icecast.netmedya.net/radyos
+#EXTINF:-1 tvg-id="ad4b38ec-ee71-4f15-8196-2cb71cbac328" group-title="Türkiye | Unknown region | Unknown city",Radyo Seymen
+https://yayin.radyoseymen.com.tr:1070/stream
+#EXTINF:-1 tvg-id="c1e42f7b-b285-477f-b225-0b070b561822" group-title="Türkiye | Unknown region | Unknown city",Radyo Spor
+https://moondigitaledge.radyotvonline.net/radyospor/playlist.m3u8
+#EXTINF:-1 tvg-id="d3ac3499-6add-4107-b760-1b56952751c7" group-title="Türkiye | Unknown region | Unknown city",Radyo Trio
+http://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 tvg-id="bbb718cc-1776-444e-9f78-e88540ca91b0" group-title="Türkiye | Unknown region | Unknown city",Radyo Trio
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 tvg-id="9aa50707-03fa-4916-9c52-f19894339673" group-title="Türkiye | Unknown region | Unknown city",Radyo Trio
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 tvg-id="7046d480-674a-415f-8736-395600b5c7fd" group-title="Türkiye | Unknown region | Unknown city",Radyo Turkuvaz
+https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
+#EXTINF:-1 tvg-id="2724a1ac-9f70-40b7-bba9-f75325e56faf" group-title="Türkiye | Unknown region | Unknown city",Radyo Yalova
+https://studio25.radiolize.com/radio/8200/radio.mp3
+#EXTINF:-1 tvg-id="3c98243d-f9f3-48b0-ba3d-270ca6eaa013" group-title="Türkiye | Unknown region | Unknown city",RADYO ŞAMPİYON
+https://radyo.yayin.com.tr:4106/stream
+#EXTINF:-1 tvg-id="84e38e40-cd43-459e-9562-0c9685e94c34" group-title="Türkiye | Unknown region | Unknown city",RADYOTÜRK
+https://radyo.yayindakiler.com:4028/
+#EXTINF:-1 tvg-id="4702e20b-cd47-4148-a452-8309081b6d81" group-title="Türkiye | Unknown region | Unknown city",Risalet Radyo
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3c1520b2626.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5ddd5562-7813-417d-80ce-2b1a336a3512" group-title="Türkiye | Unknown region | Unknown city",SEYDİŞEHİR FM
+https://radyo.yayin.com.tr:4142/strem
+#EXTINF:-1 tvg-id="0c8bca4e-f472-4821-a502-ce8a39ae22f6" group-title="Türkiye | Unknown region | Unknown city",SEÇ FM
+https://live.radyo.in/8066/stream
+#EXTINF:-1 tvg-id="f403a658-16a9-4d39-a00a-2897c0c7aa05" group-title="Türkiye | Unknown region | Unknown city",Show radio
+https://edge1.radyotvonline.net/shoutcast/play/showradyo
+#EXTINF:-1 tvg-id="c230aa86-0eea-45df-a243-ae25ba23898c" group-title="Türkiye | Unknown region | Unknown city",Show radio
+https://moondigitaledge.radyotvonline.net/show/playlist.m3u8
+#EXTINF:-1 tvg-id="6f54c6a5-7032-4a86-b00e-21f1169f678a" group-title="Türkiye | Unknown region | Unknown city",SUPER FM 2 TURKEY
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/
+#EXTINF:-1 tvg-id="433d61d2-07f2-445e-ba8b-9bb80e547d53" group-title="Türkiye | Unknown region | Unknown city",SÜPER SHOW RADYO
+https://sslyayin.netyayin.net:6065/
+#EXTINF:-1 tvg-id="4b2d157e-9741-4174-8731-6d6cb2bdf8e8" group-title="Türkiye | Unknown region | Unknown city",Tarkan
+https://stream.pcradio.ru/tarkan-hi
+#EXTINF:-1 tvg-id="59385050-a0b5-4be9-bbf9-aa7a07c0f8e6" group-title="Türkiye | Unknown region | Unknown city",TGRT FM
+http://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fead000e2128.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ff3b8372-1f59-4b18-a4fc-2240b8ab5417" group-title="Türkiye | Unknown region | Unknown city",TGRT FM
+https://icecasttgrt.ihlasdigitalassets.com/tgrtfm
+#EXTINF:-1 tvg-id="172f5b80-a44b-4218-b5ad-703bafad417c" group-title="Türkiye | Unknown region | Unknown city",TİRYAKİ FM
+https://yayin.turkhosted.com:6056/mp3
+#EXTINF:-1 tvg-id="e6b49745-baa3-41b5-9c43-9cb8284139dc" group-title="Türkiye | Unknown region | Unknown city",TRD 4
+https://stream.zeno.fm/x5n4sfyy9nhvv
+#EXTINF:-1 tvg-id="c800a509-eaa3-419a-a49c-b59261a8ba68" group-title="Türkiye | Unknown region | Unknown city",trio
+https://radyotrio.radyotvonline.net/radyotrio
+#EXTINF:-1 tvg-id="0a2c3506-a136-40f2-b008-38daf2b12fd6" tvg-logo="https://trt-public-static.trt.com.tr/eradyo/public/dm_upload/modul2/dd24ba9f-7f22-4b79-a226-9704169bd953.png" group-title="Türkiye | Unknown region | Unknown city",TRT FM
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1 tvg-id="5e4306b6-eed8-441a-b0fd-7bf61534144b" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/TRT_Radyo_1_logo.svg/revision/latest/scale-to-width-down/300?cb=20211026160210" group-title="Türkiye | Unknown region | Unknown city",TRT Radyo 1
+https://trt.radyotvonline.net/trt1
+#EXTINF:-1 tvg-id="b287ab0e-3cb6-40b3-8da1-efa2a8f0433a" group-title="Türkiye | Unknown region | Unknown city",TRT VOT World
+https://radio-trtvotworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="c83e6f0f-cfb3-48a1-9cb8-34d61645bd20" group-title="Türkiye | Unknown region | Unknown city",Turkuvaz Anadolu
+http://trkvz-radyolar.ercdn.net/turkuvazanadolu/Playlist.m3u8
+#EXTINF:-1 tvg-id="a0e31faa-d78e-439e-ae23-9e937b4848e4" group-title="Türkiye | Unknown region | Unknown city",TURKUVAZ EFSANE
+https://trkvz-radyolar.ercdn.net/turkuvazefsane/playlist.m3u8
+#EXTINF:-1 tvg-id="c8d41d0e-0437-485c-a62c-ae95ecfdae40" tvg-logo="https://turkrockfm.com/wp-content/uploads/2023/01/turkrockfm-small-logo.png" group-title="Türkiye | Unknown region | Unknown city",Türk Rock FM
+https://yayin5.radyohizmeti.com/8090/stream;
+#EXTINF:-1 tvg-id="afb22103-298e-4407-bc40-6a16cbb50465" group-title="Türkiye | Unknown region | Unknown city",VİZYON NOSTALJİ
+https://stream.netradyom.com/radio/7090/radio.mp3/;
+#EXTINF:-1 tvg-id="6f5d171b-91a2-4fce-81ff-b7581b7bde32" tvg-logo="https://xradio.com.tr/favicon.ico" group-title="Türkiye | Unknown region | Unknown city",X Radio
+http://yayin.radyomadyo.com:8770/
+#EXTINF:-1 tvg-id="da574b9d-d86a-4cef-81a2-fde612759a0d" group-title="Türkiye | Unknown region | Unknown city",YILDIZ FM
+https://radyo.yayin.com.tr:5940/
+#EXTINF:-1 tvg-id="3fdf15a4-685f-422c-bfee-49af64f5dbd1" tvg-logo="https://yonradyo.com.tr/wp-content/uploads/2023/10/yon-radyo-1.png" group-title="Türkiye | Unknown region | Unknown city",Yön Radyo
+https://stream.radyolarburada.com:8020/yonradyo
+#EXTINF:-1 tvg-id="59e304ef-8fc2-4f9b-9731-9ef95dd19c6a" group-title="Türkiye | Unknown region | Unknown city",ÇEŞME VİKİNG RADYO
+https://ip169.ozelip.com/8432/stream
+#EXTINF:-1 tvg-id="cdd35eda-263b-4475-81d7-6696024e097e" group-title="Türkiye | Unknown region | Unknown city",ÇINAR FM
+https://sslyayin.netyayin.net:10992/
+#EXTINF:-1 tvg-id="faa6a398-ae90-45e2-8afb-cc739a0a0504" group-title="Türkiye | Unknown region | Unknown city",اذاعة القرآن الكريم 🇹🇷
+http://stream.radiojar.com/0tpy1h0kxtzuv
+#EXTINF:-1 tvg-id="c0aa78c7-8461-4c36-a85a-b651f2f5fa39" group-title="Türkiye | Yenişehir | Mersin",KURAN ve TÜRKÇE MEAL
+http://82.145.41.8:19175/

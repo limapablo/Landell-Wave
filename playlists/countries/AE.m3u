@@ -1,0 +1,481 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cc5c2923-d647-4009-ba04-dccb4606b625" tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="The United Arab Emirates | BACH | Unknown city",JS Bach - Classical Radio
+https://drive.uber.radio/uber/crjsbach/icecast.audio
+#EXTINF:-1 tvg-id="cd000b7b-4185-4ddb-bc71-5bd70053c190" group-title="The United Arab Emirates | Dubai | Al Hudaiba",Exclusively ZZ Top
+https://2.mystreaming.net/er-app/zztop/icecast.audio
+#EXTINF:-1 tvg-id="696b91cc-7e89-4ed7-9705-1e4683bf0e75" tvg-logo="https://mytuner-radio.com/favicon.ico" group-title="The United Arab Emirates | Dubai | Al Jazīrah al Ḩamrā’",The Groovy Smooth Jazz Station
+https://jazz.streeemer.com/listen/jazz/radio.aac
+#EXTINF:-1 tvg-id="34714238-688f-449a-8af7-633e4a7837f6" group-title="The United Arab Emirates | Dubai | Al Khawaneej 1",Exclusively Willie Nelson
+https://nl4.mystreaming.net/er/willienelson/icecast.audio
+#EXTINF:-1 tvg-id="2ed99c40-0bc1-4b75-9dff-85f0d6da2340" group-title="The United Arab Emirates | Dubai | Al Safa",Exclusively Sting - HITS
+https://2.mystreaming.net/er/stinghits/icecast.audio
+#EXTINF:-1 tvg-id="82e64078-241f-492b-ac97-d26a95993f51" group-title="The United Arab Emirates | Dubai | Al Waheda",Exclusively Bee Gees - HITS
+https://nl4.mystreaming.net/er/thebeegeeshits/icecast.audio
+#EXTINF:-1 tvg-id="4eb45619-b48d-4911-b1d5-4aa4e7749ddf" group-title="The United Arab Emirates | Dubai | Al Waheda",Exclusively U2 - HITS
+https://streaming.exclusive.radio/er/u2hits/icecast.audio
+#EXTINF:-1 tvg-id="fa896eff-c08c-419e-96b7-7ea3de397fe7" group-title="The United Arab Emirates | Dubai | Al Ḩamīdīyah",Exclusively George Strait
+https://nl4.mystreaming.net/er/georgestrait/icecast.audio
+#EXTINF:-1 tvg-id="4982016d-c021-40f6-adc8-e839dc78c2fa" group-title="The United Arab Emirates | Dubai | Dayrah",Exclusively Phil Collins - HITS
+https://streaming.exclusive.radio/er-app/philcollinshits/icecast.audio
+#EXTINF:-1 tvg-id="6c8a2b8b-c2e9-46bb-98d0-a90d7a33f88d" group-title="The United Arab Emirates | Dubai | Downtown Dubai",Exclusively Keith Urban
+https://nl4.mystreaming.net/er/keithurban/icecast.audio
+#EXTINF:-1 tvg-id="c607fdcb-61af-4ce9-84c7-5c51adb5f40c" tvg-logo="https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/ff902cfd-0e64-4f71-b090-e5df675892fb.png" group-title="The United Arab Emirates | Dubai | Mankhūl",Greatest Hits Disco
+https://streaming.exclusive.radio/er/disco/icecast.audio
+#EXTINF:-1 tvg-id="a7633680-8e05-448e-8a73-bc87d2aec697" group-title="The United Arab Emirates | Dubai | Mirdif",Exclusively Gary Moore
+https://nl4.mystreaming.net/er/garymoore/icecast.audio
+#EXTINF:-1 tvg-id="f4556a0b-054d-4fbb-8436-aa05d2f2f7f2" tvg-logo="https://www.dubaieye1038.com/favicon" group-title="The United Arab Emirates | Dubai | Unknown city",Dubai Eye 103.8
+https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645
+#EXTINF:-1 tvg-id="107cb2c9-0aef-45c1-909a-bc2fb5e3887d" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Carpenters Hits
+https://streaming.exclusive.radio/er/carpentershits/icecast.audio
+#EXTINF:-1 tvg-id="2235b588-402c-4f6c-b5f9-4d0cccbbae9b" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Keane
+https://streaming.exclusive.radio/er/keane/icecast.audio
+#EXTINF:-1 tvg-id="55ef86d6-d820-49cd-9e79-c613609a52c2" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Metallica
+https://streaming.exclusive.radio/er/metallica/icecast.audio
+#EXTINF:-1 tvg-id="53f25a3f-fd20-4fcf-b999-b0db140aa794" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Oasis Hits
+https://streaming.exclusive.radio/er/oasishits/icecast.audio
+#EXTINF:-1 tvg-id="5b368f1a-a1ea-480d-950e-c3f353b1af7c" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Radiohead
+https://streaming.exclusive.radio/er/radiohead/icecast.audio
+#EXTINF:-1 tvg-id="dc9ecc9d-49b6-4043-9534-af158c36ba56" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Red Hot Chili Peppers
+https://streaming.exclusive.radio/er/chilipeppers/icecast.audio
+#EXTINF:-1 tvg-id="8bae219b-a3f2-4691-a55c-5ff56db18360" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - Sia
+https://streaming.exclusive.radio/er/sia/icecast.audio
+#EXTINF:-1 tvg-id="819038b0-6301-4ddd-9269-4f6be9920aca" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - The Police
+https://streaming.exclusive.radio/er/police/icecast.audio
+#EXTINF:-1 tvg-id="883b0755-9b1c-4fee-b7fa-82c06b054c9e" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - The Smiths
+https://streaming.exclusive.radio/er/thesmiths/icecast.audio
+#EXTINF:-1 tvg-id="e9b89e4f-c012-42f5-902e-137f64672eca" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - U2 Hits
+https://streaming.exclusive.radio/er/u2hits/icecast.audio
+#EXTINF:-1 tvg-id="6cbd2d48-c8a1-49eb-bc81-cc6ad35e85f5" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively - UB40
+https://streaming.exclusive.radio/er/ub40/icecast.audio
+#EXTINF:-1 tvg-id="e97a236a-f5d8-48fc-910b-dba9c39c6695" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively 2Pac
+https://streaming.exclusive.radio/er/2pac/icecast.audio
+#EXTINF:-1 tvg-id="7f39d4e6-ef08-4298-94ea-709c912503ba" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively Aerosmith
+https://streaming.exclusive.radio/er/aerosmith/icecast.audio
+#EXTINF:-1 tvg-id="afc54a74-ca18-4f21-8451-236c360f1035" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively Alice Cooper
+https://streaming.exclusive.radio/er/alicecooper/icecast.audio
+#EXTINF:-1 tvg-id="b6c9b577-41cf-4632-afed-fcc4bee8770a" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively Emerson, Lake & Palmer
+https://streaming.exclusive.radio/er/emersonlakepalmer/icecast.audio
+#EXTINF:-1 tvg-id="c77f0201-4b3e-4723-a899-91402f5e5b5d" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively John Lee Hooker
+https://streaming.exclusive.radio/er/johnleehooker/icecast.audio
+#EXTINF:-1 tvg-id="94dea394-0c3e-4002-96a9-b990a6be6f22" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/09783d18-4d0e-4086-ada7-b237d4b72913.jpg" group-title="The United Arab Emirates | Dubai | Unknown city",Exclusively Lady Gaga
+https://nl4.mystreaming.net/er-app/ladygaga/icecast.audio
+#EXTINF:-1 tvg-id="4d967a96-b938-46af-9f5d-f677b3faa33a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0a5Te7sqlnrHQiR0gpyljujX2alJCIpmqOUdebUD4w&s" group-title="The United Arab Emirates | Dubai | Unknown city",Favradio UAE 96.1 FM
+http://stream.hornhost.com:8109/
+#EXTINF:-1 tvg-id="0237e547-e8cd-4ca8-9f78-da5c93bf507d" group-title="The United Arab Emirates | Dubai | Unknown city",Just Jazz Al Jarreau
+https://drive.uber.radio/uber/jjraljarreau/icecast.audio
+#EXTINF:-1 tvg-id="b754248c-03e5-4a14-9103-7cdae71ab98f" group-title="The United Arab Emirates | Dubai | Unknown city",Just Jazz Amy Winehouse
+https://drive.uber.radio/uber/jjramywinehouse/icecast.audio
+#EXTINF:-1 tvg-id="c2138dbd-83f4-44e8-a13b-35b8659dea8b" group-title="The United Arab Emirates | Dubai | Unknown city",Just Jazz Art Tatum
+https://drive.uber.radio/uber/jjrarttatum/icecast.audio
+#EXTINF:-1 tvg-id="2dedc27b-b5b9-4e97-89a5-c6ab83ef2096" group-title="The United Arab Emirates | Dubai | Unknown city",Just Jazz Benny Goodman
+https://drive.uber.radio/uber/jjrbennygoodman/icecast.audio
+#EXTINF:-1 tvg-id="376b4993-cef2-4231-b55f-9e689b187d08" group-title="The United Arab Emirates | Dubai | Unknown city",Just Jazz Bill Evans
+https://drive.uber.radio/uber/jjrbillevans/icecast.audio
+#EXTINF:-1 tvg-id="ae102c04-f37a-4925-b731-cb4382e64c1c" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsR990fEHfe2FsqoI5Qc4R47IRjuJ3-rz0cA&s" group-title="The United Arab Emirates | Dubai | Unknown city",Kadak
+https://n05.radiojar.com/s1mygd1frxquv?rj-ttl=5&rj-tok=AAABkXobvR4AFEnBVGBGUn98ew
+#EXTINF:-1 tvg-id="16781c80-fd0a-4868-bbd4-32603d851a71" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - 2000s
+https://drive.uber.radio/uber/lr2000s/icecast.audio
+#EXTINF:-1 tvg-id="e38cc559-a645-402c-aef5-1c2a52bb7cf7" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - 2010s
+https://drive.uber.radio/uber/lr2010s/icecast.audio
+#EXTINF:-1 tvg-id="c9628e44-7c8f-4ad3-b43e-85b6b515d507" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - 60s
+https://drive.uber.radio/uber/lr1960s/icecast.audio
+#EXTINF:-1 tvg-id="8c0d9964-467b-4bb6-b361-f4a870f9fdd1" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - 70s
+https://drive.uber.radio/uber/lr1970s/icecast.audio
+#EXTINF:-1 tvg-id="05b66c18-ee2d-4d54-af2c-38f221d6c7cc" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - Love Break Up
+https://drive.uber.radio/uber/lrbreakupsongs/icecast.audio
+#EXTINF:-1 tvg-id="a78847c9-e01f-4d4e-a025-12e1315c2010" tvg-logo="https://manager.uber.radio/static/uploads/station/5fffb65a-330d-4a20-8f5f-8f2a208638c5.png" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - Love Mix
+https://drive.uber.radio/uber/lrlovemix/icecast.audio
+#EXTINF:-1 tvg-id="b2e5ba52-4d2b-4ed9-b562-b1ea08b98245" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - Turkish Love songs
+https://drive.uber.radio/uber/lrturkish/icecast.audio
+#EXTINF:-1 tvg-id="55863ece-fbe8-44cc-9d23-ad5f737b1a58" group-title="The United Arab Emirates | Dubai | Unknown city",Love Radio - Wedding
+https://drive.uber.radio/uber/lrwedding/icecast.audio
+#EXTINF:-1 tvg-id="bb6bd749-04ef-4f0d-87a9-63152f7c3567" group-title="The United Arab Emirates | Dubai | Unknown city",Positively 1920's
+https://streaming.positivity.radio/pr/1920/icecast.audio
+#EXTINF:-1 tvg-id="115bd89c-f80f-4983-960d-d0238d2038f5" group-title="The United Arab Emirates | Dubai | Unknown city",Positively 1940's
+https://streaming.positivity.radio/pr/1940/icecast.audio
+#EXTINF:-1 tvg-id="5174dd10-fc90-455c-9656-2f02d26c59c4" group-title="The United Arab Emirates | Dubai | Unknown city",Positively 1970's
+https://streaming.positivity.radio/pr/posi70s/icecast.audio
+#EXTINF:-1 tvg-id="c93bb909-2189-4934-ba7c-686562a5d726" group-title="The United Arab Emirates | Dubai | Unknown city",Positively 2000's
+https://streaming.positivity.radio/pr/posi00s/icecast.audio
+#EXTINF:-1 tvg-id="4a27dbd2-236d-4840-b494-76d81c3e34b2" tvg-logo="https://manager.uber.radio/static/uploads/station/4ee384c2-df1d-4cf3-a183-a3596d614f9a.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Calming 396Hz -om
+https://streaming.positivity.radio/pr/calming/icecast.audio
+#EXTINF:-1 tvg-id="c20998f6-6763-4c97-aeaf-60c5bf2b9861" tvg-logo="https://manager.uber.radio/static/uploads/station/0838e29f-369c-4238-938c-65a1004e67e5.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Detox 741Hz -om
+https://streaming.positivity.radio/pr/detox/icecast.audio
+#EXTINF:-1 tvg-id="557b97f4-903d-4179-9358-3c0c5e13c8f9" tvg-logo="https://manager.uber.radio/static/uploads/station/1eae0b21-f4a6-4d6b-9a34-d77893d87b6e.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Gold -om
+https://streaming.positivity.radio/pr/posigold/icecast.audio
+#EXTINF:-1 tvg-id="c5995458-afae-4d46-a39b-0e24b5e2ffc6" tvg-logo="https://manager.uber.radio/static/uploads/station/4c4ea475-963e-40e1-9371-2e3524dadc27.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Happy -om
+https://streaming.positivity.radio/pr/happy/icecast.audio
+#EXTINF:-1 tvg-id="b2cbded9-7767-46b4-bd37-129b735ccd3a" tvg-logo="https://manager.uber.radio/static/uploads/station/80cbb083-a7f5-40c7-8145-6865d520d788.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Healing 285Hz -om
+https://streaming.positivity.radio/pr/healing/icecast.audio
+#EXTINF:-1 tvg-id="3ac434a9-2149-447a-a389-41dca77bd7d2" tvg-logo="https://manager.uber.radio/static/uploads/station/3bcc8b4f-8592-4b67-af51-340336df4b44.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Spa -om
+https://streaming.positivity.radio/pr/spa/icecast.audio
+#EXTINF:-1 tvg-id="b61be18f-c6c1-4866-8c1d-56a67703ea0b" tvg-logo="https://manager.uber.radio/static/uploads/station/276f1ff6-4ac3-4ee1-bf2e-3711de267ee1.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Vibe -om
+https://streaming.positivity.radio/pr/posivibe/icecast.audio
+#EXTINF:-1 tvg-id="af74f7e4-6d2f-4944-9cb1-e92657488987" tvg-logo="https://manager.uber.radio/static/uploads/station/3558595d-efa8-4964-883c-822c447e870c.png" group-title="The United Arab Emirates | Dubai | Unknown city",Positively Vibrant -om
+https://streaming.positivity.radio/pr/vibrant/icecast.audio
+#EXTINF:-1 tvg-id="9f101297-1347-4b6c-ab8c-cdafb32b4f73" tvg-logo="https://manager.uber.radio/static/uploads/station/ccd36487-9de6-45f7-ac5a-31e5b550776f.png" group-title="The United Arab Emirates | Dubai | Unknown city",Rock The World - Classic Rock
+https://drive.uber.radio/uber/rtwclassics/icecast.audio
+#EXTINF:-1 tvg-id="17bd415a-dc88-405b-8a73-c961dd4e3b8d" group-title="The United Arab Emirates | Dubai | Unknown city",Stan Gett
+https://drive.uber.radio/uber/jjrstangetz/icecast.audio
+#EXTINF:-1 tvg-id="b28dab2f-6513-4179-ac3c-2b9756af9dfa" group-title="The United Arab Emirates | Dubai | Unknown city",StarBox Jazz
+https://drive.uber.radio/uber/starboxjazz/icecast.audio
+#EXTINF:-1 tvg-id="5e742737-d734-433e-8e5b-5efbd7246d2d" tvg-logo="https://starbox.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",StarBox RnB
+https://drive.uber.radio/uber/starboxrnb/icecast.audio
+#EXTINF:-1 tvg-id="1b457d07-72b8-4bf1-8fd9-d26f563d153a" group-title="The United Arab Emirates | Dubai | Unknown city",StarBox Rock
+https://drive.uber.radio/uber/starboxrock/icecast.audio
+#EXTINF:-1 tvg-id="7f207ba8-e606-498b-8cd8-21058a01b93d" tvg-logo="https://www.tag911.ae" group-title="The United Arab Emirates | Dubai | Unknown city",TAG 91.1
+https://stream-159.zeno.fm/7neg6f1hbm0uv?zs=RHmhUhEpS6-utF-DsvVQUQ&zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsImp0aSI6IlJIbWhVaEVwUzYtdXRGLURzdlZRVVEiLCJpYXQiOjE3MTI4MTMwMjQsImV4cCI6MTcxMjgxMzA4NH0.7ZKhsErDvNbE9o6O0FUvA5lJtpzbMKj5VbqvAdIh9Mk&zttl=5
+#EXTINF:-1 tvg-id="5a3d6d64-57ff-4785-8c43-930ce63b2315" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_-AxBO2qO3btfcxdP3mk8wra82n9a5oYwJlScfp10Q&s=10" group-title="The United Arab Emirates | Dubai | Unknown city",Tee Radio Middle East 105.9 FM
+https://stream-157.zeno.fm/7neg6f1hbm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3bmVnNmYxaGJtMHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInRtIjpmYWxzZSwicnR0bCI6NSwianRpIjoiTHFpUHo5eWdUX3lxMDhvekszZnQzQSIsImlhdCI6MTc1NTY2MTEwMiwiZXhwIjoxNzU1NjYxMTYyfQ.m0dDLoIR-m_nf2YoVPvws4jwJhBxAasUGPk7aiWetiU
+#EXTINF:-1 tvg-id="e445f105-5049-4e8d-8b57-0dc5122cea60" tvg-logo="https://manager.uber.radio/static/uploads/brand/c7d4cfa2-b7d4-4501-8946-4dcb826c9bd3.png" group-title="The United Arab Emirates | Dubai | Unknown city",The Best Of - Christmas Pop
+https://streaming.exclusive.radio/er/christmaspop/icecast.audio
+#EXTINF:-1 tvg-id="3fa5f3d8-2e24-4c55-a889-bb418e28a5dc" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1952
+https://streaming.ticktock.radio/tt/1952/icecast.audio
+#EXTINF:-1 tvg-id="39df62fa-2a1c-44cc-a63a-bb925b7df688" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1955
+https://streaming.ticktock.radio/tt/1955/icecast.audio
+#EXTINF:-1 tvg-id="4fe8391a-8615-4372-8676-5ed2d6548d48" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1961
+https://streaming.ticktock.radio/tt/1961/icecast.audio
+#EXTINF:-1 tvg-id="33513b7f-8f6e-483c-9ea4-dcde747d2b8b" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1962
+https://streaming.ticktock.radio/tt/1962/icecast.audio
+#EXTINF:-1 tvg-id="d65925da-b22e-4ec8-a572-66a27be8a9ee" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1963
+https://streaming.ticktock.radio/tt/1963/icecast.audio
+#EXTINF:-1 tvg-id="f36f454b-a107-4ef1-9845-bf7aa5ba5aac" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1965
+https://streaming.ticktock.radio/tt/1965/icecast.audio
+#EXTINF:-1 tvg-id="70adadda-defa-40bd-af33-e226a7fc6f5e" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1966
+https://streaming.ticktock.radio/tt/1966/icecast.audio
+#EXTINF:-1 tvg-id="7087c95c-57a6-4b40-84ed-3b2fb75467f7" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1967
+https://streaming.ticktock.radio/tt/1967/icecast.audio
+#EXTINF:-1 tvg-id="c90d1960-2dfd-4ecf-8092-a439de86439e" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1968
+https://streaming.ticktock.radio/tt/1968/icecast.audio
+#EXTINF:-1 tvg-id="dea987c6-dee1-4dbd-8260-eb8abfee4d66" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1971
+https://streaming.ticktock.radio/tt/1971/icecast.audio
+#EXTINF:-1 tvg-id="c41dc2e9-c96a-41e2-a49b-1499d71534d5" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1977
+https://streaming.ticktock.radio/tt/1977/icecast.audio
+#EXTINF:-1 tvg-id="9344416f-c0f8-4e4a-9785-abde52d27430" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1979
+https://streaming.ticktock.radio/tt/1979/icecast.audio
+#EXTINF:-1 tvg-id="045252b1-543d-47b8-adb6-b1eac795c6cf" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1984
+https://streaming.ticktock.radio/tt/1984/icecast.audio
+#EXTINF:-1 tvg-id="ad046bf8-0daf-4dfd-b188-0e542a214267" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1987
+https://streaming.ticktock.radio/tt/1987/icecast.audio
+#EXTINF:-1 tvg-id="6e7b70ce-653e-4be4-bdf6-c763fd68b544" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1990
+https://streaming.ticktock.radio/tt/1990/icecast.audio
+#EXTINF:-1 tvg-id="7bc63424-b1a5-4266-9b7c-7fef33ab7ee9" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1991
+https://streaming.ticktock.radio/tt/1991/icecast.audio
+#EXTINF:-1 tvg-id="b8c74695-4c46-4e07-b3cd-c1bd41a16a21" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1995
+https://streaming.ticktock.radio/tt/1995/icecast.audio
+#EXTINF:-1 tvg-id="691893ea-42b4-4ed4-9796-a2201dca55e0" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 1997
+https://streaming.ticktock.radio/tt/1997/icecast.audio
+#EXTINF:-1 tvg-id="62c1381c-ccd7-4869-8e91-be1192f33b2a" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2000
+https://streaming.ticktock.radio/tt/2000/icecast.audio
+#EXTINF:-1 tvg-id="2a73b3c3-8b59-4c47-b321-75a9a31861a5" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2005
+https://streaming.ticktock.radio/tt/2005/icecast.audio
+#EXTINF:-1 tvg-id="f8485d0e-1730-43f6-9882-a83cfb9e85c8" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2011
+https://streaming.ticktock.radio/tt/2011/icecast.audio
+#EXTINF:-1 tvg-id="c8c5de5f-01c6-40e7-ab68-def8ca80dd08" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2012
+https://streaming.ticktock.radio/tt/2012/icecast.audio
+#EXTINF:-1 tvg-id="53f9376e-6fe3-451e-a944-38ede2f13546" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2014
+https://streaming.ticktock.radio/tt/2014/icecast.audio
+#EXTINF:-1 tvg-id="eaf4f90c-2d91-486c-9b4d-617fe2166dcb" tvg-logo="https://you.radio/station/886" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2018
+https://streaming.ticktock.radio/tt/2018/icecast.audio
+#EXTINF:-1 tvg-id="5c71e5a8-89fb-4a16-9a10-e3cbdb10313a" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/931908a6-e834-4faf-acf3-abaedebc3b68.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2019
+https://streaming.ticktock.radio/tt/2019/icecast.audio
+#EXTINF:-1 tvg-id="b1d74a94-e695-41a1-b61f-8d316dab96ad" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/2d397f22-d8b8-4d1b-9493-a7c67aff5a3d.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2020
+https://streaming.ticktock.radio/tt/2020/icecast.audio
+#EXTINF:-1 tvg-id="50e9c2e4-daf2-4772-b691-5b5c3a6607ed" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a3f5d62d-ad86-4cbb-81f2-d3112cb1647c.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2021
+https://streaming.ticktock.radio/tt/2021/icecast.audio
+#EXTINF:-1 tvg-id="2d466b79-0a6a-44f4-b8ca-49370e613f5e" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2023
+https://streaming.ticktock.radio/tt/2023/icecast.audio
+#EXTINF:-1 tvg-id="843094e3-3a1c-4a56-b55d-538acb6a7dd1" tvg-logo="https://ticktock.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Dubai | Unknown city",Tick Tock Radio - 2024
+https://streaming.ticktock.radio/tt/2024/icecast.audio
+#EXTINF:-1 tvg-id="936b3fe8-81e3-44f7-b22f-9b66968867ed" group-title="The United Arab Emirates | Dubai | Unknown city",Tinder Radio - Hollywood & Broadway Musicals
+https://streaming.exclusive.radio/er/hollywoodandbroadway/icecast.audio
+#EXTINF:-1 tvg-id="1d47e6af-81ce-4e45-b046-71641c103881" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f23b1bdf-1e89-4e36-9f7c-7754ce0b85b7.png" group-title="The United Arab Emirates | Dubai | Unknown city",World Music Radio - Bollywood
+https://streaming.exclusive.radio/er/bollywood/icecast.audio
+#EXTINF:-1 tvg-id="137f6575-0743-4e54-915c-26b42a67093a" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/0a263cf7-3218-496e-9bce-c60d479c126f.png" group-title="The United Arab Emirates | Dubai | Unknown city",World Music Radio - J-Pop
+https://streaming.exclusive.radio/er/jpop/icecast.audio
+#EXTINF:-1 tvg-id="ffc0f74d-d912-4f2c-b50c-cc02948a7243" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/a7/61/68a761ec-059b-456b-9992-9175d614eccd/190295194482.jpg/250x250bb.jpg" group-title="The United Arab Emirates | Dubai | Zayed City",Exclusiv Kraftwerk
+https://streaming.exclusive.radio/er/kraftwerk/icecast.audio
+#EXTINF:-1 tvg-id="7c9a2e42-68c9-412e-8b3c-8b3c4c98498f" group-title="The United Arab Emirates | Dubai, | Unknown city",Exclusively Chicago
+https://streaming.exclusive.radio/er/chicago/icecast.audio
+#EXTINF:-1 tvg-id="a922e9a9-cba7-4da8-9b8c-29f0deff049d" group-title="The United Arab Emirates | Dubai, | Unknown city",Exclusively Michael Jackson
+https://streaming.exclusive.radio/er/michaeljackson/icecast.audio
+#EXTINF:-1 tvg-id="95aab726-0868-4e08-b0f1-5c06403705f3" group-title="The United Arab Emirates | Dubai, | Unknown city",Exclusively Steve Winwood
+https://streaming.exclusive.radio/er/stevewinwood/icecast.audio
+#EXTINF:-1 tvg-id="ef2dac34-be6c-4f6f-9408-88947e0219cb" group-title="The United Arab Emirates | Dubai, | Unknown city",Exclusively Whitney Houston
+https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
+#EXTINF:-1 tvg-id="f5ed3c61-16a2-4d89-af2d-966346d7ae7b" group-title="The United Arab Emirates | Unknown region | Unknown city",.Quran Radio
+https://n09.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABjKoABHgAdULpynjQ7EwB6A
+#EXTINF:-1 tvg-id="e67d9d39-65b5-48de-83c1-3b414aa6406c" tvg-logo="https://i.imgur.com/nLzJ0bI.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",1-Exclusively Thin Lizzy
+https://streaming.exclusive.radio/er/thinlizzy/icecast.audio
+#EXTINF:-1 tvg-id="68ebb0ea-02b2-456f-b530-26d5548fee47" group-title="The United Arab Emirates | Unknown region | Unknown city",Aretha Franklin
+https://streaming.exclusive.radio/er/arethafranklin/icecast.audio
+#EXTINF:-1 tvg-id="d0c78e57-f6f2-4973-978a-27aec797163f" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Bavarian Radio Symphony Orchestra
+https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+#EXTINF:-1 tvg-id="450076e8-cd0c-4f7f-98b1-578cf8540d4d" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Berlin Philharmonic Orchestra - Classical Radio
+https://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+#EXTINF:-1 tvg-id="a3e82fa0-d282-41e3-a935-b97c4af30131" group-title="The United Arab Emirates | Unknown region | Unknown city",Boomerang 2000s
+https://drive.uber.radio/uber/boomerang2000s/icecast.audio
+#EXTINF:-1 tvg-id="666d8062-7aef-4d44-81b2-066e6cbe3486" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240328_221624470.jpg?alt=media&token=04fce930-679e-466f-8d36-548b8335d525" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R - Mozart
+http://drive.uber.radio/uber/crmozart/icecast.audio
+#EXTINF:-1 tvg-id="2bb3afc6-7c8b-4e1e-97fa-4e76cf81e235" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Andres Segovia
+http://drive.uber.radio/uber/crandressegovia/icecast.audio
+#EXTINF:-1 tvg-id="c02b71c8-d4fb-46df-91fc-86428ca10941" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_165327258.jpg?alt=media&token=d50d2656-a530-4ceb-9d9e-8713d3b06e59" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - André Rieu
+http://drive.uber.radio/uber/crandrerieu/icecast.audio
+#EXTINF:-1 tvg-id="2b6d8233-8fa2-4033-ba72-3e6902117915" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_212254251.jpg?alt=media&token=4cb4c928-3d9a-4969-a3bc-43e98d22662c" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Bavarian Radio Symphony Orchestra
+http://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+#EXTINF:-1 tvg-id="ee590a3b-7a68-45e2-8e4a-07b9d25ca3b8" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Berlin Philarmonic
+http://drive.uber.radio/uber/crberlinphilharmonic/icecast.audio
+#EXTINF:-1 tvg-id="831599d1-85ab-4f5b-8833-fcecd16f2e4c" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_103730827.jpg?alt=media&token=ac083181-0bab-4722-8583-6b7cdd963600" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Bryn Terfel
+http://drive.uber.radio/uber/crbrynterfel/icecast.audio
+#EXTINF:-1 tvg-id="cb0b7565-0c18-42b3-b254-cbb865475d40" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Jacqueline Du Pre
+http://drive.uber.radio/uber/crjacquelinedurpre/icecast.audio
+#EXTINF:-1 tvg-id="58d6ea13-8fe6-45a3-95d1-e8e758072cd5" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - John Williams
+http://drive.uber.radio/uber/crjohnwilliams/icecast.audio
+#EXTINF:-1 tvg-id="0dae0628-e231-47a0-88a6-b187782b6afd" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_111804576.jpg?alt=media&token=d0a14d57-127a-41e1-a796-e10ea75248f5" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Lorin Maazel
+http://drive.uber.radio/uber/crlorinmaazel/icecast.audio
+#EXTINF:-1 tvg-id="70029750-8c76-498a-9ffa-fb43ec6ecc8c" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Maria Callas
+http://drive.uber.radio/uber/crmariacallas/icecast.audio
+#EXTINF:-1 tvg-id="4e27cc6f-5085-47ba-a9f0-ae12980b1415" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_173407935.jpg?alt=media&token=962199e9-f9c4-432c-8b37-69c321fef229" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Nigel Kennedy
+http://drive.uber.radio/uber/crnigelkennedy/icecast.audio
+#EXTINF:-1 tvg-id="cadba2ad-d0dc-446f-9987-a4a97a029637" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_192530016.jpg?alt=media&token=f8326b72-9e58-470b-9522-56e378181734" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Shostakovich
+http://drive.uber.radio/uber/crshostakovich/icecast.audio
+#EXTINF:-1 tvg-id="26d77602-5af7-475a-8fc3-3357538d971a" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Tchaikovsky
+http://drive.uber.radio/uber/crtchaikovsky/icecast.audio
+#EXTINF:-1 tvg-id="1f5b021b-c348-47d6-9fec-29658bccbea2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240327_163611550.jpg?alt=media&token=a67284b4-943c-443b-b496-d676e147804a" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Vanessa Mae
+http://drive.uber.radio/uber/crvanessamae/icecast.audio
+#EXTINF:-1 tvg-id="0789f4f1-50c1-47e1-b412-841c5c854bf9" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240330_222913275.jpg?alt=media&token=6308dc1f-548b-4d9e-9a22-63acf9ebf375" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Vienna Philarmonic Orchestra
+http://drive.uber.radio/uber/crviennaphilharmonic/icecast.audio
+#EXTINF:-1 tvg-id="ca201cd4-fb0a-4cb5-9b52-b28a0cd84a0e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_183012410.jpg?alt=media&token=2603d528-331f-45ba-a804-fee600123ed8" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Vladimir Horovitz
+http://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio
+#EXTINF:-1 tvg-id="7e8db69d-6f31-403d-9410-4f762ef07c0f" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_152209511.jpg?alt=media&token=03cd8019-d05f-46d9-b44a-900392e2e2a4" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Wagner
+http://drive.uber.radio/uber/crwagner/icecast.audio
+#EXTINF:-1 tvg-id="6acc5877-ae95-4763-97a2-e0bc39b74496" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240331_182532325.jpg?alt=media&token=359f384f-f39c-4220-8043-74e7f7a3326e" group-title="The United Arab Emirates | Unknown region | Unknown city",C.R. - Yehudi Menuin
+http://drive.uber.radio/uber/cryehudimenuin/icecast.audio
+#EXTINF:-1 tvg-id="1932180a-251b-4279-920d-c474b8f9d626" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classica Radio - Ravel
+https://drive.uber.radio/uber/crravel/icecast.audio
+#EXTINF:-1 tvg-id="3ef9c48b-5b17-497a-b940-15a485b3c070" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Andrea Bocelli
+https://drive.uber.radio/uber/crandreabocelli/icecast.audio
+#EXTINF:-1 tvg-id="f6cc23eb-9900-445e-8f62-28e1337c5ed0" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Andres Segovia
+https://drive.uber.radio/uber/crandressegovia/icecast.audio
+#EXTINF:-1 tvg-id="758f2709-7d2a-46b8-b452-0ad935efda3a" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Bavarian Radio Symphony Orchestr
+https://drive.uber.radio/uber/crbavarianradioorchestra/icecast.audio
+#EXTINF:-1 tvg-id="313e2a8d-e241-4983-8fd0-4e8c3f9af6b0" tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Debussy
+https://drive.uber.radio/uber/crdebussy/icecast.audio
+#EXTINF:-1 tvg-id="ac7ddf8c-2d1f-4c0c-9973-e4416c7d672f" tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Essential Classics
+https://drive.uber.radio/uber/cressentialclassics/icecast.audio
+#EXTINF:-1 tvg-id="9933fbb1-5cbb-40d5-93fc-a85329624b04" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Joan Sutherland
+https://drive.uber.radio/uber/crjoansutherland/icecast.audio
+#EXTINF:-1 tvg-id="13508bd6-7606-438d-9e41-73b705ec660c" tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - John Williams (guitarist)
+https://drive.uber.radio/uber/crjohnwilliamsguitarist/icecast.audio
+#EXTINF:-1 tvg-id="7fb2f939-efdd-429a-99cd-1643f664e60b" tvg-logo="https://cdn-images.audioaddict.com/6/8/3/2/8/2/683282aa68794c0b0b2d182b04efaad9.jpg?size=70x70" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Liszt
+https://drive.uber.radio/uber/crliszt/icecast.audio
+#EXTINF:-1 tvg-id="238f38a6-9454-4a94-9255-611b7d0b8dc5" tvg-logo="https://cdn-images.audioaddict.com/a/6/5/8/a/c/a658ac8819a0668d2d6cc678e3efd96e.jpg?size=70x70" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Shostakovich
+https://drive.uber.radio/uber/crshostakovich/icecast.audio
+#EXTINF:-1 tvg-id="d725bf04-4d00-4282-9479-16ec3a7bf982" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Sir Colin Davis
+https://drive.uber.radio/uber/crcolindavis/icecast.audio
+#EXTINF:-1 tvg-id="20c69083-95e5-4b21-9b46-a0f8732c364c" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Sir Simon Rattle
+https://drive.uber.radio/uber/crsimonrattle/icecast.audio
+#EXTINF:-1 tvg-id="36cbb876-ae0b-4a5d-bc0d-0955237d05b1" tvg-logo="https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Verdi
+https://drive.uber.radio/uber/crverdi/icecast.audio
+#EXTINF:-1 tvg-id="48155c90-7332-435d-a304-45524c80c4fa" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Classical Radio - Vladamir Horowitz
+https://drive.uber.radio/uber/crvladamirhorowitz/icecast.audio
+#EXTINF:-1 tvg-id="b8364655-93e3-4442-b5ff-1fbe4fdbb3a6" group-title="The United Arab Emirates | Unknown region | Unknown city",Dance Machine
+https://edm.streeemer.com/listen/edm/radio.aac
+#EXTINF:-1 tvg-id="3a8242b5-a042-466f-b1ad-45ebe013602a" group-title="The United Arab Emirates | Unknown region | Unknown city",DJ Radio Dubai
+https://listen.radioking.com/radio/623812/stream/685903
+#EXTINF:-1 tvg-id="c250399d-9136-4f60-82ad-ab8350f9dc5e" tvg-logo="https://you.radio/cdn-cgi/image/width=250,quality=60/https://manager.uber.radio/static/uploads/brand/ef5817a0-3f46-4400-83a5-9969a1ad6d34.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Bing Crosby
+https://streaming.exclusive.radio/uber/easybingcrosby/icecast.audio
+#EXTINF:-1 tvg-id="6375af6b-0cd9-4d99-9a85-69098db326ec" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Doris Day
+https://streaming.exclusive.radio/uber/easydorisday/icecast.audio
+#EXTINF:-1 tvg-id="e08f8869-cebc-408c-a223-759a36ac791c" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Doris Day
+http://streaming.exclusive.radio/uber/easybertkaempfert/icecast.audio
+#EXTINF:-1 tvg-id="cf1034ef-0380-4771-b1d0-31d652a1eb44" tvg-logo="https://easy.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Instrumentals
+https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio
+#EXTINF:-1 tvg-id="51e14e28-80f9-466a-86a4-98bb5885534f" tvg-logo="https://manager.uber.radio/static/uploads/station/2e562904-2cab-4d53-ba20-a8a524bbc006.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Jazz
+https://streaming.exclusive.radio/uber/easyjazz/icecast.audio
+#EXTINF:-1 tvg-id="9fbd368a-8f4d-4843-9922-dc40e60408cc" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240713_160406440.jpg?alt=media&token=cccb3b2c-fb43-4e9a-9f53-12dd78efad75" group-title="The United Arab Emirates | Unknown region | Unknown city",Easy Radio - Andrea Bocelli
+http://streaming.exclusive.radio/uber/easyandreabocelli/icecast.audio
+#EXTINF:-1 tvg-id="82374117-3e6f-4ba4-9643-0545cc17dcf7" tvg-logo="https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=https%3a%2f%2fplay.you.radio%2fgenre%2f25" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusive Gregory Isaacs
+https://streaming.exclusive.radio/er/gregoryisaacs/icecast.audio
+#EXTINF:-1 tvg-id="a0f493f7-ba69-48db-ba47-ed49d546f326" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusive Radio - Amy Winehouse Hits
+https://streaming.exclusive.radio/er/amywinehousehits/icecast.audio
+#EXTINF:-1 tvg-id="8e348510-bcd4-414f-8d3c-da4022b63711" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusive Radio - Aretha Franklin
+https://streaming.exclusive.radio/er/arethafranklin/icecast.audio
+#EXTINF:-1 tvg-id="1b11baf5-e16e-45ac-bf81-cd8b28db7837" tvg-logo="https://manager.uber.radio/static/uploads/station/00db5f78-23c8-40c6-86da-e0b06858e062.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusive Radio – Black Sabbath
+https://streaming.exclusive.radio/er/blacksabbath/icecast.audio
+#EXTINF:-1 tvg-id="f9fe49ba-0806-4d31-a478-c24bfb0b78ac" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusive Radio – Bob Marley
+https://streaming.exclusive.radio/er/bobmarley/icecast.audio
+#EXTINF:-1 tvg-id="28317be8-2e51-406e-9613-70ce124b633f" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively 50 Cent
+https://streaming.exclusive.radio/er/50cent/icecast.audio
+#EXTINF:-1 tvg-id="9479da9d-8253-47c9-925c-46fe2e101757" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively ABBA
+https://streaming.exclusive.radio/er/abba/icecast.audio
+#EXTINF:-1 tvg-id="1ca9a329-8a53-4fdd-9b7b-f929c99e44d1" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Acdc
+https://streaming.exclusive.radio/er/acdc/icecast.audio
+#EXTINF:-1 tvg-id="41542fd5-0226-4790-8b52-d2d3a4821cdc" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively AHA
+https://streaming.exclusive.radio/er/aha/icecast.audio
+#EXTINF:-1 tvg-id="05eda073-6722-49a1-bd0c-7e8eec9efc61" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively America
+https://streaming.exclusive.radio/er/america/icecast.audio
+#EXTINF:-1 tvg-id="2c8e7be6-bdb7-4590-a444-a37c627f3f63" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Annie Lennox
+https://streaming.exclusive.radio/er/annielennox/icecast.audio
+#EXTINF:-1 tvg-id="15a5bef1-a3fd-45a1-b4cd-1874a38357c5" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Barbra Streisand
+https://streaming.exclusive.radio/er/streisand/icecast.audio
+#EXTINF:-1 tvg-id="560f4338-2483-4269-96ed-d46ff1c61793" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Beastie Boys
+https://streaming.exclusive.radio/er-app/beastieboys/icecast.audio
+#EXTINF:-1 tvg-id="197bb600-d9e5-4cdc-8071-e65c798ae12f" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Bee Gees
+https://streaming.exclusive.radio/er/beegees/icecast.audio
+#EXTINF:-1 tvg-id="29add650-22e1-4aae-9d3e-74e2fe43c68c" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Billy Joel
+https://streaming.exclusive.radio/er/billyjoel/icecast.audio
+#EXTINF:-1 tvg-id="57228a8f-8234-4500-adce-c47e8b564b03" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Blondie
+https://streaming.exclusive.radio/er/blondie/icecast.audio
+#EXTINF:-1 tvg-id="622a9284-a40a-49a1-b45a-467b273e311f" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1759413c-3ca7-49ad-a1a8-6f8c510123f9.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Bonnie Raitt
+http://2.mystreaming.net/er/bonnieraitt/icecast.audio
+#EXTINF:-1 tvg-id="721b8f32-8071-4cca-a10f-c999d3b65346" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively BTS
+https://streaming.exclusive.radio/er/bts/icecast.audio
+#EXTINF:-1 tvg-id="7e8b4822-eb14-4144-9f5a-f41c5ae1bbb1" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/3abdf0c9-dc16-4599-993b-2da04299567c.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Cat Stevens
+http://2.mystreaming.net/er/catstevens/icecast.audio
+#EXTINF:-1 tvg-id="87fa97b5-38e7-42d2-9095-dc401f9fb597" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e59b9825-f3e9-4bb7-83c6-63e9febfc7ad.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Chic
+https://nl4.mystreaming.net/er/chic/icecast.audio
+#EXTINF:-1 tvg-id="fa171cd5-79b0-4f0b-86a2-4d97d2b409bc" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Christina Aguilera
+https://streaming.exclusive.radio/er/christinaaguilera/icecast.audio
+#EXTINF:-1 tvg-id="35b82966-6c34-4a4c-9f1d-f31772cbb313" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Crowded House
+https://2.mystreaming.net/er/crowdedhouse/icecast.audio
+#EXTINF:-1 tvg-id="526fbc3c-ab09-4f71-a42c-e896dcddcc13" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/07f6aae5-5bfc-4afa-9f0a-2f43385b0790.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Curtis Mayfield
+https://2.mystreaming.net/er/curtismayfield/icecast.audio
+#EXTINF:-1 tvg-id="8527a187-f45a-40dc-bbb1-690d0d326303" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively David Bowie
+https://streaming.exclusive.radio/er/davidbowie/icecast.audio
+#EXTINF:-1 tvg-id="072f4f2b-00b5-4237-a48c-bd50092d6463" tvg-logo="https://en-ie.radioline.co/favicon.ico" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Dean Martin
+https://streaming.exclusive.radio/er/deanmartin/icecast.audio?_=1407020069
+#EXTINF:-1 tvg-id="d7b6cb10-52e8-485c-9e38-5fcdad55aa90" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Deep Purple
+https://streaming.exclusive.radio/er/deeppurple/icecast.audio
+#EXTINF:-1 tvg-id="6cdf359d-0522-4cda-835e-afd42b67bdda" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Depeche Mode
+https://streaming.exclusive.radio/er/depechemode/icecast.audio
+#EXTINF:-1 tvg-id="002c757a-a98c-48a3-896e-dabbac074366" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Dolly Parton
+https://streaming.exclusive.radio/er/dollyparton/icecast.audio
+#EXTINF:-1 tvg-id="3f877a2c-8d74-4e32-b8fb-84a6dedb6987" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Eagles
+https://streaming.exclusive.radio/er/eagles/icecast.audio
+#EXTINF:-1 tvg-id="a2d85de7-3b0e-498c-8b49-629adb60495c" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/36f022c1-8177-4966-ad76-4933888ef846.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Earth, Wind & Fire
+https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio
+#EXTINF:-1 tvg-id="4b60da1c-80f7-4569-888b-453cbcbb7bb7" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively ELO
+https://streaming.exclusive.radio/er/elo/icecast.audio
+#EXTINF:-1 tvg-id="cf31588a-9edd-41f3-aad8-d6e297ac1468" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Enrique Iglesias
+https://streaming.exclusive.radio/er/enriqueiglesias/icecast.audio
+#EXTINF:-1 tvg-id="392993a8-7601-4d2f-bda7-c6798406db1b" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c1dddbeb-24eb-4f77-8fe4-594956fc5c68.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Frank Sinatra
+https://2.mystreaming.net/er/franksinatra/icecast.audio
+#EXTINF:-1 tvg-id="4be3d384-ec90-4c2f-ab84-35365dce5f77" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively George Michael
+https://streaming.exclusive.radio/er/georgemichael/icecast.audio
+#EXTINF:-1 tvg-id="5eea7488-6fb4-4837-97f0-37768c4fd634" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively INXS
+https://streaming.exclusive.radio/er/INXS/icecast.audio
+#EXTINF:-1 tvg-id="391315c2-470c-411e-a2a5-2fa0d5e285ae" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Jethro Tull
+https://streaming.exclusive.radio/er/jethrotull/icecast.audio
+#EXTINF:-1 tvg-id="d85f5639-5e5f-4f33-8bc2-a42a67aa64e9" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Joe Satriani
+https://streaming.exclusive.radio/er/joesatriani/icecast.audio
+#EXTINF:-1 tvg-id="c909cf02-6e78-40dc-b4c2-0e1d11755cc0" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively John Denver
+https://streaming.exclusive.radio/er/johndenver/icecast.audio
+#EXTINF:-1 tvg-id="b6e443c4-f10f-4ca0-aec1-e4625fb988da" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively John Mayall
+https://2.mystreaming.net/er/johnmayall/icecast.audio
+#EXTINF:-1 tvg-id="385e8dc7-eb7f-4ccb-b95c-335e2cafae9f" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Johnny Cash
+https://streaming.exclusive.radio/er/johnnycash/icecast.audio
+#EXTINF:-1 tvg-id="5745cb33-e36c-4447-aebd-35b59dad9e1b" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Josh Groban
+https://streaming.exclusive.radio/er/joshgroban/icecast.audio
+#EXTINF:-1 tvg-id="c26ff54f-8ef4-472f-9d31-78bc1e8b68c4" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Justin Timberlake
+https://streaming.exclusive.radio/er/justintimberlake/icecast.audio
+#EXTINF:-1 tvg-id="a63988bf-dc92-41aa-8bd8-1c9fe0d1f621" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Led Zeppelin - Only Hits
+https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio
+#EXTINF:-1 tvg-id="c4953a4d-eb82-4520-9dcd-41805a6d541f" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/8e5a7514-b380-4b17-b3a1-dc1e43b407a1.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Leonard Cohen
+https://2.mystreaming.net/er/leonardcohen/icecast.audio
+#EXTINF:-1 tvg-id="c5ee5c7b-78eb-4485-94f5-83ca2d1ba8eb" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/262fe18f-9207-459e-b41f-96c5d9269613.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Linda Ronstadt
+http://2.mystreaming.net/er/lindaronstadt/icecast.audio
+#EXTINF:-1 tvg-id="458fc7fc-f8f1-4e99-a6d1-6ec8109d295c" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Lionel Richie
+https://streaming.exclusive.radio/er/lionelrichie/icecast.audio
+#EXTINF:-1 tvg-id="8d1a1d19-7efc-400a-b5e9-cfff96e80400" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Lynyrd Skynyrd
+https://streaming.exclusive.radio/er/thinlizzy/icecast.audio
+#EXTINF:-1 tvg-id="c740d6d9-6482-4931-81a8-03ec1a631ede" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Michael Jackson
+https://streaming.exclusive.radio/er/michaeljackson/icecast.audio
+#EXTINF:-1 tvg-id="91e3ff7d-3735-4fbf-abce-8c3743327178" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Mobi
+https://streaming.exclusive.radio/er/moby/icecast.audio
+#EXTINF:-1 tvg-id="037e801b-7106-4438-8c80-6ab97a48d334" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Neil Young
+https://streaming.exclusive.radio/er/neilyoung/icecast.audio
+#EXTINF:-1 tvg-id="c374fc26-5b40-4384-ae0e-1e5ebf038edc" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Pet Shop Boys
+https://streaming.exclusive.radio/er/petshopboys/icecast.audio
+#EXTINF:-1 tvg-id="e8070b69-821c-408d-9f22-0fd643201c48" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Peter Frampton
+https://streaming.exclusive.radio/er/peterframpton/icecast.audio
+#EXTINF:-1 tvg-id="61fe1fca-15ed-443e-b061-288f91b75f9e" tvg-logo="https://charlieparkermusic.com/wp-content/uploads/2022/03/CP_Gallery_550x550_006_MAR22.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Radio - Charlie Parker
+https://streaming.exclusive.radio/er/charlieparker/icecast.audio
+#EXTINF:-1 tvg-id="a74de353-dc50-4185-a83c-b36369059a0a" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Reba Mcentire
+https://streaming.exclusive.radio/er/rebamcentire/icecast.audio
+#EXTINF:-1 tvg-id="d52a564e-5117-4b65-a8ea-a84405ab7e86" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Shakira
+https://streaming.exclusive.radio/er/shakira/icecast.audio
+#EXTINF:-1 tvg-id="76807c62-d678-4363-a577-71c5a4506423" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Shania Twain
+https://streaming.exclusive.radio/er/shaniatwain/icecast.audio
+#EXTINF:-1 tvg-id="5023aea1-ca11-4c8c-9e9a-592b31e9bbb4" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Simon And Garfunkel
+https://streaming.exclusive.radio/er/simongarfunkle/icecast.audio
+#EXTINF:-1 tvg-id="c1422159-e107-49b6-ad22-3bbfdc2a2fa6" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Styx
+https://nl4.mystreaming.net/er/styx/icecast.audio
+#EXTINF:-1 tvg-id="a7857a44-d494-4391-9417-d57ade95a846" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/cc50da2d-7a57-41c0-9ebe-d9c1bd283745.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Talking Heads
+https://nl4.mystreaming.net/er/talkingheads/icecast.audio
+#EXTINF:-1 tvg-id="dde47f71-baf0-4405-a3b5-3de61e7b916a" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/d217c5ea-ee74-4673-8312-9ce935cb3c78.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Texas
+https://nl4.mystreaming.net/er/texas/icecast.audio
+#EXTINF:-1 tvg-id="d170d737-7250-41b4-bef4-a41cc889e101" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Beach Boys
+https://streaming.exclusive.radio/er/beachboys/icecast.audio
+#EXTINF:-1 tvg-id="c8abb9df-2e84-4c9e-9752-9e1c34694cac" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Kinks
+https://streaming.exclusive.radio/er/thekinks/icecast.audio
+#EXTINF:-1 tvg-id="e3baf7f9-bd89-4775-a26d-86c153ad7672" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Police - Hits
+https://streaming.exclusive.radio/er/policehits/icecast.audio
+#EXTINF:-1 tvg-id="0ed1209d-007a-4153-bc03-73be713a5ec6" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Temptations
+https://streaming.exclusive.radio/er/thetemptations/icecast.audio
+#EXTINF:-1 tvg-id="5c10f556-c26f-4b19-bb63-bff43aa626d4" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Weeknd
+https://streaming.exclusive.radio/er/theweeknd/icecast.audio
+#EXTINF:-1 tvg-id="41b70c63-05bc-42a4-970c-20ceb0a07206" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively The Who - Only Hits
+https://streaming.exclusive.radio/er-app/whohits/icecast.audio
+#EXTINF:-1 tvg-id="6386e2e0-9a2d-4818-9aed-92b542787274" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Thin Lizzy
+https://streaming.exclusive.radio/er/thinlizzy/icecast.audio
+#EXTINF:-1 tvg-id="017e0e9f-fe22-4d7c-8875-3bdefc6504e4" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/00ab6877-83a0-4ca4-a7c8-90cf7842b4c8.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Tina Turner
+http://2.mystreaming.net/er/tinaturner/icecast.audio
+#EXTINF:-1 tvg-id="e2e75e70-fd23-4310-a277-601b52fd2ec7" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Tony Bennett
+https://streaming.exclusive.radio/er/tonybennett/icecast.audio
+#EXTINF:-1 tvg-id="2fa85b55-6124-4a5c-ac76-02bc5452624c" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively U2
+https://streaming.exclusive.radio/er/u2/icecast.audio
+#EXTINF:-1 tvg-id="4ad6f53f-bad7-4fb4-8e85-ba4a01ed9e16" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Exclusively Whitney Houston
+https://streaming.exclusive.radio/er/whitneyhouston/icecast.audio
+#EXTINF:-1 tvg-id="3d91ba0d-c4fa-4a30-ae4d-73aff8e9bc91" tvg-logo="https://forkids.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Fun Radio For Kids - Bedtime Stories
+https://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio
+#EXTINF:-1 tvg-id="45b89a48-6d6e-480a-8920-57c67251f479" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/f044a098-02a6-4253-9380-63d0a4fe7184.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Gloria Estefan
+http://2.mystreaming.net/er/gloriaestefan/icecast.audio
+#EXTINF:-1 tvg-id="0c8bf104-5058-4550-94df-891042dda226" tvg-logo="https://play.you.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",J.S.BACH - Classical Radio
+http://drive.uber.radio/uber/crjsbach/icecast.audio
+#EXTINF:-1 tvg-id="70a17375-cb26-48c6-beeb-679080c0b7aa" tvg-logo="https://www.euroarts.com/sites/default/files/tv_show/Remembering%20Jackie%2004.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Jacqueline Du Pre' - Classical Radio
+https://drive.uber.radio/uber/crjacquelinedurpre/icecast.audio
+#EXTINF:-1 tvg-id="e1243aa4-7e51-476d-96a1-b12402621ad0" group-title="The United Arab Emirates | Unknown region | Unknown city",Joni Mitchell 2
+https://nl4.mystreaming.net/er/jonimitchellhits/icecast.audio
+#EXTINF:-1 tvg-id="88ab5ad1-9d0d-4e71-9f2f-bc853eac32a8" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Julian Lloyd Webber - Classical Radio
+https://drive.uber.radio/uber/crjulianlloydwebber/icecast.audio
+#EXTINF:-1 tvg-id="4c78a184-861c-46ff-a586-5e513e705a55" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Kiri Te Kanawa - Classical Radio
+https://drive.uber.radio/uber/crkiritekanawa/icecast.audio
+#EXTINF:-1 tvg-id="29cefa25-3ed4-4241-ba3e-8955e7a09af7" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Marin Alsop - Classical Radio
+https://drive.uber.radio/uber/crmarinalsop/icecast.audio
+#EXTINF:-1 tvg-id="617d5205-ecef-4ae7-9e33-13a92abb0a6b" tvg-logo="https://classicalradio.world/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Nadia Boulanger - Classical Radio
+https://drive.uber.radio/uber/crnadiaboulanger/icecast.audio
+#EXTINF:-1 tvg-id="82c50aa8-9d3f-4706-bc88-e90a691efd86" tvg-logo="https://thumbs.dreamstime.com/b/flower-life-colorful-illustration-white-background-34947889.jpg" group-title="The United Arab Emirates | Unknown region | Unknown city",Positively Peaceful 432Hz -om
+https://streaming.positivity.radio/pr/posipeaceful/icecast.audio
+#EXTINF:-1 tvg-id="c3ad551a-ad3a-4d25-a3c6-ba95897f8a77" tvg-logo="https://manager.uber.radio/static/uploads/station/7b774c5d-4e10-4024-bab2-a7967e4af698.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Positively Relaxing Workout -om
+https://streaming.positivity.radio/pr/workoutrelax/icecast.audio
+#EXTINF:-1 tvg-id="61b6e243-d770-4811-9a1c-19a4f951179b" tvg-logo="https://manager.uber.radio/static/uploads/station/94d1af8b-a87c-49d3-96cd-a6727ac5eaed.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Positively Sleep Kids -om
+https://streaming.positivity.radio/pr/sleepkids/icecast.audio
+#EXTINF:-1 tvg-id="7cca8bd6-a173-4fca-9a74-ca1e15a631e5" group-title="The United Arab Emirates | Unknown region | Unknown city",Quran Radio From Sharjah
+https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio
+#EXTINF:-1 tvg-id="abe53a78-8093-409d-8086-b9eb21b51338" group-title="The United Arab Emirates | Unknown region | Unknown city",Sportify bollywood workout
+https://2.mystreaming.net/uber/sportifybollywood/icecast.audio
+#EXTINF:-1 tvg-id="40bcb10d-5a99-4e3f-bf81-990256e4ff22" group-title="The United Arab Emirates | Unknown region | Unknown city",StarBox Soul
+https://drive.uber.radio/uber/starboxsoul/icecast.audio
+#EXTINF:-1 tvg-id="887b5a07-b40e-463d-b667-8771075abfbe" group-title="The United Arab Emirates | Unknown region | Unknown city",Stevie Wonder
+https://streaming.exclusive.radio/er/steviewonder/icecast.audio
+#EXTINF:-1 tvg-id="d538131a-2208-4519-9be3-a0067a8c91e3" group-title="The United Arab Emirates | Unknown region | Unknown city",Suno FM
+http://51.255.235.165:5476/
+#EXTINF:-1 tvg-id="2d356cde-edc9-435a-9116-168e8b09f498" tvg-logo="https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png" group-title="The United Arab Emirates | Unknown region | Unknown city",The Who Radio - Only Hits
+https://streaming.exclusive.radio/er-app/whohits/icecast.audio
+#EXTINF:-1 tvg-id="c9256b1e-5a8d-4b55-8ed3-14c414708fc5" tvg-logo="https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/1335f3c2-0b47-47e5-903a-e5634864a2ed.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Tick Tock Radio - 2017
+https://streaming.ticktock.radio/tt/2017/icecast.audio
+#EXTINF:-1 tvg-id="ef329573-a7ab-48bb-abda-a705aff8d152" tvg-logo="https://manager.uber.radio/static/uploads/station/9af2a0dc-ea99-4bcc-9752-a18c7f2e2e06.png" group-title="The United Arab Emirates | Unknown region | Unknown city",Tinder Radio - Christmas Carols
+https://streaming.exclusive.radio/er/christmascarols/icecast.audio
+#EXTINF:-1 tvg-id="af8e87e3-7a2f-4c06-8280-789fe61a3a3d" group-title="The United Arab Emirates | Unknown region | Unknown city",Van Morrison
+https://streaming.exclusive.radio/er/vanmorrison/icecast.audio

@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d4e75ddd-3acc-43b7-b49f-db1a5c83cf40" group-title="Qatar | Doha QATAR | Unknown city",Radio Olive 106.3 - Jiyo Bindass
+https://22733.live.streamtheworld.com/OLIVE1063.mp3
+#EXTINF:-1 tvg-id="cc523bb7-3789-4fa6-a52a-84bbcb9d79b8" group-title="Qatar | Unknown region | Unknown city",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 tvg-id="0c8c9536-0e2e-457b-9c1a-f3a06b0d2b67" group-title="Qatar | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="7e3e786a-fd83-48cb-b10f-dec8ffed31a5" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/vzn5tr4cru4r.png" group-title="Qatar | Unknown region | Unknown city",Radio Olive 106.3 FM
+https://osrnstream.olivesuno.com/olive1063.mp3
+#EXTINF:-1 tvg-id="00727ea0-0fa1-4c87-b4da-170d319bd2ab" tvg-logo="https://suno.qa/favicon.ico" group-title="Qatar | Unknown region | Unknown city",Suno Malayalam FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3
+#EXTINF:-1 tvg-id="1d6d58c1-a042-4cfb-b449-bee2ee85b3c3" group-title="Qatar | Unknown region | Unknown city",اذاعة القرآن الكريم
+http://stream.radiojar.com/0tpy1h0kxtzuv
+#EXTINF:-1 tvg-id="edc133eb-0736-4056-a955-2f02fdc8c0e2" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/7/71/Aljazeera.svg/1200px-Aljazeera.svg.png" group-title="Qatar | Unknown region | Unknown city",الجزيرة صوت
+https://live-hls-audio-web-aja.getaj.net/VOICE-AJA/01.m3u8
+#EXTINF:-1 tvg-id="f35d0956-6b7b-4c42-bdb5-e9ef1daf8c3d" group-title="Qatar | Unknown region | Unknown city",تفسير بن عثيمين رحمه الله
+https://qurango.net/radio/tafseer

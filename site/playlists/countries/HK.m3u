@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="c174f4fc-6bca-4389-a8f0-a97badd2374a" tvg-logo="https://sao.fm/wp-content/uploads/20220401142443934-150x150.jpeg" group-title="Hong Kong | Hong Kong | Mantin Heights",香港新城电台财经台
+https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="3f82d490-0bf2-41bd-8c69-00f4fe8580e7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMHNUQklLiwV95JbCYaxW22hy5mMqCqxm1w&usqp=CAU" group-title="Hong Kong | Hong Kong, SAR of China | Unknown city",Metro Plus 1044 AM
+http://162.220.162.10:8011/stream
+#EXTINF:-1 tvg-id="d68d59d8-3768-476b-b068-0e64c9ae7bd3" group-title="Hong Kong | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="ce998ec3-59e1-49d7-8476-f32d4d3b5d41" tvg-logo="https://cnvod.cnr.cn/audio2017/ondemand/img/1100/20230612/1686554792374.png" group-title="Hong Kong | Unknown region | Unknown city",CNR-14 香港之声
+http://ngcdn002.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1 tvg-id="ed6db46d-104e-4f43-b3ca-16e715091c94" tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_288x288/https://images.zeno.fm/SZeUK7-psWOBw1I245_SMIaEwn3jcW85NO8xLGu8hm8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRHdnSTJKaUFnTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRHdrT3loMVFzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY0ODY5MzI1MjAwMA.webp" group-title="Hong Kong | Unknown region | Unknown city",Highfun Radios ( shows)
+https://stream.zeno.fm/vzgtzzs0x68uv
+#EXTINF:-1 tvg-id="0e495b97-0a3d-49cf-9476-8814450b4cd0" tvg-logo="https://www.rthk.hk/img/apple-icon-114x114.png" group-title="Hong Kong | Unknown region | Unknown city",RTHK Radio 1
+http://stm1.rthk.hk/radio1
+#EXTINF:-1 tvg-id="1c999a35-cbc8-45e8-98d0-20b664b44c34" tvg-logo="https://cdn.webrad.io/images/logos/radios-hk/rthk-1.png" group-title="Hong Kong | Unknown region | Unknown city",RTHK Radio 1
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8
+#EXTINF:-1 tvg-id="2be788be-a558-428b-93b1-6cc6e4a768ff" group-title="Hong Kong | Unknown region | Unknown city",RTHK Radio 2
+http://stm2.rthk.hk/radio2
+#EXTINF:-1 tvg-id="2da259ce-c76a-4996-8a89-23f200f6ac1c" group-title="Hong Kong | Unknown region | Unknown city",RTHK radio 2
+https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/index_56_a-p.m3u8
+#EXTINF:-1 tvg-id="f27f962c-b42a-4674-9b50-30216165b108" tvg-logo="https://static.wikia.nocookie.net/hkradio/images/f/f8/RTHKRadio5_logo.gif/revision/latest?cb=20131022130417&path-prefix=zh" group-title="Hong Kong | Unknown region | Unknown city",RTHK Radio 5
+https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/index_56_a-p.m3u8
+#EXTINF:-1 tvg-id="972524a9-3683-4000-9d80-43b402bb7481" tvg-logo="https://universalhealthradio.org/favicon.png" group-title="Hong Kong | Unknown region | Unknown city",Universal Health Radio (粵語)
+https://radio.universalhealthradio.org/uhr-yue.mp3
+#EXTINF:-1 tvg-id="aa91470c-89dc-48ba-b155-f6455fc2fa74" group-title="Hong Kong | Unknown region | Unknown city",中山環保旅遊之聲
+https://lhttp.qingting.fm/live/1278/64k.mp3
+#EXTINF:-1 tvg-id="14e12a23-52d7-42fb-901b-da15d0526711" group-title="Hong Kong | Unknown region | Unknown city",华藏多元文化台
+https://v.hwadzan.info/liveedge/_definst_/education/playlist.m3u8
+#EXTINF:-1 tvg-id="b72e497b-d2c1-436f-8508-2048a1b28e84" tvg-logo="https://foxxradio.com/upload/hk/1620700109.jpg.webp" group-title="Hong Kong | Unknown region | Unknown city",商業電台叱咤903
+https://881903.fishtv.dpdns.org/proxy/903
+#EXTINF:-1 tvg-id="cad4969e-cf50-4c96-8348-60e4c288ff61" tvg-logo="https://foxxradio.com/upload/hk/1620698984.jpg.webp" group-title="Hong Kong | Unknown region | Unknown city",商業電台豁達864
+https://881903.fishtv.dpdns.org/proxy/864
+#EXTINF:-1 tvg-id="4c1ca3b1-28c9-47db-93b7-de2053232009" tvg-logo="https://foxxradio.com/upload/hk/1620700276.jpg.webp" group-title="Hong Kong | Unknown region | Unknown city",商業電台雷霆881
+https://881903.fishtv.dpdns.org/proxy/881
+#EXTINF:-1 tvg-id="357fbb15-05ba-4219-968a-0c0408ec8dbf" tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/04/sunnys-music-show-220x108.jpg" group-title="Hong Kong | Unknown region | Unknown city",夜空傳情
+http://procyon.shoutca.st:8492/listen.mp3
+#EXTINF:-1 tvg-id="7b939313-e0fd-4570-bba6-bd0f832edb96" tvg-logo="https://so1.360tres.com/t016784d7db69638713.jpg" group-title="Hong Kong | Unknown region | Unknown city",深圳交通廣播
+https://lhttp-hw.qtfm.cn/live/1272/64k.mp3
+#EXTINF:-1 tvg-id="da5d55db-a24f-4914-90dc-89ab26120df7" tvg-logo="https://so1.360tres.com/t016784d7db69638713.jpg" group-title="Hong Kong | Unknown region | Unknown city",深圳音樂廣播
+http://ls.qingting.fm/live/1271.m3u8
+#EXTINF:-1 tvg-id="c6c450a9-84cc-4592-a27a-412879c15878" tvg-logo="https://new.brg-radio.com/wp-content/themes/brg-wp/img/logo.png" group-title="Hong Kong | Unknown region | Unknown city",華語 HITS
+https://das-edge14-live365-dal02.cdnstream.com/a57743_2
+#EXTINF:-1 tvg-id="4e7155e6-3639-4ce4-a2f6-547dce3cc826" group-title="Hong Kong | Unknown region | Unknown city",香港新城电台采讯台
+https://1946218710.rsc.cdn77.org/1946218710/index.m3u8
+#EXTINF:-1 tvg-id="53e9eab3-eee4-472f-af2a-c5fa5282b4ac" tvg-logo="https://ytmedia.radio.cn/CCYT/202306/12/18/1E202306121836.jpg" group-title="Hong Kong | Unknown region | Unknown city",香港電台第六台
+https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/index_64_a.m3u8

@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="df6a8fa4-23cb-4279-a025-bf3057bd0a4b" tvg-logo="https://radio-online.my/storage/radios/8384/45312/conversions/aKWaLIfLRFuSBriZVWgA3q2vOUg8II-metac2luYXIxMTEucG5n--lg.webp" group-title="Malaysia | Kuala Lumpur | Bukit Jalil",Sinar FM
+https://n08a-eu.rcs.revma.com/azatk0tbv4uvv/8_1ksmof3jo7vso02/playlist.m3u8
+#EXTINF:-1 tvg-id="86486fe1-ce06-41ed-bc32-3667ef351ce9" tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/TraXX_FM.png/250px-TraXX_FM.png" group-title="Malaysia | Kuala Lumpur | Bukit Kerinchi",Traxx FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
+#EXTINF:-1 tvg-id="8b79bb3f-54f3-49a8-b428-87971f9592e2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDwIFRZHu0NNH_WMStgQ4YqD6jSgnwQnMbP65ZbEMU8RSF6A1hsBTNbmc&s=10" group-title="Malaysia | Kuala Lumpur | Unknown city",FFM
+http://167.114.131.90:5968/ffm
+#EXTINF:-1 tvg-id="311696c4-a5d6-43c1-bed1-127008042cd1" group-title="Malaysia | sarawak | Unknown city",era sarawak
+https://n10.rcs.revma.com/bkqfqkrbv4uvv/10_6dkcmkt5m85u02/playlist.m3u8
+#EXTINF:-1 tvg-id="858a91a9-0a0d-4bb8-bdc8-53a220c0bb4f" tvg-logo="https://en.wikipedia.org/wiki/Hitz_%28radio_station%29#/media/File:Hitz_(2018).svg" group-title="Malaysia | Selangor | Seri Kembangan",HITZ | Malaysia's #1 Hit Music Station - All the hitz, all the time!
+https://stream.rcs.revma.com/488kt4sbv4uvv
+#EXTINF:-1 tvg-id="96ecef1b-b605-4721-8f28-9ffeeb625a1e" group-title="Malaysia | Unknown region | Unknown city",Alam MayaFM
+http://192.99.8.192:3142/;
+#EXTINF:-1 tvg-id="d1f0a9bd-2a20-4861-be74-7ff0ce3abd18" tvg-logo="https://www.bfm.my/favicon.ico" group-title="Malaysia | Unknown region | Unknown city",BFM 89.9
+https://stream.rcs.revma.com/s91qy9p0zs3vv
+#EXTINF:-1 tvg-id="f3eff9f2-a907-47be-ac73-02621a7f162e" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7mr6C53XYWJoBsWLkU873LZx6GjruZ4111A&usqp=CAU" group-title="Malaysia | Unknown region | Unknown city",Ceritera FM
+http://live.ceriterafm.my:8000/
+#EXTINF:-1 tvg-id="fdde6cdc-6a42-49c4-8804-1be9da41022b" tvg-logo="https://cityplusfm.my/wp-content/uploads/2025/07/LOGO_画板-1-300x300.png" group-title="Malaysia | Unknown region | Unknown city",CITYPlus FM
+https://stream.rcs.revma.com/9ykdmcawe1bwv
+#EXTINF:-1 tvg-id="ab64926d-f0ea-473e-9ef5-657823f00e4b" group-title="Malaysia | Unknown region | Unknown city",Dunia Muzik FM
+http://185.109.169.80:8009/stream
+#EXTINF:-1 tvg-id="2ff7399f-bc43-4ea5-885b-15c915ce85f1" group-title="Malaysia | Unknown region | Unknown city",Impian FM
+http://167.114.131.90:6156/stream/1/
+#EXTINF:-1 tvg-id="bacaa175-a055-415d-819e-21100a5fc035" group-title="Malaysia | Unknown region | Unknown city",Keningau FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/KENINGAU_FM.mp3
+#EXTINF:-1 tvg-id="5599a9c8-38bb-4e25-bbce-cfcb346151a9" group-title="Malaysia | Unknown region | Unknown city",Klasik FM 101,1 MHz
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KLASIK.mp3
+#EXTINF:-1 tvg-id="2d4c0977-40cf-4789-aad7-33704d37c8b8" group-title="Malaysia | Unknown region | Unknown city",MIB radio
+https://stream.zeno.fm/bm557kzmr18uv
+#EXTINF:-1 tvg-id="b9862ca3-e9da-4a10-bbb3-e3ee16f68dc4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFrUvNKvz5C-uACMOrwvTwbg9MXwZwMHCh5A&usqp=CAU" group-title="Malaysia | Unknown region | Unknown city",MyFriends Station
+https://cast3.asurahosting.com/proxy/myfriend/stream
+#EXTINF:-1 tvg-id="d7ed8f30-cdc1-4d9c-8750-1a845ebb90b1" group-title="Malaysia | Unknown region | Unknown city",Nasional FM 88,5 MHz
+http://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FM.mp3
+#EXTINF:-1 tvg-id="b4d9deee-1845-49b6-8a02-3779df6480e7" group-title="Malaysia | Unknown region | Unknown city",PBN Radio Nurani
+https://stream.zeno.fm/2uyfsr25sm0uv
+#EXTINF:-1 tvg-id="9cea9ca8-d69e-41fc-9031-9ebc751dcdf9" group-title="Malaysia | Unknown region | Unknown city",Raaga
+https://n06.rcs.revma.com/1ut6qwtbv4uvv
+#EXTINF:-1 tvg-id="eca3f904-c78f-4c5f-bdf9-98c24624a255" group-title="Malaysia | Unknown region | Unknown city",Repair Segala
+https://stream.zeno.fm/0245ew03ekhvv
+#EXTINF:-1 tvg-id="ae0569b4-1422-495f-be66-7677156b92cc" group-title="Malaysia | Unknown region | Unknown city",Traxx FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/TRAXX_FMAAC_SC
+#EXTINF:-1 tvg-id="02fbc290-d110-41c6-a022-7da653ce3ec8" group-title="Malaysia | Unknown region | Unknown city",اذاعة القرآن الكريم
+http://stream.radiojar.com/0tpy1h0kxtzuv

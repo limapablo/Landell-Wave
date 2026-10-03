@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e7ceeac8-342a-4096-82d1-173f10af95c9" tvg-logo="https://zeno.fm/favicon.ico" group-title="Angola | Angola | Moma",Rádio Fé Angola
+http://stream-284.surfernetwork.com/gsndh1xvczetv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJnc25kaDF4dmN6ZXR2IiwiaG9zdCI6InN0cmVhbS0yODQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkluU2JuT2psUnJLNVJMNHFVOUVvZXciLCJpYXQiOjE3OTA4NjQ5NTYsImV4cCI6MTc5MDg2NTAxNn0.JNpmtOS59rnf2QI1tEpXYZTBRKZJFCdU_xOUHJGP9EY
+#EXTINF:-1 tvg-id="50f9adb4-ecf9-4e83-b06d-7a89d5f74b9b" group-title="Angola | Luanda | Luanda",Radio Luanda
+https://paineldj5.com.br:20089/stream
+#EXTINF:-1 tvg-id="53880d37-bace-4589-9d7f-9f96b4d564ca" group-title="Angola | Unknown region | Unknown city",Absolute country
+http://strm112.1.fm/acountry_mobile_mp3

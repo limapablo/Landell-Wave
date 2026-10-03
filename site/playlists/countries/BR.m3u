@@ -1,0 +1,861 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="87c18c1c-a397-4e30-94f3-073c58e745f5" tvg-logo="https://static.tudoradio.com/ins/w:120/plain/https://tudoradio.com/img/uploads/radios/64d05128d92c3.png" group-title="Brazil | Alagoas | Maceió",Educativa FM Maceió
+https://radio.saopaulo01.com.br/9370/stream
+#EXTINF:-1 tvg-id="77502e2f-6ac7-4489-9a8f-0b94eda12855" group-title="Brazil | Alagoas | Maceió",Nova Brasil FM - Maceió
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_MACAAC.aac
+#EXTINF:-1 tvg-id="f47365a8-f55d-48ca-957c-6ec6d26a1617" tvg-logo="https://www.radios.com.br/aovivo/radio-educativa-1077-fm/13035" group-title="Brazil | Alagoas | Unknown city",Educativa 107,7 FM Maceió
+https://radio.saopaulo01.com.br/9370/stream
+#EXTINF:-1 tvg-id="fde7409a-7f2d-452a-9c8f-a3fa8bde5d3d" tvg-logo="https://www.radios.com.br/aovivo/radio-frances-1063-fm/27626" group-title="Brazil | Alagoas | Unknown city",Francês FM 103,6 Penedo
+https://s16.maxcast.com.br:8711/live
+#EXTINF:-1 tvg-id="ef15c12d-fc7a-4559-852c-cdcc997f7b15" tvg-logo="https://www.radios.com.br/aovivo/radio-frances-1061-fm/214571" group-title="Brazil | Alagoas | Unknown city",Francês FM 106,1 Maceió
+https://26643.live.streamtheworld.com/FRANCESFM_MACAAC.aac?dist=RadiosNet
+#EXTINF:-1 tvg-id="e4906342-204c-4b06-bbc8-721fe64c2364" tvg-logo="https://www.radios.com.br/aovivo/radio-grande-rio-fm-991/26140" group-title="Brazil | Alagoas | Unknown city",Grande Rio FM 99,1 Penedo
+https://hts07.brascast.com:10708/live
+#EXTINF:-1 tvg-id="0d12be7b-dce0-4a8a-857b-9d20d742bb8c" tvg-logo="https://www.radios.com.br/aovivo/radio-web-jornal-de-penedo/29336" group-title="Brazil | Alagoas | Unknown city",Jornal web rádio de Penedo
+https://09.stmip.net:2380/stream
+#EXTINF:-1 tvg-id="d27508c7-9b6b-4eba-812a-09a94143f68a" tvg-logo="https://www.radios.com.br/aovivo/radio-jovem-pan-1007-fm/18359" group-title="Brazil | Alagoas | Unknown city",Jovem pan 100,7 FM Maceió
+https://directradios.net/proxy/jpmaceio?mp=/stream
+#EXTINF:-1 tvg-id="f7387e77-0e61-4078-987e-bbae8504c053" tvg-logo="https://www.radios.com.br/aovivo/radio-penedo-973-fm/14134" group-title="Brazil | Alagoas | Unknown city",Penedo FM 97,3
+https://stm16.painelcast.com:7206/stream
+#EXTINF:-1 tvg-id="ba0fb815-7ffb-465d-9f11-dc4ab7cd8fc2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKznTyCO6oiLpwlPsKqu8aHKV6pe-5MehisorcqnUqBh1qAfLkK-hFnReJTYVItWsRmRq9OIOEchiBemDOI1CVDU2Xhyphenhyphenwm0KZtq6T56IKIeVUbwG5CnargPohLgyrRalS3Z64FLMrN1MxscBheWwActAti-smmu62yBrufgYkJ6UjOA-h-9h1pBXzG5gDq/s320/pixelcut-export.png" group-title="Brazil | AM | Unknown city",maresolwebradio
+https://stream.zeno.fm/pxbrdor4opmvv
+#EXTINF:-1 tvg-id="e78f0093-be57-4709-9bff-da876ab4841c" tvg-logo="https://www.google.com/s2/favicons?domain=amnews.com.br&sz=128" group-title="Brazil | Amazonas | Manaus",Rádio AM News
+https://stm17.painelcast.com:7442/stream
+#EXTINF:-1 tvg-id="3d20f61f-44f4-4831-bd6f-54ea27845595" group-title="Brazil | Amazonas | Manaus",Rádio Sarcófago Web
+http://stm17.painelcast.com:7442/stream
+#EXTINF:-1 tvg-id="3b5c6ce9-ff88-4976-92ac-e9e35b453e06" tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/893717660/2.png" group-title="Brazil | Amazonas | Unknown city",Norte FM Manaus
+https://radio.saopaulo01.com.br:10839/stream
+#EXTINF:-1 tvg-id="a49e4f2c-95d4-4fc0-9166-7269aa47398b" tvg-logo="https://public-rf-upload.minhawebradio.net/3671/logo/194703c6220528242b004d95004e0fec.png" group-title="Brazil | BA | Alagoinhas",Rádio Cristã Online -Alagoinhas
+https://servidor40-3.brlogic.com:8004/live
+#EXTINF:-1 tvg-id="0f2ee084-9a81-40aa-a5a5-086fb2369c73" group-title="Brazil | Bahia | Camaçari",Rede Grauna FM
+https://centova11.ipstm.net:20032/stream
+#EXTINF:-1 tvg-id="c6908544-cef0-40df-86fa-959f38ab2d73" tvg-logo="https://www.95fmoficial.com.br/uploads/images/2025/02/icon.png" group-title="Brazil | Bahia | Jequié",Rádio 95 FM Jequié - BA
+https://stream01.ouveai.com.br:1040/stream?1716398413708=
+#EXTINF:-1 tvg-id="227aa3fe-38f6-4ae0-89aa-2857f2fe86ab" tvg-logo="https://img.band.com.br/image/2025/05/19/band-news-fm-15641.jpg" group-title="Brazil | Bahia | Salvador",BandNews Salvador
+https://server23.srvsh.com.br:7918/live.mp3
+#EXTINF:-1 tvg-id="a8e3f689-4c8a-4e6c-be47-f611871965b0" tvg-logo="https://novabrasilfm.com.br/app/themes/nautilus/public/images/logo-2025.1d8feb.png" group-title="Brazil | Bahia | Salvador",Nova Brasil FM Salvador
+https://stream-177.surfernetwork.com/gkbgs81xvfztv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJna2JnczgxeHZmenR2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ik9PRjBfcm5QUVctM2ZfU0VkTWsxYUEiLCJpYXQiOjE3OTA4NzU1MzksImV4cCI6MTc5MDg3NTU5OX0.5qrUzn2esk3aGz-Dy_ozU5RO8AqV61HrvWMKHPR0R1c
+#EXTINF:-1 tvg-id="7b630dda-fb58-4c39-ba30-2f6eed3361ef" group-title="Brazil | Bahia | Salvador",Piatã FM
+https://streaming.livespanel.com:9430/stream
+#EXTINF:-1 tvg-id="b0e9b5a1-2c70-4a46-8e8e-503d858c47bf" group-title="Brazil | Bahia | Unknown city",A Tarde FM
+https://stm35.srvstm.com:7920/stream%22%3E%3C/audio%3E
+#EXTINF:-1 tvg-id="a61eff3f-323b-4c7c-95da-8c9f804d5e88" group-title="Brazil | Bahia | Unknown city",Bahia FM 88.7
+https://ice.fabricahost.com.br/radiobahiafm
+#EXTINF:-1 tvg-id="61d08a95-9781-4b50-9669-0ad0fe79a0da" group-title="Brazil | Bahia | Unknown city",Bíblia em Áudio Rádio Web
+https://stm3.voxhd.com.br:8062/stream
+#EXTINF:-1 tvg-id="3e87cb57-27a0-4344-be4d-d8d20a7f4587" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/50612.v12.png" group-title="Brazil | Bahia | Unknown city",Rádio 95 FM 95.7 Alagoinhas
+https://stream.zenolive.com/t799cry0yv8uv
+#EXTINF:-1 tvg-id="80728630-85a9-4725-b685-1eecd4d44f84" tvg-logo="https://www.google.com/search?q=logo+sintonia+fm&client=ms-android-xiaomi-terr1-rso2&hs=u3cV&sca_esv=38042b1a3801c004&sxsrf=APpeQns2TNlVMW0NeW7M4934JhH9akJr_Q:1784591351714&udm=2&sa=X&ved=2ahUKEwiw8tnsuOKVAxUxrpUCHbxTFgEQ7Al6BAgQEAM&biw=343&bih=623&dpr=2.1#sv=CAMSVxoyKhBlLWZ5UjY5Q2plRWlvLUpNMg5meVI2OUNqZUVpby1KTToOTHVCZzk1YkdYODJHSE0gBCoXCgFzEhBlLWZ5UjY5Q2plRWlvLUpNGAEwAUoECAEQAhgHIJTxhP4GSggQAhgBIAIoAQ" group-title="Brazil | Bahia | Unknown city",Rádio Sintonia FM Salvador
+http://stm26.srvaudio.com.br:9732/
+#EXTINF:-1 tvg-id="6a28e578-a55e-4760-adab-fc9d69c39edf" group-title="Brazil | Bahia | Vitória da Conquista",Rádio MB FM
+https://stm3.xcast.com.br:7420/
+#EXTINF:-1 tvg-id="2accaa32-872f-4cdf-b5f9-85381197ad03" group-title="Brazil | Batatais - SP | Unknown city",Rádio Difusora Batatais
+http://sd.dnip.com.br:9036/stream
+#EXTINF:-1 tvg-id="f927b6f0-a041-4505-9cdd-3da91ff12ecc" tvg-logo="https://www.mgtradio.net/favicon.ico" group-title="Brazil | Brasil | Unknown city",MGT ANOS 80
+https://cast.mgtradio.net/radio/8100/aac
+#EXTINF:-1 tvg-id="7243de27-598a-4d88-8028-533da5a20d40" group-title="Brazil | Brasil | Unknown city",MGT CLÁSSICOS SERTANEJOS
+https://cast.mgtradio.net/radio/8000/aac
+#EXTINF:-1 tvg-id="b55ce246-752d-47bf-b56c-55c3b368d032" tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="Brazil | Brasil | Unknown city",MGT COUNTRY
+https://cast.mgtradio.net/radio/8110/aac
+#EXTINF:-1 tvg-id="1a198419-3083-4cd0-a8fe-42fef3f488e1" tvg-logo="https://www.mgtradio.net/favicon.ico" group-title="Brazil | Brasil | Unknown city",MGT GOSPEL
+https://cast.mgtradio.net/radio/8040/aac
+#EXTINF:-1 tvg-id="0bceb6bd-da64-4225-b027-6a12e8c69ffd" tvg-logo="https://www.mgtradio.net/images/ouvir-radio-online.png" group-title="Brazil | Brasil | Unknown city",MGT SERTANEJO UNIVERSITÁRIO
+https://cast.mgtradio.net/radio/8020/aac
+#EXTINF:-1 tvg-id="0b3ea1b5-5231-42d8-8604-698481cf7716" tvg-logo="https://hunter.fm/" group-title="Brazil | Brasília | Unknown city",Hunter FM - Master
+https://live.hunter.fm/master_normal
+#EXTINF:-1 tvg-id="df2f64a7-49fa-4c76-9f43-817a92178184" tvg-logo="https://img.radios.com.br/radio/lg/radio26110_1439401629.jpg" group-title="Brazil | Catu, BA | Catu",Rádio Ouro Negro 100.5 FM
+http://stm50.conectastm.com:24964/stream?1773415212921
+#EXTINF:-1 tvg-id="81ed5460-a0b0-4a25-b7bb-623bdb34110e" group-title="Brazil | CE | Fortaleza",Rádio Águia FM
+https://stream-178.surfernetwork.com/zg2qr00vrzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6ZzJxcjAwdnJ6enV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjkxLWs3NFExU1EycXdkV1pUNV9qMFEiLCJpYXQiOjE3OTA4NjQzNDUsImV4cCI6MTc5MDg2NDQwNX0.MIEgPEE3BSLUlGX83OAMBaSHBzM6SwBvtkp7Bm-ECgQ
+#EXTINF:-1 tvg-id="81269ffc-4b8a-45aa-9b9e-5bddb9f36f12" group-title="Brazil | CE | Unknown city",VoxPulse FM
+https://stm18.voxhd.com.br:12192/
+#EXTINF:-1 tvg-id="b7fa3cb2-4f55-4d0b-8e6e-1da488a9aa70" group-title="Brazil | Ceara | Unknown city",Jaguaribe FM
+http://stream.zeno.fm/3mydb487f0hvv
+#EXTINF:-1 tvg-id="d0172871-03b2-4037-ac2c-ff75298b091b" group-title="Brazil | Ceara | Unknown city",Rádio Assunção AM620
+https://str.7br.com.br/radio/8170/stream
+#EXTINF:-1 tvg-id="1dd781c9-228b-4685-901b-a8925f87e43a" group-title="Brazil | Ceará | Baturité",Radio Girassol
+https://srv3.soundstream.com.br/listen/fmgirassol/live
+#EXTINF:-1 tvg-id="6815739b-03f9-483b-aeff-15c0f4101053" tvg-logo="https://radioverdevida.com.br/assets/favicon-BVxS_dfB.ico" group-title="Brazil | Ceará | Unknown city",Radio Verde Vida
+https://srv.radioverdevida.com.br/listen/rvv/normal
+#EXTINF:-1 tvg-id="9c504337-c7ca-4cc4-b20b-9e773a107aa7" group-title="Brazil | Curitiba | Unknown city",Rádio Pão Diário
+https://servidor24.brlogic.com:8808/live
+#EXTINF:-1 tvg-id="aab7e6fd-6a3c-4e82-a415-a6685c6963bb" tvg-logo="https://yt3.googleusercontent.com/9M9Ulf03D2Ms6haBGOclxqov778KbJdPgh7HlLjMrJOlvaQ4wf_3kqFb6armS5M1kn4ZvLdJmeE=s900-c-k-c0x00ffffff-no-rj" group-title="Brazil | Distrito Federal | Guará",Rádio Nacional Brasília FM
+https://radionacionalfm-stream.ebc.com.br/ebc/radionacionalfm/playlist.m3u8
+#EXTINF:-1 tvg-id="1485fb07-7889-4bba-bb37-c7f1e576b7da" tvg-logo="https://i.ibb.co/5x1yHdR0/LOGO2025.png" group-title="Brazil | Distrito Federal | Lago Sul",ÚNICA - Gospel Music
+https://stm8.painelcast.com:7024/stream
+#EXTINF:-1 tvg-id="95610d19-0cfb-4a98-b2dc-faa27fbec3ec" tvg-logo="https://img.radios.com.br/radio/lg/radio13550_1698435410.png" group-title="Brazil | Distrito Federal | Plano Piloto",Rádio Justiça 104.7 FM
+https://server01.ouvir.radio.br:8036/stream
+#EXTINF:-1 tvg-id="ada8b5ce-f118-4815-a5dd-ecbd47e13427" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.cult22.com%2Fblog%2Fwp-content%2Fuploads%2F2019%2F04%2FR%25C3%25A1dio-Cult-22.jpg&f=1&ipt=e5c7a39b0395fe61d668f70d97ef580dd126ddd7777b863604927ffc6113335f" group-title="Brazil | Distrito Federal | Plano Piloto",Rádioweb Cult 22
+https://s24.maxcast.com.br:8168/live?id=1622747293019
+#EXTINF:-1 tvg-id="a3f7425f-da3c-4169-90b4-c63b298ee799" group-title="Brazil | Distrito Federal | Plano Piloto",Sara Brasil FM 99.7 Brasília
+https://hts07.brascast.com:13482/live
+#EXTINF:-1 tvg-id="77c0088f-9ae7-4bd3-a1de-edfc17f5ce86" tvg-logo="https://jpimg.com.br/uploads/2022/12/afiliadas-brasilia-106.3-500x500.jpg" group-title="Brazil | Distrito Federal | Taguatinga",Jovem Pan FM - Brasília - DF - 106.3
+https://shout25.crossradio.com.br:18022/1
+#EXTINF:-1 tvg-id="964704f6-0601-11e8-ae97-52543be04c81" group-title="Brazil | Distrito Federal | Unknown city",Nova Brasil FM Brasília, DF (ZYC476, 97,5 MHz)
+http://27573.live.streamtheworld.com:3690/NOVABRASIL_BSBAAC_SC
+#EXTINF:-1 tvg-id="b337787e-dca7-4e3f-aa9a-84bd16f82889" tvg-logo="https://www.clockfm.com.br/images/logo-clockfm-941.png" group-title="Brazil | Espírito Santo | Unknown city",Rádio Clock 94,1 FM
+https://azura4.cmaudioevideo.com:8040/radio.aac
+#EXTINF:-1 tvg-id="31fa0dbf-da4b-4b5b-b5e1-dd4f76723c2f" tvg-logo="https://hfnews.com.br/wp-content/uploads/2026/02/Untitled-1.png" group-title="Brazil | Espírito Santo | Unknown city",SpaceSex 93.1
+https://8846.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="8aa8eeac-b0f5-4eed-b601-974ec0309762" tvg-logo="https://www.radioserranamix.com.br/public/24456-2024-06-25.png" group-title="Brazil | Espírito Santo | Venda Nova do Imigrante",Rádio Serrana Mix
+https://stream03.dghost.com.br:8260/stream?1725121241607
+#EXTINF:-1 tvg-id="eec23a68-22ff-4af0-8f00-b38753bf9b80" tvg-logo="https://zenoimages.s3.us-west-001.backblazeb2.com/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQzsjbxQoMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9HQrQsMogEEemVubw/images/logo?keep=w&resize=350x350" group-title="Brazil | Federative Republic of Brazil | Unknown city",Agenda Chill
+https://stream-159.zeno.fm/zanz4xbdtg8uv
+#EXTINF:-1 tvg-id="2e198067-cdd3-4fbc-b673-7be52078b9d1" tvg-logo="https://www.radios.com.br/aovivo/radio-jangadeiro-889-fm/13520" group-title="Brazil | Fortaleza, Ceará | Unknown city",Jangadeiro 88,9 FM
+https://stream.zeno.fm/xuh02vfzurhvv
+#EXTINF:-1 tvg-id="51934ab2-c15b-489b-b411-0767cf7ee590" tvg-logo="https://gcmais.com.br/wp-content/webp-express/webp-images/uploads/2022/05/89.png.webp" group-title="Brazil | Fortaleza, Ceará | Unknown city",Rádio 89 FM
+https://streaming.livespanel.com:8990/stream
+#EXTINF:-1 tvg-id="c98912d9-35c1-413b-9f42-10f189221b6e" tvg-logo="https://www.radios.com.br/aovivo/radio-jangadeiro-889-fm/13520" group-title="Brazil | Fortaleza, Ceará | Unknown city",Rádio jangadeiro 88,9 FM
+https://stream.zeno.fm/xuh02vfzurhvv
+#EXTINF:-1 tvg-id="3b848cc8-e9d6-4cbd-a77e-2cc1984b3b4b" tvg-logo="https://www.facebook.com/share/1D5odWYdaG/" group-title="Brazil | Fortaleza, Ceará | Unknown city",Web Rádio Doval
+https://stm9.voxhd.com.br:13288/
+#EXTINF:-1 tvg-id="19080a63-c279-436f-b2c2-b2062143b31f" tvg-logo="https://img.radios.com.br/radio/xl/radio289132_1782481286.png" group-title="Brazil | Goias | Brazabrantes",TOP POP WEB RÁDIO - A Estação Das Melhores Músicas
+http://usa3.fastcast4u.com:1932/stream?type=http&nocache=4
+#EXTINF:-1 tvg-id="d4b4155c-a2a7-4a3a-b946-9eedc4c6231d" tvg-logo="https://i0.wp.com/radio105-7.com.br/wp-content/uploads/2024/02/cropped-Design-sem-nome-24.png?fit=192%2C192&ssl=1" group-title="Brazil | Goias | Unknown city",105.7 FM Anápolis
+https://ice.fabricahost.com.br/1057anapolis?1744807879795
+#EXTINF:-1 tvg-id="36d4f4f9-cca9-4b37-9f9b-e0972cb6cd23" group-title="Brazil | Goiás | Anápolis",Rádio São Francisco Anápolis - 97.7FM
+https://cast.hoost.com.br:20150/stream
+#EXTINF:-1 tvg-id="50852694-8d23-47c3-b368-fe8e1a9a9153" tvg-logo="https://i.postimg.cc/DfqVKWBW/radio-phoenix-brazil-14c90958.png" group-title="Brazil | Goiás | Unknown city",Rádio Phoenix FM
+http://cast.hoost.com.br:9141/stream
+#EXTINF:-1 tvg-id="5ef2c452-f4fb-4b69-a67c-f4f14f41e48a" group-title="Brazil | Joinville - SC | Joinville",Rádio Nação 95.7 FM
+https://stm01.virtualcast.com.br:8014/nacaojoinville?1776797312625
+#EXTINF:-1 tvg-id="530ec93e-8e60-404f-8a32-f77b76096d9e" group-title="Brazil | Joinville - SC | Unknown city",Rádio Joinville Cultural FM
+https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio
+#EXTINF:-1 tvg-id="34860139-5bdd-472e-83fe-45a9ce949255" tvg-logo="https://radionewtonbellofm.com.br/public/41419-2025-06-24.jpg" group-title="Brazil | Maranhão | Governador Newton Bello",Newton Bello FM
+https://stm1.voxnovo.com.br:7010/stream
+#EXTINF:-1 tvg-id="70962492-2208-496a-b7da-efb1e418d938" tvg-logo="https://public-rf-upload.minhawebradio.net/54835/mobileicon/a807a1115330ed70515a7a272544ceb7x192.png" group-title="Brazil | Maranhão | Grajaú",Rádio Cidade Grajaú 91.1 FM
+https://servidor25-2.brlogic.com:8268/live?source=website
+#EXTINF:-1 tvg-id="918e02e3-f592-4ab5-81a8-86bc89dbf403" tvg-logo="https://yt3.googleusercontent.com/9M9Ulf03D2Ms6haBGOclxqov778KbJdPgh7HlLjMrJOlvaQ4wf_3kqFb6armS5M1kn4ZvLdJmeE=s900-c-k-c0x00ffffff-no-rj" group-title="Brazil | Maranhão | São Luís",Rádio Nacional São Luís
+https://radionacionalfmsl-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="f192696a-9755-11e9-a605-52543be04c81" tvg-logo="https://fmnova.radio12345.com/banner_images/3324693/274/091/09982442182filebaner.gif" group-title="Brazil | Maranhão | Unknown city",Nova FM
+http://hd3.matutos.com.br:8394/stream?1561472887177
+#EXTINF:-1 tvg-id="84137697-9722-11e9-a605-52543be04c81" tvg-logo="https://fmterra.com.br/wp-content/uploads/2022/05/logo-150x150.png" group-title="Brazil | Maranhão | Unknown city",Rádio Terra FM 100.3
+http://servidor30.brlogic.com:8622/live?1561450793452
+#EXTINF:-1 tvg-id="ce9e3fa7-331d-43af-9248-9d1d59f6cfec" tvg-logo="https://pbr-str.srvsite.com/arquivos/9501/favicon-9501-20240102123716.ico" group-title="Brazil | Mato Grosso | Mirassol d'Oeste",Rádio Modão MT
+http://stm1.matutos.com.br:11356/stream
+#EXTINF:-1 tvg-id="e106985b-2404-4c66-b420-2544ab8510f4" tvg-logo="https://ligana104.com.br/2021/wp-content/uploads/2016/05/logoNova.png" group-title="Brazil | Mato Grosso | Unknown city",Rádio Amorim 104.1 FM
+http://streaming05.maxcast.com.br:8080/live
+#EXTINF:-1 tvg-id="4bbf411c-7844-41b3-b290-64561bc8465c" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/155755294/RONDONOPOLIS.jpg" group-title="Brazil | Mato Grosso | Unknown city",Rádio Centro América 101.5 FM
+https://centova.svdns.com.br:20111/stream
+#EXTINF:-1 tvg-id="ad4d02f5-82b7-45ba-941a-34ac96e7027c" tvg-logo="https://cidade97.com.br/wp-content/uploads/2026/02/logo-cidade97-branca.png" group-title="Brazil | Mato Grosso do Sul | Campo Grande",Cidade 97 - Campo Grande
+https://radio.megadj.com.br/listen/cidade97/radio.mp3
+#EXTINF:-1 tvg-id="f9ccf0b3-dc5e-465d-99cb-cb8df6c39103" tvg-logo="https://static.tudoradio.com/ins/w:120/plain/https://tudoradio.com/img/uploads/radios/67d77c7e06ad5.png" group-title="Brazil | Mato Grosso do Sul | Campo Grande",Educativa FM 104,7 - Campo Grande
+https://stream01.digilab.com.br/fertel/radio/icecast.audio
+#EXTINF:-1 tvg-id="35ac4203-2b03-4b57-93d6-3aeb5701d78f" tvg-logo="https://public-rf-upload.minhawebradio.net/250444/logo/c9f6c0e472e2023c1d2cf8744f78a973.png" group-title="Brazil | Mato Grosso do Sul | Maracaju",Rádio Cidade Maracaju 104.3 FM
+https://servidor33-5.brlogic.com:7078/live
+#EXTINF:-1 tvg-id="25297307-25a5-4448-b4da-b47c4d6413d3" tvg-logo="https://img.radios.com.br/radio/lg/radio25503_1725610340.jpg" group-title="Brazil | MG | Carmésia",Rádio Sertaneja Top
+https://radiosertanejatop.stream.laut.fm/radiosertanejatop?1771935991274
+#EXTINF:-1 tvg-id="91abd582-d244-4a63-8df0-841c64e6976c" group-title="Brazil | MG | Juiz de Fora",Radio Gospel Hitz Jf
+https://cast6.midiazdx.com.br:6880/
+#EXTINF:-1 tvg-id="30cdae7c-12b0-49a0-b885-56d3abbf62a2" tvg-logo="https://img.radios.com.br/radio/lg/radio139_1488725850.jpg" group-title="Brazil | MG | Raposos",Rádio Inconfidência 880 AM
+https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream&1771865214032
+#EXTINF:-1 tvg-id="b6e92b75-2613-4d3d-b7e2-5b09ca33adb2" tvg-logo="https://img.radios.com.br/radio/lg/radio10473_1574106832.jpg" group-title="Brazil | MG | Rio Manso",Rádio Bom Sucesso 95.5 FM
+http://euroticast5.euroti.com.br:8110/stream?1771878954178
+#EXTINF:-1 tvg-id="2cb027f5-0a85-47fe-924f-d67e5d06ac97" group-title="Brazil | MG | São Sebastião do Rio Preto",Rádio Colméia 98.7 FM
+https://stm04.virtualcast.com.br:8024/colmeiamaringa?1771884660703
+#EXTINF:-1 tvg-id="81cab3d3-3a8a-415c-8a23-a21abcd05c46" tvg-logo="https://img.radios.com.br/radio/lg/radio42444_1589543490.jpg" group-title="Brazil | MG | Taquaraçu de Minas",Rádio Good Times
+https://stm3.xcast.com.br:11480/stream?1771880605743
+#EXTINF:-1 tvg-id="acef5b3e-413f-4e03-a753-cf3c5df4cede" tvg-logo="https://i.postimg.cc/3NrDwMwT/radio-1768244329-6ebb5c9f16b2f0ffb06a.png" group-title="Brazil | MG | Unknown city",Rádio gospel louvores MG
+https://stm1.radioipbr.com.br:7004/live
+#EXTINF:-1 tvg-id="13ebd690-b365-4f8b-afa4-6837be1ad9d2" tvg-logo="https://radiotropicaldiamantina.siteweb.net.br" group-title="Brazil | Mi | Unknown city",Rádio Tropical Diamantina
+https://stm22.voxhd.com.br:9904/
+#EXTINF:-1 tvg-id="7c2d7c4d-3b2f-446f-a317-f2313ce53c58" group-title="Brazil | Minas Gerais | Barbacena",Rádio Sucesso FM 101,7 Mhz (Barbacena MG)
+http://s01.onradio.biz:7666/stream
+#EXTINF:-1 tvg-id="7e1c7041-c288-4f9a-b859-1a461cf728dc" tvg-logo="https://i.postimg.cc/CxFCvF1V/04008017011.jpg" group-title="Brazil | Minas Gerais | Belo Horizonte",Clube FM 96,5 MHz ZYC692 (Belo Horizonte - MG)
+https://8112.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="46e300c2-4013-4442-baa0-eeaae28cff1f" tvg-logo="https://lightfm1039.com.br/wp-content/uploads/2022/09/cropped-favicon-180x180.png" group-title="Brazil | Minas Gerais | Belo Horizonte",Light FM 103.9 MHz ZYC699 (Belo Horizonte - MG)
+https://8231.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="d2678e94-cc54-457a-bef4-2fc355ec4199" group-title="Brazil | Minas Gerais | Belo Horizonte",Radio Liberdade 92.9 (Belo Horizonte - MG)
+https://8335.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="22476f57-1d03-4718-a56e-c3d1f58f2e0f" tvg-logo="https://www.alvoradafm.com.br/favicon.ico" group-title="Brazil | Minas Gerais | Belo Horizonte",Rádio Alvorada
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac
+#EXTINF:-1 tvg-id="d0f8c797-2263-482f-8714-dfa16af48e30" group-title="Brazil | Minas Gerais | Belo Horizonte",Rádio UFMG Educativa
+https://www3.ufmg.br/streamingradioaovivo/aovivo.mp3
+#EXTINF:-1 tvg-id="ee82bd66-9d78-4130-a8b1-5e7beff49405" tvg-logo="https://i.postimg.cc/1zXSgCqx/50414159195.png" group-title="Brazil | Minas Gerais | Januária",Voz News FM 100.9 MHz ZYN317 (Januária - MG)
+http://s01.transmissaodigital.com:7390/stream
+#EXTINF:-1 tvg-id="193e3072-b88d-4e33-90e7-fb1564713e95" group-title="Brazil | Minas Gerais | Juiz de Fora",Rádio Mix FM 88,9 MHz (Juiz de Fora - MG)
+https://stream02.ouveai.com.br/8034/stream
+#EXTINF:-1 tvg-id="08bf2055-7509-4367-931a-a7d381b9473e" tvg-logo="https://jpimg.com.br/uploads/2022/12/afiliada-manaus-500x500.jpg" group-title="Brazil | Minas Gerais | Manaus",Jovem Pan FM - Manaus - AM - 104.1
+https://directradios.net/proxy/jpmaceio?mp=/stream
+#EXTINF:-1 tvg-id="102ec59e-3784-4013-a759-c53fa4cf085a" tvg-logo="https://premiumfm.com.br/wp-content/uploads/2022/06/premium-azul.png" group-title="Brazil | Minas Gerais | Muriaé",Premium FM 94.7 MHz Muriaé MG
+https://live.paineldj.com.br/proxy/premiumfm?mp=/stream
+#EXTINF:-1 tvg-id="86bbe477-7177-4e9a-b077-38d0e04b799d" group-title="Brazil | Minas Gerais | Nova Serrana",90.9 Nova Serrana
+https://radio02.kingcast.com.br:7226/stream
+#EXTINF:-1 tvg-id="0db29eac-2354-4cd6-8fcc-1810993bce03" tvg-logo="https://i.postimg.cc/MHW7KnTn/04008009698.png" group-title="Brazil | Minas Gerais | Sete Lagoas",Musirama FM 92.1 MHz ZYC709 (Sete Lagoas - MG)
+https://f100.fabricahost.com.br/musirama?f=1790865955N01M3VYVPZ8VSH5GVQGPSSS01JJ&tid=01M3VYVPZ8Z4GHF18N694M0472
+#EXTINF:-1 tvg-id="c064c241-a2c2-4dd9-b889-b292535397fe" tvg-logo="https://pbs.twimg.com/media/GE7jNgZWQAEcxNb?format=png&name=240x240" group-title="Brazil | Minas Gerais | Unaí",Rádio Studio Flashback
+https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA
+#EXTINF:-1 tvg-id="7c7def30-9ae1-47b2-868b-6b0f1626d268" group-title="Brazil | Minas Gerais | Unknown city",Aliança Fm
+https://server01.srvsh.com.br:13788/stream
+#EXTINF:-1 tvg-id="bedcf517-f9a6-11e8-a97a-52543be04c81" group-title="Brazil | Minas Gerais | Unknown city",Jazz Medley Webradio
+http://server01.ouvir.radio.br:8006/stream
+#EXTINF:-1 tvg-id="924352fe-4a3c-47b5-83b7-370595ae42f9" tvg-logo="https://img.radios.com.br/radio/lg/radio18490_1637166379.png" group-title="Brazil | Minas Gerais | Unknown city",Rádio Super
+https://servidor32.brlogic.com:8200/live
+#EXTINF:-1 tvg-id="94050e87-1c05-4eaa-bab4-8744c7260b02" tvg-logo="https://i.ibb.co/yFSBcW2p/85253-v3.png" group-title="Brazil | Minas Gerais | Unknown city",Rádio Ziggy - MPB (MP3)
+http://stream.zeno.fm/g5xt330zkd0uv
+#EXTINF:-1 tvg-id="0d8777d1-9e71-41cf-b728-6c85d4066a7f" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/790/transamerica-belo-horizonte.15dd3e62.png" group-title="Brazil | Minas Gerais | Unknown city",TMC Belo Horizonte
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BH.mp3
+#EXTINF:-1 tvg-id="9f71efdf-0c84-4c52-9e2c-48b7d87948f3" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/790/transamerica-belo-horizonte.15dd3e62.png" group-title="Brazil | Minas Gerais | Unknown city",TMC Belo Horizonte
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_BHAAC.aac
+#EXTINF:-1 tvg-id="b0522684-48fa-488e-a4c5-9398b61c3766" group-title="Brazil | Minas Gerais | Unknown city",Web Rádio CCB
+http://stm1.hoststreaming.com.br:7088/;
+#EXTINF:-1 tvg-id="66ca6d0b-6a6a-4e79-a327-b21f9684e87c" group-title="Brazil | Minas Gerais | Vespasiano",Super Hits 94
+https://s03.svrdedicado.org:6858/stream
+#EXTINF:-1 tvg-id="8164ba6c-b86e-4162-80c0-9a2a99cd6c71" tvg-logo="https://www.almg.gov.br/system/modules/br.gov.almg.portal/resources/img/logo/logo.svg" group-title="Brazil | Minas Gerais Brasil | Belo Horizonte",Rádio Assembleia Minas Gerais
+http://radio.almg.gov.br/radiomp3
+#EXTINF:-1 tvg-id="ff190f46-3e85-40bc-9173-720e8e211fb1" tvg-logo="https://www.inconfidencia.com.br/wp-content/uploads/2022/10/RadioInconfidenciaAMFM.png" group-title="Brazil | Minas Gerais Brasil | Belo Horizonte",Rádio Inconfidência FM 100,9
+https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream
+#EXTINF:-1 tvg-id="dccc4010-9c0a-489b-a216-d47df5e4bafd" tvg-logo="https://img.radios.com.br/radio/lg/radio10473_1574106832.jpg" group-title="Brazil | Minas Gerais Brasil | Nova União",Rádio Bom Sucesso 95.5 FM
+http://euroticast5.euroti.com.br:8110/stream
+#EXTINF:-1 tvg-id="f20ff360-75f7-4288-8f2b-a8b939f8c77a" group-title="Brazil | Minas Gerais Brasil | Unknown city",Espiritismo BH
+http://paineldj4.com.br:8047/stream
+#EXTINF:-1 tvg-id="2bae2998-617a-4491-b40e-54c10866d148" tvg-logo="https://d1di2lzuh97fh2.cloudfront.net/files/1j/1j3/1j3767.ico?ph=7abd60dc78" group-title="Brazil | Minas Gerais Brasil | Unknown city",RÁDIO VIRG0 NET
+https://cast.mgtradio.net/radio/8020/radio.aac
+#EXTINF:-1 tvg-id="41ceac99-d687-4af4-b43b-d5f1d8f82b1c" group-title="Brazil | o Paulo | Unknown city",MNS FM - WebRadio From S
+http://lyra.shoutca.st:8206/autodj
+#EXTINF:-1 tvg-id="3de68171-973b-493b-ae10-1b1a56b4a5cf" group-title="Brazil | Online | Unknown city",Rádio secular
+https://stream-178.surfernetwork.com/6cvqc50b568uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2Y3ZxYzUwYjU2OHV2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkVpb2pGc3Y3UU5hNHlUX2RUSlVxUGciLCJpYXQiOjE3OTA4NjgyODAsImV4cCI6MTc5MDg2ODM0MH0.9Q21lx-QqHLtlwbMb8wBLWDXVPfAKANB9iGpVXhpa0Y
+#EXTINF:-1 tvg-id="90d11ce5-7a40-4af9-afe2-6ad8422be04f" group-title="Brazil | PA | Parauapebas",Arara Azul FM
+https://azura.ez1fm.com/listen/arara_azul/radio.mp3
+#EXTINF:-1 tvg-id="7874dd3f-76a4-4efb-ac08-bb8e66c1f939" tvg-logo="https://images.zeno.fm/V26Zi7EX8kZaRMVig_dqTABYJdpEtshx8fpDSh9r3I4/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1FnZGY0clFvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElsc3FLNXdzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTc4NDY1NzI0MzAwMA" group-title="Brazil | Paraiba | Bayeux",Rádio Zé Ramalho
+https://stream.zeno.fm/qnx6k0pfmxhvv
+#EXTINF:-1 tvg-id="ac0b5f17-93a3-428b-b3c4-e02283cc504d" tvg-logo="https://radiotabajara-assets.pages.dev/tabajara-player-site.jpeg" group-title="Brazil | Paraiba | João Pessoa",Tabajara FM 105,5 Mhz
+https://stm2.xcast.com.br:7524/stream
+#EXTINF:-1 tvg-id="6d2e2602-7569-4267-bb8e-644dafd6aaea" group-title="Brazil | Paraiba | Patos",Rádio Arapuan 98.9 FM
+https://streaming.engelhosting.com.br:10036/stream
+#EXTINF:-1 tvg-id="f6f2ccd1-9c1a-47ca-9caf-1edd6c66eed1" tvg-logo="https://img.radios.com.br/radio/lg/radio13341_1495981602.jpg" group-title="Brazil | Paraiba | Patos",Rádio Itatiunga 102.9 FM
+https://str1.streamhostpg.com.br:8100/stream
+#EXTINF:-1 tvg-id="cecfa9de-c3ae-44a5-b111-bad4c1d68425" tvg-logo="https://www.correiosat.com.br/img/logo_correiosat.svg" group-title="Brazil | Paraiba | Sousa",Radio MAX Correio FM 99.1 Souza - PB
+http://stm22.xcast.com.br:9166/stream
+#EXTINF:-1 tvg-id="2a4413a2-23c5-4fcd-8185-1866596aecfe" tvg-logo="https://img.radios.com.br/radio/xl/radio32168_1548148138.png" group-title="Brazil | Paraiba | Unknown city",Mais FM
+https://streaming.livespanel.com:20970/maisfm977
+#EXTINF:-1 tvg-id="6116adf7-d0c7-49ca-91d9-c9e5553d250c" tvg-logo="https://ouroverdefm.com.br/wp-content/uploads/2022/11/favicon-150x150.png" group-title="Brazil | Parana | Curitiba",Ouro Verde FM Easy 105.5
+https://8522.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="6841c7c3-d33d-42ea-adf0-36b19405ba98" group-title="Brazil | Parana | Unknown city",Radio Advento - Londrina
+https://9121.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="fb1097c0-370b-45de-9d32-7f1f46c13d4e" tvg-logo="https://public-rf-upload.minhawebradio.net/113/fbplayer/7eb6b35b003a5c561f99df3588822931.jpg" group-title="Brazil | Parana | Unknown city",RST Radio Rock
+https://servidor37-1.brlogic.com:8100/live
+#EXTINF:-1 tvg-id="15fe7749-d688-4d38-8a05-4a2275ce5887" tvg-logo="https://img.radios.com.br/radio/lg/radio8826_1580130163.jpg" group-title="Brazil | Parana | Unknown city",Rádio BBN 92.3 FM
+https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+#EXTINF:-1 tvg-id="2e8a3aae-ef0e-410f-841f-42638f6db041" tvg-logo="https://img.radios.com.br/radio/lg/radio26832_1580130374.jpg" group-title="Brazil | Parana | Unknown city",Rádio BBN 96.1 FM
+https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+#EXTINF:-1 tvg-id="763ee8a1-b002-4f5c-a9d4-2d3db4d01cef" tvg-logo="https://img.radios.com.br/radio/lg/radio243062_1713273568.jpg" group-title="Brazil | Paraná | Curitiba",Rádio RNP
+https://hts02.brascast.com:11442/stream
+#EXTINF:-1 tvg-id="de01b857-ebe0-44fc-87c2-23db583ccd3b" tvg-logo="https://socialradio.com.br/radio/tribunafm/apple-touch-icon.png" group-title="Brazil | Paraná(Brazil) | Apucarana",Tribuna soft FM 90,1
+https://ice.fabricahost.com.br/tribunafm
+#EXTINF:-1 tvg-id="5f89a01a-fd55-4b12-8b48-ca6f74ef6be1" tvg-logo="https://img.radios.com.br/radio/lg/radio25827_1687532681.jpg" group-title="Brazil | Paraná(Brazil) | Maringá",Massa FM Maringá 92.3
+https://live.virtualcast.com.br/massamaringa
+#EXTINF:-1 tvg-id="cf4b3098-b6ff-4386-a8c6-b37b19b0b7ce" tvg-logo="https://mundolivrefm.com.br/favicon.png" group-title="Brazil | Paraná(Brazil) | Maringá",Mundo Livre FM Maringá 102.5
+https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_MGAAAC.aac
+#EXTINF:-1 tvg-id="fb299bc3-a9fc-4f53-b5ce-457d0cbd1780" tvg-logo="https://img.radios.com.br/radio/lg/radio25827_1687532681.jpg" group-title="Brazil | Paraná(Brazil) | Unknown city",Massa FM Maringá
+https://stm01.virtualcast.com.br:8116/massamaringa
+#EXTINF:-1 tvg-id="748cedf1-55c8-4d2c-a134-f6100b716c75" group-title="Brazil | Paraná(Brazil) | Unknown city",Rádio Livre Som
+https://server19.srvsh.com.br:8934/stream
+#EXTINF:-1 tvg-id="60633a59-98ab-4372-a33d-b7f83513de0c" tvg-logo="https://universidadefm.com.br/favicon.ico" group-title="Brazil | Paraíba | Patos",Rádio Universidade 105.1 FM
+https://stm20.srvstm.com:7264/;?type=https&nocache=1
+#EXTINF:-1 tvg-id="36bb19dc-67ca-45dc-b4eb-b7ef4771bd23" group-title="Brazil | Paraíba | Unknown city",Rádio Click Guarabira
+https://stm15.voxhd.com.br:12428/
+#EXTINF:-1 tvg-id="f1432da2-33fa-4f18-aedc-fd1ea646eaa9" group-title="Brazil | Pará | Belém",Liberal FM Web
+https://s09.maxcast.com.br:8122/live
+#EXTINF:-1 tvg-id="6f6e79f3-3697-4707-b64a-0ef20df068ba" tvg-logo="https://images.zeno.fm/J5REVzfGOLUJXrnUTHqGDE6du0zCa-jQiTxg4KN0DHA/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ3czdXVpcmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3d2cEtLMWdnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTMzODg3NTAwMA" group-title="Brazil | Pará | Monte Alegre",Radio Brega Paraense
+https://stream-178.surfernetwork.com/6a4genq4by8uv
+#EXTINF:-1 tvg-id="35fafa39-7784-43bd-897e-605b72d5e11d" tvg-logo="https://img.radios.com.br/radio/lg/radio115494_1613041199.jpeg" group-title="Brazil | Pará | Unknown city",Rádio Castanhal 105.9 FM
+https://server08.srvsh.com.br:8484/stream
+#EXTINF:-1 tvg-id="a2ef7994-db83-4953-b2c4-2415c0b9b2da" tvg-logo="https://radiocafeviola.com.br/images/radio-cafe-modao.png" group-title="Brazil | Patos de Minas , Minas Gerais | Unknown city",Rádio Café Modão
+https://stm22.xcast.com.br:8866/
+#EXTINF:-1 tvg-id="f60dd19f-22bb-4bf0-ba21-f7848ee69533" group-title="Brazil | Patos de Minas, MG | Patos de Minas",FM Liberdade 101,1
+https://8148.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="9d9c19ad-44a7-4010-a1c5-388af2387bff" group-title="Brazil | PE | Unknown city",Web Radio Semear, Toritama-PE(WRSTPE)
+https://server17.srvsh.com.br:7300/stream//
+#EXTINF:-1 tvg-id="bdc15ed2-f76d-433d-ae51-bc231ab90e38" group-title="Brazil | Pernambuco | Garanhuns",87 FM
+https://exodo.ddns.seg.br:20011/;?1705778463505=
+#EXTINF:-1 tvg-id="75cc8fdf-6cf1-4dfb-b90f-1ee693988ff8" tvg-logo="https://www.gncnews.com.br/assets/uploads/4ffcd75cedbe73df48a62f892b804392.png" group-title="Brazil | Pernambuco | Recife",CBN Recife
+https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8
+#EXTINF:-1 tvg-id="d5c60264-6f50-4f33-be0f-c86abc5186c1" tvg-logo="https://cordeiroplasticos.com.br/radioc1.png" group-title="Brazil | Pernambuco | Santa Cruz do Capibaribe",Rádio C
+https://stm5.painelcast.com:7578/stream
+#EXTINF:-1 tvg-id="097a6470-fa11-4480-b777-bd453ed82b8f" tvg-logo="https://cordeiroplasticos.com.br/radioclassica.png" group-title="Brazil | Pernambuco | Santa Cruz do Capibaribe",Rádio Clássica
+https://stm11.painelcast.com:7530/stream
+#EXTINF:-1 tvg-id="75171a08-0b7e-4aea-a15a-b761c41b5ae2" tvg-logo="https://cordeiroplasticos.com.br/forro1.jpg" group-title="Brazil | Pernambuco | Santa Cruz do Capibaribe",Rádio Forró
+https://stm5.painelcast.com:7600/stream
+#EXTINF:-1 tvg-id="36de98f9-00ae-451d-9c55-7fd25b6e3ec2" tvg-logo="https://cordeiroplasticos.com.br/sertaneja.jpg" group-title="Brazil | Pernambuco | Santa Cruz do Capibaribe",Rádio Sertaneja
+https://stm5.painelcast.com:7584/stream
+#EXTINF:-1 tvg-id="f4a005b8-b99d-4234-bc06-0d7aa166e941" tvg-logo="https://cordeiroplasticos.com.br/sombrega1.png" group-title="Brazil | Pernambuco | Santa Cruz do Capibaribe",Rádio Som Brega
+https://stm5.painelcast.com:7588/stream
+#EXTINF:-1 tvg-id="670827c3-b66b-4d60-a4ea-5d4b993e79a0" tvg-logo="https://drive.google.com/file/d/1vJBm39Y18sZmMro8hVT4Trd5hue9ud0P/view?usp=drive_link" group-title="Brazil | Pernambuco | São Lourenço da Mata",Rádio Local SIVB
+https://s19.maxcast.com.br:8966/live
+#EXTINF:-1 tvg-id="8abb513c-baf3-40b6-bb56-dd824ee71ee7" tvg-logo="https://www.radios.com.br/aovivo/radio-jovem-pan-1013-fm/24305" group-title="Brazil | Pernambuco | Unknown city",Jovem pan 103,1 FM Caruaru
+https://cast4.audiostream.com.br:20003/jp101
+#EXTINF:-1 tvg-id="913ad0d1-dbc9-4946-9035-6185387beedf" tvg-logo="https://img.radios.com.br/radio/lg/radio13806_1509363062.jpg" group-title="Brazil | Pernambuco | Unknown city",Rádio Marano FM
+https://streaming.livespanel.com:21023/maranofm
+#EXTINF:-1 tvg-id="ccabda07-5c37-446a-94ee-45dffd01bf5b" tvg-logo="https://img.radios.com.br/radio/lg/radio69_1715670180.jpg" group-title="Brazil | Pernambuco | Unknown city",Rádio Sete Colinas FM
+https://streaming.livespanel.com:20107/setecolinas
+#EXTINF:-1 tvg-id="98af7955-fe4f-11e9-bbf2-52543be04c81" group-title="Brazil | Piauí | Unknown city",Rádio Som do Céu
+http://stream.zeno.fm/t5y50e2ekbruv
+#EXTINF:-1 tvg-id="475a6c74-550f-450c-a8ef-6c57d4d9054d" group-title="Brazil | Piauí ,Teresina | Unknown city",Rádio Nação Vitoriosa
+http://stream-179.surfernetwork.com/2rsloyfvsy9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIycnNsb3lmdnN5OXR2IiwiaG9zdCI6InN0cmVhbS0xNzkuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjJTeF95YWFFU0lPNnE5OURRR1R4clEiLCJpYXQiOjE3OTA4NzQ5MTAsImV4cCI6MTc5MDg3NDk3MH0.5zwfkWRHiDBLDEb9gahktRXaUCH6mhDcs6E6cSKP18s
+#EXTINF:-1 tvg-id="f08ea35e-f7f4-4bae-bd22-b7e1243e18a4" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.radioagulha.com.br%2Fpublic%2F95360-2025-03-10.png&f=1&nofb=1&ipt=275da5696b7114704c9ecb5f0a2e961fe3b44a7dd62141de483b1805fb0d9443" group-title="Brazil | Porto Alegre | Unknown city",Rádio Agulha
+https://titton.dvr.ovh:6702/stream
+#EXTINF:-1 tvg-id="7959112c-12b8-4b0e-8804-1451fb0963ab" tvg-logo="https://img.radios.com.br/radio/lg/radio13214_1552052858.jpg" group-title="Brazil | PR | Garopaba",Rádio Cidade 670 AM
+http://cast.youngtech.radio.br:8550/radio
+#EXTINF:-1 tvg-id="355c6ce5-6db1-4f21-8366-fdfdc4a30109" tvg-logo="https://www.facebook.com/radiovidaterraricapr" group-title="Brazil | PR | Terra Rica",Rádio Vida Terra Rica
+https://stm1.voxhd.com.br:7706/
+#EXTINF:-1 tvg-id="55384874-a484-4365-8799-3a5e389699ad" tvg-logo="https://radioitay.com.br/wp-content/uploads/2023/07/image-removebg-preview-14.png" group-title="Brazil | PR | Unknown city",Rádio Itay 88.7 FM
+https://stm1.streamproarte.com.br:7530/stream
+#EXTINF:-1 tvg-id="620cee01-f29b-44f8-9b96-70d6068bcca0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvIdfVjrAJjvfDmYBc7Ij3fqVOothOa46zQ1xj4fbsL0EN--x.png" group-title="Brazil | PR | Unknown city",Rádio Mundi 99,3 FM
+https://ice.fabricahost.com.br/mundifm
+#EXTINF:-1 tvg-id="a967ec4d-45cf-40af-8f5e-dc367fba74d6" tvg-logo="https://www.centralfmquixada.com.br/_next/image?url=%2Flogo_central.png&w=256&q=75" group-title="Brazil | Quixadá, Ceará | Unknown city",Central FM 104.9
+https://stream3.svrdedicado.org/8174/stream?1785033180115=
+#EXTINF:-1 tvg-id="2d1dfffd-e4a6-4c3b-9bea-605ed26be21d" group-title="Brazil | Quixadá, Ceará | Unknown city",Meio Norte FM 96.7
+https://webradio.amsolution.com.br/radio/8200/quixada
+#EXTINF:-1 tvg-id="c9b3e557-2215-49d0-9997-2b5ba6f1deab" tvg-logo="https://www.gncnews.com.br/assets/uploads/4ffcd75cedbe73df48a62f892b804392.png" group-title="Brazil | Recife | Recife",CBN Recife
+https://video09.logicahost.com.br/cbnrecife/cbnrecife/playlist.m3u8
+#EXTINF:-1 tvg-id="a5f56f44-f369-441e-bfa1-afcd60ddf8cc" tvg-logo="https://cadena-high-volume.b-cdn.net/uploads/station/vertical_logo/122852290/play_store_512.png" group-title="Brazil | Resende | Unknown city",Rádio Real FM 93.9
+https://centova2.svdns.com.br:20077/stream
+#EXTINF:-1 tvg-id="3bf3d027-13a8-4840-9281-067d48c64b7c" tvg-logo="https://img.radios.com.br/radio/lg/radio11453_1528207582.jpg" group-title="Brazil | Rio | Natal",Rádio Cidade 94.3 FM Natal RN
+https://cidadedosolaac.jmvstream.com/stream?1732978147095
+#EXTINF:-1 tvg-id="ca7d9a61-eb28-49bc-99ba-5a140869919c" tvg-logo="https://positividade.fm/wp-content/uploads/2022/04/positividade-fm.png" group-title="Brazil | Rio de Janeiro | Barra da Tijuca",Positividade FM
+https://27573.live.streamtheworld.com/POSITIVIDADE_FM_SC
+#EXTINF:-1 tvg-id="c6cbbbdf-6a9c-43fc-8400-c875db67d60c" tvg-logo="https://www.antena1rio.com.br/wp-content/uploads/2024/01/logo-antena-1.png" group-title="Brazil | Rio de Janeiro | Leme",Antena 1 Rio
+http://a1rj.streams.com.br:7801/stream
+#EXTINF:-1 tvg-id="15791798-2591-4cc2-aa38-dd680da995e1" group-title="Brazil | Rio de Janeiro | Niterói",Hitmix Brasil
+https://radio.stmsrv.com:8464/stream
+#EXTINF:-1 tvg-id="5e859c82-1767-4517-9c74-18ebb656740b" group-title="Brazil | Rio de Janeiro | Nova Friburgo",Conselheiro 87.7 FM
+http://stm1.streamproarte.com.br:7204/stream?1685285676227
+#EXTINF:-1 tvg-id="df98c5cd-6b25-4381-950b-d15753439b97" tvg-logo="https://public-rf-upload.minhawebradio.net/17549/program/7d841a5fa803032a7e8656166559739f.jpg" group-title="Brazil | Rio de Janeiro | Nova Friburgo",Sucesso FM 88,3
+https://servidor36.brlogic.com:8300/live?1696916321806
+#EXTINF:-1 tvg-id="8e42e00b-3bb6-4568-b2a7-72311a0b1650" tvg-logo="https://i.imgur.com/cGgYqri.jpeg" group-title="Brazil | Rio de Janeiro | Pilar de Goiás",Rádio Charme
+https://stm6.xcast.com.br:7988/stream
+#EXTINF:-1 tvg-id="52e046ee-fdef-467e-932d-a4404d5a800b" group-title="Brazil | Rio de Janeiro | Rio de Janeiro",Rádio MEC FM
+https://radiomecfm-stream.ebc.com.br/ebc/radiomecfm/MEC_FM-mp4a_277200_eng=20000.m3u8
+#EXTINF:-1 tvg-id="8c2922b9-b375-4a3d-97dd-7f8fa8d09512" group-title="Brazil | Rio de Janeiro | Unknown city",CBN Rio de Janeiro 92.5 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_RJ_ADP.m3u8
+#EXTINF:-1 tvg-id="548d3232-fd53-4942-933b-38e9ddb4bcb3" group-title="Brazil | Rio de Janeiro | Unknown city",EldoPop FM
+http://stm10.srvstm.com:34794/stream
+#EXTINF:-1 tvg-id="8cf1083b-a326-11e8-abb8-52543be04c81" group-title="Brazil | Rio de Janeiro | Unknown city",JB FM
+http://26683.live.streamtheworld.com/JBFMAAC_SC
+#EXTINF:-1 tvg-id="9af7c04b-3c92-4d3a-88f9-22b862b9ac7e" tvg-logo="https://radiocatedral.com.br/wp-content/uploads/2019/07/logo-catedral-oficial-e1562107838784.jpg" group-title="Brazil | Rio de Janeiro | Unknown city",Radio Catedral FM RJ 106.7
+https://hts04.brascast.com:13728/live
+#EXTINF:-1 tvg-id="c94e44c8-6610-4f0a-8a19-ac15c334abad" tvg-logo="https://radiocidade.fm/player/img/drop-80.svg" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Cidade - drop80
+http://playerservices.streamtheworld.com/api/livestream-redirect/DROP80_S01AAC.aac
+#EXTINF:-1 tvg-id="790e2018-20dd-425f-a451-2e5825ab7cda" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Coroados AM 1310
+https://s41.maxcast.com.br:8176/live?1740250777185
+#EXTINF:-1 tvg-id="f5e47b29-9241-4906-a218-e84da6a1eb17" tvg-logo="https://www.diversaofm.com.br/icon-192.png" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Diversão FM live
+https://stream-177.surfernetwork.com/7k889br3c48uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3azg4OWJyM2M0OHV2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJwQWVzSGIwZVRqcTR5bnRZLUtVRWFRIiwiaWF0IjoxNzkwMDM0MTA2LCJleHAiOjE3OTAwMzQxNjZ9.8TNrnfvcn9JR_4FzNwG287DWhVsii7ynInGA7VLTxtM
+#EXTINF:-1 tvg-id="26ff6924-856b-489c-970c-c90dd361c8f1" tvg-logo="https://www.escoladeradio.com.br/radio-icon-512.png" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Escola de Rádio
+https://radio.escoladeradio.com.br/listen/radio_er/radio.mp3
+#EXTINF:-1 tvg-id="9d4cc69b-bb83-41c3-b76c-9da2eacee424" tvg-logo="https://radioglobo.globo.com/estaticos/img/favicons/apple-touch-icon.png" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Globo - Rio de Janeiro
+https://26673.live.streamtheworld.com:443/RADIO_GLOBO_RJAAC.aac?dist=site
+#EXTINF:-1 tvg-id="962ef199-0601-11e8-ae97-52543be04c81" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Teresópolis Rio de Janeiro
+http://cast3.hoost.com.br:8096/stream
+#EXTINF:-1 tvg-id="e8477ff6-812f-4e51-a0fe-67dd93ef2872" group-title="Brazil | Rio de Janeiro | Unknown city",Rádio Vibe Ploc
+https://s43.maxcast.com.br:9082/live
+#EXTINF:-1 tvg-id="eda6bad4-8015-4494-b43e-b3d5b97a41c3" group-title="Brazil | Rio de Janeiro | Unknown city",Só Cacarecos - Classic Rock
+http://sokakarecos.ddns.net:9030/rock128
+#EXTINF:-1 tvg-id="d0eddde0-9105-4af6-a61b-9679ed8ba96d" group-title="Brazil | Rio Grande do Norte | Natal",97 FM Natal
+https://azevedo.jmvstream.com/stream
+#EXTINF:-1 tvg-id="b220458a-5559-49c7-9e46-6cbd1f28641f" tvg-logo="https://www.104fmprazeremouvir.com.br/assets/img/logo/logo-white.png" group-title="Brazil | Rio Grande do Norte | Unknown city",104.7 FM Natal RN Brazil
+https://radios.braviahost.com.br:8000/radio.mp3
+#EXTINF:-1 tvg-id="46c4f8fd-af3e-4e94-9abb-3bdcfe7f1bc5" tvg-logo="https://www.marinha.mil.br/sites/default/files/pictures/logo-radio-mb-internet-page-radio.jpg" group-title="Brazil | Rio Grande do Norte | Unknown city",Rádio Marinha (Natal) 100.1 FM RN Brasil
+https://stm0.inovativa.net/listen/radiomarinha/radio.mp3
+#EXTINF:-1 tvg-id="cc068951-5c09-4828-8b1f-447e83906fb5" tvg-logo="https://yardsounds.com.br" group-title="Brazil | Rio Grande do Sul | Barra do Ribeiro",Rádio Yard Sounds
+https://hts10.brascast.com:7966/live
+#EXTINF:-1 tvg-id="fe6da4f5-f85f-4c36-a346-4f78d384a2a4" tvg-logo="https://serradosul.com.br/fallback-covers/serra-do-sul.png" group-title="Brazil | Rio Grande do Sul | Canguçu",Radio S D S
+https://radio.serradosul.com.br/listen/serra_do_sul_/live
+#EXTINF:-1 tvg-id="3c835bae-67a2-48d1-adf6-c1d967ad3d31" tvg-logo="https://public-rf-upload.minhawebradio.net/1952/favicon/bb8a3d7a6f6907b67bfd0b31ab9f1ff0.png" group-title="Brazil | Rio Grande do Sul | Caxias do Sul",Rádio Campeira FM
+https://servidor34-3.brlogic.com:8164/live?source=website
+#EXTINF:-1 tvg-id="d07edb36-fdf7-4271-90d4-4694b3a2cafd" tvg-logo="https://i0.wp.com/www.gruporeporter.com.br/wp-content/uploads/2019/07/Logo-R%C3%A1dio-Iguatemi.png" group-title="Brazil | Rio Grande do Sul | Ijuí",Iguatemi (Ijuí)
+https://centova4.transmissaodigital.com:20065/;
+#EXTINF:-1 tvg-id="3d88b1f3-4963-4ea2-8ae0-4fe598cb6cb9" group-title="Brazil | Rio Grande do Sul | Jaguarão",Jaguarão FM 87,9
+https://stm19.xcast.com.br:11526/stream
+#EXTINF:-1 tvg-id="c2a28850-5c5b-461a-8fe4-26680a68a9f5" tvg-logo="https://grupoahora.net.br/wp-content/themes/jornalahora/images/favicon.png" group-title="Brazil | Rio Grande do Sul | Lajeado",A Hora FM 102.9
+https://cast2.youngtech.radio.br/radio/8340/radio
+#EXTINF:-1 tvg-id="8eb049c1-ff57-4c44-856c-d6355b56ec56" tvg-logo="https://www.independente.com.br/themes/independente/assets/images/logo-radio.png" group-title="Brazil | Rio Grande do Sul | Lajeado",Independente FM
+https://8563.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="f71c6531-1af4-4886-8ce8-533f7daa90a5" group-title="Brazil | Rio Grande do Sul | Passo Fundo",Jovem Pan FM - Passo Fundo - RS
+https://radio.saopaulo01.com.br:10937/aac
+#EXTINF:-1 tvg-id="99124e93-00cb-40ad-a26f-eefb8263c178" tvg-logo="https://www.upf.br/_uploads/de96ed99-0829-412c-b2ca-7d214255ef6b.png" group-title="Brazil | Rio Grande do Sul | Passo Fundo",Rádio UPF
+https://servidor38-2.brlogic.com:8134/live?source=app_pwa
+#EXTINF:-1 tvg-id="0f9b53ac-460c-4ad1-8fdc-aee4f446fafd" group-title="Brazil | Rio Grande do Sul | Porto Alegre",Itapema 102.3 FM
+https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/chunklist_0ac85862-caaa-446f-93bf-3e12816c36a0.m3u8
+#EXTINF:-1 tvg-id="388cf178-1497-40da-a8c0-f2155362a6dd" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="Brazil | Rio Grande do Sul | Porto Alegre",Rádio Atlântida 94.3 FM - Porto Alegre
+https://playerservices.streamtheworld.com/api/livestream-redirect/RBS_RADIOSAAC.m3u8
+#EXTINF:-1 tvg-id="371ed326-d331-4e2e-950c-7b1bd7b37ea8" tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico?_t=6bf21c6b79" group-title="Brazil | Rio Grande do Sul | Rosário do Sul",Rádio Marajá AM 660 kHz - RFC -
+https://servidor28-1.brlogic.com:8028/live
+#EXTINF:-1 tvg-id="ddcf7d66-4ea2-4983-a6e9-26d9cf0c798d" tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico?_t=f30da07117" group-title="Brazil | Rio Grande do Sul | Rosário do Sul",Rádio Marajá AM 660 kHz - RFC -
+https://servidor28-1.brlogic.com:8028/live?source=website
+#EXTINF:-1 tvg-id="ab5f5710-5b1a-4def-b553-7f9b63a3fc6a" group-title="Brazil | Rio Grande do Sul | Santa Cruz do Sul",Rádio Comunitária Santa Cruz 105.9 FM
+http://paineldj.com.br:9218/stream
+#EXTINF:-1 tvg-id="b4442bfc-4f67-47eb-b88b-44a2785cc6df" tvg-logo="https://minhawebradio.com/contents/27618/cover/xmc7c8d48f71c92a5ccd49551c95eb3301_27618_1767815709.png" group-title="Brazil | Rio Grande do Sul | Santa Cruz do Sul",Rádio Gazeta 107.9 FM
+https://hts03.brascast.com:7106/stream
+#EXTINF:-1 tvg-id="caa0a733-f8dd-4db9-8dfc-5e1b6ac81b97" tvg-logo="https://img.radios.com.br/radio/lg/radio14439_1759939785.png" group-title="Brazil | Rio Grande do Sul | Santa Cruz do Sul",Rádio Santa Cruz 550 AM
+https://cast.youngtech.radio.br/listen/santa_cruz/radio
+#EXTINF:-1 tvg-id="c24d18ac-2022-4ebc-8e76-7dc0c435af32" group-title="Brazil | Rio Grande do Sul | Tapejara",Nova FM Tapejara
+https://stm2.streamproarte.com.br:7358/stream/
+#EXTINF:-1 tvg-id="521e0177-f6a0-4207-9ec4-c780befc06a9" group-title="Brazil | Rio Grande do Sul | Unknown city",Atlántida
+https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="46d02cdb-49a6-11e9-a4d7-52543be04c81" tvg-logo="https://gauchazh.clicrbs.com.br/static/icons/mstile-70x70.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Gaúcha
+https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="8c8825fe-e150-11e9-a8ba-52543be04c81" group-title="Brazil | Rio Grande do Sul | Unknown city",Jean Majolo Player
+http://jeanmajolo.com.br:8000/radio
+#EXTINF:-1 tvg-id="04b569c2-d729-4874-ad04-1341f43df03e" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Jovem Pan FM - Osório
+http://centova14.ciclanohost.com.br:8405/stream
+#EXTINF:-1 tvg-id="7b8238f0-d5ac-11e9-a861-52543be04c81" group-title="Brazil | Rio Grande do Sul | Unknown city",Liberdade (Porto Alegre)
+http://cast4.audiostream.com.br:8655/mp3
+#EXTINF:-1 tvg-id="ed02a49b-11e2-4de3-b279-279529290257" tvg-logo="https://azura.mntl.top/static/uploads/montiel_rock/album_art.1782413303.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Montiel Rock
+https://radio.mntl.top/listen/montiel_rock/radio.mp3
+#EXTINF:-1 tvg-id="5be9a097-5d3e-443f-9265-32418c20b48d" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipOgZV9S50FINome8IAkF4qDSwpbZ8Etim8-PKmz=w244-h306-n-k-no-nu" group-title="Brazil | Rio Grande do Sul | Unknown city",Portal da Tradição
+https://servidor18-3.brlogic.com:8486/live?source=website
+#EXTINF:-1 tvg-id="cd1b1bcc-38cf-421f-83be-30e623671f9d" group-title="Brazil | Rio Grande do Sul | Unknown city",Radio Espirita Luz do Amanha
+https://servidor39.brlogic.com:7146/live
+#EXTINF:-1 tvg-id="e997087e-3aad-4f16-a451-262753ea3f6e" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Cachoeira 94.7 FM
+http://s01.transmissaodigital.com:7120/stream
+#EXTINF:-1 tvg-id="809daa08-65e3-404a-8ea3-01685cf1dbd7" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Fandango 102.5 FM
+https://s01.transmissaodigital.com:7112/stream
+#EXTINF:-1 tvg-id="fa900afa-b10a-467f-ace1-f150ae48a61f" tvg-logo="https://radiogauderiadasmissoes.com/imagens/thumbs/06e22116c1e42e6a0f5390cc19b7536d.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Gaudéria das Missões
+https://s41.maxcast.com.br:8258/live?id=319843422524
+#EXTINF:-1 tvg-id="02fb63e7-410d-4dcb-a85f-1665cbd67a83" tvg-logo="https://img.radios.com.br/radio/lg/radio13176_1628168105.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Gaúcha 93.7 FM
+https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="cfa64fd4-8c2b-4cdc-b240-9a53d2789010" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Guajuvira
+https://s01.svrdedicado.org:7492/stream
+#EXTINF:-1 tvg-id="25bea8ca-2f20-4c87-aae3-df6cb527cad0" tvg-logo="https://public-rf-upload.minhawebradio.net/31396/mobileicon/7994a58d1b846c51a81981fbaf980e91x192.png" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio HT
+https://servidor39.brlogic.com:8624/live
+#EXTINF:-1 tvg-id="5a346926-04b8-4daf-9a94-7deab4d02587" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Regional 1300 AM
+https://azura1.cmaudioevideo.com:8010/radio.mp3?1775488202153
+#EXTINF:-1 tvg-id="926afb0f-e508-45e0-9817-00fd541620f4" group-title="Brazil | Rio Grande do Sul | Unknown city",Rádio Tapejara
+https://radio.saopaulo01.com.br/8026/stream
+#EXTINF:-1 tvg-id="52a39c75-1035-4f92-a432-38168b8fd5b1" group-title="Brazil | Rio Grande do Sul | Unknown city",Torres FM 101,1
+https://cast4.audiostream.com.br:2661/mp3
+#EXTINF:-1 tvg-id="a938dfe1-7a03-4ba0-99b2-fcf60910f5f5" group-title="Brazil | Rio Grande do Sul | Unknown city",Venenos do Rock
+https://stream.zeno.fm/dy417tqqmd0uv
+#EXTINF:-1 tvg-id="e9e32558-7654-11e9-8b97-52543be04c81" tvg-logo="https://pa-str.srvsite.com/arquivos/3696/favicon.ico" group-title="Brazil | Rio Grande do Sul | Unknown city",Web Ijuí (Ijuí)
+http://stm22.srvaudio.com.br:10282/;
+#EXTINF:-1 tvg-id="700ae020-2d60-452b-b1c5-1292f34ab4e4" group-title="Brazil | RJ | Unknown city",Morena FM /Rio
+https://centova5.transmissaodigital.com:20005/stream
+#EXTINF:-1 tvg-id="07604a13-094e-4eb1-83c3-0adf5d77a8a9" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="Brazil | RN | Natal",Jovem Pan Natal
+http://pannatal.jmvstream.com:8522/stream/
+#EXTINF:-1 tvg-id="6e90460a-bb4b-4c59-8d50-54fdb17242de" group-title="Brazil | RS | Unknown city",Continental AM 1120 Porto Alegre
+http://streaming10.hstbr.net:8042/live
+#EXTINF:-1 tvg-id="cd14ce01-94a4-4e3f-9797-2b1e3a7807af" tvg-logo="https://public-rf-upload.minhawebradio.net/250473/logo-horizontal/c7e02d123f09b28da3b0a8f93621d23b.png" group-title="Brazil | RS | Unknown city",Rádio Macanuda
+https://servidor34-4.brlogic.com:7032/live
+#EXTINF:-1 tvg-id="0349e207-d5c1-4f5d-8afe-6f2c983dcd13" tvg-logo="https://radiolivre95.com/wp-content/uploads/2018/11/cropped-RADIO-LIVRE-95-ico.jpg" group-title="Brazil | Santa Catarina | Florianópolis",Radio Livre 95
+http://aovivo.radiolivre95.com:8000/aovivo
+#EXTINF:-1 tvg-id="46a14c86-8377-4e96-bdaf-879e52166976" tvg-logo="https://www.nbcfm.com.br/wp-content/uploads/sites/7/2022/04/cropped-favicon.png" group-title="Brazil | Santa Catarina | Imbituba",NBC FM - Rádio Comunitária de Nova Brasília - Imbituba/SC
+https://radio02.zas.media/proxy/nbcfm/stream
+#EXTINF:-1 tvg-id="45e54471-3ac1-4c29-90c6-fdd76fd92e8f" tvg-logo="https://www.ouvir89.com.br/favicon.ico" group-title="Brazil | Santa Catarina | Imbituba",Rádio 89.3 FM Imbituba
+https://live.paineldj.com.br/proxy/radiofm89f?mp=/stream
+#EXTINF:-1 tvg-id="7064fb2b-9fb4-4ada-85fc-82be6ece2b04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZM5fH4HgyCjkpqDmHx-okcdRH_YvHi56Asg&s" group-title="Brazil | Santa Catarina | Imbituba",Rádio Difusora de Imbituba 100.3 FM
+http://r13.ciclano.io:8927/stream
+#EXTINF:-1 tvg-id="f34d64aa-b0a8-4551-b65f-9bbf4b765b9b" group-title="Brazil | Santa Catarina | Itajaí",Elite Studio FM
+https://stream.zeno.fm/jjgtqyoqkpvuv
+#EXTINF:-1 tvg-id="c95bc569-16c4-477f-b8d2-672e4dc543e4" group-title="Brazil | Santa Catarina | Itapoá",Rádio Itapoá Fácil
+https://cast5.hoost.com.br:8175/stream
+#EXTINF:-1 tvg-id="2dd3edfc-24ca-11e9-a80b-52543be04c81" group-title="Brazil | Santa Catarina | Unknown city",Diplomata-FM
+http://srv01.brasilstream.com.br:9512/stream
+#EXTINF:-1 tvg-id="2776340d-7615-4c03-ab16-59a058c26c94" group-title="Brazil | Santa Catarina | Unknown city",Rádio Atlântida FM Florianópolis
+https://26493.live.streamtheworld.com:443/ATL_FLO.mp3
+#EXTINF:-1 tvg-id="02a3cf55-e3cf-11e9-a8ba-52543be04c81" group-title="Brazil | Santa Catarina | Unknown city",Rádio Top 104.9 FM
+http://audio01.viaflux.com.br:5500/live
+#EXTINF:-1 tvg-id="f7ff2097-abdc-4187-b2b1-72308efc711c" tvg-logo="https://static.wixstatic.com/media/688516_938fe22b61ab4ee0b48361821edf456f~mv2.png" group-title="Brazil | Santa Catarina, SC | Carvoeira",GOLD INSTRUMENTAL
+https://centova2.svdns.com.br:20038/stream
+#EXTINF:-1 tvg-id="3d7b7836-b2e3-4fe4-b594-78f5681ea746" tvg-logo="https://www.ofen.com.br/estaticos/1V6z.svg" group-title="Brazil | Santa Catarina, SC | Chapecó",Rádio Condá
+https://stm10.virtualcast.com.br:8292/conda
+#EXTINF:-1 tvg-id="27ffe2ff-6177-473b-8301-593d7d73bd21" tvg-logo="https://nossa.fm/wp-content/uploads/2023/12/1-LOGO-NOSSA-1080-96x96.png" group-title="Brazil | Santa Catarina, SC | Jaraguá do Sul",Radio Nossa fm
+https://sv1.audiostream.com.br/radio/8120/stream
+#EXTINF:-1 tvg-id="1445d0a2-372d-43cd-80b8-586557985b9b" tvg-logo="https://static.wixstatic.com/ficons/688516_f0e336b624114a699f7cd4daa2db1792~mv2.ico" group-title="Brazil | Santa Catarina, SC | Lagoa",GOLD CLASSIC
+https://centova2.svdns.com.br:20009/stream
+#EXTINF:-1 tvg-id="25f1c87a-0aea-4fa8-9287-0e7c8346f6c1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/53/Logotipo_da_Rede_Atl%C3%A2ntida.PNG" group-title="Brazil | Santa Catarina, SC | Morro da Cruz",Rádio Atlântida 100.9 FM - Florianópolis - SC
+https://27393.live.streamtheworld.com:443/ATL_FLO.mp3
+#EXTINF:-1 tvg-id="4c63b03f-ef27-44f4-8e13-620a0df0f2f1" group-title="Brazil | Santa Catarina, SC | Novo Horizonte",Frequência Um
+https://cc6.streammaximum.com:20032/;
+#EXTINF:-1 tvg-id="468ededb-bcb3-452b-bdaf-03f3ec3e620a" group-title="Brazil | Santa Catarina, SC | Unknown city",Rádio Atlântida 97.3 FM - Criciúma
+https://26573.live.streamtheworld.com/ATL_CRI_FM.mp3
+#EXTINF:-1 tvg-id="1ff111cc-4330-414c-a4d1-31d85a0746eb" group-title="Brazil | Santa Catarina, SC | Videira",Rádio Videira - FM 102.9
+https://5a2b083e9f360.streamlock.net/trasvideira/trasvideira.stream/chunklist_w1032255440.m3u8
+#EXTINF:-1 tvg-id="7503a23c-9855-41a1-887d-3c1ea10c2607" group-title="Brazil | Santa Catarina, SC | Videira",Rádio Videira FM 102.9
+https://5a57bda70564a.streamlock.net/videiravideo/videiravideo.sdp/chunklist_w2105992852.m3u8
+#EXTINF:-1 tvg-id="372e4555-def0-4848-bc68-fe567650801b" group-title="Brazil | Santa Catarina, SC | Videira",Rádio Videira FM 88.5
+https://5a2b083e9f360.streamlock.net/radiovideira/radiovideira.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="8628edce-aa5b-43a7-8ccb-85512bfb362a" group-title="Brazil | Santa Catarina,SC | Unknown city",Rádio Cambirela - Virtual,mas real.
+https://stm1.srvif.com:7244/stream
+#EXTINF:-1 tvg-id="c34d5589-cc8c-445d-ace0-3a0a26576e0b" tvg-logo="https://www.animu.moe/wp-content/uploads/2021/10/cropped-cropped-cropped-cropped-Logo-nova-com-slogan-1-189x69.webp" group-title="Brazil | Santa Cruz do Capibaribe - Pernambuco | Unknown city",Radio Animu [MP3 192Kbps]
+https://stream.animu.moe/192
+#EXTINF:-1 tvg-id="ff7bafe9-cb5d-48a3-9913-dfe3bf3c1c2f" tvg-logo="https://www.rapadurarockweb.com.br/admin/assets/img/logo.png" group-title="Brazil | Sao Paulo | Se",Rádio Rapadura Rock Web
+https://stm35.srvstm.com:6806/;?type=http&amp;nocache=1
+#EXTINF:-1 tvg-id="c1fb5788-5031-4eeb-bbc9-e08a8e9878df" tvg-logo="https://img.radios.com.br/radio/lg/radio14459_1605727774.png" group-title="Brazil | Sao Paulo | Unknown city",CBN Vale
+https://8018.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="1264c0bb-a2c3-41d2-8c47-903e91539802" tvg-logo="https://img.radios.com.br/radio/lg/radio9510_1699537216.jpg" group-title="Brazil | Sao Paulo | Unknown city",Rádio Antena 1 88.3 FM
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:-1 tvg-id="f5a792cd-ad3a-47d8-97d4-f9e3d7817303" tvg-logo="https://img.radios.com.br/radio/lg/radio10362_1526480554.jpg" group-title="Brazil | Sao Paulo | Unknown city",Rádio Band 106.7 FM
+https://stm2.xcast.com.br:11264/stream
+#EXTINF:-1 tvg-id="c8cfc213-6a39-4b45-b925-3c6acb3f8b68" tvg-logo="https://img.radios.com.br/radio/lg/radio10358_1526480428.jpg" group-title="Brazil | Sao Paulo | Unknown city",Rádio Band FM 96.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC
+#EXTINF:-1 tvg-id="4d9b07cb-51a6-4389-97a3-4de5f8aac911" group-title="Brazil | Sao Paulo | Unknown city",Rádio Bandeirantes 90.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC
+#EXTINF:-1 tvg-id="56363d79-d9d7-40eb-9612-0ff1bcb0346a" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Brazil | Sao Paulo | Unknown city",Rádio BandNews SP 96.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC
+#EXTINF:-1 tvg-id="8425dde9-066d-4686-b2fa-82d87ecd3ddf" tvg-logo="https://img.radios.com.br/radio/lg/radio63689_1524753430.jpeg" group-title="Brazil | Sao Paulo | Unknown city",Rádio Brasil de Fato
+https://s09.hstbr.net:8238/live
+#EXTINF:-1 tvg-id="eeacb245-039b-4706-8775-07f31e712a71" tvg-logo="https://img.radios.com.br/radio/lg/radio12843_1676385507.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio Educadora 91.7 FM
+https://stm22.xcast.com.br:11282/stream
+#EXTINF:-1 tvg-id="8e9b5ba4-dcc1-4dad-8ddf-e7cc04c33a00" tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1708517690.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio Jovem Pan 100.9 FM
+https://stream.zeno.fm/c45wbq2us3buv
+#EXTINF:-1 tvg-id="daa0ac04-a9c4-4297-bcf1-778ccda6e4eb" tvg-logo="https://img.radios.com.br/radio/lg/radio13359_1675108279.jpg" group-title="Brazil | Sao Paulo | Unknown city",Rádio Jovem Pan 94.3 FM
+https://paineldj5.com.br:20028/stream
+#EXTINF:-1 tvg-id="18f4b8c4-0907-4edc-adf6-a6580844739b" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2FIOCvpX-OlhsD6ZzpgXuF_2eu3sBF67ZBeEy_vAlzxC0%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURJN01XNTRBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURJdE5QSHN3a01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE1NDc1ODYwMDA_dT01NzYyODU4.webp&w=750&q=100" group-title="Brazil | Sao Paulo | Unknown city",Rádio Nacional da Memória Adventista
+https://stream-178.surfernetwork.com/m3ytuubv0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtM3l0dXVidjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImJWaU1NLU9YVFFPWmxXTWVGUFB6bnciLCJpYXQiOjE3OTA4NjE5MjMsImV4cCI6MTc5MDg2MTk4M30._zPFE4kpiEDlAw735zoNOVu8ru6aYNxROM450weVpkE
+#EXTINF:-1 tvg-id="4289798d-06ef-4b9d-96d5-414ecddae742" tvg-logo="https://img.radios.com.br/radio/lg/radio14193_1680012587.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio Record 1000 AM
+https://stm10.voxhd.com.br:9702/stream
+#EXTINF:-1 tvg-id="a09537a9-09d6-4897-bcd3-9f783646bc4f" tvg-logo="https://img.radios.com.br/radio/lg/radio205342_1662632414.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio Teomidia
+https://usa3.fastcast4u.com/proxy/teomidiaradio?mp=/1
+#EXTINF:-1 tvg-id="6da066a5-eddf-4640-8bfb-25070c52858d" tvg-logo="https://img.radios.com.br/radio/lg/radio8803_1578516680.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio Transamérica 100.1 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac
+#EXTINF:-1 tvg-id="b09e4efe-a1c0-4cd4-8994-b4edf32dc5ed" group-title="Brazil | Sao Paulo | Unknown city",Rádio USP 93.7 FM
+https://flow.emm.usp.br:8008/radiousp-128.mp3
+#EXTINF:-1 tvg-id="596d9a37-d1ba-45d8-b149-86503dedf4bf" tvg-logo="https://img.radios.com.br/radio/lg/radio14248_1676304953.png" group-title="Brazil | Sao Paulo | Unknown city",Rádio USP 93.7 FM
+https://flow.emm.usp.br:8008/radiousp-128.mp3
+#EXTINF:-1 tvg-id="2a16f0ad-93b2-4a0a-be33-999a0ef11763" tvg-logo="https://static.wixstatic.com/media/968b35_e8885c7187ff4d3a8471bfd06e744f25~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/4.png" group-title="Brazil | Sao Paulo (Brazil) | Areiópolis",VINTAGE SERTÃO
+https://servidor16.brlogic.com:7022/live
+#EXTINF:-1 tvg-id="be21c549-41f8-4121-a584-3ecd5ded97b2" tvg-logo="https://img.radios.com.br/radio/lg/radio27258_1646778302.png" group-title="Brazil | Sao Paulo (Brazil) | Campina do Monte Alegre",Rádio Ótima 90.3 FM
+https://ice.fabricahost.com.br/otimafm903
+#EXTINF:-1 tvg-id="9ed55439-7813-4291-a118-1b19f92fcf1d" tvg-logo="https://i0.wp.com/melphis.fm/wp-content/uploads/2022/12/cropped-ico-1.png?fit=180%2c180&#038;ssl=1" group-title="Brazil | Sao Paulo (Brazil) | Campinas",Melphis FM
+https://player-ssl.painelstream.net:8174/live
+#EXTINF:-1 tvg-id="f3e828d4-b532-4ae7-8877-cdd69ada7f27" group-title="Brazil | Sao Paulo (Brazil) | Capela do Alto",105 FM - SP
+http://www.appradio.app:8010//live
+#EXTINF:-1 tvg-id="bdeeb4a6-6baf-4f21-be1b-8c390bd37c13" tvg-logo="https://www.radionikkeyweb.com.br/public/18419-2023-12-27.png" group-title="Brazil | Sao Paulo (Brazil) | Diadema",Rádio Nikey
+https://stm8.voxhd.com.br:7996/stream%22
+#EXTINF:-1 tvg-id="247e4d32-39b8-48d7-a86a-ec6effea7723" group-title="Brazil | Sao Paulo (Brazil) | Guarujá",Radio Energia 97 FM
+https://streaming.inweb.com.br/energia
+#EXTINF:-1 tvg-id="088fcbf4-06f7-4881-8c8e-a5b9ea52018c" tvg-logo="https://img.radios.com.br/radio/lg/radio13788_1646778590.png" group-title="Brazil | Sao Paulo (Brazil) | Igaraçu do Tietê",Rádio Ótima 95.5 FM
+https://ice.fabricahost.com.br/otimafm955
+#EXTINF:-1 tvg-id="42b7407d-5cfc-4a0a-85ca-7c5315181802" tvg-logo="https://static.wixstatic.com/media/968b35_ed58ea50126a440db954ab28fe0b9217~mv2.png/v1/fill/w_600,h_337,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/6.png" group-title="Brazil | Sao Paulo (Brazil) | Lençóis Paulista",VINTAGE BRASIL
+https://servidor37.brlogic.com:7094/live
+#EXTINF:-1 tvg-id="55049452-08f6-456b-90c8-96ab539fb5a1" tvg-logo="https://portalsud.com.br/wp-content/uploads/2022/09/radio-exaltacao-quadrado-150x150.jpg" group-title="Brazil | Sao Paulo (Brazil) | Liberdade",Rádio Exaltação
+https://cast2.hoost.com.br:20158/live
+#EXTINF:-1 tvg-id="35dff0d5-b74c-4607-b240-dad44900b9d2" tvg-logo="https://www.radio80fm.com.br/uploads/1672170046-80fm.ico" group-title="Brazil | Sao Paulo (Brazil) | Mongaguá",Rádio 80FM - I Love 80s
+http://104.247.221.130:9020/stream1
+#EXTINF:-1 tvg-id="ce5aac6c-e499-4714-a28b-a1a94baa1b74" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Nova Brasil Fm São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac
+#EXTINF:-1 tvg-id="7d03dbe5-43d3-4a8e-8cc7-b6d3c42456b9" tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Radio Amigos do Futebol
+https://ssl.voxhd.com.br:7086/;
+#EXTINF:-1 tvg-id="91f47e52-5346-44d7-b6f8-6dd9e8cda89c" tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Radio Amigos do Rock Nacional
+https://stm10.voxhd.com.br:7846/
+#EXTINF:-1 tvg-id="0a1ea001-513d-440e-a2ea-2468cec197f7" tvg-logo="https://www.radiocalhambeque.com/Calhambeque-logo-novo--60.png" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Radio Calhambeque
+https://s01.transmissaodigital.com:7096/stream
+#EXTINF:-1 tvg-id="92c6557b-1953-433e-a3ed-cce8d34aaadb" tvg-logo="https://adperuscapivari.mradios.com.br/" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Rádio AD Perus Capivari
+https://stm2.sradios.com.br:7102/stream
+#EXTINF:-1 tvg-id="29c5ef11-8ea3-4291-b32c-7b886ad66734" group-title="Brazil | Sao Paulo (Brazil) | Unknown city",Rádio Rodeio Fm
+http://stm5.voxtreaming.com.br:6766/
+#EXTINF:-1 tvg-id="e03dc3e5-a352-4d90-b8f2-50673eb81e1c" tvg-logo="https://static.wixstatic.com/media/688516_938fe22b61ab4ee0b48361821edf456f~mv2.png" group-title="Brazil | SC | Unknown city",GOLD WEB RADIO
+https://centova2.svdns.com.br:20056/stream
+#EXTINF:-1 tvg-id="d10e224c-0deb-4602-b304-4d6862844fda" tvg-logo="https://bbqmanhattan.com/" group-title="Brazil | SC | Unknown city",Nilton Vanin
+https://stm16.srvstm.com:7794/stream
+#EXTINF:-1 tvg-id="ed0b45a6-bd8f-4a31-8fe2-d13bfe4983d7" tvg-logo="https://redefanfm.com.br/wp-content/uploads/2023/07/favicon.jpg" group-title="Brazil | SE | Aracaju",Fan FM Aracaju
+http://08.stmip.net:7114/
+#EXTINF:-1 tvg-id="8cbe4f82-4bbc-4afe-b39e-63a5b3e2497f" group-title="Brazil | Sergipe | Aracaju",Rádio Sergipe 95.9 FM - Aracaju Sergipe
+http://08.stmip.net:8012/stream
+#EXTINF:-1 tvg-id="e0917d89-171e-4bee-9467-62293c582a7b" tvg-logo="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/lmlCSC2fKUDUkNiK/logo-fox-87-7-fm-p5eve2j6xeu8b7ou3adhud11qrj8spjjyqnznyr600-YrD14kKjvxTVOVP3.png" group-title="Brazil | Sorocaba - SP (Brazil) | Sorocaba",Radio Fox Rock
+http://09.stmip.net:8422/stream
+#EXTINF:-1 tvg-id="e5c9fb5e-7442-4567-9da2-f7c4a0a7dd50" group-title="Brazil | SP | Unknown city",Priscila FM
+https://servidor27-3.brlogic.com:8040/live?source=website
+#EXTINF:-1 tvg-id="c72c2a29-b42c-4aad-9317-9d5cd369c212" tvg-logo="https://www.wix.com/favicon.ico" group-title="Brazil | SP | Unknown city",Radio Amigos do Rock
+http://stm25.srvaudio.com.br:11358/
+#EXTINF:-1 tvg-id="4a17b7fa-42a0-4c32-bdc6-dc1c59066c96" tvg-logo="https://img.radios.com.br/radio/lg/radio24477_1579261235.jpg" group-title="Brazil | State of São Paulo | Morumbi",bandnews fm sp
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC.m3u8
+#EXTINF:-1 tvg-id="71b0ee14-a29d-458d-be4c-9ffdf53d2f95" group-title="Brazil | São Bento do Sul, Santa Catarina | São Bento do Sul",Rádio São Bento FM - RSB 90.3
+https://cast2.youngtech.radio.br/listen/saobento903fm/radio
+#EXTINF:-1 tvg-id="05b96e91-2622-4679-9808-93b2fb0787b3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlALeBErv6OLhaMLhA0hYXVdz6JhM7drb5_Q&s" group-title="Brazil | são jose dos campos, são paulo | Unknown city",Jovem pan são jose dos campos
+https://r15.ciclano.io/proxy/radiomu1/stream
+#EXTINF:-1 tvg-id="00b44e6a-e45d-4a37-a158-e01b993dc901" tvg-logo="https://radio.app019.com/radio019-tile-512.png" group-title="Brazil | São Paulo | Americana",Radio 019
+https://radio.app019.com/live.mp3
+#EXTINF:-1 tvg-id="c69b53f2-0b2b-4f9f-9e68-5b84b499f06a" tvg-logo="https://img.radios.com.br/radio/lg/radio151308_1593879965.jpg" group-title="Brazil | São Paulo | Barra Bonita",Adoro Flashback
+https://server01.ouvir.radio.br:8018/stream?1771866095421
+#EXTINF:-1 tvg-id="ec7f9536-9cb2-4112-9f0a-b76c27bd3211" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logos-player/classicpan.jpg" group-title="Brazil | São Paulo | Bela Vista",Classic Pan
+https://stream.zeno.fm/rtk4pzcome3vv
+#EXTINF:-1 tvg-id="105608b1-e7e2-4acd-a256-6497225edc0f" group-title="Brazil | São Paulo | Campinas",Smooth Jazz Brasil
+https://sc4s.cdn.upx.com:8176/stream
+#EXTINF:-1 tvg-id="cb5fb75b-096b-49e6-8a0a-453ff2d3339f" tvg-logo="https://www.jambeirofm.com.br/files/2025/10/LOGO-210-SITE-BRANCO-VETOR.jpg" group-title="Brazil | São Paulo | Jambeiro",Rádio Jambeiro 104.9 FM
+https://cast4.hoost.com.br:20010/stream
+#EXTINF:-1 tvg-id="77c55f7a-697d-4b28-9d69-06b6b3712de8" group-title="Brazil | São Paulo | João Pinheiro",RÁDIO TIMBLESOM
+https://stm1.colossocastpro.com.br:7116/index
+#EXTINF:-1 tvg-id="938c6c51-3ad8-4fcf-a344-d40f932ba2a5" tvg-logo="https://radioamc.com.br/shared/amcpluslogo.png" group-title="Brazil | São Paulo | Limeira",Rádio AMC+
+https://radioamc.com.br/stream/amcplus
+#EXTINF:-1 tvg-id="21da2b7f-5e81-47eb-bb78-a620dc135215" tvg-logo="https://img.radios.com.br/radio/lg/radio61905_1558962314.jpg" group-title="Brazil | São Paulo | Pratânia",Web Vintage Radio
+https://servidor29.brlogic.com:7060/live
+#EXTINF:-1 tvg-id="e2f1a191-390e-46e2-893f-d92f6cc64844" group-title="Brazil | São Paulo | Ribeirão Preto",Melody 94.1 FM
+https://sc4s.cdn.upx.com:8080/stream
+#EXTINF:-1 tvg-id="2eee3e72-5fe3-444c-9be2-72f7a6c7477d" tvg-logo="https://img.radios.com.br/radio/lg/radio112934_1562066435.png" group-title="Brazil | São Paulo | Ribeirão Preto",Rádio Joli MPB
+https://stream-163.zeno.fm/mrutsyhkc3quv
+#EXTINF:-1 tvg-id="105d452f-d59a-463f-8c4e-98cedc63c7e4" group-title="Brazil | São Paulo | Santa Branca",Rádio SB 106.3 FM
+https://s02.taaqui.org:9004/live
+#EXTINF:-1 tvg-id="d1412c96-dea6-479d-bcdd-c9acda0c9c7f" tvg-logo="https://img1.wsimg.com/isteam/ip/6f1d2653-b246-41b5-a567-81f3d7deef16/favicon/0a09de53-7d5e-42f3-8d7c-61e5c575a688.png" group-title="Brazil | São Paulo | Santa Fé do Sul",Rádio Santa Fé do Sul
+http://stm12.painelcast.com:7480/
+#EXTINF:-1 tvg-id="fd792bab-3d55-4396-9c5d-81e122eb5edd" tvg-logo="https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/favicons/apple-touch-icon.png" group-title="Brazil | São Paulo | Sorocaba",Jovem Pan FM - Sorocaba 91.1
+https://cast2.hoost.com.br:8039/stream
+#EXTINF:-1 tvg-id="e2eba979-a5ea-47e1-934d-71436d5f8247" tvg-logo="https://img1.wsimg.com/isteam/ip/6f1d2653-b246-41b5-a567-81f3d7deef16/favicon/0a09de53-7d5e-42f3-8d7c-61e5c575a688.png" group-title="Brazil | São Paulo | São José do Rio Preto",Rádio Rio Preto Internet
+http://stm3.painelcast.com:7006/
+#EXTINF:-1 tvg-id="5f51953d-a18b-4867-b5ee-25a682a8e722" tvg-logo="https://img.radios.com.br/radio/lg/radio19379_1546881026.jpg" group-title="Brazil | São Paulo | São Miguel",Rádio Integração 87.5 FM
+http://stm27.xcast.com.br:9246/stream
+#EXTINF:-1 tvg-id="8ea74eba-22fb-420f-a669-d270d24be011" tvg-logo="https://img.radios.com.br/radio/lg/radio34072_1446728798.jpg" group-title="Brazil | São Paulo | Taubaté",Rádio Music Hall
+http://server02.ouvir.radio.br:8050/stream
+#EXTINF:-1 tvg-id="65908a60-3a4c-4d8c-b66c-d8eb96faefc6" group-title="Brazil | São Paulo | Unknown city",89 A Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm
+#EXTINF:-1 tvg-id="4a7680b2-f3da-4454-b80d-ba739f267431" group-title="Brazil | São Paulo | Unknown city",89FM Radio Rock
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac
+#EXTINF:-1 tvg-id="531fced7-b22b-11e8-afe1-52543be04c81" tvg-logo="https://www.antena1.com.br/apple-touch-icon.png" group-title="Brazil | São Paulo | Unknown city",Antena 1 FM 94.7 São Paulo
+http://antena1.newradio.it/stream
+#EXTINF:-1 tvg-id="963fa65f-0601-11e8-ae97-52543be04c81" group-title="Brazil | São Paulo | Unknown city",Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]
+http://antena1.newradio.it/stream?ext=.mp3
+#EXTINF:-1 tvg-id="a4282d30-0f30-4f33-b276-6bb675543b7c" group-title="Brazil | São Paulo | Unknown city",antenAZero
+https://servidor26-4.brlogic.com:8006/live
+#EXTINF:-1 tvg-id="d8361663-3d7e-425f-85af-b0370d41ce80" tvg-logo="https://www.aquelerock.com/wp-content/uploads/2023/01/cropped-cropped-fav-32x32.jpg" group-title="Brazil | São Paulo | Unknown city",Aquele Rock
+https://azura.servercast.com.br/listen/radio_leandro/radio.mp3?refresh=1744219941974
+#EXTINF:-1 tvg-id="1a01825f-25ff-49f4-bb74-6ce2098d3ecb" group-title="Brazil | São Paulo | Unknown city",Clube FM 100,5
+https://sc4s.cdn.upx.com:8069/stream%22%20data-turbolinks-permanent
+#EXTINF:-1 tvg-id="70d52c80-84b7-4fc5-99c7-5972f75ded87" group-title="Brazil | São Paulo | Unknown city",Difusora Jundiaí
+http://shout35.crossradio.com.br:8112/stream?1653871122262
+#EXTINF:-1 tvg-id="0ec65b23-5732-4825-9e39-7df7856bb39b" group-title="Brazil | São Paulo | Unknown city",Dixie Rebel
+https://servidor36.brlogic.com:8572/live
+#EXTINF:-1 tvg-id="523fdf97-a758-4ffc-88b9-e36614e943fd" tvg-logo="https://img.radios.com.br/radio/lg/radio13051_1439401448.jpg" group-title="Brazil | São Paulo | Unknown city",Eldorado FM - São Paulo
+https://eldoradolive01.akamaized.net/hls/live/2041487/eldorado/master.m3u8
+#EXTINF:-1 tvg-id="14f65964-c43e-47fd-ac48-6a1f857579f6" group-title="Brazil | São Paulo | Unknown city",Hot107
+https://9772.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="3f77f2e9-4ea5-4e15-a146-cf90ed50a42f" tvg-logo="https://novaondafm.com.br/wp-content/uploads/2023/04/Nova-Onda-logo-colorido-300x169.png" group-title="Brazil | São Paulo | Unknown city",Nova Onda FM
+https://ice.fabricahost.com.br/novaondafm
+#EXTINF:-1 tvg-id="c32673b7-7ab4-4c84-b53a-a2df17afe6d6" tvg-logo="https://stream.zeno.fm/zg3ps1ckoeiuv" group-title="Brazil | São Paulo | Unknown city",NuMetal 1.0 -JubsTones
+https://stream.zeno.fm/zg3ps1ckoeiuv
+#EXTINF:-1 tvg-id="75dab04a-1ac4-4352-bdea-c5e67f2fb8b9" group-title="Brazil | São Paulo | Unknown city",Patrocínio Pobre
+https://jpdofunk3.com.br/stream/patrocinio-pobre
+#EXTINF:-1 tvg-id="97dc8412-9e22-4ce2-a3cb-7848d8e51092" group-title="Brazil | São Paulo | Unknown city",Radio Jauense
+https://s38.maxcast.com.br:8091/live
+#EXTINF:-1 tvg-id="7a5a6ad1-11cb-4095-9c30-017205a51289" tvg-logo="https://public-rf-upload.minhawebradio.net/2394/favicon/cf142ec34caac98a91eee2060a98afcf.jpeg" group-title="Brazil | São Paulo | Unknown city",Radio New Black SP
+https://servidor39-3.brlogic.com:8238/live?source=website
+#EXTINF:-1 tvg-id="6bcb2d5e-e084-4962-896d-31842fc50ca6" group-title="Brazil | São Paulo | Unknown city",Radio Prefacio
+https://s10.maxcast.com.br:8014/live
+#EXTINF:-1 tvg-id="addb067e-2a8e-479a-8a4c-636a17482242" tvg-logo="https://br.radio.net/300/soul-one.png" group-title="Brazil | São Paulo | Unknown city",Radio Soul One
+https://stream.soulone.com.br/listen/soulone/externo
+#EXTINF:-1 tvg-id="572fbee8-9156-4f2b-b134-49e7783fc9ca" group-title="Brazil | São Paulo | Unknown city",Rock na Granja
+https://c40.radioboss.fm:8275/stream
+#EXTINF:-1 tvg-id="ad039169-2969-4a7a-be83-86f079f4a55e" group-title="Brazil | São Paulo | Unknown city",Rádio Bandeirantes - São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8
+#EXTINF:-1 tvg-id="2614b425-9900-4e45-a639-fc63b7721d5f" tvg-logo="https://www.radiobateusaudade.com.br/favicon.png" group-title="Brazil | São Paulo | Unknown city",Rádio Bateu Saudade
+https://kauankubaski.stream.laut.fm/kauankubaski
+#EXTINF:-1 tvg-id="e29587c0-b1c6-4f50-8209-6c8a098ebcdf" group-title="Brazil | São Paulo | Unknown city",Rádio Bla Rock
+https://s12.maxcast.com.br:8086/live
+#EXTINF:-1 tvg-id="374d3417-3085-4f93-bb2a-006b9a709b47" group-title="Brazil | São Paulo | Unknown city",Rádio Bons Tempos FM
+http://server18.srvsh.com.br:8962/stream
+#EXTINF:-1 tvg-id="1b575746-d639-45f9-b4b7-07b8d82b70f9" group-title="Brazil | São Paulo | Unknown city",Rádio Buteco Sertanejo
+https://stream.zeno.fm/6kumndewqbruv
+#EXTINF:-1 tvg-id="fb95329d-cff5-4841-ad02-6f5184c4dc38" group-title="Brazil | São Paulo | Unknown city",Rádio Mensagem
+http://wz3.dnip.com.br:1935/radiomensagemhd/radiomensagemhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="9d245111-a72c-404f-aeb3-226a3f597d27" tvg-logo="https://metropolitanafm.com.br/wp-content/themes/metro/assets/imgs/favicon/favicon-96x96-2.png" group-title="Brazil | São Paulo | Unknown city",Rádio Metropolitana 98.5 FM Light
+https://ice.fabricahost.com.br/metropolitanasplight
+#EXTINF:-1 tvg-id="8eb03f0d-ebf8-4f97-ba85-cdce78522733" tvg-logo="https://static.wixstatic.com/media/37804f_6d90eaf023604a44b1d86bacb3e2b75a%7emv2.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/37804f_6d90eaf023604a44b1d86bacb3e2b75a%7emv2.png" group-title="Brazil | São Paulo | Unknown city",Rádio Notícias Tatuí - 98,3 FM
+https://f100.fabricahost.com.br/radionoticias?f=1790881640N01M3WDTCGG27JJF7SYZRJBK7B5&tid=01M3WDTCGG46T772AXF1FC8G91
+#EXTINF:-1 tvg-id="efc9a2ad-c6e0-43ce-a881-17e60669abf5" tvg-logo="https://redealeluia.com.br/wp-content/uploads/2025/10/cropped-Rede-Aleluia-Roxo-V-300x177.png" group-title="Brazil | São Paulo | Unknown city",Rádio Rede Aleluia 99.5 FM
+https://azrmcsoftbroadcast.com.br/listen/rd99fm/rd99fm.aac
+#EXTINF:-1 tvg-id="0d63d86e-408a-4b0c-8545-83f0554edc86" group-title="Brazil | São Paulo (SP) | Cambuci",GOSPEL FM 90.1FM
+https://shoutcast2.s12.com.br:16002/;stream.nsv&type=mp3
+#EXTINF:-1 tvg-id="e352f451-bae9-45e1-831c-1c7cb27b3e48" group-title="Brazil | São Paulo (SP) | Consolação",Vibe Mundial FM
+https://servidor13.brlogic.com:7262/live
+#EXTINF:-1 tvg-id="7dc73ea1-ca59-4a43-8162-38c847d5c327" group-title="Brazil | São Paulo (SP) | Teodoro Sampaio",Teodoro sampaio SP
+https://streaming.ebamix.com.br/listen/ebamix/radio.mp3?1770041585088
+#EXTINF:-1 tvg-id="7350f94c-a369-4f27-aa4a-1b9ebea2a87f" group-title="Brazil | São Paulo (SP) | Unknown city",Dj Guu Ofc - (QBY-N1L) - Sigam no Instagram @guu_duvak @familia_duvak_ofc
+http://jpdofunk3.com.br:8262/stream
+#EXTINF:-1 tvg-id="1396520b-9c83-4a79-ba2e-599e6d7a37a8" tvg-logo="https://www.gayfm.com.br/favicon.png" group-title="Brazil | São Paulo (SP) | Unknown city",Gay FM Brasil
+https://gayfmbr.mooo.com/listen/gay_fm_br/radio.mp3
+#EXTINF:-1 tvg-id="733a59f1-3646-466c-9b5e-4a09cf67865c" tvg-logo="https://commons.wikimedia.org/wiki/File:Radio_Record_Logo_2024.svg?hl=pt-BR" group-title="Brazil | São Paulo (SP) | Unknown city",Rádio Record 77,1 FM
+https://stm10.voxhd.com.br:9702/stream
+#EXTINF:-1 tvg-id="487a6dc9-07d0-4d47-9da8-10c3b7a56e2c" group-title="Brazil | São Paulo (SP) | Unknown city",SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc
+http://jpdofunk3.com.br:8242/stream
+#EXTINF:-1 tvg-id="853b0da1-d74c-45ba-928d-851e95bcb188" group-title="Brazil | São Paulo (SP) | Valinhos",Top Mais Web Rádio
+https://hts09.brascast.com:13158/live
+#EXTINF:-1 tvg-id="9db452a8-0c26-4b65-b768-9cd4950878b6" tvg-logo="https://radio.app019.com/radio019-tile-512.png" group-title="Brazil | S�o Paulo | Americana",R�dio 019
+https://radio.app019.com/live.mp3
+#EXTINF:-1 tvg-id="48045353-18f1-11e8-9a35-52543be04c81" group-title="Brazil | Tocantins | Unknown city",Jovem Fm
+http://wz3.dnip.com.br/aycomau1/aycomau1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="657b7033-e4fb-47f3-8c43-629244f5f3da" group-title="Brazil | Tocantins | Unknown city",Unitins FM
+https://live.unitins.br/
+#EXTINF:-1 tvg-id="4fd16b48-c059-48c9-9460-661e89b515b3" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radios.com.br%2Faovivo%2Fradio-wording%2F279837&psig=AOvVaw3eo8KG-bTGwSEd0RPGv0Ou&ust=1769005823855000&source=images&cd=vfe&opi=89978449&ved=0CBoQ3YkBahcKEwi42PmsqpqSAxUAAAAAHQAAAAAQBA" group-title="Brazil | Tocantis | Paraúna",Rádio Wording 76.3 FM
+http://radio02.zas.media:8156/stream
+#EXTINF:-1 tvg-id="4d88b122-6b5c-45ee-964a-01800b76f9bf" group-title="Brazil | Unknown region | Unknown city",.Quran
+https://backup.qurango.net/radio/ahmad_khader_altarabulsi
+#EXTINF:-1 tvg-id="10440c1d-0efd-4bc0-bc89-a12bdb854871" group-title="Brazil | Unknown region | Unknown city",104 FM Natal
+https://radios.braviahost.com.br:8000/radio.mp3
+#EXTINF:-1 tvg-id="29d98505-7966-4807-8265-08dc4f46d0a9" group-title="Brazil | Unknown region | Unknown city",104 FM Natal
+https://radios.braviahost.com.br:8000/radio.mp3
+#EXTINF:-1 tvg-id="b8c3bf71-6363-4658-aea7-72ce7efe0e61" group-title="Brazil | Unknown region | Unknown city",105 FM - É só alegria!
+https://appradio.app:8010//live
+#EXTINF:-1 tvg-id="126dac53-8335-4b3d-be80-83df12bc9590" group-title="Brazil | Unknown region | Unknown city",94 FM CORDEIRO-RJ
+http://s17.hstbr.net:8040/live?1601949995965
+#EXTINF:-1 tvg-id="fe5c9a68-6957-4c90-b2db-9b6ede642890" group-title="Brazil | Unknown region | Unknown city",Amazon Gospel
+http://directradios.net:8197/;
+#EXTINF:-1 tvg-id="05d14eed-9e96-4119-9c3e-77ad0d9a8f9c" group-title="Brazil | Unknown region | Unknown city",Amiga FM 101.3
+https://cast.youngtech.radio.br/radio/8055/radio
+#EXTINF:-1 tvg-id="8b71f4cf-04aa-4d88-a340-b1c1cdf6e4e4" group-title="Brazil | Unknown region | Unknown city",BAVARIAN RADIO
+https://br.lucasmultimedia.com/stream.ogg
+#EXTINF:-1 tvg-id="fde8901d-0844-4da0-9ce8-ef9fc3822fe8" tvg-logo="https://bestradiobrasil.com/logo_bola.png" group-title="Brazil | Unknown region | Unknown city",BestRadio Brasil
+https://best.viaflux.com/listen/bestradio_brasil_public/1
+#EXTINF:-1 tvg-id="345cc08c-a5e3-43d9-9543-0626f2081177" tvg-logo="https://static.radios.com.br/img/apple-touch-icon.png" group-title="Brazil | Unknown region | Unknown city",Bons Tempos FM
+https://server02.ouvir.radio.br:8050/stream?1609720768800
+#EXTINF:-1 tvg-id="b499e09d-301f-4519-9ca1-628474d7bf20" group-title="Brazil | Unknown region | Unknown city",Bossa Jazz Brasil
+https://centova5.transmissaodigital.com:20104/live
+#EXTINF:-1 tvg-id="21437803-16db-41d8-9fd9-72274188f9bb" tvg-logo="https://www.saopaulo.sp.leg.br/camaraagora/wp-content/themes/camaraagora/library/images/logo-rede-camara-l.png" group-title="Brazil | Unknown region | Unknown city",CAMARA MUNICIPAL DE SAO PAULO
+https://s12.maxcast.com.br:8331/live?id=1784036208988
+#EXTINF:-1 tvg-id="ece749a2-56d7-4dda-9b78-0cbce7f7c937" group-title="Brazil | Unknown region | Unknown city",Canaã FM
+http://stream1.svrdedicado.org/8006/stream
+#EXTINF:-1 tvg-id="f548865c-6a60-4e56-9313-733e0ad66e2b" group-title="Brazil | Unknown region | Unknown city",cbn salvador 100.7 - link 2
+https://sv1.audiostream.com.br/radio/8030/stream
+#EXTINF:-1 tvg-id="0cec73fd-1690-42ad-9269-0c2d6b390820" group-title="Brazil | Unknown region | Unknown city",Clube FM Brasilia
+https://8157.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="26075833-3f0f-4763-a03e-6ada55e1ab39" group-title="Brazil | Unknown region | Unknown city",CLUBE FM BRASILIA
+https://8157.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="07b05c0b-a80b-4654-8e60-a6f8128a613d" tvg-logo="https://painel.clube.fm/wp-content/uploads/2022/05/Logo-Clube-105_5-min.png" group-title="Brazil | Unknown region | Unknown city",CLUBE FM BRASILIA
+https://8157.brasilstream.com.br/stream
+#EXTINF:-1 tvg-id="d6274eeb-e781-4030-9749-b856cea93f0d" tvg-logo="https://radiocmnweb.com.br/imagens/thumbs/026daaf8d5206c1a08f0b87f680a3e22.png" group-title="Brazil | Unknown region | Unknown city",cmnweb
+https://s20.maxcast.com.br:8063/live?id=299405110012
+#EXTINF:-1 tvg-id="bdff85a9-cca9-46e2-8243-9496dbffecd6" group-title="Brazil | Unknown region | Unknown city",Conecta Brasil
+https://radio.conectaweb.tech/listen/conecta_brasil/radio.mp3
+#EXTINF:-1 tvg-id="cdcb25ab-fac7-4b91-af76-5352c5c96843" group-title="Brazil | Unknown region | Unknown city",Conecta Sertanejo
+https://radio.conectaweb.tech/listen/conecta_sertanejo/radio.mp3
+#EXTINF:-1 tvg-id="c66de5fc-9e7d-4ed8-8aa4-32bf0944d728" group-title="Brazil | Unknown region | Unknown city",Dance Anos 90
+https://stream-287.zeno.fm/zx9h2b61u8quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6eDloMmI2MXU4cXV2IiwiaG9zdCI6InN0cmVhbS0yODcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImtUTWJsSE92UnBTNmtGRUdaT0tBTUEiLCJpYXQiOjE3ODA4NDA3MDksImV4cCI6MTc4MDg0MDc2OX0.w-KBUIindPPLSOWSnMDAIu55KHYX49uU-jcuGgS9s1w
+#EXTINF:-1 tvg-id="dd53a0d7-5f8b-48ba-98df-0225de98a64d" group-title="Brazil | Unknown region | Unknown city",ESTUDIO FM
+http://srv8.ipstm.net:29560/
+#EXTINF:-1 tvg-id="ab0a4ff7-61d1-481b-9961-9a6cb4610bfa" group-title="Brazil | Unknown region | Unknown city",Feliz FM
+https://cloud1.cdnseguro.com:5520/;stream.mp3
+#EXTINF:-1 tvg-id="30a59a6c-ab37-4d5a-a38b-f609ba400db6" group-title="Brazil | Unknown region | Unknown city",FM PREMIUM
+http://cast4.audiostream.com.br:8663/mp3
+#EXTINF:-1 tvg-id="982e125b-204b-4560-8dba-f9370fda1cc1" tvg-logo="https://globalfunkradio.com/files/others/f36260ee-228b-4dc2-b9a5-aee97f68de71.webp" group-title="Brazil | Unknown region | Unknown city",Global Funk Radio
+https://securestreams2.autopo.st:1148/stream?1782913063744
+#EXTINF:-1 tvg-id="d6d40afc-f293-43b4-8b12-072ff1f6610f" group-title="Brazil | Unknown region | Unknown city",GOIOERE FM 97,5
+https://8727.omegastreaming.com.br/stream?
+#EXTINF:-1 tvg-id="84723061-7f45-4ac6-b724-06eb68fdccfe" tvg-logo="https://static-media.streema.com/media/cache/63/29/63291799869f7e4940704ef789f44219.jpg" group-title="Brazil | Unknown region | Unknown city",Imperial FM
+http://elle.martinspier.io/hls/imperial.m3u8
+#EXTINF:-1 tvg-id="ac7f60d4-3c41-4479-b6ad-d33e23d1470b" group-title="Brazil | Unknown region | Unknown city",instrumentales
+https://protvradiostream.com:8350/live
+#EXTINF:-1 tvg-id="a071b291-88e7-46b9-ad93-c27e22efc3a9" tvg-logo="https://jovempannewscampinas.com.br/wp-content/uploads/2020/10/JP-CAMPINAS-Logo-site-4.png" group-title="Brazil | Unknown region | Unknown city",Jovem Pan Campinas
+https://ssl.srvstm.com:6808/;
+#EXTINF:-1 tvg-id="173e096e-e31e-4ebd-960b-46e81e1f53ea" tvg-logo="https://radiolitoral.fm.br/img/icon.png" group-title="Brazil | Unknown region | Unknown city",Litoral FM
+https://stm37.stmsrv.com:30976/stream?type=http&nocache=83470439
+#EXTINF:-1 tvg-id="f9b33790-b327-4e3a-b9ce-45d71c29f632" tvg-logo="https://mastervisionproducoes.com/images_ai/master-vision-radio-estacoes-retro.png" group-title="Brazil | Unknown region | Unknown city",Master Vision Rádio
+https://centova4.transmissaodigital.com:20023/stream
+#EXTINF:-1 tvg-id="5d04caad-a633-4279-9f24-3e72bd49f8ee" tvg-logo="https://spaceks.net/sites/metalheads.com.br/images/logo/logo.png" group-title="Brazil | Unknown region | Unknown city",Metal Heads
+https://hts01.brascast.com:9194/live
+#EXTINF:-1 tvg-id="72e626b2-aba6-4afa-933f-a6c5a61f16b6" group-title="Brazil | Unknown region | Unknown city",MIX São Paulo
+https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac?dist=mix-web-player-radio-ao-vivo&934992.6600449783
+#EXTINF:-1 tvg-id="407de931-fcce-452b-a97f-465e8df4d5eb" group-title="Brazil | Unknown region | Unknown city",morcegaoBr
+https://radio.morcegaofm.com.br/morcegao128
+#EXTINF:-1 tvg-id="a6980be7-3b55-11e8-b74d-52543be04c81" tvg-logo="https://cdn-profiles.tunein.com/s121927/images/logoq.jpg?t=636255" group-title="Brazil | Unknown region | Unknown city",Máquina do Tempo (MPB Brasil)
+http://servidor28.brlogic.com:8032/live
+#EXTINF:-1 tvg-id="6ef93fac-57e8-423f-8bd3-d253634d252f" group-title="Brazil | Unknown region | Unknown city",Nossa Rádio MEPB
+http://s01.painelstream.net:8548/;
+#EXTINF:-1 tvg-id="796696e7-1abc-4867-b9c4-586e9c554a6f" tvg-logo="https://i.imgur.com/7MUl9Kt.jpg" group-title="Brazil | Unknown region | Unknown city",Omega FM
+https://webradio.amsolution.com.br/radio/8000/omega
+#EXTINF:-1 tvg-id="126ea7f9-1545-4f2d-9e74-a15f30edf184" group-title="Brazil | Unknown region | Unknown city",PANORAMA FM 94,9
+https://ice.fabricahost.com.br/fmpanorama
+#EXTINF:-1 tvg-id="11e0e253-95be-4be6-a2e3-99df3913ba32" group-title="Brazil | Unknown region | Unknown city",Radio CGB
+http://paineldj6.com.br:8103/stream
+#EXTINF:-1 tvg-id="fe3ca7b5-c4ac-4698-bcdd-1c7abde21843" group-title="Brazil | Unknown region | Unknown city",Radio Cidade FM de Loanda
+https://stm26.srvaudio.com.br:10484/stream
+#EXTINF:-1 tvg-id="80fd8c29-9570-4465-a466-c34bfa527e15" group-title="Brazil | Unknown region | Unknown city",Radio Dorminhoca
+http://stream.zeno.fm/dkyrn1814k0uv
+#EXTINF:-1 tvg-id="48c86e7c-585c-45b4-a847-f01e9050c2f4" tvg-logo="https://www.redebahia.com.br/wp-content/uploads/2021/04/cropped-android-chrome-512x512-1-180x180.png" group-title="Brazil | Unknown region | Unknown city",Radio GFM - Rede Bahia
+https://ice.fabricahost.com.br/radiogfm
+#EXTINF:-1 tvg-id="fd015926-6c3d-4b8c-b007-fee8a7cfd94a" tvg-logo="https://www.radioleve.com.br/uploads/img/loja_logo/24/4cd25865baea1cf8a80eeb640a194c0d.png" group-title="Brazil | Unknown region | Unknown city",Radio Leve - SP/Brazil
+https://servidor25.brlogic.com:7058/live?v=1730093845978
+#EXTINF:-1 tvg-id="f0bf6f91-1a6c-4bff-9739-0f578eede6f3" group-title="Brazil | Unknown region | Unknown city",Radio Maquina no Rock
+https://servidor20-4.brlogic.com:8582/live
+#EXTINF:-1 tvg-id="8a600121-77ef-465a-a348-b814f056ed9e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240706_175522378.jpg?alt=media&token=09e9d779-5d6c-4e15-9f93-ce6616c54c1f" group-title="Brazil | Unknown region | Unknown city",Radio Nova Instrumental
+https://streaming.radioempresabrasil.com.br/proxy/novainstrumental/stream
+#EXTINF:-1 tvg-id="0f348d26-52f3-4bec-9ad2-538fff7bad1d" tvg-logo="https://radionovasdepaz.com.br/wp-content/uploads/2024/12/logo-radio.png" group-title="Brazil | Unknown region | Unknown city",Radio Novas de Paz
+https://radio.saopaulo01.com.br/8304/stream
+#EXTINF:-1 tvg-id="46aa85ad-2871-4a2e-96fa-29e1679ae174" tvg-logo="https://radioolinda.com.br/wp-content/uploads/2022/01/cropped-logo-radio-a2-1-180x180.png" group-title="Brazil | Unknown region | Unknown city",Radio Olinda 105,3
+https://radio.saopaulo01.com.br:10771/stream
+#EXTINF:-1 tvg-id="a82af1f3-f11f-4465-b810-4bfc761e8a91" group-title="Brazil | Unknown region | Unknown city",Radio Pampa
+https://cast4.audiostream.com.br:2653/mp3
+#EXTINF:-1 tvg-id="f18f4ce4-4ec0-11e8-a4d1-52543be04c81" group-title="Brazil | Unknown region | Unknown city",RADIO TAMANDARE '100% JESUS'
+http://streaming09.hstbr.net:8058/live
+#EXTINF:-1 tvg-id="9a4e3bac-30ae-47c8-af63-338741d13208" tvg-logo="https://pt.m.wikipedia.org/static/apple-touch/wikipedia.png" group-title="Brazil | Unknown region | Unknown city",Radio Terra 1330
+https://cloud1.cdnseguro.com:16020/stream
+#EXTINF:-1 tvg-id="110728e1-4cf1-4a74-a569-1bbfcd2edac8" tvg-logo="https://trifm.com.br/wp-content/uploads/2024/07/logo_512.png" group-title="Brazil | Unknown region | Unknown city",RADIO TRI FM 105.5 SANTOS SP
+https://radios.poolwebwork.com.br/8026/stream
+#EXTINF:-1 tvg-id="f4de8d39-0eec-4fc0-a95a-ca820864e39f" group-title="Brazil | Unknown region | Unknown city",Radio Tupi FM 96.5
+https://8923.brasilstream.com.br/stream?origem=site-tupi.fm
+#EXTINF:-1 tvg-id="6c6f90b1-0fe6-4bdf-9614-8180a3276063" group-title="Brazil | Unknown region | Unknown city",Rede Blitz
+https://c32.radioboss.fm:8254/source
+#EXTINF:-1 tvg-id="642c252c-4ab6-11e9-a4d7-52543be04c81" group-title="Brazil | Unknown region | Unknown city",Rádio Advento
+http://paineldj6.com.br:11430/live
+#EXTINF:-1 tvg-id="f97813f8-749a-4ab0-8a85-02ceed5734ed" group-title="Brazil | Unknown region | Unknown city",Rádio Almanaque
+https://stm5.painelcast.com:7570/stream
+#EXTINF:-1 tvg-id="ce157c64-a22e-49c7-a6e9-439573d8c3c8" group-title="Brazil | Unknown region | Unknown city",Rádio alô gospel
+https://grenal.audiostream.com.br:20000/aac
+#EXTINF:-1 tvg-id="fff5ab33-fd9e-45e6-b6b2-7ddc268d5fa4" tvg-logo="https://img.radios.com.br/radio/lg/radio9505_1574106966.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio Antena 1 94.7 FM
+https://antenaone.crossradio.com.br/stream/1;
+#EXTINF:-1 tvg-id="dbed6057-e356-4013-ad92-ce07aaa311ee" tvg-logo="https://radioararangua.com.br/wp-content/themes/radio-ararangua/android-chrome-384x384.png" group-title="Brazil | Unknown region | Unknown city",Rádio Araranguá FM 95.5
+https://stream.loopert.com/stream/183
+#EXTINF:-1 tvg-id="93ebaad1-2736-4389-ae1a-6013bea5f459" tvg-logo="https://www.bandab.com.br/wp-content/themes/bandab/assets/img/icons/apple-touch-icon.png" group-title="Brazil | Unknown region | Unknown city",Rádio Banda B
+https://ice.fabricahost.com.br/bandabctb
+#EXTINF:-1 tvg-id="957d2279-163b-4974-96c9-038499ec4886" group-title="Brazil | Unknown region | Unknown city",Rádio C Brasil
+https://stm5.painelcast.com:7578/stream
+#EXTINF:-1 tvg-id="d5aa8e67-5c70-4d4e-a013-d0fe5128a196" tvg-logo="https://cordeiroplasticos.com.br/catolica.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio Católica
+https://stm5.painelcast.com:7574/stream
+#EXTINF:-1 tvg-id="c9083bcc-87a2-4703-b0c0-d73d74f3e2a8" group-title="Brazil | Unknown region | Unknown city",Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac
+#EXTINF:-1 tvg-id="1bd6615c-aa0e-46ab-8a84-ea898eadc79e" tvg-logo="https://cordeiroplasticos.com.br/radioclassica.png" group-title="Brazil | Unknown region | Unknown city",Rádio Clássica
+https://stm11.painelcast.com:7530/stream
+#EXTINF:-1 tvg-id="4df6a2c5-e467-4a40-9ebb-16de11d9446d" tvg-logo="https://zeno.fm/favicon.ico" group-title="Brazil | Unknown region | Unknown city",Rádio CNMA
+https://stream-178.surfernetwork.com/m3ytuubv0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtM3l0dXVidjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlF4aEdwcWE0VEhhbmxvRUJ6SnRKNmciLCJpYXQiOjE3OTA4ODExNzksImV4cCI6MTc5MDg4MTIzOX0.8dMYqspc7N4L4Ja2ExCkp8jWhNnUIgWe7sZyfFq1I3g
+#EXTINF:-1 tvg-id="bdb052fa-89f2-43f5-a487-f845568d2131" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d9/Logotipo_da_R%C3%A1dio_C%C3%A2mara.png" group-title="Brazil | Unknown region | Unknown city",Rádio Câmara
+https://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8
+#EXTINF:-1 tvg-id="e971c555-2f63-4d22-ae40-48eeec21c378" tvg-logo="https://www.cms.ba.gov.br/assets/img/banner-radio.png" group-title="Brazil | Unknown region | Unknown city",Rádio Câmara de Salvador
+https://play.radio.br:8089/cms/cms/icecast.audio
+#EXTINF:-1 tvg-id="f1b4a5bc-14f7-4694-a48a-8cf1e101e8c8" group-title="Brazil | Unknown region | Unknown city",Rádio Digital
+http://stm1.tcmcast.com.br:7050/
+#EXTINF:-1 tvg-id="a440a7cf-77a4-4ce3-8b4d-c0eb02698117" group-title="Brazil | Unknown region | Unknown city",Rádio Digital fm
+http://stm1.tcmcast.com.br:7050/
+#EXTINF:-1 tvg-id="3053d91b-7c52-4222-a745-84467511d19c" tvg-logo="https://ar.radiodisney.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogoPlayer.94eccc39.jpg&w=320&q=75" group-title="Brazil | Unknown region | Unknown city",Rádio Disney - Brasil FM 91.3
+https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP_ADP.aac
+#EXTINF:-1 tvg-id="a0de72f1-dbbf-4d98-a313-ab221d5c1a75" group-title="Brazil | Unknown region | Unknown city",Rádio Elétrica
+http://servidor26.brlogic.com:8040/live
+#EXTINF:-1 tvg-id="997dee72-fc14-4a13-bc57-90af56ebd31a" group-title="Brazil | Unknown region | Unknown city",Rádio Encontro de Adoradores
+https://radio.encontrodeadoradores.com/listen/encontro_de_adoradores/radio.mp3
+#EXTINF:-1 tvg-id="46caf738-9e39-4882-8102-93c31d2c0585" tvg-logo="https://cordeiroplasticos.com.br/forro1.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio Forró
+https://stm5.painelcast.com:7600/stream
+#EXTINF:-1 tvg-id="20369602-fde7-4c77-9231-b05c69277e31" tvg-logo="https://public-rf-upload.minhawebradio.net/2608/featured/1a481265b4ffbdbf7104c77e82365e5f.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio Iberaba
+https://servidor26-3.brlogic.com:8004/live?source=website
+#EXTINF:-1 tvg-id="5901ee10-79c8-493a-8a7a-947ce40c6280" tvg-logo="https://thumbs.radiojhero.com/XyCmlWWvE_VX3yHnU6LTKig6S7EqYL2zH5x_aW7Cgfk/rs:fill:0:96:1/g:sm/aHR0cHM6Ly9yYWRpb2poZXJvLmNvbS9hc3NldHMvbG9nby5wbmc.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio J-Hero
+https://listen.radiojhero.com/radio.mp3
+#EXTINF:-1 tvg-id="a8611ed7-e166-4673-98d4-2e68278d1a58" group-title="Brazil | Unknown region | Unknown city",Rádio Ministério Cristo Pleno
+https://01.megadinamica.com:7018/
+#EXTINF:-1 tvg-id="456dae04-eaee-4dc3-bb8c-038412e24d04" tvg-logo="https://public-rf-assets.minhawebradio.net/img/favicon.ico" group-title="Brazil | Unknown region | Unknown city",Rádio Máquina Instrumental
+https://servidor29-2.brlogic.com:8578/live
+#EXTINF:-1 tvg-id="0b0c511d-a763-4abe-83d1-a7f04d896b27" group-title="Brazil | Unknown region | Unknown city",Rádio Nevasca FM 104.1
+https://cast2.youngtech.radio.br/radio/8110/radio
+#EXTINF:-1 tvg-id="8986823a-7d65-4701-8353-321f51477f50" tvg-logo="https://novaparadiso.com/assets/img/logo_horizontal_colorida.png?v=1746670052262" group-title="Brazil | Unknown region | Unknown city",Rádio Nova Paradiso Rio
+https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac
+#EXTINF:-1 tvg-id="d0b93f19-cd1e-4d46-99b3-206439e8062c" group-title="Brazil | Unknown region | Unknown city",Rádio Rap Brasil
+https://stream.zeno.fm/7c83b37e32quv
+#EXTINF:-1 tvg-id="76da0973-3269-4dd0-9e31-7b28d697812c" tvg-logo="https://www12.senado.leg.br/radio/++plone++senado_radio/img/touch_icon.png" group-title="Brazil | Unknown region | Unknown city",Rádio Senado
+https://www12.senado.leg.br/radiosenado/fmaac/playlist.m3u8
+#EXTINF:-1 tvg-id="bb6ba0d5-294b-46e2-ba53-822d26655b8d" group-title="Brazil | Unknown region | Unknown city",Rádio Sertaneja
+https://stm5.painelcast.com:7584/stream
+#EXTINF:-1 tvg-id="54dcac6e-fd71-42e2-9705-4f455c0bdf43" tvg-logo="https://cordeiroplasticos.com.br/sombrega1.png" group-title="Brazil | Unknown region | Unknown city",Rádio Som Brega
+https://stm5.painelcast.com:7588/stream
+#EXTINF:-1 tvg-id="0fc2ef01-f52f-4374-90a1-ecd20effd832" group-title="Brazil | Unknown region | Unknown city",Rádio São Roque - 103.9 FM
+https://r18.ciclano.io/proxy/saoroque/stream
+#EXTINF:-1 tvg-id="14946763-9538-4507-8471-09939db4015b" tvg-logo="https://public-rf-upload.minhawebradio.net/167299/cover/0525548e624d96ad59fd36bb73ca4d1a.png" group-title="Brazil | Unknown region | Unknown city",Rádio Ubatuba Surf
+https://servidor18-2.brlogic.com:7544/live?source=website
+#EXTINF:-1 tvg-id="97c214c0-8e82-4fe2-9aa5-ee9f4c1aa76c" tvg-logo="https://public-rf-upload.minhawebradio.net/3701/logo/cb85946c363e933e2136276bf03efb42.jpg" group-title="Brazil | Unknown region | Unknown city",Rádio Ágape
+https://servidor40-5.brlogic.com:8086/live?source=website
+#EXTINF:-1 tvg-id="0ebb8c70-ba4e-4dbd-94b6-cb2b0b6aa145" tvg-logo="https://radiosintoniaesportiva.com.br/wp-content/uploads/2021/01/cropped-logo-sintonia-esportiva-1-180x180.png" group-title="Brazil | Unknown region | Unknown city",Sintonia Esportiva
+https://stm3.voxhd.com.br:8154/stream
+#EXTINF:-1 tvg-id="f917f555-045f-45ec-99cc-6f971834d886" group-title="Brazil | Unknown region | Unknown city",Sintoniza Rock
+https://s04.maxcast.com.br:8930/autodj
+#EXTINF:-1 tvg-id="0619404c-66db-4ebe-9bc0-b547a833fd61" tvg-logo="https://smartradio.s3.amazonaws.com/uploads/station/vertical_logo/727714090/Avatar_Logo_Tempo_FM_2025.png" group-title="Brazil | Unknown region | Unknown city",Tempo FM 103.9
+https://radio.webfrequencia.com.br:8110/tempofm
+#EXTINF:-1 tvg-id="824647f5-475d-4e51-af3f-51767faccd7f" group-title="Brazil | Unknown region | Unknown city",Web Rádio E5
+http://paineldj6.com.br:8496/stream
+#EXTINF:-1 tvg-id="58fbcd7d-fb61-4476-97f1-9102df1168f1" group-title="Brazil | Unknown region | Unknown city",Web Soul Radio
+http://ic142561.radioca.st:8136/stream
+#EXTINF:-1 tvg-id="827606d8-7a80-46e3-bfb0-5728bef9b41b" group-title="Brazil | Unknown region | Unknown city",zero
+https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE

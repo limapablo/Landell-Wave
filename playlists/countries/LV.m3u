@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="98d81f82-d9c8-48c7-8368-19eb62c1bbb3" group-title="Latvia | Riga | Unknown city",SWH Plus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 tvg-id="4746a29f-2beb-499a-af1d-ec5391d31632" tvg-logo="https://avtoradio.lv/upload/design/64df68073caa85.35482071.png" group-title="Latvia | Riga | Unknown city",Авторадио Латвия
+https://live.relaxfm.lv/03
+#EXTINF:-1 tvg-id="b12adcc4-3057-4f07-a31a-8b136ef6fccf" group-title="Latvia | Riga | Vecrīga",EHR iDeal Music
+http://stream.ehrhiti.lv:8000/Stream_78.mp3
+#EXTINF:-1 tvg-id="f49b84d0-e073-4001-a81e-9b2bb9b466b2" group-title="Latvia | Riga | Vecrīga",EHR Remixes
+http://stream.ehrhiti.lv:8000/Stream_32.mp3
+#EXTINF:-1 tvg-id="d0ff14be-8db4-4203-b56a-09d6b0e95b93" group-title="Latvia | Riga | Vecrīga",EHR Rise & Shine
+http://stream.ehrhiti.lv:8000/Stream_36.mp3
+#EXTINF:-1 tvg-id="a2035787-2838-46c5-81ef-1e5098e3735c" group-title="Latvia | Riga | Vecrīga",EHR TOP 40
+http://stream.europeanhitradio.com:8000/Stream_27.mp3
+#EXTINF:-1 tvg-id="bb8f3cfa-b120-4565-84af-431886af80e3" tvg-logo="https://retrofm.lv/files/logo_03.png" group-title="Latvia | Riga | Vecrīga",Retro FM 70s 80s 90s
+https://25443.live.streamtheworld.com/RETRO_LATVIJA_FM_70_80_90S.mp3
+#EXTINF:-1 tvg-id="ada2c0a7-08b9-48dc-a6b7-d85d701a159e" group-title="Latvia | Riga | Vecrīga",TOP radio lv
+https://live.advailo.com/topradio/live/playlist.m3u8
+#EXTINF:-1 tvg-id="8dcbd860-5165-4cfa-b947-9a7b6c5dbf7a" group-title="Latvia | Rīgā | Unknown city",Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
+#EXTINF:-1 tvg-id="03a299c6-db3e-48fd-aace-a3a8c69f39bd" group-title="Latvia | Rīgā | Unknown city",SWHPlus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 tvg-id="6dbc64d2-b00c-4fe0-ab4f-6fe936aa4569" group-title="Latvia | Rīgā | Unknown city",SWHPlus
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 tvg-id="57d2c82e-ee07-403c-a055-051e794f3ab0" tvg-logo="https://tirkultura.lv/favicon-32x32.png" group-title="Latvia | Rīgā | Unknown city",Tīrkultūra
+https://s3.radio.co/s216811754/listen
+#EXTINF:-1 tvg-id="80a0aae5-c299-4b1a-be6c-6c1d21ffe596" tvg-logo="https://lustigsradio.lv/stream/img/fons.jpg" group-title="Latvia | Saldus | Saldus",Lustīgs Radio
+http://stream.lustigsradio.lv/live
+#EXTINF:-1 tvg-id="34a98692-9494-45c0-9ac4-f755d4145997" tvg-logo="https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-32x32.png" group-title="Latvia | Sigulda Municipality | Sigulda",Radio 7
+https://listen.radio7.lv:2053/Radio7
+#EXTINF:-1 tvg-id="7c1bfed3-89ac-410d-9792-6e7db3967415" group-title="Latvia | Talsi | Talsi",Radio Talsi .:: Electronic ::.
+http://kuums.lv:6555/;
+#EXTINF:-1 tvg-id="598bb19f-2520-47ec-a839-fc4f93b75285" group-title="Latvia | Talsi | Talsi",Radio Talsi .:: Future ::.
+http://kuums.lv:7555/;
+#EXTINF:-1 tvg-id="ef307d68-610c-4a0d-a8de-42a6bf6f017c" group-title="Latvia | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="f18809c9-1dc1-4e0c-ac76-da4a92c3a6c5" tvg-logo="https://skontotev.lv/uploads/LOGO/128x83/128x128%20px%20Chillax_labots.png" group-title="Latvia | Unknown region | Unknown city",Chillax
+https://streams.chillaxfm.lv/chillax
+#EXTINF:-1 tvg-id="ae5eebee-fea8-4311-a507-e7c45f4730be" tvg-logo="https://www.ehr.fm/build/favicons/favicon.png" group-title="Latvia | Unknown region | Unknown city",EHR
+https://stream.ehrhiti.lv:8000/ehr.aac
+#EXTINF:-1 tvg-id="c7b1113e-531d-464a-af21-e25d5c6a28c9" tvg-logo="https://www.ehr.fm/content/channels/8d581e2b-c441-4fc8-aac7-2ef8a629bef8.png?w=205&h=205&fm=webp&s=e03fb1aeb3af2b1b4fac2c53c93c5d2c" group-title="Latvia | Unknown region | Unknown city",EHR
+https://stream.ehrhiti.lv:8000/ehr.aac
+#EXTINF:-1 tvg-id="a634b031-51ec-444f-bbbe-5308ab9bb6cd" group-title="Latvia | Unknown region | Unknown city",Eiropas Hītu Radio
+http://stream.europeanhitradio.com:8000/ehr.mp3
+#EXTINF:-1 tvg-id="962cd7e3-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",European Hit Radio - Dance
+http://stream.europeanhitradio.com:8000/Stream_24.aac
+#EXTINF:-1 tvg-id="f14e0d71-3722-11e8-bb9b-52543be04c81" group-title="Latvia | Unknown region | Unknown city",European Hit Radio - Eurochart
+http://stream.europeanhitradio.com:8000/Stream_31.aac
+#EXTINF:-1 tvg-id="252ffb78-3725-11e8-bb9b-52543be04c81" group-title="Latvia | Unknown region | Unknown city",European Hit Radio - Fresh
+http://stream.europeanhitradio.com:8000/Stream_25.aac
+#EXTINF:-1 tvg-id="2c5424a0-f301-472b-b51f-3c14bc3a4146" tvg-logo="https://www.ehr.fm/content/channels/e253bd86-c97a-4117-a7d8-4dd65fe00a2c.png?w=205&h=205&fm=webp&s=ce07c22c9642da2d67534f85b1c14180" group-title="Latvia | Unknown region | Unknown city",Latviešu hiti
+https://stream.ehrhiti.lv:8000/Stream_22.aac
+#EXTINF:-1 tvg-id="e47ce4b2-b15d-4ef4-b345-2a7cb3344cc3" group-title="Latvia | Unknown region | Unknown city",Latvijas Radio 2
+https://muste.latvijasradio.lv/shoutcast/mp4:lr2a.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7c488516-a286-4309-bdbf-fa49af85220e" tvg-logo="https://latvijasradio.lsm.lv/public/assets/userfiles/logo/LR3-logo-RGB-square.png" group-title="Latvia | Unknown region | Unknown city",Latvijas Radio 3 - Klasika
+https://60766ff53d5e6.streamlock.net/liveALR3/mp4:klasika/playlist.m3u8
+#EXTINF:-1 tvg-id="962cf025-0601-11e8-ae97-52543be04c81" tvg-logo="https://radio7.lv/wp-content/uploads/2021/03/cropped-radio7-symbol-180x180.png" group-title="Latvia | Unknown region | Unknown city",Radio 7
+http://stream.radio7.lv:8024/Radio7
+#EXTINF:-1 tvg-id="962ce469-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",Radio ENERGY.LV
+http://radio1.radioenergy.lv:8000/
+#EXTINF:-1 tvg-id="962ce682-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",Radio ENERGY.LV - Russian
+http://radio1.radioenergy.lv:8000/
+#EXTINF:-1 tvg-id="4769648b-8358-430f-8ac8-8c02271070de" group-title="Latvia | Unknown region | Unknown city",Radio Nemiers
+https://stream.radionemiers.com/nmrs/playlist.m3u8
+#EXTINF:-1 tvg-id="51774bc8-b731-4981-98f4-3d35013bac83" tvg-logo="https://radioroks.lv/upload/design/63891096d7cfc0.23308165.png" group-title="Latvia | Unknown region | Unknown city",Radio Roks
+https://live.relaxfm.lv/06
+#EXTINF:-1 tvg-id="bc410d06-5b4d-4f6a-b29e-d8e7ea4bd873" group-title="Latvia | Unknown region | Unknown city",Radio Skonto Plus
+https://stream.radioskontoplus.lv:8443/st128
+#EXTINF:-1 tvg-id="15ae3a8c-46df-4ca0-96a5-ed5302da061b" group-title="Latvia | Unknown region | Unknown city",Radio SWH
+http://80.232.162.149:8000/swh96mp3
+#EXTINF:-1 tvg-id="962ccb33-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",Radio SWH+
+http://80.232.162.149:8000/plus96mp3
+#EXTINF:-1 tvg-id="eec0e3ab-4552-4cdd-8d63-87a5baea7327" group-title="Latvia | Unknown region | Unknown city",Radio TEV
+https://stream.radiotev.lv:8443/radiov
+#EXTINF:-1 tvg-id="fcb31800-06fd-4626-9afe-5ee3bbda06dd" tvg-logo="https://radioviens.lv/avatar.png" group-title="Latvia | Unknown region | Unknown city",Radio Viens
+https://radioviens.lv/live
+#EXTINF:-1 tvg-id="96182ce2-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",Star Fm
+http://starfm.live.advailo.com/audio/mp3/icecast.audio
+#EXTINF:-1 tvg-id="962cec6b-0601-11e8-ae97-52543be04c81" group-title="Latvia | Unknown region | Unknown city",Talsi Lounge
+http://radio.kuums.lv:5555/;
+#EXTINF:-1 tvg-id="18b8f6c5-60c9-4944-9469-0ea7a3e2b858" tvg-logo="https://topradio.lv/favicon.ico" group-title="Latvia | Unknown region | Unknown city",TOP radio
+https://topradio.live.advailo.com/topradio/mp3/icecast.audio
+#EXTINF:-1 tvg-id="a8c3a4a2-f984-11e9-bbf2-52543be04c81" group-title="Latvia | Unknown region | Unknown city",XO.FM
+https://live.xo.fm/xofm128
+#EXTINF:-1 tvg-id="b70334e2-5eed-48cb-9d79-a3e98f57d8bd" tvg-logo="https://c28.radioboss.fm/stationlogo/234.jpg?9299" group-title="Latvia | Unknown region | Unknown city",Your City Radio
+https://c34.radioboss.fm:8234/stream

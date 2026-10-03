@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1c07a1b8-b380-4403-a985-53948874b763" tvg-logo="https://www.tiarefm.pf/favicon.ico" group-title="French Polynesia | Unknown region | Unknown city",Tiare FM
+https://live.tiarefm.pf:8443/tiarefm
+#EXTINF:-1 tvg-id="ea360929-b30d-4c00-b7c4-a95e77e48eb7" tvg-logo="https://la1ere.francetvinfo.fr/favicon.ico" group-title="French Polynesia | Îles du Vent | Faaa",Polynésie 1ère
+https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+#EXTINF:-1 tvg-id="5c5beb65-ef62-4730-ac64-b3b24e046620" tvg-logo="https://la1ere.francetvinfo.fr/favicon.ico" group-title="French Polynesia | Îles du Vent | Taunoa",Polynésie 1ère
+https://polynesie.ice.infomaniak.ch/polynesie-128.mp3

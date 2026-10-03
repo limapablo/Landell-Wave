@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="629c4148-251f-4de9-8f67-d6f255968eea" tvg-logo="https://stream.zeno.fm/uf2r0d5ny39uv" group-title="Cuba | Florida | Unknown city",La salsa cubana
+https://stream.zeno.fm/uf2r0d5ny39uv
+#EXTINF:-1 tvg-id="b85c9947-7b10-4656-a08a-f0579b4a1e40" tvg-logo="https://play-lh.googleusercontent.com/VP7tk6nSYCYaGxxIIzoj7KICDvMhVnsNfTnSSOmGESvDjk6NfDlPJgcxI6jDH0CeoRM=w240-h480-rw" group-title="Cuba | Havana | Unknown city",CubanFlow Radio
+http://nap.casthost.net:9194/
+#EXTINF:-1 tvg-id="98920fee-500c-49c8-a973-ff4179967f50" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/917/radio-rebelde-am.c2316379.png" group-title="Cuba | La Habana | Cerro",Radio Rebelde 1180 AM
+https://securestreams7.autopo.st/?uri=https://icecast.teveo.cu/kHKL7tWd
+#EXTINF:-1 tvg-id="6a4e16db-a938-4288-afc5-d5779e4ae035" group-title="Cuba | La Habana | Unknown city",Prensa Latina - Agencia Informativa Latinoamericana
+https://cdn4.onstream.audio:9267/stream?download=false
+#EXTINF:-1 tvg-id="ed24aa6e-3137-43a1-919e-563c95f06d9a" group-title="Cuba | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="ddced9c8-67ff-4bcd-9a24-178ab7ae6fbf" group-title="Cuba | Unknown region | Unknown city",Canal Radio Cruces Cienfuegos
+https://stream.laut.fm/canalradio
+#EXTINF:-1 tvg-id="e96afa15-0e55-4389-a3de-45af37b46e00" group-title="Cuba | Unknown region | Unknown city",Radio Caster
+https://stream.laut.fm/canalradio

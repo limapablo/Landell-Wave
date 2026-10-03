@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="f2ebe5fe-8d89-4a53-a012-6249f2ad3ada" tvg-logo="https://stream.fo/wp-content/uploads/2026/07/New-Project.jpg" group-title="The Faroe Islands | Norðoyar | Klaksvík",Norðlýsið
+https://liveradio.stream.fo/listen/nordlysid/web
+#EXTINF:-1 tvg-id="5c97fd92-1782-4e07-925c-e8684e7845ae" group-title="The Faroe Islands | Streymoy | Tórshavn",FM1 88,7
+https://stream-secure.midlar.fo/fm1-128
+#EXTINF:-1 tvg-id="c4f98f0d-b541-4585-b3b8-e6ed969dd609" tvg-logo="https://d371i8ihhgym7w.cloudfront.net/19234188.jpg" group-title="The Faroe Islands | Streymoy | Tórshavn",Sjey: Kristiligt Radio
+https://lurta.sjey.fo/high_aac
+#EXTINF:-1 tvg-id="e70c5eb1-81f7-4193-9731-eb0a12bbbfd6" tvg-logo="https://fm1-radio.netlify.app/img/voxpop-logo.ed3fcda5.png" group-title="The Faroe Islands | Streymoy | Tórshavn",VoxPop
+https://stream-secure.midlar.fo/voxpop-128
+#EXTINF:-1 tvg-id="9617c327-0601-11e8-ae97-52543be04c81" group-title="The Faroe Islands | Unknown region | Unknown city",Kringvarp Føroya (KVF)
+http://netvarp.kringvarp.fo:443/uvhm

@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="c848de49-f81d-48a2-880e-40315ec1f5eb" group-title="United Republic Of Tanzania | Dar es Salaam | Unknown city",Heaven FM Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 tvg-id="e09572b1-50a0-4979-ba95-5aff5c73e8bd" tvg-logo="https://stream.zeno.fm/zhhawbqoikatv.m3u" group-title="United Republic Of Tanzania | Ngara | Ngara",Ishizwe FM
+https://stream.zeno.fm/zhhawbqoikatv
+#EXTINF:-1 tvg-id="c96b7e9a-6da9-4ab6-8a9c-c0d87938dd5f" tvg-logo="https://crownmedia.co.tz/wp-content/uploads/2024/04/CROWN-FM.jpg" group-title="United Republic Of Tanzania | Unknown region | Unknown city",Crown FM
+https://radio.crownmedia.co.tz:8443/crown
+#EXTINF:-1 tvg-id="6127891e-b89d-4424-9e3f-7723b875465e" group-title="United Republic Of Tanzania | Unknown region | Unknown city",East Africa Radio FM
+https://eatv.radioca.st/stream
+#EXTINF:-1 tvg-id="bbfa219b-8f10-45dd-b4d6-80f4069c4028" group-title="United Republic Of Tanzania | Unknown region | Unknown city",ImbaNasi
+https://stream.zeno.fm/dsfhivkawjiuv
+#EXTINF:-1 tvg-id="c2109fcd-6a26-48d1-9e78-5234906dd784" tvg-logo="https://mungukwanza.com/wp-content/uploads/2023/12/cropped-Mungu-Kwanza-Logo.png" group-title="United Republic Of Tanzania | Unknown region | Unknown city",Mungu Kwanza Radio
+https://mungukwanza.radioca.st/;
+#EXTINF:-1 tvg-id="e05c3c87-946e-4dde-b4b8-e0244917c068" group-title="United Republic Of Tanzania | Unknown region | Unknown city",Nuru FM
+https://radiotadio.co.tz/nuru-fm-stream
+#EXTINF:-1 tvg-id="fee4e578-3c44-4bd1-bc7b-cd5385c2f1d0" tvg-logo="https://radiokwizera.co.tz/wp-content/uploads/2026/02/cropped-RadioKwizeraLogo.png" group-title="United Republic Of Tanzania | Unknown region | Unknown city",Radio Kwizera
+https://uk4-vn.mixstream.net/:8052/;listen.mp3
+#EXTINF:-1 tvg-id="2bd5571d-efb0-495b-96fb-bda7f192f46e" tvg-logo="https://www.radiouhai.co.tz/favicon/apple-touch-icon.png" group-title="United Republic Of Tanzania | Unknown region | Unknown city",Radio Uhai
+https://s2.citrus3.com:8050/stream

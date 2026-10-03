@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d3bbe416-883b-49e9-8200-ff7a7d37fb8e" group-title="Seychelles | La Rivière Anglaise | Victoria",SBC Radyo Sesel
+https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8
+#EXTINF:-1 tvg-id="d5fa49c4-a20e-4ce3-a675-ea0f670a6ab6" group-title="Seychelles | Mahé | Victoria",SBC Radyo Sesel
+https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8
+#EXTINF:-1 tvg-id="66c0834a-d1d4-4cb5-8b0d-1b4fa6280dc7" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Seychelles | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ec16543f-5575-4901-b738-d11a693e3d86" tvg-logo="https://radiosjamaica.com/sites/default/files/styles/116_x_116/public/radio/logos/logo-mello-radio-montego-bay.png" group-title="Jamaica | Catherine's Peak | Gordon Town",Mellow FM
+http://peridot.streamguys.com:5660/live
+#EXTINF:-1 tvg-id="6093482c-ed7a-49ea-8a6a-d11c8e19c6ec" tvg-logo="https://newstalk93fm.net/images/logo.jpg" group-title="Jamaica | Catherine's Peak | Gordon Town",Newstalk 93 FM
+https://newstalk93fm.radioca.st/stream
+#EXTINF:-1 tvg-id="96345432-0601-11e8-ae97-52543be04c81" group-title="Jamaica | Discovery Bay | Unknown city",GGFM 90.1 Discovery Bay
+http://usa14.fastcast4u.com:5192/;
+#EXTINF:-1 tvg-id="9620041f-0601-11e8-ae97-52543be04c81" group-title="Jamaica | Montego Bay | Unknown city",Mello Radio 88 FM
+http://peridot.streamguys.com:5660/live
+#EXTINF:-1 tvg-id="2a2eeadb-3126-4048-b8f1-383c7f98c956" tvg-logo="https://stylzfm.com/sites/default/files/favicon.ico" group-title="Jamaica | Portland Parish | Port Antonio",Stylz FM
+https://stream.zeno.fm/0d1hpcmqqy5tv
+#EXTINF:-1 tvg-id="1723d615-c2e6-4fbf-b440-cead098ee0d6" tvg-logo="https://unityxm.com/assets/images/favicon.png?v=6f0682f6" group-title="Jamaica | Saint Catherine Parish | Portmore",UnityXM
+https://a8.asurahosting.com:7430/radio.mp3
+#EXTINF:-1 tvg-id="394409b6-bb5c-43b1-ad3f-1315d31532b2" tvg-logo="https://zipfm.net/wp-content/uploads/2023/12/logo.svg" group-title="Jamaica | Surrey county, Kingston, 1B Courtney Walsh Drive | Half Way Tree",Zip FM 103 FM
+https://stream.zeno.fm/c0ytcn43vxquv
+#EXTINF:-1 tvg-id="5cbaee60-63ce-481b-b1f2-baa2b7c725c4" tvg-logo="https://www.kool97fm.com/images/joomlabuff/logo/logo1.png" group-title="Jamaica | Surrey county, Kingston, Braemar Avenue 1 | New Kingston",Kool 97 FM
+https://stream.zeno.fm/we0agoxeeojvv
+#EXTINF:-1 tvg-id="af48aa00-ec97-4c3f-b721-6abffd44e174" tvg-logo="https://www.fame95fm.com/wp-content/uploads/Fame-Logo-1.png" group-title="Jamaica | Surrey county, Kingston, Lyndhurst Road 32 | Kingston",Fame 95 FM
+https://stream.zeno.fm/wbsd59gcgy5tv
+#EXTINF:-1 tvg-id="07d4dba6-d821-4736-a95e-cc26b06e96df" tvg-logo="https://www.1spotmedia.com/assets/theme/rjr/images/logos/fame_logo.png" group-title="Jamaica | Unknown region | Unknown city",Fame 95 FM Jamaica
+https://stream.zeno.fm/d5mn12bchkeuv
+#EXTINF:-1 tvg-id="7f45640e-4ba8-4953-8828-9f66d7710f44" group-title="Jamaica | Unknown region | Unknown city",Fame 95FM
+http://stream.zeno.fm/d5mn12bchkeuv
+#EXTINF:-1 tvg-id="5283ecd5-d4b6-4487-82ce-9d64dd086089" tvg-logo="https://www.wix.com/favicon.ico" group-title="Jamaica | Unknown region | Unknown city",Gospel FM Jamaica
+https://stream-37.zeno.fm/zpksre88rm0uv
+#EXTINF:-1 tvg-id="c7f47661-c4f2-45a1-952e-a6e850c30f4f" group-title="Jamaica | Unknown region | Unknown city",Nationwide 90FM
+http://stream.zenolive.com/a3wmsfazfv5tv
+#EXTINF:-1 tvg-id="a215c5c8-f85b-49d0-96a2-0eda0feba3dc" group-title="Jamaica | Unknown region | Unknown city",Nationwide 90FM
+http://stream.zenolive.com/a3wmsfazfv5tv
+#EXTINF:-1 tvg-id="5448c225-c9c8-4e13-95cc-2875bd987fbe" group-title="Jamaica | Unknown region | Unknown city",Nationwide 90FM
+http://stream.zenolive.com/a3wmsfazfv5tv
+#EXTINF:-1 tvg-id="961770fe-0601-11e8-ae97-52543be04c81" tvg-logo="https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png" group-title="Jamaica | Unknown region | Unknown city",PONdENDS.COM
+http://s7.voscast.com:7000/

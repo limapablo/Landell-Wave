@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ee83c0ba-99cf-430f-80a3-c0f7a1957d81" group-title="Thailand | Bangkok | Khlong San",93.5 Top Radio FM
+https://a10.asurahosting.com:8250/radio.mp3
+#EXTINF:-1 tvg-id="1e1113a5-7de2-4b9f-922c-ff56026f8759" tvg-logo="https://bkk.fm/images/favicons/favicon-32x32.png" group-title="Thailand | Bangkok | Phra Khanong",BKK.FM
+https://rsas.bkk.fm/radio
+#EXTINF:-1 tvg-id="fbe4a5fd-373b-4183-bfe1-86c136af4dde" group-title="Thailand | Bangkok | Unknown city",FM 100.5 MHz MCOT news network
+https://play-fm1005.mcot.net/fm1005/fm1005.m3u8
+#EXTINF:-1 tvg-id="9727e8fc-c905-43e9-b067-a998de4a23c9" group-title="Thailand | Bangkok | Unknown city",FM 100.5 MHz MCOT news network
+https://play-fm1005.mcot.net/fm1005/fm1005.m3u8
+#EXTINF:-1 tvg-id="14431bb0-b877-4c78-a0d4-e28f8777379c" group-title="Thailand | Bangkok | Unknown city",GMM25: digital TV channel 25
+https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="372dec04-d094-4d08-aff2-e2ebb8f1e6d2" group-title="Thailand | Bangkok | Unknown city",One31: digital TV channel 31
+https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="dd7195b4-d4bf-4680-8c2f-5d648cea887a" group-title="Thailand | Bangkok | Unknown city",ช่อง 9 MCOT HD: digital TV channel 30
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="005e134c-bf85-4150-808a-56b4fb13d36f" group-title="Thailand | Chiang Mai | Unknown city",NBT North: digital TV channel 11
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8?null
+#EXTINF:-1 tvg-id="8e3840ba-a912-4aec-8e2e-54aefd5db534" group-title="Thailand | Chiang Rai | Unknown city",Bluewave 97 (CR)
+http://112.121.151.133:8109/live
+#EXTINF:-1 tvg-id="afcd0235-164b-498b-a74c-235e791d4ef2" group-title="Thailand | Chum Phon | Unknown city",MCOT Chumphon (Amphoe Lang Suan) FM 104.75
+https://lb-media.mcot.net/RegionRadio/ChumphonLangsuan.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-id="7978d3f3-1b2d-487d-8c8e-0a314f485860" group-title="Thailand | KhonKaen | Unknown city",NBT North Ease: digital TV channel 11
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8?null
+#EXTINF:-1 tvg-id="3c7fd0ce-fb96-461c-b6ae-c5ce168f632b" group-title="Thailand | Nakhon Phanom | Unknown city",Mommaemradio
+http://112.121.150.133:9386/autodj
+#EXTINF:-1 tvg-id="d660e4c5-f676-422d-b535-b12691cc56b6" group-title="Thailand | Pattaya | Unknown city",Fabulous 103
+https://fabulous.thailandstreaming.net/fabulous.mp3
+#EXTINF:-1 tvg-id="f758776d-230e-4237-a426-93005a478ca0" tvg-logo="https://radioredphuket.com/wp-content/uploads/2025/01/logo-red.png.png" group-title="Thailand | Phuket | Ko Lanta",Radio Red Phuket
+https://stream.chiliradio.app/radiored
+#EXTINF:-1 tvg-id="f786266f-2814-4fa9-8b53-2bdc3c07e1fc" group-title="Thailand | Phuket | Unknown city",89.75 Radio Trip
+http://media.login.in.th:1150/
+#EXTINF:-1 tvg-id="98020575-1da9-4ee0-aa56-c7da7d906d49" group-title="Thailand | Phuket | Unknown city",90.5 Delight
+https://cdn-th2.livestreaming.in.th/shoutcast/8895
+#EXTINF:-1 tvg-id="86468748-3045-4b88-97ef-e6d266c901f5" group-title="Thailand | Samui | Unknown city",Radio Samui Online
+https://stream.mixadance.fm/radiosamui
+#EXTINF:-1 tvg-id="d8f5ee23-374a-42a3-8ba2-cb96450b27af" tvg-logo="https://images.topnews.co.th/2024/05/k1LkuFWT-logo.png" group-title="Thailand | Samut Prakan | Unknown city",Top News (Live1 - Low 240p)
+https://live.topnews.co.th/hls/topnews_a_240.m3u8
+#EXTINF:-1 tvg-id="b2eed107-b40d-4a6d-a096-a2a3a3a832f5" group-title="Thailand | Thai | Unknown city",106 Yes radio
+https://4096.radio2.thzhost.com/;stream
+#EXTINF:-1 tvg-id="08675eea-4c22-486d-920d-1bb997ed819e" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png" group-title="Thailand | Unknown region | Unknown city",106 Family News Radio
+https://radio11.plathong.net/7138/;stream.mp3
+#EXTINF:-1 tvg-id="e165cba5-0b19-4318-8d45-0d497ac3bfef" tvg-logo="https://1.bp.blogspot.com/--_GwnuYDbyo/YDHq2ipNXjI/AAAAAAAAabg/1N6BIOibG0UE7rkiUea3ZsNpwg0SY4TMQCLcBGAsYHQ/s90/91.5fm.png" group-title="Thailand | Unknown region | Unknown city",91.5 FM Panzer Radio Station
+http://radio.servradio.com:9398/;stream.mp3
+#EXTINF:-1 tvg-id="76fe3193-856c-49ed-9b97-8478a042ca8a" tvg-logo="https://static-media.streema.com/media/cache/83/2c/832c5cf81ed3452bcbd15ebcc2564e5c.jpg" group-title="Thailand | Unknown region | Unknown city",94 Bangkok Smile
+http://fm94.tv5.co.th:8000/fm94ch3
+#EXTINF:-1 tvg-id="46c93c88-147e-4bf5-9e08-ff93680984bf" group-title="Thailand | Unknown region | Unknown city",Best Radio FM. 89.0 MHz.
+https://80sv2.hostpleng.com/?url=http://112.121.150.133:8198/;
+#EXTINF:-1 tvg-id="06ed0e2b-41b5-4d08-8854-fcb339d25a35" group-title="Thailand | Unknown region | Unknown city",FM 91
+https://www.fm91bkk.com:8900/;stream.mp3
+#EXTINF:-1 tvg-id="d54c5fa1-b129-410a-8eac-c76ec6daa734" tvg-logo="https://banmairadio.com/images/logo.png" group-title="Thailand | Unknown region | Unknown city",FM 93.50 MHz บ้านใหม่ เรดิโอ
+https://radio10.plathong.net/7590/;stream.mp3
+#EXTINF:-1 tvg-id="0662ca31-689c-11ea-9d09-52543be04c81" group-title="Thailand | Unknown region | Unknown city",Isan FM 98
+http://radio11.plathong.net:8900/stream.mp3
+#EXTINF:-1 tvg-id="14e41fc9-aeb1-4d18-8777-4cb9677e93fd" group-title="Thailand | Unknown region | Unknown city",Rad Radio
+http://radio1.serverradio.net:8592/;?type=http
+#EXTINF:-1 tvg-id="38b22bc7-e2a1-43b9-9fbf-f66d275e9188" group-title="Thailand | Unknown region | Unknown city",ลูกทุ่งเน็ตเวิร์ค
+http://media.login.in.th:8200/;stream.mp3
+#EXTINF:-1 tvg-id="7ed7ae3f-97fb-4704-971c-c932392afc39" group-title="Thailand | Unknown region | Unknown city",วัดป่าไทรงาม
+https://radio10.plathong.net/7110/;stream.mp3
+#EXTINF:-1 tvg-id="f221453e-e44d-4dbb-8409-298d65907aff" tvg-logo="https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png" group-title="Thailand | กรุงเทพมหานคร | Unknown city",KRB Radio 1
+https://radio1.ohmi-design.com/8086/;
+#EXTINF:-1 tvg-id="a9da7a8b-6ec1-4ada-88df-d56b04556168" tvg-logo="https://nmab.or.th/wp-content/uploads/2025/03/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89-KRB-Radio-768x768.png" group-title="Thailand | กรุงเทพมหานคร | Unknown city",KRB Radio 3
+https://pakeefm.org/stream/300006/
+#EXTINF:-1 tvg-id="21311ab1-c5fc-484f-a403-90de3ecfb7b7" group-title="Thailand | กรุงเทพมหานคร | Unknown city",วพท. am 792KHZ กรุงเทพฯ
+https://radio9.plathong.net/7162/;

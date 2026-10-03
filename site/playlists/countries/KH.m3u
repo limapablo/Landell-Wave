@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cc20bea1-aeea-4801-8f62-6aaab144f150" group-title="Cambodia | Phnom Penh | Phnom Penh",Family FM 99.5 (Witthyu Krousar)
+https://s14.myradiostream.com/10064/;.mp3
+#EXTINF:-1 tvg-id="405a8b9c-4e9f-442c-b9c8-f65813905da3" group-title="Cambodia | Phnom Penh | Phnom Penh",Hang Meas FM 104.5
+http://malisresidences.com:89/broadwave.mp3
+#EXTINF:-1 tvg-id="053872d7-f972-4db7-b19c-993e6553141d" group-title="Cambodia | Phnom Penh | Phnom Penh",LDP Radio
+https://streaming.radio.co/sd48fd711d/listen
+#EXTINF:-1 tvg-id="65b508f2-e022-4831-9dd5-b98d5a348452" group-title="Cambodia | Siem Reap | Unknown city",Sangkem Radio
+https://live.sangkemtv.com/radio.mp3
+#EXTINF:-1 tvg-id="10c7239a-3404-4a54-82b8-7b4cc9603779" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Cambodia | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

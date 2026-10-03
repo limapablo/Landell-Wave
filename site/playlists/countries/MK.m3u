@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e707cfc1-6d40-45ab-95dd-8b780de207b8" tvg-logo="https://skyradio.com.mk/img/logo.png" group-title="Republic Of North Macedonia | Grad Skopje | Skopje",Sky Radio 102.5 Skopje, Macedonia
+https://s1.skyradio.com.mk/;*.mp3
+#EXTINF:-1 tvg-id="6e7a1699-8edf-415e-8357-45a750c50ed6" group-title="Republic Of North Macedonia | Grad Skopje | Skopje",Star Radio (Ex-YU Retro) Skopje, Macedonia
+https://radiostar.pro/stream/exyuretro.php
+#EXTINF:-1 tvg-id="442a3644-15a2-4b2a-a881-720e2124009b" group-title="Republic Of North Macedonia | Macedonia | Skopje",Antenna 5 Macedonia
+http://antenna5stream.neotel.mk:8000/live128
+#EXTINF:-1 tvg-id="1e252db7-19c5-4b13-95d0-8571c3d1948e" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Republic Of North Macedonia | Macedonia | Skopje",Life Radio 89.1 Macedonia
+http://liferadio.ddns.net:8000/;
+#EXTINF:-1 tvg-id="eaff1518-955b-4069-8001-2a3d405473c9" group-title="Republic Of North Macedonia | Unknown region | Unknown city",103
+http://radiostream.neotel.mk/kanal103
+#EXTINF:-1 tvg-id="4a33948a-df59-4d0e-8c5e-a9d8e2e45b50" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20231218_113106430.jpg?alt=media&token=b6f6cb27-4778-460d-b740-0860a30262a7" group-title="Republic Of North Macedonia | Unknown region | Unknown city",=KECO=70s ROCK
+http://jfm1.hostingradio.ru:14536/rock70.mp3
+#EXTINF:-1 tvg-id="1fbf20aa-2f23-47fa-86ae-6696aca442b1" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Bum Kumanovo
+http://iandonov.radioca.st/;stream/1
+#EXTINF:-1 tvg-id="36b02bfe-a94d-4c8d-9b7c-9a3fd570dc8a" tvg-logo="https://skyradio.com.mk/img/logo.png" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Hits Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
+https://s1.skyradio.com.mk/hits.mp3
+#EXTINF:-1 tvg-id="24075e72-a24c-4baf-a9e2-eaf6c788a4e1" tvg-logo="https://justmusicradio.mk/wp-content/uploads/2020/05/95997763_1489679141241833_2955882538482008064_n-1.png" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Just Music Radio
+https://radiostream.neotel.mk/justmusicradio
+#EXTINF:-1 tvg-id="884b8ccd-d770-4f9a-a504-126c99829b47" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Lider FM 107,4
+https://liderfm.ipradio.mk/
+#EXTINF:-1 tvg-id="d3300b2e-982e-4297-a2ba-d173f72af097" tvg-logo="https://life.com.mk/wp-content/uploads/2024/03/LIFEradio-768x452.jpg" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Life Radio
+https://worldradio.online/proxy/?q=http://liferadio.ddns.net:8000/stream&plugin_id=13399&site_id=14630760
+#EXTINF:-1 tvg-id="de34f39b-d35d-4570-a6fe-92d0031a1681" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Makedonsko Radio 1 - Radio Skopje
+https://vod-c57.interspace.com/channel_abr/47/playlist.m3u8
+#EXTINF:-1 tvg-id="a0aed8e2-f3e1-4bfb-9430-b64d2ba26182" tvg-logo="https://skyradio.com.mk/img/logo.png" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)
+https://s1.skyradio.com.mk/retro.mp3
+#EXTINF:-1 tvg-id="ff3c7dfc-1699-4606-805c-d88544a1520e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241108_165044336.jpg?alt=media&token=af90a123-dc5a-436e-a840-ed68b7e3e83f" group-title="Republic Of North Macedonia | Unknown region | Unknown city",RFM 91.3 - North Macedonia
+http://213.133.109.18:10004/stream
+#EXTINF:-1 tvg-id="214e3c3c-063d-4f43-ab19-f9fe9f0a67ab" tvg-logo="https://radiostar.pro/wp-content/uploads/2023/08/NARODNA-URBAN-300x300.png" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Star Radio (Urban Folk) Skopje, Macedonia
+https://radiostar.pro/stream/narodna.php
+#EXTINF:-1 tvg-id="7fa6ba8e-839e-49be-b80e-bd0ce9f44e04" group-title="Republic Of North Macedonia | Unknown region | Unknown city",Експрес Радио 101.1 Струмица, Македонија
+http://ekspresradio.dyndns.org:8000/

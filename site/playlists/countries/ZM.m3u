@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="427cd6d2-fbcf-4e95-8a43-700561b7af73" group-title="Zambia | Unknown region | Unknown city",Hot 102.7FM
+https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=
+#EXTINF:-1 tvg-id="109fdd9b-0ce8-46ff-b857-f70aee67c666" group-title="Zambia | Unknown region | Unknown city",Sun Fm Zambia
+http://11233.cloudrad.io:9102/live

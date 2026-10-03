@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d5c8ae88-3b49-4fd9-8e68-4cfa9cc877d5" tvg-logo="https://amaryllishotels.com/assets/images/AMARYLLIS%20LOGO_favicon-01.png" group-title="Malawi | Unknown region | Unknown city",Amaryllis E-Radio
+https://s4.radio.co/s40c05d6b1/low
+#EXTINF:-1 tvg-id="bb34c088-e61e-45a7-a9c2-5655000b9c90" tvg-logo="https://groove100.mw/apple-touch-icon.png" group-title="Malawi | Unknown region | Unknown city",Groove100 FM
+https://a9.asurahosting.com/listen/groove100_fm/radio.mp3
+#EXTINF:-1 tvg-id="0b59210b-3248-47d6-83c5-9fa919c0c655" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/b3f7kdxwudw4.png" group-title="Malawi | Unknown region | Unknown city",Timveni Radio
+https://play.streamafrica.net/timveni

@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4d30f962-01d2-4a3f-8043-f15f7cf6049e" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/ch-3.png?itok=SAUuH5FM" group-title="Algeria | Algiers | Algiers",Algérie Chaîne 3
+https://radiochaine3.ice.infomaniak.ch/chaine3.mp3
+#EXTINF:-1 tvg-id="2de45b1a-f916-43a5-94f4-4292b9bfc31f" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/Logo-Bahdja.png" group-title="Algeria | Algiers | Birkhadem",Radio El Bahdja
+https://radioelbahdja.ice.infomaniak.ch/elbahdja.mp3
+#EXTINF:-1 tvg-id="8788f957-2516-4be7-9ed5-1d8be02c2515" group-title="Algeria | Blida | Unknown city",Radio Zaman
+https://radiozamen.ice.infomaniak.ch/zamen.mp3
+#EXTINF:-1 tvg-id="6fb5af9c-4592-4d65-ae4d-38a76042ced4" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---010.png" group-title="Algeria | Bouira | Bouïra",Radio Bouira
+https://radiobouira.ice.infomaniak.ch/bouira.mp3
+#EXTINF:-1 tvg-id="6627a9c6-fb75-4f3b-aa35-6826a89aaa4d" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---006.png" group-title="Algeria | Béjaïa | Béjaïa",Radio Bejaïa
+https://radiobejaia.ice.infomaniak.ch/bejaia.mp3
+#EXTINF:-1 tvg-id="21793aa7-171c-494b-bf9b-193c51e53a74" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---002.png" group-title="Algeria | Chlef | Chlef",Radio Chlef
+https://radiochlef.ice.infomaniak.ch/chlef.mp3
+#EXTINF:-1 tvg-id="6b0b5fe0-a919-428e-8211-c03e1a6cbed7" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---025.png" group-title="Algeria | Constantine | Constantine",Radio Constantine
+https://radioconstantine.ice.infomaniak.ch/constantine.mp3
+#EXTINF:-1 tvg-id="03680503-adaa-4402-b171-54b2e656d792" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---033.png" group-title="Algeria | Illizi | Illizi",Radio Illizi
+https://radioillizi.ice.infomaniak.ch/illizi.mp3
+#EXTINF:-1 tvg-id="d0897199-d0c3-4316-9e93-2bfcdd5e1439" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-10/wilaya---028.png" group-title="Algeria | M'Sila | M'Sila",Radio M'sila
+https://radiomsila.ice.infomaniak.ch/msila.mp3
+#EXTINF:-1 tvg-id="a7989b64-675c-46d0-9597-78f5e70450c9" group-title="Algeria | Sachsen | Unknown city",Hitradio RTL Chemnitz
+https://web.radio.hitradio-rtl.de/hrrtl-chemnitz/stream/mp3?aggregator=direktlink
+#EXTINF:-1 tvg-id="6bfb7a7c-b811-472b-b091-5e27cb098bac" group-title="Algeria | Tizi-Ouzou | Unknown city",A ntinea Radio
+https://listen.radioking.com/radio/6640/stream/347
+#EXTINF:-1 tvg-id="defa0e5c-f689-4db1-97db-87ebb759f7d1" tvg-logo="https://www.radio.net/images/broadcasts/06/f5/126428/1/c300.png" group-title="Algeria | Tizi-Ouzou | Unknown city",Antinea Radio
+https://listen.radioking.com/radio/6640/stream/347
+#EXTINF:-1 tvg-id="029d4199-d4d6-4272-89dc-3f5cc0c28453" tvg-logo="https://radioalgerie.dz/player/sites/default/files/logo90bleu_0.png" group-title="Algeria | Tizi-Ouzou | Unknown city",Radio Tizi Ouzou
+https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3
+#EXTINF:-1 tvg-id="97f53364-f764-432b-b31d-f7ba4998b1c9" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/locales.png" group-title="Algeria | Tébessa | Tébessa",Radio Tebessa
+https://radiotebessa-1.ice.infomaniak.ch/tebessa.mp3
+#EXTINF:-1 tvg-id="d52d7a3c-6547-4bd4-893e-c7599cd6f565" group-title="Algeria | Unknown region | Unknown city",..مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 tvg-id="8c775a8f-184e-44fe-9d7d-62d79454145a" group-title="Algeria | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="66468020-0d84-4f1a-8b66-676d0f987c96" tvg-logo="https://my.radioalgerie.dz/sites/default/files/styles/d02/public/2021-09/coran.png" group-title="Algeria | Unknown region | Unknown city",Radio Coran
+https://radiocoran.ice.infomaniak.ch/coran.mp3
+#EXTINF:-1 tvg-id="73c4c047-8155-4e9f-b2ee-7518ce8de164" tvg-logo="https://i.pinimg.com/564x/3a/a1/a1/3aa1a107c9434ca52b42b2dd0ffc896f.jpg" group-title="Algeria | Unknown region | Unknown city",إذاعة القرآن الكريم
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g

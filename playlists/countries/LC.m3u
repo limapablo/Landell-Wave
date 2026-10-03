@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="40269b96-f948-42a3-ab3f-cf7071ad8bdb" group-title="Saint Lucia | Micoud | Anse Ger",REV-UP SLU
+https://caribspy.com/proxy/revupslu/stream
+#EXTINF:-1 tvg-id="cb44f46f-23af-4a5c-bc45-84a4b3999b43" group-title="Saint Lucia | soufriere | Soufrière",RFI 1021 fM
+https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1
+#EXTINF:-1 tvg-id="2af07b02-7a29-403d-bc1c-ab8698af6faf" group-title="Saint Lucia | soufriere | Soufrière",RFI 1021 FM
+https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1
+#EXTINF:-1 tvg-id="7d3634f5-95a7-4761-9ac0-18a04e28afbb" group-title="Saint Lucia | soufriere | Unknown city",RFI 1021 fM
+https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1
+#EXTINF:-1 tvg-id="12cd03ef-e2d6-4f3b-a8f5-ac2774108e7c" group-title="Saint Lucia | soufriere | Unknown city",RFI 1021 fM
+https://usa3.fastcast4u.com/proxy/vaoctave?mp=/1
+#EXTINF:-1 tvg-id="963482a3-0601-11e8-ae97-52543be04c81" group-title="Saint Lucia | Unknown region | Unknown city",Caribbean KISS FM 105.5 Castries
+http://auds2.intacs.com/caribbeankissfm
+#EXTINF:-1 tvg-id="96353c45-0601-11e8-ae97-52543be04c81" group-title="Saint Lucia | Unknown region | Unknown city",Vibe Radio 100.9 & 92.9 Vigie
+http://45.79.186.124/proxy/vyberadio?mp=/stream

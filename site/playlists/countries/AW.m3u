@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bb8c267f-a112-4205-918f-03440401149a" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Aruba | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="41b48ea3-9d7f-434c-998f-4fab1424f36f" tvg-logo="https://masfmaruba.com/wp-content/uploads/2026/05/cropped-masfm-logo.png" group-title="Aruba | Unknown region | Unknown city",MasFM 105.1
+https://c13.radioboss.fm:8647/live?type=.mp3
+#EXTINF:-1 tvg-id="8b3905b1-3cfd-483b-a162-2c854c5cb615" group-title="Aruba | Unknown region | Unknown city",yhju
+http://52.0.120.216:8000/stream/4/

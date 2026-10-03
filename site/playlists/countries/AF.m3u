@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5aec4db9-cdbd-4be5-8771-1ddea31b2819" tvg-logo="https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-apple-touch-icon.ead169771d.png" group-title="Afghanistan | Kabol | Unknown city",BBC UNHCR
+http://stream.live.vc.bbcmedia.co.uk/bbc_pashto_radio
+#EXTINF:-1 tvg-id="dab8a648-5777-4604-9a2c-b2ffa245a6d8" group-title="Afghanistan | Unknown region | Unknown city",.إذاعة ماهر المعيقلي
+https://backup.qurango.net/radio/maher
+#EXTINF:-1 tvg-id="5c9a183a-def9-44f7-ba7f-c3234dbccbfb" group-title="Afghanistan | Unknown region | Unknown city",80s Forever Radio
+http://premium.shoutcastsolutions.com:8050/256.mp3
+#EXTINF:-1 tvg-id="2e1e773f-6937-4713-b2b7-dd16ad71aaa1" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Afghanistan | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="6aaff603-19f0-4840-9288-422b9d600989" group-title="Afghanistan | Unknown region | Unknown city",BEAUTIFUL INSTRUMENTALS
+http://hydra.cdnstream.com/1822_128
+#EXTINF:-1 tvg-id="3715c0d6-eba0-493a-a827-332947b2c41d" tvg-logo="https://i0.wp.com/bluesradio.gr/wp-content/uploads/2021/06/cropped-24-7bug.png?fit=180%2c180&#038;ssl=1" group-title="Afghanistan | Unknown region | Unknown city",Blues Radio Greece
+http://cast3.radiohost.ovh:8352/
+#EXTINF:-1 tvg-id="840acda3-f596-4511-85ef-db089ee2c3fb" group-title="Afghanistan | Unknown region | Unknown city",Bt
+https://bigtunesradio.com:8100/trance.mp3
+#EXTINF:-1 tvg-id="d60e805a-6a69-4392-a74e-cf92a6cdddf2" group-title="Afghanistan | Unknown region | Unknown city",Burj
+http://82.213.26.67:8000/stfeam
+#EXTINF:-1 tvg-id="00cfb1fc-268a-46bb-8e21-52f2681232a8" group-title="Afghanistan | Unknown region | Unknown city",cool93
+https://coolism-web3rd.cdn.byteark.com/;stream/1
+#EXTINF:-1 tvg-id="7545eb39-548d-4b15-a00c-3c6d8d4d58d5" group-title="Afghanistan | Unknown region | Unknown city",Cosmo hi
+https://wdr-cosmo-live.icecastssl.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="d6a47232-c713-4c9d-80cc-d0a3550a457d" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Afghanistan | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.flac.ogg
+#EXTINF:-1 tvg-id="502058d6-d209-4136-9539-0ab5ad7a46dd" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Afghanistan | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.aac
+#EXTINF:-1 tvg-id="aed90d76-548c-4916-800b-e8b50f0dbf6f" group-title="Afghanistan | Unknown region | Unknown city",DirtyBass.FM
+http://dirtybass.fm:8000/dirtybass.mp3
+#EXTINF:-1 tvg-id="1bb91490-1b5f-4d91-bcf0-f82e10c31ff3" tvg-logo="https://www.exafm.com/favicon.ico" group-title="Afghanistan | Unknown region | Unknown city",EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 tvg-id="6700e27f-33e3-4cf9-8340-df12ba8a418b" group-title="Afghanistan | Unknown region | Unknown city",Indieparty by Greensleeves
+http://stream.laut.fm/indieparty
+#EXTINF:-1 tvg-id="4359d779-144a-42cc-a3f3-5130c59a3db4" tvg-logo="https://www.kqed.org/favicon.ico" group-title="Afghanistan | Unknown region | Unknown city",KQED
+http://streams.kqed.org/kqedradio.m3u
+#EXTINF:-1 tvg-id="829fd981-fee1-4771-a488-2b932fa62509" group-title="Afghanistan | Unknown region | Unknown city",MEGASTAR FM
+https://megastar-cope.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="fa801231-808f-4adb-8c3b-09c06258ac3a" group-title="Afghanistan | Unknown region | Unknown city",MOMENTO LOVE GOSPEL
+http://stream.zeno.fm/526wmr2en98uv
+#EXTINF:-1 tvg-id="2b48e089-84cb-4c38-99a5-fefb907fcbd7" group-title="Afghanistan | Unknown region | Unknown city",ofm stasie2
+https://edge.iono.fm/xice/47_high.aac
+#EXTINF:-1 tvg-id="f9c4210b-b846-48e1-8bff-2fe3139d4394" group-title="Afghanistan | Unknown region | Unknown city",PIRAT FM
+https://c22.radioboss.fm:18416/piratfm
+#EXTINF:-1 tvg-id="e8e74398-a58f-4b71-ac5b-d32539dc3e85" group-title="Afghanistan | Unknown region | Unknown city",R.Radio
+https://metromedia.live24.gr/republicthess
+#EXTINF:-1 tvg-id="a2f1ccc3-7def-4d32-879a-e5214e87d963" group-title="Afghanistan | Unknown region | Unknown city",radiowelle24
+http://stream.laut.fm/rw24
+#EXTINF:-1 tvg-id="93f09e87-4bd8-485d-9c5c-d5e219c0f7e5" group-title="Afghanistan | Unknown region | Unknown city",rpw
+https://radiostream.pl/tuba140-1.mp3
+#EXTINF:-1 tvg-id="d611bf5f-988e-418d-b017-400762ac2a30" tvg-logo="https://lh3.googleusercontent.com/EF40cnl-b_gX3KzobI3RilihA8afYjhQguNPl4XDqlDwm1M1EfRibkful2GE3qiTkw=s75-rw" group-title="Afghanistan | Unknown region | Unknown city",Sha3by FM
+https://radio95.radioca.st/stream/1/
+#EXTINF:-1 tvg-id="e6f665d6-7b25-470f-be78-e25fbb6a5882" group-title="Afghanistan | Unknown region | Unknown city",Simulator FM
+https://simulatorfm.stream:8025/320Kbps
+#EXTINF:-1 tvg-id="9ff345e4-439d-4054-8108-9df5af8d0bdd" group-title="Afghanistan | Unknown region | Unknown city",Монте Карло ВЛ
+http://194.58.122.69:8000/mcvl
+#EXTINF:-1 tvg-id="edfd9911-c6d0-4497-94ed-5bb2f5a268e6" group-title="Afghanistan | Unknown region | Unknown city",Русское радио ВЛ
+http://194.58.122.69:8000/rrvl
+#EXTINF:-1 tvg-id="59168f9f-2b64-439e-8dce-9dad4909dd5e" group-title="Afghanistan | Unknown region | Unknown city",اذاعة القرآن الكريم
+http://stream.radiojar.com/0tpy1h0kxtzuv
+#EXTINF:-1 tvg-id="2a8742f9-fadb-431b-bf82-f14fb7222c50" group-title="Afghanistan | Unknown region | Unknown city",مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir

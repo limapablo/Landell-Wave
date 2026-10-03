@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="bc470798-a62f-4c8b-b22b-8893036c8dee" group-title="Kyrgyzstan | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="43f5812f-3431-4e82-b58f-ddd17d83a9b8" group-title="Kyrgyzstan | Unknown region | Unknown city",Биринчи Radio
+https://liveradio.utrk.kg/1radio
+#EXTINF:-1 tvg-id="01d60203-d360-4695-9496-97ee1300aead" tvg-logo="https://obondoru.kg/wp-content/uploads/2022/08/cropped-logo_png-600-180x180.png" group-title="Kyrgyzstan | Unknown region | Unknown city",Кыргызстан Обондору (Kyrgyzstan Obondoru)
+https://cdn.radioplayer.kg:8443/obondoru64

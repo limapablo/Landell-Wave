@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="96414555-0601-11e8-ae97-52543be04c81" group-title="Morocco | Casablanca | Unknown city",Radio Aswat
+http://broadcast.ice.infomaniak.ch/aswat-high.mp3?.mp3
+#EXTINF:-1 tvg-id="a0357a8d-b426-4e35-8d34-3fdd1f17115b" tvg-logo="https://www.facebook.com/photo/?fbid=845651767579735&set=a.451055430372706" group-title="Morocco | Souss-Massa | Idmine",radio yan plus
+https://stream.zeno.fm/7nqu31p6xg0uv
+#EXTINF:-1 tvg-id="566d6bd3-b87a-4ead-bdb0-732e6eb9d62a" group-title="Morocco | Unknown region | Unknown city",. القارئ محمد أيوب
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="5239ee66-a75a-43b2-97d4-ae5b240ebc34" group-title="Morocco | Unknown region | Unknown city",.. مختصر التفسير
+https://qurango.net/radio/mukhtasartafsir
+#EXTINF:-1 tvg-id="c800c2fd-b665-4841-a513-261ce3546da3" tvg-logo="https://radiolive.ma/logos/achkid-fm.png" group-title="Morocco | Unknown region | Unknown city",ACHKID FM
+https://stream.zeno.fm/7nqu31p6xg0uv
+#EXTINF:-1 tvg-id="a182e5ba-a840-40bf-9e51-01bef3ad9e24" tvg-logo="https://infoplus60.blogspot.com/favicon.ico" group-title="Morocco | Unknown region | Unknown city",Aziz Mustaphi
+https://d3ctxlq1ktw2nl.cloudfront.net/production/2022-0-3/240607172-44100-2-afb2485b0c30e.mp3
+#EXTINF:-1 tvg-id="b8807476-2ada-4600-9dc0-7b501691afc1" group-title="Morocco | Unknown region | Unknown city",bldi
+http://beldifm.hf.ma/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="bd0dfbbf-7594-4980-98de-8311c4522b2e" group-title="Morocco | Unknown region | Unknown city",Capradio
+https://listen.radioking.com/radio/710810/stream/776366
+#EXTINF:-1 tvg-id="f622d310-df86-4ffb-850e-4941e364c22b" tvg-logo="https://chada.ma/wp-content/uploads/2022/09/cropped-LOGO-CHADA-NEW-1.png" group-title="Morocco | Unknown region | Unknown city",Chada FM
+https://stream.bodkas.com/playlist?id=chadafmradio
+#EXTINF:-1 tvg-id="5d0a7faa-25c4-4385-9d9e-aa4e89213c6f" tvg-logo="https://radiolive.ma/icons/Marrakech%20Plus.jpg" group-title="Morocco | Unknown region | Unknown city",Marrakech Plus
+https://cast5.my-control-panel.com/proxy/marrakec/stream
+#EXTINF:-1 tvg-id="91ec0c03-f58c-4e42-a034-067a22f867d3" tvg-logo="https://api.medinafm.ma/uploads/0a75b43e-0a49-418a-9ca5-b3bcc3428d27-w320.webp" group-title="Morocco | Unknown region | Unknown city",Medina FM (128 kbps)
+https://medinafm.ice.infomaniak.ch/medinafm-128.mp3
+#EXTINF:-1 tvg-id="5c9aa341-31f9-4c76-a5b8-aea612006ff9" tvg-logo="https://api.medinafm.ma/uploads/11ee4925-5901-4d5f-81f3-23db7b0a3fa6-w320.webp" group-title="Morocco | Unknown region | Unknown city",Medina FM Amazigh (128 kbps)
+https://medinaamazigh.ice.infomaniak.ch/medinaamazigh-128.mp3
+#EXTINF:-1 tvg-id="136e67ff-f7af-40cd-acbf-2b07ff116f54" group-title="Morocco | Unknown region | Unknown city",MRC:-Radio Adwaa Music 3
+https://stream.zeno.fm/x4451xh0x1zuv
+#EXTINF:-1 tvg-id="9f26b055-db67-447a-81e6-ddb5c8c40dc3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtMreguvYInAS9F80xUJvDuOjjQeeiH46CmBlYl8629A&s" group-title="Morocco | Unknown region | Unknown city",Radio Adwaa FM 6
+https://stream.zeno.fm/tvxvud2kpm0uv
+#EXTINF:-1 tvg-id="13f7e33d-2b28-4c73-9634-e49ee2c0ae99" tvg-logo="https://radioazawan.ma/redio/azawan.svg" group-title="Morocco | Unknown region | Unknown city",Radio Azawan
+https://az-maroc.ice.infomaniak.ch/az-maroc-64.aac
+#EXTINF:-1 tvg-id="a9d04fb3-fd0e-4dbd-877e-5dd2d5d6e618" tvg-logo="https://radiolive.ma/logos/radio-sawt-alamal.png" group-title="Morocco | Unknown region | Unknown city",Radio Sawt Alamal
+https://stream.zeno.fm/qgw73bqh5qruv
+#EXTINF:-1 tvg-id="26c23dc4-1b31-473c-a9c4-746d9c7ae77b" tvg-logo="https://non-stop-radio.blr1.cdn.digitaloceanspaces.com/new_images/radio/64429.png" group-title="Morocco | Unknown region | Unknown city",Tarab Radio
+https://stream.zeno.fm/fy8achbq97zuv
+#EXTINF:-1 tvg-id="dae1a80a-3fd7-433d-a805-4ede99e568b2" tvg-logo="https://static.yabiladi.com/images_new/logo_2_yab.png?4" group-title="Morocco | Unknown region | Unknown city",Yabiladi Radio
+https://radio.yabiladi.com:8002/;stream.mp3

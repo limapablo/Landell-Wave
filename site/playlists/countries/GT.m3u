@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="eb5366ae-d727-405e-91b8-04a4638eb1ec" group-title="Guatemala | Ciudad de Guatemala | Guatemala City",Actitud 100.9 FM
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 tvg-id="7567754c-e4e1-45c6-bd92-c41dc58ef78c" group-title="Guatemala | Ciudad de Guatemala | Guatemala City",Clásica 102.5 Guatemala
+https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac
+#EXTINF:-1 tvg-id="6d8ecd31-9028-4af1-bf56-7f479725f76c" group-title="Guatemala | Guatemala | Santa Catarina Pinula",Radio Universidad
+https://stream.zeno.fm/xqbz7b86a0quv
+#EXTINF:-1 tvg-id="9b64520a-ae4e-4f41-aaeb-9fc3f635bd4a" tvg-logo="https://actitud.fm/apple-touch-icon.png" group-title="Guatemala | Guatemala | Villa Canales",Radio Actitud
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 tvg-id="bf7cee32-2b45-4dfe-8214-4ece107e00fb" group-title="Guatemala | huehuetenango | Unknown city",Radio Romance
+https://stream.zeno.fm/gnkysrxv3a0uv
+#EXTINF:-1 tvg-id="8267a007-29f2-4714-a369-10051e59092a" group-title="Guatemala | Quetzaltenango | Unknown city",RADIO ESLA
+http://stream.zeno.fm/wdr15uyuezzuv
+#EXTINF:-1 tvg-id="232d21ef-424c-4e8d-8835-9580253c7c9f" group-title="Guatemala | Santa Cruz | Unknown city",FeLove Biblia en Quiché
+http://radio.produccionescasaverde.com:8788/autodj
+#EXTINF:-1 tvg-id="e086003c-be27-4196-ab39-22839bbf5384" tvg-logo="https://www.radiosolola.com.gt/images/favicon.ico" group-title="Guatemala | Sololá | Panajachel",Radio Sololá
+https://sh1.radioonlinehd.com:8039/stream
+#EXTINF:-1 tvg-id="d24b0c0d-20c0-4825-973a-9320b2c7dd27" tvg-logo="https://949.com.gt/wp-content/uploads/2023/08/Untitled-Logo.jpg" group-title="Guatemala | Unknown region | Unknown city",94.9 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/949FM_ADP.m3u8
+#EXTINF:-1 tvg-id="b3d9086b-56a2-4a5b-9a4b-d4e2f0bc7769" group-title="Guatemala | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="06c833c3-6945-41d2-afef-b7ae14adcfe6" group-title="Guatemala | Unknown region | Unknown city",Actitud 100.9 FM Guatemala
+https://ss.redradios.net:8002/stream?type=.mp3
+#EXTINF:-1 tvg-id="8fa910da-e133-43c4-8cd8-6dd991e2fb9f" tvg-logo="https://caribean.rcdn.com.gt/wp-content/uploads/2021/08/Logo-1024.png" group-title="Guatemala | Unknown region | Unknown city",Caribean FM 105.1
+https://sh4.radioonlinehd.com:8547/stream
+#EXTINF:-1 tvg-id="4a8e1e3e-a125-4183-a66d-e747a8ddb9fe" group-title="Guatemala | Unknown region | Unknown city",Computer Forensic Radio
+https://radio.forensedigital.gt:8020/stream
+#EXTINF:-1 tvg-id="5e24cb0b-858a-4c8a-8604-e49b4eab8536" group-title="Guatemala | Unknown region | Unknown city",EMAUS RADIO
+https://sh2.radioonlinehd.com:8141/;
+#EXTINF:-1 tvg-id="3a42c4b4-d48a-4f22-b1d5-696a1fe89688" tvg-logo="https://i0.wp.com/solar983.com/wp-content/uploads/2024/01/cropped-983.png?fit=127%2C88&ssl=1" group-title="Guatemala | Unknown region | Unknown city",Estéreo Solar 98.3 FM
+https://radiostreamingaac.com:8562/solarjutiapa
+#EXTINF:-1 tvg-id="24fa03f8-4be0-40ad-b861-9395fdf57ed5" tvg-logo="https://eventoscatolicos.org/wp-content/uploads/2024/01/cropped-Logo-Eventos-Site.png" group-title="Guatemala | Unknown region | Unknown city",Eventos Catolicos Radio 940 AM
+https://stream.zeno.fm/1g9cduy10bruv
+#EXTINF:-1 tvg-id="a98c40bc-cdb6-4606-b3ee-a48515e26e96" tvg-logo="https://clasica.radiofelove.com/wp-content/uploads/2020/04/cropped-feloveclasica.jpg" group-title="Guatemala | Unknown region | Unknown city",FeLove Clásica
+https://feloveclasica-radiofelove.radioca.st/stream?1741424230037
+#EXTINF:-1 tvg-id="3a4bea5a-1aa1-4e73-bc6c-50737a4558f5" tvg-logo="https://www.futuraradio.com.gt/assets/img/futura_923.png" group-title="Guatemala | Unknown region | Unknown city",Futura 92.3
+https://unsaved-gadfly-addilyn.ngrok-free.dev/mystream.mp3
+#EXTINF:-1 tvg-id="56f04d9e-74e3-42d4-a4af-af98838fe28d" tvg-logo="https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png" group-title="Guatemala | Unknown region | Unknown city",Josy Music Latin
+https://dj91.hostingnuclear.com/8144/stream
+#EXTINF:-1 tvg-id="6e5c4789-21ff-469c-9b2c-c0661b2d2b33" tvg-logo="https://www.josymusiclive.com/assets/images/logojosymusiclive-121x121.png" group-title="Guatemala | Unknown region | Unknown city",Josy Music Swing
+https://dj91.hostingnuclear.com/8146/stream
+#EXTINF:-1 tvg-id="79f1962a-f6f0-4972-a6c4-1ca4fc3247e0" tvg-logo="https://juventudpalabramiel.org/images/radiojuventud.jpg" group-title="Guatemala | Unknown region | Unknown city",Juventud Palabra Miel
+http://juventudpalabramiel.org:8000/radio
+#EXTINF:-1 tvg-id="9f9f270f-4338-42f9-9e39-fb41ffba9c8a" tvg-logo="https://cdn-radiotime-logos.tunein.com/s201805q.png" group-title="Guatemala | Unknown region | Unknown city",Maranatha Stereo Amen
+https://server.radiogs.net:7042/;
+#EXTINF:-1 tvg-id="e9fafede-ff87-4595-b513-3ef8b828741e" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/27023.v6.png" group-title="Guatemala | Unknown region | Unknown city",Radio 107 Exito - 107.1 FM
+http://play10.tikast.com:8159/stream
+#EXTINF:-1 tvg-id="1378d991-a369-43a9-a6c9-db52dc055f66" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/rZq3pt23v9.jpg" group-title="Guatemala | Unknown region | Unknown city",Radio Amiga 93.3 FM
+http://radiolatina.live:8072/;
+#EXTINF:-1 tvg-id="31c5257a-5a88-11e9-a622-52543be04c81" group-title="Guatemala | Unknown region | Unknown city",RADIO MARIA GUATEMALA
+http://dreamsiteradiocp.com:8072/stream
+#EXTINF:-1 tvg-id="bbee701c-ee33-428e-9df3-470cda9e7f9e" group-title="Guatemala | Unknown region | Unknown city",Radio Mesiánica
+https://felovemesianica-radiofelove.radioca.st/stream

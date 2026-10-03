@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="41846536-292f-4304-be91-f2f9c2d7cd84" tvg-logo="https://mp3islam.com/favicon.ico" group-title="American Samoa | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="7eb65cc2-7d74-4026-817d-882b92462e7d" tvg-logo="https://us7.streamingpulse.com/2826/index.php" group-title="American Samoa | Unknown region | Unknown city",Christmas 356 Santa's Radio
+https://us3.streamingpulse.com/ssl/7038
+#EXTINF:-1 tvg-id="ed08409b-0828-4e2d-be38-8e317ec61de8" tvg-logo="https://www.exafm.com/favicon.ico" group-title="American Samoa | Unknown region | Unknown city",EXA FM: Pop musika i le Igilisi ma le Sipaniolo
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac
+#EXTINF:-1 tvg-id="4c23b51d-c99a-42b9-8b47-eed44cebbf7c" group-title="American Samoa | Unknown region | Unknown city",WMIL 106.1 FM
+https://stream.revma.ihrhls.com/zc2677/hls.m3u8?streamid=2677

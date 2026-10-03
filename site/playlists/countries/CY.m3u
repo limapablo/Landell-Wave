@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="73e9c84f-87cd-4c11-bb8d-492caa909c11" tvg-logo="https://feelgood.fm/wp-content/uploads/2025/01/Logo-600x600-1.png" group-title="Cyprus | Ammochostos | Protaras",FEELGOOD.FM
+https://radio.feelgood.fm/mp3
+#EXTINF:-1 tvg-id="63a0ac79-2cf3-4ff0-b51c-a793af62bf00" tvg-logo="https://github.com/akannetis/Odoiporoi/blob/main/radio_toa_logo.jpg" group-title="Cyprus | Larnaka | Larnaca",Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
+#EXTINF:-1 tvg-id="809bfa2b-89b0-4cf6-b414-9f38a50d358c" tvg-logo="https://github.com/akannetis/Odoiporoi/blob/main/radio_toa_logo.jpg" group-title="Cyprus | Larnaka | Larnaca",Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
+#EXTINF:-1 tvg-id="b2ab79d2-1954-4cf1-944c-46fa90b9021b" tvg-logo="https://www.mixfmradio.com/upload/design/5d79f253b101f9.01147538.png" group-title="Cyprus | Nicosia | Aredioú",MixFM Cyprus
+https://link.radiojar.com/c27wx6pdh8vtv
+#EXTINF:-1 tvg-id="90a9493d-1735-45a4-bf6b-4d85eac05066" group-title="Cyprus | Nicosia | Unknown city",Enerji
+https://live.enerjiplay.com/stream/enerji
+#EXTINF:-1 tvg-id="7e738aa1-e7af-4e4f-81f4-c1bcd0668e22" tvg-logo="https://i.ibb.co/PvF4MK0D/20260919-231600.jpg" group-title="Cyprus | Nicosia | Unknown city",Greek Laika Nonstop Radio
+https://radio.greeklaika.com/listen/greek_laika_nonstop_radio/radio.mp3
+#EXTINF:-1 tvg-id="fbf1fde9-c0dd-4e04-b6dd-fc7a93284214" group-title="Cyprus | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="9660917f-ce43-11e8-a54a-52543be04c81" tvg-logo="https://tpc.googlesyndication.com/simgad/9820055778066934470" group-title="Cyprus | Unknown region | Unknown city",Diesi Cyprus 101.1
+http://r1.cloudskep.com/radio/diesi/icecast.audio
+#EXTINF:-1 tvg-id="5f9e8bee-c061-47d8-9fd7-9bb2dcf99c2f" tvg-logo="https://www.mix4.me/favicon.ico" group-title="Cyprus | Unknown region | Unknown city",Mix4.me uplifitng trance web radio
+https://s9.webradio-hosting.com/proxy/mix4me/stream
+#EXTINF:-1 tvg-id="b64686da-19c2-419b-8371-6d4aeb3b5e9e" tvg-logo="https://www.mix4.me/favicon.ico" group-title="Cyprus | Unknown region | Unknown city",Mix4.me uplifitng trance web radio
+http://142.132.213.6:8497/stream
+#EXTINF:-1 tvg-id="7a0523b9-8d11-4be9-b50a-18343bf8cc8c" tvg-logo="https://www.reymod.com/img/apple-touch-icon.png" group-title="Cyprus | Unknown region | Unknown city",Radio ReyMod
+https://server.streamcasthd.com:7092/;
+#EXTINF:-1 tvg-id="e92ac83b-8562-48a3-bb01-5e9d9fc248cf" tvg-logo="https://github.com/akannetis/Odoiporoi/blob/main/radio_toa_logo.png" group-title="Cyprus | Unknown region | Unknown city",Radio T.O.A
+https://live3.istoikona.net/proxy/radiotoa/stream
+#EXTINF:-1 tvg-id="2e1501dc-dbb8-47d2-bca6-e848107d22c4" tvg-logo="https://radioturbo21.com/favicon.ico" group-title="Cyprus | Unknown region | Unknown city",Radio Turbo21
+https://radioturbo21.com/radio/stream
+#EXTINF:-1 tvg-id="46927910-5bd1-4142-aac9-73e12942e9d3" tvg-logo="https://sport-fm.com.cy/wp-content/uploads/2024/06/cropped-cropped-cropped-logo.png" group-title="Cyprus | Unknown region | Unknown city",Super Sport FM
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1 tvg-id="6c543391-af11-46b2-a169-f59bf37df92a" tvg-logo="https://sport-fm.com.cy/wp-content/themes/dm-sportfm/images/favicons/apple-icon-114x114.png" group-title="Cyprus | Unknown region | Unknown city",Super Sport FM 104.0
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
+#EXTINF:-1 tvg-id="8e24da89-1180-11e8-ae97-52543be04c81" tvg-logo="https://control.divio.com/static/favicon.png" group-title="Cyprus | Unknown region | Unknown city",Tetarto Live
+http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
+#EXTINF:-1 tvg-id="77bf34c0-087b-11e8-ae97-52543be04c81" tvg-logo="https://control.divio.com/static/favicon.png" group-title="Cyprus | Unknown region | Unknown city",Trito Live
+http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
+#EXTINF:-1 tvg-id="f755cfdd-7d89-409d-84b7-a7fa8158589d" group-title="Cyprus | Unknown region | Unknown city",VIVA FM 104.3
+https://stream1.themediasite.co.uk/8060/stream
+#EXTINF:-1 tvg-id="a217bafc-5165-46cf-9d78-142809f9efe8" tvg-logo="https://resources.live24.gr/resources/images/stations/c69cf970-f33b-4c0e-ac4e-5a5ab8d17c81.png" group-title="Cyprus | Unknown region | Unknown city",Ναυάγιο
+https://radio-navagio.com/stream
+#EXTINF:-1 tvg-id="32b7a6bb-40f4-4166-a7d8-73c6ea4ab8dc" group-title="Cyprus | Unknown region | Unknown city",Σπορ FM 95.0
+http://eradio.networksolutions.com.cy:1935/SportFM/SportFM.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="76b72808-097a-4777-91db-6641628e2c34" tvg-logo="https://ccnnetwork.cn/wp-content/uploads/2021/07/newccnlogo2021.png" group-title="Cyprus | Unknown region | Unknown city",塞浦路斯CCN欧洲中国平台
+https://cdn.istoikona.com/ccnrtv/live/playlist.m3u8

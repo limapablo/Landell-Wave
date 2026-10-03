@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="44875c1d-b7b7-4aeb-b7ee-c02a90364509" tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan | #qa | Chita",Chifuru!
+https://157.254.194.202/stream/nanahira@256
+#EXTINF:-1 tvg-id="1dc4dfd4-a8fb-4e76-a339-9fcb478c5769" tvg-logo="https://cdn.comic.studio/avatars/37112.3f07b3e0a35911883b8180c5658acbe0.png" group-title="Japan | #qa | Unknown city",Chifuru!
+https://157.254.194.202/stream/nanahira@256
+#EXTINF:-1 tvg-id="a36cb1a5-f9b5-4739-a86a-987d256b7d0e" group-title="Japan | Kanagawa | Fujisawa",J-Club Club Bandstand
+https://cast1.torontocast.com:2060/;.mp3
+#EXTINF:-1 tvg-id="e0f2f4cb-d4c3-48ee-8668-333329e158e0" tvg-logo="https://moremalc.com/japanhits188.jpg" group-title="Japan | Kanagawa | Yokohama",Japan Hits - asia DREAM radio
+http://quincy.torontocast.com:2020/stream.mp3
+#EXTINF:-1 tvg-id="a9034ee4-f44a-4d55-b2bc-18b854434fa7" group-title="Japan | Kobe | Unknown city",RadiCro (レディクロ)
+https://radicrojapan.out.airtime.pro/radicrojapan_a
+#EXTINF:-1 tvg-id="1bca74bf-82e7-4631-87b6-1e96be3bae43" tvg-logo="https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico" group-title="Japan | Osaka | Tsumori",SOUND UP STATION NFRS
+https://stream2.rcast.net/70945
+#EXTINF:-1 tvg-id="149b595b-9490-4cf9-9e25-8bc46806d75a" tvg-logo="https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg" group-title="Japan | Osaka | Unknown city",NFRS Radio
+https://securestreams.autopo.st:2592/stream?t=1769818665235
+#EXTINF:-1 tvg-id="af566e6b-3d2b-4b96-92ca-a9cb183e6fd8" group-title="Japan | Tokyo | Futtsu",Free FM Tokyo
+https://rocafmadrid.radioca.st/
+#EXTINF:-1 tvg-id="5a2cbfe7-0518-44e9-aca6-0fd41e466ff0" group-title="Japan | Tokyo | Unknown city",Fred Film Radio(日本語)
+https://s10.webradio-hosting.com/proxy/fredradiojp/stream
+#EXTINF:-1 tvg-id="813c17ee-abc0-46ce-974f-6640a3909d3c" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan | tokyo | Unknown city",NHK WORLD RADIO 11
+https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8
+#EXTINF:-1 tvg-id="3ffcb994-70f1-4040-bc24-142e680ecc96" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan | tokyo | Unknown city",NHK WORLD RADIO 4
+http://streaming.edmradio.online:8025/nhk41left
+#EXTINF:-1 tvg-id="0ab05ce4-de0b-4c9d-9772-a9787354c3f7" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg" group-title="Japan | tokyo | Unknown city",NHK WORLD RADIO 5
+http://shoutcast.wrn.org:8025/nhk41right
+#EXTINF:-1 tvg-id="dfaa1037-4c8b-445c-a230-fb96b812db99" group-title="Japan | tokyo | Unknown city",otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)
+http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3
+#EXTINF:-1 tvg-id="f96b2ae2-fe8c-4248-a92d-3c86ebc8f50c" group-title="Japan | tokyo | Unknown city",yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)
+http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3
+#EXTINF:-1 tvg-id="82ba1708-15ba-424e-9697-cca597e74372" group-title="Japan | Unknown region | Unknown city",#Radio Quran
+https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g
+#EXTINF:-1 tvg-id="f224c900-8796-4063-8aca-0bb3afd8507f" tvg-logo="https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg" group-title="Japan | Unknown region | Unknown city",A Radio for ACG & others
+https://hkradio.myaddr.io/listen/new_radio/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF
+#EXTINF:-1 tvg-id="1adf1539-e647-44c3-85d8-b437b768fb8c" tvg-logo="https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp" group-title="Japan | Unknown region | Unknown city",Anime Para Ti
+https://stream.zeno.fm/qpn8mkt8c4duv
+#EXTINF:-1 tvg-id="ce46492b-3512-48e5-bf12-e992df4b4906" group-title="Japan | Unknown region | Unknown city",Big B Radio #JPOP
+https://antares.dribbcast.com/proxy/jpop?mp=/s
+#EXTINF:-1 tvg-id="90cbb60b-5a04-4e3a-aa30-5dc9307070e7" tvg-logo="https://assets.radioapi.me/radios/01J65CR99GVHS3A7CT7D53C415.jpg" group-title="Japan | Unknown region | Unknown city",BOX : Japan City Pop - 日本のシティポップ
+https://play.streamafrica.net/japancitypop
+#EXTINF:-1 tvg-id="b6512cd8-9b4d-4b25-82a6-3fcd9a6273c6" tvg-logo="https://stream.gensokyoradio.net/images/logo.png" group-title="Japan | Unknown region | Unknown city",Gensokyo Radio (Enhanced)
+https://stream.gensokyoradio.net/3
+#EXTINF:-1 tvg-id="e0763775-fdb9-4f6d-b88e-057165cb283c" tvg-logo="https://stream.gensokyoradio.net/images/logo.png" group-title="Japan | Unknown region | Unknown city",Gensokyo Radio (OGG)
+https://stream.gensokyoradio.net/2
+#EXTINF:-1 tvg-id="deff64de-b1f4-442e-832c-1180917ac894" tvg-logo="https://www.hitsujikai-radio.com/favicon.ico" group-title="Japan | Unknown region | Unknown city",Hitsujikai Radio
+http://streaming.radio.co/se4a8e6a93/listen
+#EXTINF:-1 tvg-id="bc33ea37-3935-41a5-bf9f-788496ef6959" group-title="Japan | Unknown region | Unknown city",J-Club Powerplay HipHop
+https://kathy.torontocast.com:3350/;
+#EXTINF:-1 tvg-id="7ea8bc67-c0b9-4cc6-b1bd-f3e1770fad74" tvg-logo="https://moremalc.com/jc512.jpeg" group-title="Japan | Unknown region | Unknown city",J-Pop Christmas
+https://cast3.torontocast.com:1170/;
+#EXTINF:-1 tvg-id="f72771a3-cf3a-4cc5-af91-2493ca31c54d" tvg-logo="https://moremalc.com/natsukashii.jpeg" group-title="Japan | Unknown region | Unknown city",J-Pop Sakura (asia DREAM radio)
+https://quincy.torontocast.com:2070/stream.mp3
+#EXTINF:-1 tvg-id="32d5e5ac-e196-4451-9193-bd41a7961556" group-title="Japan | Unknown region | Unknown city",J1 Gold (HTTP)
+http://jenny.torontocast.com:8062/
+#EXTINF:-1 tvg-id="3c5dc353-b1ce-43be-a361-ae555535a2b0" group-title="Japan | Unknown region | Unknown city",J1 Hits (HTTP)
+http://jenny.torontocast.com:8056/
+#EXTINF:-1 tvg-id="f281de6d-4daf-4b29-b3f9-683f361907da" tvg-logo="https://moremalc.com/japanhits188.jpg" group-title="Japan | Unknown region | Unknown city",Japan Hits - asia DREAM radio
+http://quincy.torontocast.com:2020/stream.mp3
+#EXTINF:-1 tvg-id="f2e726c1-9cae-4a1f-baa8-da29be891dec" group-title="Japan | Unknown region | Unknown city",Japan2
+http://quincy.torontocast.com:2070/stream.mp3
+#EXTINF:-1 tvg-id="9766d47a-68a3-4a30-8aec-c026f1ec6020" group-title="Japan | Unknown region | Unknown city",Jazz Sakura (asia dream radio)
+http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3
+#EXTINF:-1 tvg-id="4321bd6c-19e8-4f5e-ae57-bf7e62416b4b" group-title="Japan | Unknown region | Unknown city",JPopsuki Radio
+http://65.21.170.149:8000/stream
+#EXTINF:-1 tvg-id="405566fa-dd30-437e-b20b-934fcdbe768f" group-title="Japan | Unknown region | Unknown city",Kamakura FM
+https://stream.laut.fm/kamakura
+#EXTINF:-1 tvg-id="48e7bd4a-3252-478e-af70-43f7e91d4ea5" group-title="Japan | Unknown region | Unknown city",Kawaii Anime Radio
+http://158.69.227.214:8137/stream
+#EXTINF:-1 tvg-id="ba5af88c-6fa9-4f56-990f-c0eaaf7c37ba" tvg-logo="https://listen.moe/favicon.ico" group-title="Japan | Unknown region | Unknown city",Listen.Moe JPop Vorbis
+https://listen.moe/stream
+#EXTINF:-1 tvg-id="e4e4d123-0616-11ea-afd6-52543be04c81" tvg-logo="https://listen.moe/favicon.ico" group-title="Japan | Unknown region | Unknown city",Listen.Moe JPop Vorbis
+https://listen.moe/stream
+#EXTINF:-1 tvg-id="9d4aa07b-f080-4d6c-87e8-15c080c72dd2" tvg-logo="https://miku.fm/static/uploads/browser_icon/60.1740888865.png" group-title="Japan | Unknown region | Unknown city",Miku Radio
+https://miku.fm/listen/miku/flac
+#EXTINF:-1 tvg-id="04d1eabe-f19d-11e8-a471-52543be04c81" group-title="Japan | Unknown region | Unknown city",Moon Mission Recordings
+http://uk5.internet-radio.com:8306/
+#EXTINF:-1 tvg-id="d37f6140-a3c4-4b91-9d2c-801894a4c53d" tvg-logo="https://static.wixstatic.com/media/b4e9b8_d568257bd6474ac0ad5ea280d38461e4~mv2.png/v1/fill/w_403,h_406,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MOON%20MISSION%202_0%20%E3%83%AD%E3%82%B4%E3%80%80%E9%BB%92%E3%80%801000x1000.png" group-title="Japan | Unknown region | Unknown city",Moon Mission Recordings, Tokyo Deep and Electronic
+https://uk5.internet-radio.com/proxy/mmr?mp=/stream;
+#EXTINF:-1 tvg-id="661c6656-d27e-45dc-b60a-7f77e2c989a5" tvg-logo="https://plaza.one/icons/apple-touch-icon.png" group-title="Japan | Unknown region | Unknown city",Nightwave Plaza (Opus 64)
+http://radio.plaza.one/ogg_low
+#EXTINF:-1 tvg-id="c82efc64-c6d6-4ab8-824d-599a9612b9ac" tvg-logo="https://plaza.one/icons/apple-touch-icon.png?v=7knqx0ar5k" group-title="Japan | Unknown region | Unknown city",Nightwave Plaza MP3 182
+http://radio.plaza.one/mp3
+#EXTINF:-1 tvg-id="0d926201-13b3-4e14-9348-68b7666be53d" group-title="Japan | Unknown region | Unknown city",R/a/dio
+https://relay0.r-a-d.io/main.mp3
+#EXTINF:-1 tvg-id="875ad2de-f6a2-44e8-95b2-0d197dc66123" tvg-logo="https://www.radicro.com/images/company/main.jpg" group-title="Japan | Unknown region | Unknown city",RadiCro
+https://radicrojapan.out.airtime.pro/radicrojapan_b
+#EXTINF:-1 tvg-id="fc7ccfdf-6e00-4d68-bb57-c8bf881510a0" group-title="Japan | Unknown region | Unknown city",SHMUPRADIO
+https://stream.shmupradio.com/320
+#EXTINF:-1 tvg-id="907271e6-0c55-4342-b344-468206e831f2" group-title="Japan | Unknown region | Unknown city",tilderadio
+https://tilderadio.org/listen
+#EXTINF:-1 tvg-id="50a6d113-5dde-4e2f-beb2-404c6e7cabd6" tvg-logo="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vrctv.jp/&size=128" group-title="Japan | Unknown region | Unknown city",VRC放送局
+https://vrc.gate.vrtv.jp/live?p=g&u=d
+#EXTINF:-1 tvg-id="72f14258-8fb1-40d3-a161-426e2832a947" group-title="Japan | Unknown region | Unknown city",WREP
+http://c13.radioboss.fm:8200/stream

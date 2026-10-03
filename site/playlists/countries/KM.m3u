@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e109a504-99de-4eb2-b071-9b6e7b1c072b" group-title="The Comoros | Grande Comore | Bahani",Radio Chifa
+http://www.radiochifa.fr:8000/main
+#EXTINF:-1 tvg-id="1fe1fa88-57f6-4dc1-b56e-b96f264fd866" group-title="The Comoros | Grande Comore | Bahani",Radio Chifa
+http://164.132.107.52:8000/main
+#EXTINF:-1 tvg-id="2a72e5f6-f1c4-4da6-9721-9ea401a4f931" group-title="The Comoros | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3

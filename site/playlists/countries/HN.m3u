@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="a99825c0-67ae-41c8-bd89-da28b5b9b4a7" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/052/estereo-clase.a99aaac8.png" group-title="Honduras | Cortés | Unknown city",Estereo Clase 92.9 FM
+https://stream.zeno.fm/k6grbcx0zceuv
+#EXTINF:-1 tvg-id="68fc7deb-a3c6-4562-b402-b47be67e9a67" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/jhwUyNznv3.png" group-title="Honduras | Cortés | Unknown city",FM FAMA 97.7
+https://s9.myradiostream.com/:46498/stream
+#EXTINF:-1 tvg-id="09b1f979-a307-4fdd-bacd-ffdaabe23921" group-title="Honduras | Just Dubai | Unknown city",GD Dubai
+https://streaming.exclusive.radio/er/gratefuldead/icecast.audio
+#EXTINF:-1 tvg-id="42800d21-bb2e-43d0-a4e4-2e0567479c62" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fUUCyJC8RU.png" group-title="Honduras | Tegucigalpa | Tegucigalpa",Vox FM Honduras - Tegucigalpa 101.7 FM - San Pedro Sula 106.1 FM
+https://ice42.securenetsystems.net/VOXFM
+#EXTINF:-1 tvg-id="25554e01-23c1-4956-b414-71f4ef375353" tvg-logo="https://static-media.streema.com/media/cache/60/0c/600c1a1e138241853bf8bc925f0edf9a.jpg" group-title="Honduras | Tegucigalpa | Tegucigalpa",XY 90.5 FM - Tegucigalpa, Honduras
+http://ice42.securenetsystems.net/XY905
+#EXTINF:-1 tvg-id="8da618d1-a9c1-4677-b2ab-13b54b4ab7ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/HRN.png/revision/latest/scale-to-width-down/250?cb=20260826002319&path-prefix=es" group-title="Honduras | Tegus | Unknown city",hrn 670 KHz
+https://securestreams7.autopo.st/?uri=http://216.152.154.134/HRN?=hrn670khz
+#EXTINF:-1 tvg-id="41d84e62-d74d-48eb-9bef-c96aa39e45a7" group-title="Honduras | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="9912b3cc-85af-4b31-800d-40dcdc41bcb3" tvg-logo="https://exafm.com/favicon.ico" group-title="Honduras | Unknown region | Unknown city",Exa FM Honduras
+https://stream.zeno.fm/0n4tnx3wd5zuv
+#EXTINF:-1 tvg-id="d410c0d1-a5f1-410e-a23b-d43b84e9582a" tvg-logo="https://musiquera.com/wp-content/uploads/2024/03/Musiquera-sombrero.png" group-title="Honduras | Unknown region | Unknown city",Musiquera 93.3 FM
+https://stream-142.zeno.fm/83h238tqsceuv?zs=vZNVzaY3QLy9RmUb9QK5uA
+#EXTINF:-1 tvg-id="18259b0a-0d0f-444c-b76b-55dbb7254dbc" group-title="Honduras | Unknown region | Unknown city",Stereo Dimensión - La 96
+https://rr5100.globalhost1.com:7328/stream
+#EXTINF:-1 tvg-id="964998e7-0601-11e8-ae97-52543be04c81" group-title="Honduras | Unknown region | Unknown city",Suave FM 102.5 Tegucigalpa
+http://ice42.securenetsystems.net/SUAVE

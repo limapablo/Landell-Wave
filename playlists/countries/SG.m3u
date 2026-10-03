@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="82102b0e-68e9-411e-87b8-7cae36046096" tvg-logo="https://www.melisten.sg/static/apple-icon-120x120.png" group-title="Singapore | Singapore | Bugis",987FM
+https://22393.live.streamtheworld.com/987FM_PREM.aac
+#EXTINF:-1 tvg-id="106c22a4-0b78-11e9-a80b-52543be04c81" group-title="Singapore | Singapore | Unknown city",Gold 905 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac
+#EXTINF:-1 tvg-id="5027e04c-0b7a-11e9-a80b-52543be04c81" group-title="Singapore | Singapore | Unknown city",Symphony 924 Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac
+#EXTINF:-1 tvg-id="8c8b010b-07ec-4c69-a668-3c600d95e9bf" tvg-logo="https://www.melisten.sg/static/apple-touch-icon.png?v=2023" group-title="Singapore | Unknown region | Hillcrest Park",Oli 96.8 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac
+#EXTINF:-1 tvg-id="a31df372-cfc9-430e-86b4-cc8e289f4d7d" group-title="Singapore | Unknown region | Lavender",AXR Manila
+https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3
+#EXTINF:-1 tvg-id="ca8099de-1d34-424b-8a52-a1ee99ae6f4e" tvg-logo="https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png" group-title="Singapore | Unknown region | One North",OLI 968
+https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac
+#EXTINF:-1 tvg-id="9bb4c812-be47-49ff-a199-5c112ef70f26" group-title="Singapore | Unknown region | Sembawang Hills Estate",Power 98 Love Songs
+https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3
+#EXTINF:-1 tvg-id="e7b4d0c0-6516-4e75-841d-427489eaa9fa" tvg-logo="https://static.kiss92.sg/uploads/sites/5/2017/10/ABOUT_US_Station_920.png" group-title="Singapore | Unknown region | Toa Payoh New Town",Kiss92
+https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC
+#EXTINF:-1 tvg-id="95a5eca2-0341-443d-8343-7a1f6f58ea02" tvg-logo="https://973fm.weebly.com/uploads/6/2/8/3/62839335/published/973logo-1_1.png?1531151203" group-title="Singapore | Unknown region | Unknown city",973FM Blasts That Last
+http://c16.radioboss.fm:8115/autodj
+#EXTINF:-1 tvg-id="997e2a56-8fee-455b-86be-9afb37e04ba9" group-title="Singapore | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="4859de0e-6ddc-4e85-8a32-70c392d80439" tvg-logo="https://content.audiospace.co/stations/210/files/Logos/final_designlogostandart-01.png" group-title="Singapore | Unknown region | Unknown city",AXR Singapore
+http://22243.live.streamtheworld.com:3690/AXR_SINGAPORE_SC
+#EXTINF:-1 tvg-id="02835fc1-4cc9-4fc4-b103-bd846fea2792" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/817/beam-fm-uk.edf8798f.png" group-title="Singapore | Unknown region | Unknown city",Beam FM
+https://beamfm.streeemer.com/listen/beam_fm/radio.aac
+#EXTINF:-1 tvg-id="ec714979-7130-483a-b25d-d2642b47e82c" tvg-logo="https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png" group-title="Singapore | Unknown region | Unknown city",One FM 91.3
+https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC
+#EXTINF:-1 tvg-id="4b621a64-46d8-4115-a18a-740d0f161bad" tvg-logo="https://www.rmelody.net/img/static_logo.jpg" group-title="Singapore | Unknown region | Unknown city",Radio Melody with Brother Bjorn
+https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563
+#EXTINF:-1 tvg-id="fcb00986-d0e6-4c0d-9c48-b8ebfb616594" tvg-logo="https://radio-sg.com/wp-content/uploads/2024/01/Yes-93.3-FM-330x330.webp" group-title="Singapore | Unknown region | Unknown city",Yes 933
+https://28393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 tvg-id="c787359f-0765-48d2-8909-d1f77b98c762" group-title="Singapore | Unknown region | Unknown city",Yes 933
+http://28453.live.streamtheworld.com/YES933AAC.aac

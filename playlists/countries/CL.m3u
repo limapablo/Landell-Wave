@@ -1,0 +1,277 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ef0ad346-c06b-4f74-9e92-8397252da1af" group-title="Chile | Antofagasta | San Pedro de Atacama",Radio Toconao
+https://server.radiostreaming.com.ar/8086/stream
+#EXTINF:-1 tvg-id="c32900f7-ab01-4741-a7bd-b7c128d6004a" group-title="Chile | Atacama | Vallenar",FM Oyeme
+https://sonic.portalfoxmix.club/8128/stream
+#EXTINF:-1 tvg-id="d7ef3981-53d1-4c1c-bc62-a7cba8e1e711" tvg-logo="https://lavozdelcipres.cl/favicon.ico" group-title="Chile | Aysén | Unknown city",La Voz del Cipres de las Guaitecas
+https://live.lavozdelcipres.cl/radiomelinka.ogv
+#EXTINF:-1 tvg-id="51865760-7b59-45d0-ad0b-5da94d291829" tvg-logo="https://www.radiotropiconce.cl/logo-icon.png" group-title="Chile | Biobío | Concepción",Radio TropiConce
+https://sonic.mistreamingtv.uno/8044/stream
+#EXTINF:-1 tvg-id="4845eefc-a9ac-4e8c-9ca9-dd1b29dec992" tvg-logo="https://www.venusradiofm.cl/wp-content/uploads/2025/10/cropped-cw29YV3.png" group-title="Chile | Biobío | Lota",Venus Radio Fm Chile
+https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3
+#EXTINF:-1 tvg-id="a5cf72a1-de5e-420f-8b0d-8aab57a58927" tvg-logo="https://www.ladiscusion.cl/wp-content/uploads/2021/03/ldcl.jpg" group-title="Chile | Chillán | Unknown city",La Discusión
+http://archi-us.digitalproserver.com/la-discusion-fm.aac
+#EXTINF:-1 tvg-id="1773b8cd-b954-4082-aa05-4e68420c90b8" group-title="Chile | Concepción | Unknown city",Llacolén
+http://sonando.us.digitalproserver.com/radiollacolen.aac
+#EXTINF:-1 tvg-id="722d5fc0-82e9-4c22-890f-7e36ad6e33c3" group-title="Chile | Concepción | Unknown city",Radio Interamericana
+https://sonando-us.digitalproserver.com/radiointeramericana.aac
+#EXTINF:-1 tvg-id="21ae720a-b5a3-4603-8ae2-bdf33bf9274b" group-title="Chile | Concepción | Unknown city",Radiofavoritaranchera
+https://stream.zeno.fm/pdlp0sxtdjkvv
+#EXTINF:-1 tvg-id="4d389715-c36a-43c5-b22f-68ef8e2dc6c9" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/643/radio-rtl.02aba817.png" group-title="Chile | Curicó | Curicó",Radio RTL ( curico )
+https://radio.mediadev.cl/radio/8070/rtlcurico
+#EXTINF:-1 tvg-id="63577159-6318-424f-aa6c-f30da3737065" tvg-logo="https://cdn.instant.audio/images/logos/emisora-cl/la-surena.png" group-title="Chile | Lautaro | Unknown city",Radio la Sureña
+https://stream-287.surfernetwork.com/ssmz1n5vmd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzc216MW41dm1kMHV2IiwiaG9zdCI6InN0cmVhbS0yODcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNyZ3l0eVAyUWNLUEVkbVNhbHpteGciLCJpYXQiOjE3OTA4ODEwMjIsImV4cCI6MTc5MDg4MTA4Mn0.wUA2VNzdGYnrr2HQcA5BZkU-sQ4C3PW2B92Q3ZK-kM4
+#EXTINF:-1 tvg-id="4b9eb877-25be-45dc-85cf-d3ae9c85c791" tvg-logo="https://4.bp.blogspot.com/-fbiHouUdQ6I/YMylILVZI8I/AAAAAAAAICA/tP70eZSFmkUAWVkjpKsDlDTYTEA9idcAgCK4BGAYYCw/w800/logo1nuevo.png" group-title="Chile | Los Lagos | Unknown city",Musicoop
+https://sonic.portalfoxmix.club/8486/stream
+#EXTINF:-1 tvg-id="5a5a2c4e-b93d-4e2e-a7fb-13583e3d639d" tvg-logo="https://ecosdelvallefm.cl/wp-content/uploads/2026/02/ecos-512.png" group-title="Chile | Los Rios | Unknown city",Radio Ecos Del Valle
+https://sonic.mallocohosting.cl/8092/stream
+#EXTINF:-1 tvg-id="43c34c50-0620-481b-afca-c7c57ab517b7" tvg-logo="https://sanjosefm.cl/wp-content/uploads/2024/01/cropped-copita-192x192.jpeg" group-title="Chile | Los Rios | Unknown city",San José FM
+https://archi-us.digitalproserver.com/radiosanjose.aac
+#EXTINF:-1 tvg-id="4b395336-7aed-446a-8ade-fd5d9c282c16" tvg-logo="https://radioatractivafm.cl/atractivafm/site/artic/20230512/imag/foto_0000000420230512131258/logo-atractiva2.png" group-title="Chile | Los Rios ,Los lagos | Los Lagos",Atractiva 101.3
+https://sonicstream-puntual.grupozgh.cl/8126/;
+#EXTINF:-1 tvg-id="50d2e07b-f1fa-4206-a2b9-c9cc34d08014" group-title="Chile | Los Ángeles | Unknown city",Bío-Bío Los Ángeles 96.7
+https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio
+#EXTINF:-1 tvg-id="e980b858-8ecb-4896-9954-06c656ce4ded" group-title="Chile | Maule | Unknown city",Radio 7 Tazas de Molina FM.
+https://miradio.f96.cl/8006/streaming
+#EXTINF:-1 tvg-id="fe5e6483-2dc1-4cfb-955c-b60a8feecba9" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/552/radio-del-maipo-fm.374c34c3.png" group-title="Chile | Melipilla | Unknown city",Radio Del Maipo
+https://sonic.mallocohosting.cl/8012/stream
+#EXTINF:-1 tvg-id="e88a9e2f-7c45-434a-9cc6-56211a4e5019" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2F13cRadio.cl%2F&psig=AOvVaw0tGx_Yv1k8Yp2FdTrBlj5j&ust=1700534834920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJC7rYnI0YIDFQAAAAAdAAAAABAD" group-title="Chile | Metropolitana de Santiago | Providencia",13c Radio
+https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8
+#EXTINF:-1 tvg-id="962daa8c-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.radiocarnaval.cl/wp-content/uploads/2019/10/favicon-webcarnaval.png" group-title="Chile | San Felipe | Unknown city",Carnaval Aconcagua
+http://sonando.us.digitalproserver.com/carnaval_aconcagua.aac
+#EXTINF:-1 tvg-id="962db103-0601-11e8-ae97-52543be04c81" group-title="Chile | San Felipe | Unknown city",Contemporánea
+http://sonando.us.digitalproserver.com/contemporanea_aconcagua.aac
+#EXTINF:-1 tvg-id="9f95bdc1-9614-4a60-b515-c5253451d4b1" tvg-logo="https://myradioonline.cl/public/uploads/radio_img/radio-cooperativa/fb_cover.jpg" group-title="Chile | Santiago | Unknown city",Cooperativa
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1 tvg-id="af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d" group-title="Chile | Santiago | Unknown city",Isla Negra Upbeat
+https://radioislanegra.org/radio/8030/basic.aac
+#EXTINF:-1 tvg-id="9632c4ae-0601-11e8-ae97-52543be04c81" group-title="Chile | Santiago | Unknown city",Los 40 Principales Chile
+http://27323.live.streamtheworld.com/LOS40_CHILE_SC
+#EXTINF:-1 tvg-id="9618fda2-0601-11e8-ae97-52543be04c81" group-title="Chile | Santiago | Unknown city",María
+http://dreamsiteradiocp4.com:8024/
+#EXTINF:-1 tvg-id="76d84052-7a7f-4bdb-ac49-cb9dfc5663bd" group-title="Chile | Santiago | Unknown city",Radio Bio Bio
+https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio
+#EXTINF:-1 tvg-id="960c11f3-0601-11e8-ae97-52543be04c81" group-title="Chile | Santiago | Unknown city",Rock and Pop
+http://24453.live.streamtheworld.com:3690/ROCK_AND_POPAAC_SC
+#EXTINF:-1 tvg-id="bdd7e85e-33bc-4ab0-8e90-ce7cec5a80ab" tvg-logo="https://www.facebook.com/photo/?fbid=947383129737920&set=a.301089161033990" group-title="Chile | santiago de chile | Algarrobo",Radio Estacion del Poder
+http://stream.zeno.fm/t7cdutykw38uv
+#EXTINF:-1 tvg-id="2bc4e334-7324-47e7-9625-a17b40b98a7c" tvg-logo="https://logo.vconline.cl/ruidosfm.png" group-title="Chile | santiago de chile | Pirque",RUIDOS FM
+https://sonic.streamingchilenos.com/9880/stream
+#EXTINF:-1 tvg-id="c73f6fd5-1f1b-47db-a20d-eda9af36e4b9" tvg-logo="https://ott-assets.mdstrm.com/5c58a34e176c2c0813b22e4b/633db501b938191960de607d/assets/playconfondo.png" group-title="Chile | Santiago Metropolitan | Providencia",100.9 Play FM
+https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio
+#EXTINF:-1 tvg-id="ee623a0e-933e-4030-b1c9-1c48aa332d7a" group-title="Chile | Santiago Metropolitan | Renca",Maricón radio
+https://radio.maricon.org/vocaloid
+#EXTINF:-1 tvg-id="2c3589b8-bed1-4d10-8031-8675a8efc930" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logo_Radio_Beethoven_FM.png/800px-Logo_Radio_Beethoven_FM.png" group-title="Chile | Santiago Metropolitan | San Bernardo",Beethoven - Santiago FM
+https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
+#EXTINF:-1 tvg-id="2e789a5c-c032-4bf1-8da9-04ab7944cb04" tvg-logo="https://play-lh.googleusercontent.com/wXT2vZ5ai-MAEN-oO3BwFpOulBYlDqoywVnQBDR9uDIMHo0yK02Osa_RT5wBSgDKbw=w240-h480-rw" group-title="Chile | Santiago, Región Metropolitana | Santiago",Radio Agricultura
+https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="a27846a1-5136-465b-8217-546e5ae38718" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/263/radio-portales.59a5a520.png" group-title="Chile | Santiago, Región Metropolitana | Santiago",Radio Portales 1180 AM
+http://audio3.tustreaming.cl:7350/stream
+#EXTINF:-1 tvg-id="2e526404-86fd-4044-9a4d-65045f86c5e6" tvg-logo="https://www.radiorecuerdos.cl/wp-content/uploads/2021/08/cropped-Caratula-Player-180x180.png" group-title="Chile | Santiago, Región Metropolitana | Unknown city",Radio Recuerdos
+http://sonando.us.digitalproserver.com/radiorecuerdos.mp3
+#EXTINF:-1 tvg-id="f2bf4b90-e1a0-4371-8c3c-9ddbb77c04fb" group-title="Chile | Talca | Talca",FM+ 92.3 Radio Talca
+https://audio5.tustreaming.cl/8010/fmmas
+#EXTINF:-1 tvg-id="51c6584d-80e6-4437-b7d5-ab4edfbb9349" tvg-logo="https://edelweiss.fm/wp-content/uploads/2021/10/radio-edelweiss-chile.png" group-title="Chile | Temuco, Araucanía | Unknown city",Edelweiss
+https://encoder.stationlink.cl/listen/edelweiss/radio.mp3
+#EXTINF:-1 tvg-id="9acf8610-a27b-4dbe-b805-bbff3d74f48d" group-title="Chile | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="5b1387f3-2991-4d8e-9518-981c210fbbe4" group-title="Chile | Unknown region | Unknown city",Activa
+http://26513.live.streamtheworld.com:3690/ACTIVA_SC
+#EXTINF:-1 tvg-id="712a509c-d1d3-455c-a6b4-f814918ccbbb" group-title="Chile | Unknown region | Unknown city",actual fm
+http://archi-us.digitalproserver.com/actual.aac
+#EXTINF:-1 tvg-id="c67066ca-dcf8-4f9c-b498-450a91313a93" group-title="Chile | Unknown region | Unknown city",ADN
+https://27413.live.streamtheworld.com/ADNAAC.aac
+#EXTINF:-1 tvg-id="2b3e3298-f129-440a-853e-0b3876be1d68" tvg-logo="https://www.adnradio.cl/pf/resources/adn-radio/favicon.ico?d=91" group-title="Chile | Unknown region | Unknown city",ADN Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac
+#EXTINF:-1 tvg-id="1ab2a65a-750a-4469-8f93-73ba1c6848c8" group-title="Chile | Unknown region | Unknown city",All About Music - AAM
+https://n0e.radiojar.com/50yyfr4wz1zuv
+#EXTINF:-1 tvg-id="3bff3a9a-7903-11e9-aa30-52543be04c81" tvg-logo="https://www.beethovenfm.cl/htdocs/content/themes/uc-radio-beethoven/dist/images/favicon.png" group-title="Chile | Unknown region | Unknown city",BeethovenFM
+https://unlimited3-cl.dps.live/beethovenfm/go/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="b2aa99d2-e1f7-4c4a-bd77-74f256463b86" tvg-logo="https://www.biobiochile.cl/assets/biobiochile/img/icons/apple-touch-icon-120x120.png" group-title="Chile | Unknown region | Unknown city",BioBio Chile
+https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:-1 tvg-id="1623b53c-64e6-40c0-8b05-983b50e24270" group-title="Chile | Unknown region | Unknown city",BlueRadio
+https://stream.zeno.fm/udk5orfzet5vv
+#EXTINF:-1 tvg-id="b00e03c1-150f-4b34-802d-7231a8b5d29c" tvg-logo="https://stgogotsoul.files.wordpress.com/2021/03/cropped-logo-booga-club-trazado-02-1.png?w=180" group-title="Chile | Unknown region | Unknown city",Boogaclub
+http://stream.zeno.fm/777prr0xfm8uv
+#EXTINF:-1 tvg-id="e90c1ec5-9453-4c38-8217-45663575a2d4" tvg-logo="https://www.cityradiochile.com/index_htm_files/3.jpg" group-title="Chile | Unknown region | Unknown city",City Radio FLAC
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:-1 tvg-id="6ab92caa-6c94-4918-b45c-cd294321d1df" group-title="Chile | Unknown region | Unknown city",CITYRADIO - CHILE
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:-1 tvg-id="189935e5-c3ad-4ca6-afbd-52394f9cad06" group-title="Chile | Unknown region | Unknown city",CITYRADIO - CHILE
+http://cityradio.ddns.net:8000/cityradio48flac
+#EXTINF:-1 tvg-id="ccf085f4-8016-45c6-bf55-85ff2cd7129b" tvg-logo="https://clubdance.cl/android-icon-192x192.png" group-title="Chile | Unknown region | Unknown city",CLUB DANCE CHILE
+https://audio.bitsur.cl/cp/links.php?p=8002&m=pls
+#EXTINF:-1 tvg-id="aeec6fb9-8d24-448b-bf3e-38178f801761" group-title="Chile | Unknown region | Unknown city",Corporación FM
+https://audio1.tustreaming.cl/8026/stream/1/
+#EXTINF:-1 tvg-id="64de23df-c93f-4bc2-b2e4-cb9a4282f19e" group-title="Chile | Unknown region | Unknown city",CQX PMONTT
+http://5.9.65.9:8083/stream
+#EXTINF:-1 tvg-id="af6b817a-2eda-4276-aaf0-9b010890ee40" group-title="Chile | Unknown region | Unknown city",Código Metal Radio
+https://streaming.viphosting.cl/8012/stream
+#EXTINF:-1 tvg-id="2c98d232-0416-4fb7-9060-f54716fb0655" tvg-logo="https://fm7.s3-accelerate.amazonaws.com/media/img/stations/2a520731-069b-4ef6-a110-590b65f72dda.png" group-title="Chile | Unknown region | Unknown city",FM Siete Rock
+https://sp1.streamingssl.com/8036/stream
+#EXTINF:-1 tvg-id="f7f9495f-b948-43d4-a94d-59d55c74cb99" group-title="Chile | Unknown region | Unknown city",Forever Classic FM
+https://live-audio-lite-1.digitalproserver.com/proxy/foreverclassic/foreverclassic
+#EXTINF:-1 tvg-id="0d4011f6-3de2-4345-972e-e77cabbb1bdf" group-title="Chile | Unknown region | Unknown city",Futuro
+http://27323.live.streamtheworld.com/FUTUROAAC_SC
+#EXTINF:-1 tvg-id="d476d00d-d1e7-4b47-8979-c98b3db68666" tvg-logo="https://i.imgur.com/5ThetMT.png" group-title="Chile | Unknown region | Unknown city",Kawaii Anime Radio
+https://canada1.reliastream.com/proxy/danser?mp=/stream
+#EXTINF:-1 tvg-id="91729fb7-7dfa-469e-9e18-a9bc1c68abf7" group-title="Chile | Unknown region | Unknown city",La Imbatible FM
+https://pragustream.live:8060/radio.mp3
+#EXTINF:-1 tvg-id="9aa3e228-f526-4d12-9725-7b2604f941d1" tvg-logo="https://lamegafm.cl/favicon.ico" group-title="Chile | Unknown region | Unknown city",la mega fm
+https://sonic.portalfoxmix.club/8478/stream
+#EXTINF:-1 tvg-id="777e9457-447a-46dc-afc7-8af9cba26cf9" group-title="Chile | Unknown region | Unknown city",La Mexicana Chile
+https://audio0.tustreaming.cl/7170/casablanca
+#EXTINF:-1 tvg-id="96c8f0a8-e024-4e8b-9dd9-37e05bb0e320" group-title="Chile | Unknown region | Unknown city",La Palabra
+https://sonic.streamingchilenos.com/8126/stream:8000
+#EXTINF:-1 tvg-id="4d0f3c26-69e7-4124-9bcf-230adb8fca34" group-title="Chile | Unknown region | Unknown city",La Sabrosita
+https://audio.streaminghd.cl:9234/;
+#EXTINF:-1 tvg-id="7164e797-ba27-4103-b9d3-0b6f7c26ee42" group-title="Chile | Unknown region | Unknown city",La Voz del Cipres
+https://live.lavozdelcipres.cl/radiomelinka.ogv
+#EXTINF:-1 tvg-id="f5020376-f28a-4dfc-a59a-6504bc2a88e3" group-title="Chile | Unknown region | Unknown city",Maldonado FM
+https://jm8n.net:7013/stream
+#EXTINF:-1 tvg-id="454b1777-82ad-451c-b4bb-1f85d5246756" group-title="Chile | Unknown region | Unknown city",maray
+https://video.mediawebchile.com:2000/stream/8212/stream
+#EXTINF:-1 tvg-id="62902b1c-98e2-47e6-ad1d-b11e7231fac0" tvg-logo="https://static.wixstatic.com/media/9ba043_9c1955c355974853a936ec6c157753bb~mv2.jpg/v1/fill/w_1470,h_920,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/9ba043_9c1955c355974853a936ec6c157753bb~mv2.jpg" group-title="Chile | Unknown region | Unknown city",MasRadio 95.9fm
+https://broadcast.radio247.net/listen/mas_radio_la_union/radio.mp3
+#EXTINF:-1 tvg-id="62a71062-0660-4325-b1a0-6154d16509ac" tvg-logo="https://www.miradiols.cl/wp-content/uploads/2020/03/cropped-favicon-verde-01-192x192.png" group-title="Chile | Unknown region | Unknown city",Mi Radio
+https://audio1.tustreaming.cl/9020/stream
+#EXTINF:-1 tvg-id="5e719ca6-efa3-4399-8210-db3a1ace1789" group-title="Chile | Unknown region | Unknown city",Ni Tan Retro FM
+https://sonic.portalfoxmix.cl/8090/;
+#EXTINF:-1 tvg-id="aca5a0d3-c4d9-4671-9f37-84af02a3f7b6" group-title="Chile | Unknown region | Unknown city",Patagonia FM
+https://audio.streaminghd.cl:2000/stream/patagoniaradio/;stream.mp3
+#EXTINF:-1 tvg-id="7b2ce2cc-9e87-4d53-a00f-579840e82906" group-title="Chile | Unknown region | Unknown city",Portal 90 Radio
+https://sonic.mallocohosting.cl/8046/stream
+#EXTINF:-1 tvg-id="af9c4607-b2fd-4409-898b-a1df44cff065" group-title="Chile | Unknown region | Unknown city",Positiva FM
+http://unlimited4-us.dps.live/positiva/aac/icecast.audio
+#EXTINF:-1 tvg-id="491f782d-37b1-4200-ad40-735d34cc0854" tvg-logo="https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png" group-title="Chile | Unknown region | Unknown city",Punto 7 - Osorno
+https://redirector.dps.live/p7osorno/aac/icecast.audio
+#EXTINF:-1 tvg-id="b21b5d95-29d7-4abc-9b44-5a660079a9e1" tvg-logo="https://www.pagina7.cl/_templates/globals/img/android-icon-192x192.png" group-title="Chile | Unknown region | Unknown city",Punto 7 - Temuco
+https://redirector.dps.live/p7temuco/aac/icecast.audio
+#EXTINF:-1 tvg-id="e4169db6-9b2d-4cbb-bffa-1ab3591f6ae0" group-title="Chile | Unknown region | Unknown city",puntosiete
+https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio
+#EXTINF:-1 tvg-id="8db741d5-9280-4a41-8e5f-46587275ef93" group-title="Chile | Unknown region | Unknown city",Purranque FM
+https://sonic.portalfoxmix.club/8396//stream
+#EXTINF:-1 tvg-id="f5cd7ceb-a126-4e85-a4b8-74519c0aa42b" tvg-logo="https://radio247.net/images/247-favicon.ico" group-title="Chile | Unknown region | Unknown city",RADIO 24-7 CHILE
+https://broadcast.radio247.net/radio/8000/;
+#EXTINF:-1 tvg-id="ce48cc03-ba57-47a8-8779-4ab192fbd05a" tvg-logo="https://radioacaciodechile.cl/radio/wp-content/uploads/2019/08/cropped-RADIOACACIO.png" group-title="Chile | Unknown region | Unknown city",RADIO ACACIO
+http://sonic.portalfoxmix.cl:9986/;
+#EXTINF:-1 tvg-id="45c93111-414c-4f98-9d71-09be3687c66a" group-title="Chile | Unknown region | Unknown city",Radio Alegría del Transporte 90.7 FM
+http://streaming01.xhost.cl/8048/;
+#EXTINF:-1 tvg-id="e2ec4f0f-8d4d-4e60-b66c-87a3be4febc0" group-title="Chile | Unknown region | Unknown city",Radio arcoiris FM
+https://audio2.tustreaming.cl/7210/stream
+#EXTINF:-1 tvg-id="c023a3fe-2947-4875-ac8c-bde9027e29d8" group-title="Chile | Unknown region | Unknown city",Radio Arrayan
+https://streaming.biox3.cl/8190/stream.AAC
+#EXTINF:-1 tvg-id="c08aad67-a748-4756-afa8-0d9f6688169b" group-title="Chile | Unknown region | Unknown city",Radio Azúcar
+https://audio2.tustreaming.cl/8300/azucarsantiago
+#EXTINF:-1 tvg-id="fc8b670f-a799-4efc-8a70-006b7706fc30" group-title="Chile | Unknown region | Unknown city",Radio Beethoven FM
+http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio
+#EXTINF:-1 tvg-id="cb337284-f58e-47e0-8ffb-61e59116e8b1" group-title="Chile | Unknown region | Unknown city",Radio Buena Nueva Linares
+https://archi-us.digitalproserver.com/buena-nueva.aac
+#EXTINF:-1 tvg-id="fa4d31f6-9490-4fd3-abf6-92db4bfadb1b" group-title="Chile | Unknown region | Unknown city",Radio Central Clasista de Trabajadores
+http://stream.zeno.fm/m5fw6rwx2tzuv
+#EXTINF:-1 tvg-id="69c95e05-882e-4e2e-ae6b-bf7b4bcfb450" tvg-logo="https://ibb.co/bMfVPpZs" group-title="Chile | Unknown region | Unknown city",Radio Club 80
+https://stream.radioclub80.cl:8002/clasicos80.flac
+#EXTINF:-1 tvg-id="9c96116d-1d4b-4e22-9ff7-9042b98ef6b5" tvg-logo="https://streaminghires.cl/foto.jpg" group-title="Chile | Unknown region | Unknown city",Radio Club 80 Eurobeat
+https://stream.radioclub80.cl:8032/stream.euro80flac
+#EXTINF:-1 tvg-id="0965d494-c3d8-4737-bea2-68b43cec3de2" group-title="Chile | Unknown region | Unknown city",radio club 80 rock
+http://stream.radioclub80.cl:9040/live.flac
+#EXTINF:-1 tvg-id="7fe09d61-8883-4335-93e2-aac14fda5808" group-title="Chile | Unknown region | Unknown city",Radio Club 80 Trance FLAC
+https://stream.radioclub80.cl:8052/trance80.flac
+#EXTINF:-1 tvg-id="03012055-bca0-4cac-9317-c086820676f7" tvg-logo="https://radiocobremar.cl/wp-content/uploads/2020/11/16992359_1264977716921496_6536192034114262655_o.jpg" group-title="Chile | Unknown region | Unknown city",Radio Cobremar - Chañaral FM 89.9
+https://audio.bitsur.cl/8066/stream
+#EXTINF:-1 tvg-id="858aab2b-0717-4deb-b44f-61bd4ec12a6b" group-title="Chile | Unknown region | Unknown city",Radio Concierto Chile
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac
+#EXTINF:-1 tvg-id="44add06a-c58f-4617-8c56-30b8bf72aeec" tvg-logo="https://envivo.concierto.cl/build/assets/conciertochile/img/logo.png" group-title="Chile | Unknown region | Unknown city",Radio Concierto Chile
+https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC
+#EXTINF:-1 tvg-id="8bc8f710-0d16-4df5-8878-cfaedee7d4c5" group-title="Chile | Unknown region | Unknown city",RADIO COOPERATIVA
+https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio
+#EXTINF:-1 tvg-id="c5e88906-668a-4dfd-933d-f698dead0945" group-title="Chile | Unknown region | Unknown city",Radio Cosmos FM
+https://audio3.tustreaming.cl/7410/stream
+#EXTINF:-1 tvg-id="1943a1b0-88c1-442e-8965-f4d437db8885" group-title="Chile | Unknown region | Unknown city",Radio Creación FM
+https://archi-us.digitalproserver.com/creacion-fm.aac
+#EXTINF:-1 tvg-id="0a53346f-790f-4aee-ab1e-ac0604888602" group-title="Chile | Unknown region | Unknown city",Radio Cumbia
+https://stream.zeno.fm/h5eannlep1gvv
+#EXTINF:-1 tvg-id="1828587e-9b35-444a-b253-07ba53ac9039" group-title="Chile | Unknown region | Unknown city",Radio El Conquistador
+https://stream10.usastreams.com/9314/stream
+#EXTINF:-1 tvg-id="68899696-bb3c-4914-8396-e93789fabe1e" group-title="Chile | Unknown region | Unknown city",Radio Encanto 88.5 FM
+https://archi-us.digitalproserver.com/encanto_ovalle.aac
+#EXTINF:-1 tvg-id="24a0f30e-880e-4f84-a942-bc6545f285d9" tvg-logo="https://mobile.twitter.com/favicon.ico" group-title="Chile | Unknown region | Unknown city",Radio Estallido Tuitero
+https://stream.zeno.fm/ws9z11fhrd0uv
+#EXTINF:-1 tvg-id="9090914a-9457-48cc-889c-2ae33a982432" group-title="Chile | Unknown region | Unknown city",Radio Exclusiva FM
+https://sonic.portalfoxmix.club:7198/
+#EXTINF:-1 tvg-id="c8b94828-3a7b-4bab-addd-5678dcb6c927" tvg-logo="https://fmcentro.cl/wp-content/uploads/2023/12/graficaFMcentro2.jpg" group-title="Chile | Unknown region | Unknown city",Radio FM Centro 91.7
+https://s02.azuracast.cl/radio/8210/fmcentro
+#EXTINF:-1 tvg-id="29554a99-2e8d-4dcb-af87-b51a3443d69c" tvg-logo="https://radioislanegra.com/wp-content/uploads/thegem-logos/logo_977b533d7fb4b89332eec7d778d689ed_2x.png" group-title="Chile | Unknown region | Unknown city",Radio Isla Negra - Slowbeat
+https://radioislanegra.org/radio/8010/basic.aac
+#EXTINF:-1 tvg-id="e7a08421-723f-41de-a1ac-1ff684334476" tvg-logo="https://radioisla.cl/wp-content/uploads/2024/07/unnamed-67x67.png" group-title="Chile | Unknown region | Unknown city",RADIO ISLA ONLINE
+https://sp.totalstreaming.net:8018/stream
+#EXTINF:-1 tvg-id="98ab4d7c-eee6-4501-933f-3aa365266c69" group-title="Chile | Unknown region | Unknown city",Radio La Mega
+https://sonic.portalfoxmix.cl:7066/stream?icy=http
+#EXTINF:-1 tvg-id="2819ded1-bb9c-4c75-a5a5-2ae200053151" group-title="Chile | Unknown region | Unknown city",Radio Nativa FM
+http://stm3.srvif.com:8090/;
+#EXTINF:-1 tvg-id="bc81deda-eebf-11e9-a96c-52543be04c81" group-title="Chile | Unknown region | Unknown city",Radio Nuble 89.7 fm
+http://streaming.comunicacioneschile.net:9358/;
+#EXTINF:-1 tvg-id="fed87384-ed0c-4194-b806-b600ff93cd4c" group-title="Chile | Unknown region | Unknown city",Radio Orión FM
+https://usa10.fastcast4u.com:2750/;?nocache=1702325798&type=http
+#EXTINF:-1 tvg-id="b78efce2-e10a-465a-bfeb-40fd373a49fa" group-title="Chile | Unknown region | Unknown city",Radio Paula FM - 103.7 MHz - Laja (HD)
+http://escucha.radiopaulafm.com/
+#EXTINF:-1 tvg-id="ff85790d-67c1-4c4f-9282-d6bc58a9e33a" group-title="Chile | Unknown region | Unknown city",RADIO PAULINA
+https://sp1.streamingssl.com/8058/stream
+#EXTINF:-1 tvg-id="234a4f25-8444-454a-b8bb-046607b5bac9" group-title="Chile | Unknown region | Unknown city",Radio Pauta
+https://unlimited5-us.dps.live/radiopauta/gotardis/audio/now/livestream1.m3u8
+#EXTINF:-1 tvg-id="95efd9cd-d6d3-4e39-977c-ec929563392a" group-title="Chile | Unknown region | Unknown city",Radio Placeres
+https://sonic.streamingchilenos.com/9856/;
+#EXTINF:-1 tvg-id="af7a3e00-3b6d-4952-baa5-db2ee57740e0" group-title="Chile | Unknown region | Unknown city",Radio Principios
+http://stream.zeno.fm/i5darmt2oi7tv
+#EXTINF:-1 tvg-id="d44e3fce-f350-44e5-ba16-c5b6306b8943" group-title="Chile | Unknown region | Unknown city",Radio Punto 7 Puerto Montt
+https://redirector.dps.live/p7puertomontt/aac/icecast.audio
+#EXTINF:-1 tvg-id="0286fb03-2f9d-431c-ae8b-e93134ad59e7" group-title="Chile | Unknown region | Unknown city",Radio Ruta Norte FM
+https://sonic.globalstreaming.net:10920/stream
+#EXTINF:-1 tvg-id="96e7702c-de81-4995-9eff-5995420bd85d" group-title="Chile | Unknown region | Unknown city",Radio San Gabriel FM
+https://archi-us.digitalproserver.com/san-gabriel-fm.aac
+#EXTINF:-1 tvg-id="bd43bb8f-82be-4ac4-8674-f8370d3fcc50" group-title="Chile | Unknown region | Unknown city",Radio Sinfónica
+https://stream-177.surfernetwork.com/9wzpfshiu2nvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5d3pwZnNoaXUybnZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IkNUT3A1SGFaVGtxY1JtNklYMHYzbnciLCJpYXQiOjE3OTA4ODM3NzksImV4cCI6MTc5MDg4MzgzOX0.1Jb51kCVSiHzqj5yE_fp9_iHr_XohluzU8pCFNbdvsI
+#EXTINF:-1 tvg-id="aed83900-30eb-49d8-b8d7-d3bed15c5416" group-title="Chile | Unknown region | Unknown city",RADIO SOL
+https://us9.maindigitalstream.com/ssl/7389
+#EXTINF:-1 tvg-id="178de5e4-6232-48b2-8b11-5d20421d700e" group-title="Chile | Unknown region | Unknown city",Radio Súper Sol Osorno
+https://sonic-us.fhost.cl/8366/stream
+#EXTINF:-1 tvg-id="af761696-5d72-4c90-b15e-e2ae3bd6a3bf" group-title="Chile | Unknown region | Unknown city",Radio Tricolor
+https://radiolatina.live/8112/;
+#EXTINF:-1 tvg-id="c60864c2-ab1d-4da3-8b70-083d1285f800" group-title="Chile | Unknown region | Unknown city",Radio Universal Villarrica
+https://s02.azuracast.cl/radio/8120/villarrica
+#EXTINF:-1 tvg-id="6dc2ec0f-bb83-4308-916c-570b9476cf5d" group-title="Chile | Unknown region | Unknown city",Radio Universidad de Chile
+https://sonic-us.arkeo.cl/8186/stream
+#EXTINF:-1 tvg-id="16ceadbc-d768-4a43-ad09-f7be37686496" group-title="Chile | Unknown region | Unknown city",radioclub80 rock
+http://stream.radioclub80.cl:9040/live.flac
+#EXTINF:-1 tvg-id="6fe2206f-31cc-4b0e-a55b-16ef2188afe0" group-title="Chile | Unknown region | Unknown city",Radioroins
+https://stream.zeno.fm/dd3rxeuxznhvv
+#EXTINF:-1 tvg-id="5c490818-36d9-469a-807d-05d9ee098de6" group-title="Chile | Unknown region | Unknown city",Retroactiva Concepción
+https://sonic.portalfoxmix.club/8168/stream
+#EXTINF:-1 tvg-id="df1f43d4-86c2-4ae0-953b-4545a41322ef" group-title="Chile | Unknown region | Unknown city",Rock En Español Chile
+https://stream-204.surfernetwork.com/aaxwtg4w6x1uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhYXh3dGc0dzZ4MXV2IiwiaG9zdCI6InN0cmVhbS0yMDQuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IlFIMG9aNUhLU0plV2tGYlcyYXd6dkEiLCJpYXQiOjE3OTA4Njk1ODksImV4cCI6MTc5MDg2OTY0OX0.qX96t6mQsJ-pVd1x7qwawLZaAZ7P6EMnibm2lyzRv3k
+#EXTINF:-1 tvg-id="9462d2d8-baa8-470c-bb4b-c5a03302e49b" group-title="Chile | Unknown region | Unknown city",Sintonizados con Cristo Radio - IMPCH San Miguel
+https://audio.streaminghd.cl:9130/live
+#EXTINF:-1 tvg-id="4a0eacd1-fec9-4e5e-9a4e-51fdf59502e8" group-title="Chile | Unknown region | Unknown city",Super Stereo 5
+https://streams.radiomast.io/radioblues-flac
+#EXTINF:-1 tvg-id="5067f3e8-f144-4a64-a730-4711f8fbcaa9" tvg-logo="https://ucvradio.cl/imagenes/logo-ucvradio-200.png" group-title="Chile | Unknown region | Unknown city",UCV Radio
+https://sonando-us.digitalproserver.com/ucvradio
+#EXTINF:-1 tvg-id="5fb33f88-067f-4f53-9961-9b394b1724b6" group-title="Chile | Unknown region | Unknown city",Zumbale Radio
+https://archi-us.digitalproserver.com/caramelo-fm-angol.aac
+#EXTINF:-1 tvg-id="6d9f83f6-edf8-4931-b1ff-d3bbf352425b" tvg-logo="https://radiogenoveva.cl/wp-content/uploads/2019/05/Logo-Radio-Genoveva1-1024x614.png" group-title="Chile | Valdivia | Las Animas",Radio Genoveva Valdivia
+https://audio.bitsur.cl/8032/stream
+#EXTINF:-1 tvg-id="04d1c3df-c9e6-4c3f-9054-f8cb1be1f193" tvg-logo="https://static.wixstatic.com/media/cfd102_33591d3d86434bf0802f66ac6c9e34ae~mv2.jpg/v1/crop/x_0,y_7,w_678,h_801/fill/w_188,h_222,al_c,q_80,usm_0.66_1.00_0.01/cfd102_33591d3d86434bf0802f66ac6c9e34ae~mv2.webp" group-title="Chile | Valdivia | Unknown city",Tornagaleones
+http://tornagaleones.ddns.net:9000/stream
+#EXTINF:-1 tvg-id="9257d5ff-d40f-46c8-b9c9-317f951d764c" tvg-logo="https://azura.picados.beer/static/uploads/radio/album_art.1745611419.webp" group-title="Chile | Valparaiso | Quillota",Radio Picados
+https://a10.asurahosting.com:7630/radio.mp3
+#EXTINF:-1 tvg-id="ee096666-782b-4a4b-a151-6e8d0839f16c" group-title="Chile | Valparaiso | Quilpué",Sunrise
+https://sonic-cl.arkeo.cl/8044/stream
+#EXTINF:-1 tvg-id="78ae3fdf-77ed-4231-b645-5dd42682f2f4" group-title="Chile | Valparaiso | Quilpué",Sunrise Lounge
+https://sonic-cl.arkeo.cl/8098/stream
+#EXTINF:-1 tvg-id="958500b0-173d-4ee2-847c-ef4f7dd28680" group-title="Chile | Valparaíso | San José de Maipo",Bio Bio Valparaíso
+http://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio
+#EXTINF:-1 tvg-id="e81f0f35-1aa0-41d4-b9c0-84736f9f307a" tvg-logo="https://radio.usm.cl/wp-content/uploads/2021/11/logo.png" group-title="Chile | Valparaíso | Valparaíso",Radio USM
+https://stream99.usastreams.com:8012/stream
+#EXTINF:-1 tvg-id="f41d0313-9e66-4c33-9e66-e2d97485cc0e" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp91grlthd_nt2_eaXON5h1Ev6Jo7Rdsu8Lw&s" group-title="Chile | Viña del Mar | Viña del Mar",UCV Radio 103.5
+https://sonando-us.digitalproserver.com/ucvradio
+#EXTINF:-1 tvg-id="7d82d29b-a8b0-4dca-b547-738c733c51bf" tvg-logo="https://www.radio247.net/images/icon.png?crc=4113053419" group-title="Chile | Ñuble | Pemuco",RADIO 24/7
+http://broadcast.radio247.net/listen/live/radio.mp3

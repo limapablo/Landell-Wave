@@ -1,0 +1,95 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="fd7d0ef0-3227-4215-bfb8-a82ec4fa420a" tvg-logo="https://radiokrka.si/images/favicon.bmp" group-title="Slovenia | Dolenjska | Novo Mesto",Radio KRka
+https://live.radio.si/Krka
+#EXTINF:-1 tvg-id="d4e023b0-d966-477f-9d4f-c51e329c04de" group-title="Slovenia | Gorenjska | Unknown city",Radio Gorenc
+http://stream.radiogorenc.si:8000/radiogorenc.mp3
+#EXTINF:-1 tvg-id="7e290430-d899-4e27-b58b-d224bb14c30a" tvg-logo="https://img.rtvslo.si/_static/novi/bootstrap/public/themes/ramb/icons/favicon-32x32.png" group-title="Slovenia | Izberite regijo, državo ali provinco. | Pekre",Radio Maribor
+https://mp3.rtvslo.si/rmb
+#EXTINF:-1 tvg-id="28264a49-d9bd-4d81-a366-cbf5c7fc2328" tvg-logo="https://www.datocms-assets.com/91953/1748623411-radio-enter-logo.svg" group-title="Slovenia | Ljubljana | Ljubljana",ENTER.RADIO
+https://stream.nextmedia.si/proxy/enter_1?mp=/enter
+#EXTINF:-1 tvg-id="caf0f3e6-d900-4045-871d-7da384101151" tvg-logo="https://media.radio1.si/ico/192.png" group-title="Slovenia | Ljubljana | Ljubljana",Radio 1
+https://live.radio.si/Radio1
+#EXTINF:-1 tvg-id="2d2f546f-a309-496a-b31a-6b3aac72c7b3" tvg-logo="https://www.datocms-assets.com/162001/1751630822-frajer-logo.svg" group-title="Slovenia | Ljubljana | Ljubljana",Radio Frajer
+https://stream2.nextmedia.si/hls/frj/live.m3u8
+#EXTINF:-1 tvg-id="4c65b911-51ee-40ee-bccd-a55fbd56c776" group-title="Slovenia | Ljubljana | Ljubljana",Val202
+http://mp3.rtvslo.si:8000/val202
+#EXTINF:-1 tvg-id="a3685970-960f-4454-9bb3-a047c23908ac" tvg-logo="https://radionula.com/favicon.png" group-title="Slovenia | Ljubljana | Unknown city",Radio Nula
+https://strm.radionula.com/classics
+#EXTINF:-1 tvg-id="6ef88e96-e75b-4392-b95b-0cda1e4f0c83" tvg-logo="https://www.radiorogla.si/wp-content/uploads/2021/01/cropped-logo_rogla.png" group-title="Slovenia | Municipality of Slovenske Konjice | Slovenske Konjice",Radio Rogla
+http://193.105.67.24:8010/;?type=http&nocache=3804
+#EXTINF:-1 tvg-id="07450589-fad3-485d-8a49-294ff3038bef" group-title="Slovenia | Osrednjeslovenska | Ljubljana",Hit Radio Center (Ljubljana - 102.4MHz)
+http://stream3.radiocenter.si:8000/;center/1
+#EXTINF:-1 tvg-id="474c879b-b337-4cdc-a68f-d43152f5b64a" tvg-logo="https://media.radio1.si/ico/32.png" group-title="Slovenia | Osrednjeslovenska | Ljubljana",Radio 1
+https://live.radio1.si/Radio1
+#EXTINF:-1 tvg-id="05fc6e55-9b78-4801-931a-5fac1c3e3a99" tvg-logo="https://media.radioantena.si/ico/32.png" group-title="Slovenia | Osrednjeslovenska | Ljubljana",Radio Antena (105.2MHz)
+https://live.radio.si/Antena
+#EXTINF:-1 tvg-id="f8556371-69ef-4477-a469-a45ee305b714" tvg-logo="https://www.radio1.si/favicon.ico" group-title="Slovenia | Podravska | Maribor",Radio 1 - Maribor (107.9MHz)
+https://live.radio1.si/Radio1
+#EXTINF:-1 tvg-id="961b57c9-0601-11e8-ae97-52543be04c81" group-title="Slovenia | Primorska | Unknown city",Radio Capodistria
+http://mp3.rtvslo.si/capo
+#EXTINF:-1 tvg-id="42de32e1-a8d7-422d-8ee3-945efcaf8bc8" group-title="Slovenia | Primorska | Unknown city",Radio Capris Hits
+http://stream02.exit.si:8000/HITS?
+#EXTINF:-1 tvg-id="3e431664-f4c4-4c73-af45-942865a85f55" group-title="Slovenia | Primorska | Unknown city",Radio Capris ITALIA
+http://stream02.exit.si:8000/ITA?
+#EXTINF:-1 tvg-id="2e9820c7-82d8-4f51-a12a-712e56a1e932" tvg-logo="https://www.radiocapris.si/data/images/logo-capris.svg" group-title="Slovenia | Primorska | Unknown city",Radio Capris Number 1's
+http://stream02.exit.si:8000/NO1?
+#EXTINF:-1 tvg-id="ad71c3b2-31e5-4ed8-b4c3-aca5e0f77f1a" group-title="Slovenia | Primorska | Unknown city",Radio Capris POLETJE
+http://stream02.exit.si:8000/POLETJE?
+#EXTINF:-1 tvg-id="960fc643-0601-11e8-ae97-52543be04c81" tvg-logo="https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raars/icons/apple-touch-icon.png" group-title="Slovenia | Unknown region | Unknown city",Ars
+http://mp3.rtvslo.si/ars
+#EXTINF:-1 tvg-id="5c13ca01-292c-448a-99f9-127a85deffc9" group-title="Slovenia | Unknown region | Unknown city",Ars Tretji program
+http://mp3.rtvslo.si/ars
+#EXTINF:-1 tvg-id="649bf9c2-9a73-45ef-b9a7-7be9bfa256dc" group-title="Slovenia | Unknown region | Unknown city",Best FM Ljubljana
+https://live.radio.si/BestFM
+#EXTINF:-1 tvg-id="989a4888-4e80-4abb-bdcd-d5087cb2c830" tvg-logo="https://www.radiocenter.si/images/icons/icon_192x192.png" group-title="Slovenia | Unknown region | Unknown city",Hitradio Center
+http://stream2.radiocenter.si:8058/stream
+#EXTINF:-1 tvg-id="9ee49678-3ca6-11ea-8dd7-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Hitradio center 80's
+http://stream3.radiocenter.si:8064/;stream/1
+#EXTINF:-1 tvg-id="f9f2c20d-3ca4-11ea-8dd7-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Hitradio center megamix
+http://stream3.radiocenter.si:8066/;stream/1
+#EXTINF:-1 tvg-id="6a22a9cb-3ca8-11ea-8dd7-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Hitradio center rock
+http://stream.rockradio.si:9034/;stream/1
+#EXTINF:-1 tvg-id="3838076b-3ca7-11ea-8dd7-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Hitradio center yu
+http://stream3.radiocenter.si:8100/;stream/1
+#EXTINF:-1 tvg-id="827b993a-a1f7-4384-b7e8-53d9a1825d31" tvg-logo="https://media.radio1.si/ico/80/32.png" group-title="Slovenia | Unknown region | Unknown city",Radio 2
+http://live.radio2.si/Radio2?1448457274706.mo3
+#EXTINF:-1 tvg-id="8f178445-f27b-4cad-bf72-2bfe863204c2" tvg-logo="https://media.radio1.si/ico/80/32.png" group-title="Slovenia | Unknown region | Unknown city",Radio 2
+http://live.radio2.si/Radio2?1448457274706.mp3
+#EXTINF:-1 tvg-id="aae3425f-cfcc-4f3a-b5e3-4bbc4fb446d1" group-title="Slovenia | Unknown region | Unknown city",Radio Ekspres SI
+http://145.14.14.93:8016/stream/1/
+#EXTINF:-1 tvg-id="96378d71-0601-11e8-ae97-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Radio MARŠ
+http://frekvenca.eu:8000/radiomars.mp3
+#EXTINF:-1 tvg-id="b43b5ddd-a053-408f-b3f1-2668ac0cd5d4" tvg-logo="https://media.radiomaxi.si/ico/32.png" group-title="Slovenia | Unknown region | Unknown city",Radio Maxi
+http://live2.infonetmedia.si:8000/Maxi
+#EXTINF:-1 tvg-id="e163dfb7-3867-4ea6-a37e-86a10fa22941" tvg-logo="https://mister-deejay.com/favicon.ico" group-title="Slovenia | Unknown region | Unknown city",Radio Mister Deejay
+http://stream.mister-deejay.com:9008/;
+#EXTINF:-1 tvg-id="42f8f9eb-112b-48a6-ae85-a3fd4555b8f7" tvg-logo="https://radionula.com/favicon.png" group-title="Slovenia | Unknown region | Unknown city",Radio NULA - Classics
+https://strm.radionula.com/classics
+#EXTINF:-1 tvg-id="8fd12c1b-4d5c-4f51-8442-0e92968c7cff" tvg-logo="https://cdn-radiotime-logos.tunein.com/s111827g.png" group-title="Slovenia | Unknown region | Unknown city",Radio Nula Organic
+https://strm.radionula.com/channel2
+#EXTINF:-1 tvg-id="60412038-eddc-4d65-bbaa-c67e97ae1ca5" tvg-logo="https://radioptuj.svet24.si/images/RadioPtuj_logo.png" group-title="Slovenia | Unknown region | Unknown city",Radio Ptuj
+https://live.radio.si/Ptuj
+#EXTINF:-1 tvg-id="414582d1-7144-4379-8d64-b6363d9118bb" group-title="Slovenia | Unknown region | Unknown city",Radio Roška
+http://stream.zeno.fm/q7300aptbwzuv
+#EXTINF:-1 tvg-id="964a03da-0601-11e8-ae97-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Radio Sraka
+http://193.105.67.24:8006/
+#EXTINF:-1 tvg-id="0f0f86e5-2d35-4384-a122-f642f7306845" group-title="Slovenia | Unknown region | Unknown city",Radio Student
+https://kruljo.radiostudent.si:8001/hiq
+#EXTINF:-1 tvg-id="7282f3d2-0b7a-4d9a-aa5d-3e34a1a5479a" group-title="Slovenia | Unknown region | Unknown city",Radio Student
+http://kruljo.radiostudent.si:8000/ehiq
+#EXTINF:-1 tvg-id="121b4078-33b4-11e9-8f31-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",Radio Zica
+http://live.1chi.si/zica
+#EXTINF:-1 tvg-id="a4725ec1-fc58-483b-bcf1-0344a379d1f3" tvg-logo="https://radijskepostaje.si/uploads/img/rock-radio.jpg" group-title="Slovenia | Unknown region | Unknown city",Rock Radio Classics SLO
+https://stream.nextmedia.si/proxy/rocks_3?mp=/stream
+#EXTINF:-1 tvg-id="961b7fdb-0601-11e8-ae97-52543be04c81" group-title="Slovenia | Unknown region | Unknown city",ROCK RADIO SI
+http://stream.rockradio.si:9034/;
+#EXTINF:-1 tvg-id="5d027d7d-f51b-47b7-bbdd-3d6b347195d7" group-title="Slovenia | Unknown region | Unknown city",Rock Radio Slovenia
+https://stream.nextmedia.si/proxy/rockr1_1?mp=/rock
+#EXTINF:-1 tvg-id="961b5706-0601-11e8-ae97-52543be04c81" tvg-logo="https://img.rtvslo.si/_static/novi/bootstrap/public/themes/raval202/icons/apple-touch-icon.png" group-title="Slovenia | Unknown region | Unknown city",Val 202
+http://mp3.rtvslo.si/val202
+#EXTINF:-1 tvg-id="cd38e3f6-038d-4a22-8661-2d20108f5235" tvg-logo="https://media.totiradio.si/toti.jpg" group-title="Slovenia | Urban Municipality of Maribor | Maribor",Toti Radio
+https://live.radio.si/Toti
+#EXTINF:-1 tvg-id="9030dc2d-5d4a-4a9e-9323-22e4f163b0d2" group-title="Slovenia | Štajerska | Unknown city",Radio Celje
+https://stream.rgl.si/Celje
+#EXTINF:-1 tvg-id="e655e587-ecf7-4358-9223-5c13b3c12bf3" group-title="Slovenia | Štajerska | Unknown city",Radio City
+https://stream1.radiocity.si/CityMp3128.mp3

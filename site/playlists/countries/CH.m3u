@@ -1,0 +1,403 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="f78b5faa-d2a0-4c91-b891-e8889664d460" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Argovia-logo.svg/800px-Argovia-logo.svg.png" group-title="Switzerland | Aargau | Aarau",Radio Argovia
+https://stream.streambase.ch/argovia/mp3-192/radiobrowser/
+#EXTINF:-1 tvg-id="3bb2d57f-f7a6-49e7-afb5-89daf251de9d" tvg-logo="https://i.imgur.com/ccMg6qJ.png" group-title="Switzerland | Aargau | Aarburg",RADIO ARGOVIA
+https://stream.streambase.ch/argovia/mp3-192/direct/
+#EXTINF:-1 tvg-id="de16f83f-deda-4e22-a324-c3f83f4e582b" tvg-logo="https://lounge-radio.com/images/lounge-radio_logo.png" group-title="Switzerland | Aargau | Unknown city",LOUNGE-RADIO.COM - swiss made
+https://player.streamhosting.ch/lounge128.ogg
+#EXTINF:-1 tvg-id="aa317a71-5086-11e8-a4d1-52543be04c81" group-title="Switzerland | Basel | Unknown city",Radio SRF 3
+http://stream.srg-ssr.ch/srgssr/srf3/aac/96
+#EXTINF:-1 tvg-id="960b6d95-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Basel | Unknown city",Radio X Basel (MP3 Stream)
+http://mp3.radiox.ch:8000/standard.mp3
+#EXTINF:-1 tvg-id="70c5b03c-4d0d-44ae-915e-7392efd9f17e" group-title="Switzerland | Basel | Unknown city",Radiopolis
+http://rs01.swissnwx.ch:20080/stream
+#EXTINF:-1 tvg-id="3603fb30-d023-4276-81d9-a12da5f16485" tvg-logo="https://www.radioswissclassic.ch/_nuxt/img/rsc-logo-claim-desktop.520c5d8.png" group-title="Switzerland | Basel-City | Basel",Radio Swiss Classic
+http://stream.srg-ssr.ch/srgssr/rsc_de/aac/96
+#EXTINF:-1 tvg-id="489f3786-3ff8-46c1-ad14-2a7c5d9cea99" tvg-logo="https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg" group-title="Switzerland | Bern | Bern",Energy Bern
+https://energybern.ice.infomaniak.ch/energybern-high.mp3
+#EXTINF:-1 tvg-id="fb056b8d-24ae-4bc5-80dd-2a7020415383" group-title="Switzerland | Bern | Frutigen",Radio Maxxima
+https://maxxima.mine.nu/maxxima.mp3
+#EXTINF:-1 tvg-id="4cde8f3b-17fc-4802-ba40-e8feae5395a1" tvg-logo="https://www.neo1.ch/fileadmin/user_upload/newsaudio/2018/11/neo1-logo.jpg" group-title="Switzerland | Bern | Langnau",Neo1
+https://neo1.ice.infomaniak.ch/neo1.mp3
+#EXTINF:-1 tvg-id="2037c9d4-8d99-48f1-b5f1-eb60dc015773" tvg-logo="https://www.radioswissjazz.ch/social-media/rsj-web.png" group-title="Switzerland | Bern | Unknown city",Jazz | Radio Swiss
+https://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-id="8c9041ef-372d-46d7-87ed-d9f1d1d92e38" tvg-logo="https://www.radioswisspop.ch/favicon.ico" group-title="Switzerland | Bern | Unknown city",Pop | Radio Swiss
+https://stream.srg-ssr.ch/m/rsp/mp3_128
+#EXTINF:-1 tvg-id="01e4105e-19ea-45e2-a153-31e40e21f448" group-title="Switzerland | Bern | Unknown city",RaBe Radio Bern Switzerland
+http://stream.rabe.ch/livestream/rabe-mid.mp3
+#EXTINF:-1 tvg-id="e1b48285-78a9-4e33-b0bd-cfc1bb59b838" group-title="Switzerland | Bern | Unknown city",Radio Bollwerk
+https://radio.radio-bollwerk.ch/listen/radio_bollwerk/radio.mp3
+#EXTINF:-1 tvg-id="96394fed-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Bern | Unknown city",Radio Svizzera Classica
+http://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tvg-id="961ac56b-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Bern | Unknown city",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/mp3_128
+#EXTINF:-1 tvg-id="ac5fdde2-5bc3-435a-a016-37e93dfe79bc" group-title="Switzerland | Burgenland | Unknown city",Radio Alta
+https://transmiss.ion.ovh/listen/alta/radio.mp3
+#EXTINF:-1 tvg-id="f41d60a2-28c0-4637-87d8-274edc988871" tvg-logo="https://electronslibres.ch/favicon.ico" group-title="Switzerland | Fribourg | Bas-Vully",Radio Electrons Libres
+https://listen.radioking.com/radio/427889/stream/481502
+#EXTINF:-1 tvg-id="f927ac2d-6b32-42f5-b8da-82f388537ef3" tvg-logo="https://basspistol.com/siteicon.png" group-title="Switzerland | Geneva | Geneva",Basspistol Radio
+https://radio.basspistol.com/listen/basspistol/radio.mp3
+#EXTINF:-1 tvg-id="3718f163-5868-11e9-a622-52543be04c81" tvg-logo="https://www.radiolac.ch/favicon.ico" group-title="Switzerland | Geneva | Unknown city",Radio Lac
+https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
+#EXTINF:-1 tvg-id="9624b79e-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Radio Vostok
+http://radiovostok.ice.infomaniak.ch/radiovostok.aac
+#EXTINF:-1 tvg-id="479d1fad-f328-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Ambient
+http://traxx011.ice.infomaniak.ch/traxx011-low.mp3
+#EXTINF:-1 tvg-id="5ee759da-f32b-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Cool Jam
+http://traxx005.ice.infomaniak.ch/traxx005-low.mp3
+#EXTINF:-1 tvg-id="971cedc6-f328-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Deep
+http://traxx013.ice.infomaniak.ch/traxx013-low.mp3
+#EXTINF:-1 tvg-id="496f0103-f32c-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Funk
+http://traxx016.ice.infomaniak.ch/traxx016-low.mp3
+#EXTINF:-1 tvg-id="f35f16ac-f329-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - House
+http://traxx002.ice.infomaniak.ch/traxx002-low.mp3
+#EXTINF:-1 tvg-id="45d2ba40-f32a-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Jazz
+http://traxx014.ice.infomaniak.ch/traxx014-low.mp3
+#EXTINF:-1 tvg-id="ff6f89ae-513a-419a-b44c-1b472694c12f" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Latino Pop
+http://traxx022.ice.infomaniak.ch/traxx022-1.mp3
+#EXTINF:-1 tvg-id="3138ec65-f32c-11e9-a96c-52543be04c81" group-title="Switzerland | Geneva | Unknown city",Traxx FM - Rap
+http://traxx015.ice.infomaniak.ch/traxx015-low.mp3
+#EXTINF:-1 tvg-id="4ef67919-0af9-4940-8ab5-92d0b06e961d" group-title="Switzerland | Geneva | Unknown city",World Radio Switzerland
+https://uksouth.streaming.broadcast.radio:10290/wrs
+#EXTINF:-1 tvg-id="9606b4de-0601-11e8-ae97-52543be04c81" group-title="Switzerland | German swiss | Unknown city",Radio Basilisk
+http://radiobasilisk-64.ice.infomaniak.ch/radiobasilisk-64-128-2.mp3
+#EXTINF:-1 tvg-id="96074028-0601-11e8-ae97-52543be04c81" group-title="Switzerland | German Swiss | Unknown city",RadioFr. Freiburg
+http://radiofreiburg.ice.infomaniak.ch/radiofreiburg-high.mp3
+#EXTINF:-1 tvg-id="ec7a3be1-40d0-4625-acdf-889237fcc4d9" tvg-logo="https://download-media.srf.ch/world/image/audio/2020/07/45780e322f604be8973867ee03cf88e6.png" group-title="Switzerland | Grisons | Chur",RTR | 32k AAC+
+https://stream.srg-ssr.ch/m/rr/aacp_32
+#EXTINF:-1 tvg-id="be0355db-0ef9-4f81-a7d9-80eb2e305348" group-title="Switzerland | Luzern | Luzern",Radio SRF1
+http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/192
+#EXTINF:-1 tvg-id="9972eca9-5b29-42f5-aad8-9c052425e31a" group-title="Switzerland | Neuchatel | Marin-Epagnier",TA RADIO
+http://stream.taradio.ch/dab
+#EXTINF:-1 tvg-id="a3fa1510-b4ce-4766-9104-cc6b26a42e5a" group-title="Switzerland | Nidwalden | Buochs",hifreaksradio
+https://stream.laut.fm/hifreaksradio
+#EXTINF:-1 tvg-id="bb82c0b5-2857-49b0-9134-6c55e393bac6" tvg-logo="https://m209.syncusercontent.com/mfs-60:f532fe7ee7b8ad0b958e45881cbb4ad0=============================/p/RTS_Couleur_3.PNG?allowdd=0&datakey=jEFX3cXfvyFzKdmEZVY6M8Jv6LSAStYcGmbwiGmpRmdVO4q9OtLmdwmvYCpeMxisvpLxOTXdlKsvBK6fbEHk3NMoe4WTEKtNUoMCoI60sU/qLvEtycggP76GAtPexolKWHezTcbLw0yAodzdkJ0CnpS9aCv8FmPFiR3SPTXnFpxOajoSYGf3b7xw4Act61aXUnE3dVNLTt7/msIG7hQKay7ORk9ryDv3n5Jv6lQJQxthLJ1cpDkOxse1gI8MHkr1oNbPL4hq/GREGvg5SU5xXtr8lWoPzaD3qZ9hZ92QPJHnyR6RhU3QlfSBKQA/4iNUM4UW0UaV/ynyOfGpJz4tMQ&engine=ln-3.1.38&errurl=FXZuxQiwLHsEgJvnG5cWb0I2zdOaK4+VUurfo5c91Mv6MAvvpF15DSHwrMV5ofkuUsHBIi1JBzgBiKs1Uvucn5/7STtuALtsAKZsZKIV9u5o2zW5M98FkqMWMyAPbegCvCL1KsI/Xn6hm5ey2CtB6UJudcwZxRZTJ0kQZ5IcEyD9bkt7GLiE2n0O3os13st1pvTlQMClY91HjOpC/4oDucetMLxrA1L6OLhYoqGh/ws/DKof9R38U6nGdJMAadp69zM3DMr8y0Dkf2ItG+KR6PcKoJm8SxQhfvAdWsuDdZ9bahYceteFrAqMorCzMoE6+wWKKb2+wxL7GBPpNgEo9A==&header1=Q29udGVudC1UeXBlOiBpbWFnZS9wbmc&header2=Q29udGVudC1EaXNwb3NpdGlvbjogaW5saW5lOyBmaWxlbmFtZT0iUlRTX0NvdWxldXJfMy5QTkciO2ZpbGVuYW1lKj1VVEYtOCcnUlRTX0NvdWxldXJfMy5QTkc7&ipaddress=1414030563&linkcachekey=9308766f0&linkoid=835000002&mode=101&sharelink_id=11288011570002&timestamp=1707897122376&uagent=3b50c75381f12107280e9099b5b7674cf455a2e5&signature=4a4999aa72da541de02efd1956bb09bff372ffb2&cachekey=60:f532fe7ee7b8ad0b958e45881cbb4ad0=============================" group-title="Switzerland | Romandie | Geneva",RTS Couleur 3
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
+#EXTINF:-1 tvg-id="3786ca1c-bcbd-4c90-8ce2-6e363756b320" tvg-logo="https://i.imgur.com/zSVUQHv.png" group-title="Switzerland | Sankt Gallen | Sankt Gallen",RADIO FM1
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+#EXTINF:-1 tvg-id="c9b6d938-31fa-4276-ae8a-4313c4a9cf96" tvg-logo="https://ch.az-cdn.ch/static/4.3.1/radiofm1/device-icons/48x48.png" group-title="Switzerland | Sankt Gallen | Sankt Gallen",RADIO FM1
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+#EXTINF:-1 tvg-id="23e128cb-60e6-47d3-97e9-71522969bd74" tvg-logo="https://ulozto.sk/tam/e343548f-8ef5-48dc-aa74-f6f2cb941730" group-title="Switzerland | Sankt Gallen | Sankt Gallen",RADIO FM1
+https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728
+#EXTINF:-1 tvg-id="d5ef3de2-cdc3-478b-8582-e42bc1773864" group-title="Switzerland | St. Gallen | Unknown city",1.FM - Ibiza Chill Tropical
+http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true
+#EXTINF:-1 tvg-id="96205a50-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Suisse Romande | Unknown city",Arc Musique
+https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3
+#EXTINF:-1 tvg-id="592c688f-4bad-49aa-860d-cd2bfc1de372" tvg-logo="https://www.ipmusic.ch/images/ipmusic-icon-144px.png" group-title="Switzerland | Suisse Romande | Unknown city",IP Music
+http://live7.avf.ch:8000/ipmusic320
+#EXTINF:-1 tvg-id="d567d053-cb05-41c0-9696-99eb092216af" tvg-logo="https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png" group-title="Switzerland | Suisse Romande | Unknown city",One FM
+https://onefm.ice.infomaniak.ch/onefm-high.aac
+#EXTINF:-1 tvg-id="f190cd5f-c91b-429e-af7b-dbc47d70be0e" tvg-logo="https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_NewHit.png" group-title="Switzerland | Suisse Romande | Unknown city",One FM New Hits
+https://webradio0001.ice.infomaniak.ch/webradio0001-128.mp3
+#EXTINF:-1 tvg-id="7396ca2e-f495-4e74-ac43-7e6870cebc3d" tvg-logo="https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png" group-title="Switzerland | Suisse Romande | Unknown city",One FM Rock Oldies
+https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3
+#EXTINF:-1 tvg-id="960a893c-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Suisse Romande | Unknown city",RFJ
+https://rfj.ice.infomaniak.ch/rfj-high.mp3
+#EXTINF:-1 tvg-id="9632ae87-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Suisse Romande | Unknown city",Rouge FM Latino
+http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3
+#EXTINF:-1 tvg-id="96094a59-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Suisse Romande | Unknown city",RTN
+https://rtn.ice.infomaniak.ch/rtn-high.mp3
+#EXTINF:-1 tvg-id="c4b8c9ca-b0fc-489e-b8db-7bec2a693023" group-title="Switzerland | Switzerland | Unknown city",kanalk
+https://play.kanalk.ch/kanalk/mp3-192/
+#EXTINF:-1 tvg-id="8d558fc8-b5ca-481b-b192-3f901eb76624" tvg-logo="https://static.wixstatic.com/media/d168f9_11af99f87f4448daaf0e1bda1d1a1169~mv2.png/v1/fill/w_180,h_125,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20Radio%20S.png" group-title="Switzerland | Thurgau | Unknown city",Radio S
+https://stream.radio-s.ch/stream
+#EXTINF:-1 tvg-id="96127f58-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Ticino | Unknown city",RSI Rete Due
+http://stream.srg-ssr.ch/m/retedue/mp3_128
+#EXTINF:-1 tvg-id="96127dce-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Ticino | Unknown city",RSI Rete Tre
+http://stream.srg-ssr.ch/m/retetre/mp3_128
+#EXTINF:-1 tvg-id="962a69c7-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - A List 80s
+http://strm112.1.fm/back280s_mobile_mp3
+#EXTINF:-1 tvg-id="962a64b4-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Absolute 70's Pop Radio
+http://strm112.1.fm/70s_mobile_mp3
+#EXTINF:-1 tvg-id="962a9069-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Acappella Radio
+http://strm112.1.fm/acpl_mobile_mp3
+#EXTINF:-1 tvg-id="962a6dd5-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Adult Urban Hits Choice Radio
+http://strm112.1.fm/oldschool_mobile_mp3
+#EXTINF:-1 tvg-id="96281314-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Afterbeat Electronica Radio
+http://strm112.1.fm/electronica_mobile_mp3
+#EXTINF:-1 tvg-id="962a67c2-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Alternative Rock X Hits Radio
+http://strm112.1.fm/x_mobile_mp3
+#EXTINF:-1 tvg-id="961e21c6-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Always-Christmas Radio
+http://strm112.1.fm/christmas_mobile_mp3
+#EXTINF:-1 tvg-id="961995eb-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - America's Best Ballads Radio
+http://strm112.1.fm/onelive_mobile_mp3
+#EXTINF:-1 tvg-id="962a6a94-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Back To The 50's & 60's Radio
+http://strm112.1.fm/60s_70s_mobile_mp3
+#EXTINF:-1 tvg-id="eba56c69-80c1-4f2b-8371-fd7f306f4e2c" group-title="Switzerland | Unknown region | Unknown city",1.FM - Chillout Lounge Radio
+http://strm112.1.fm/chilloutlounge_mobile_mp3
+#EXTINF:-1 tvg-id="f13203d2-1639-413b-9fe9-7017a541fe78" group-title="Switzerland | Unknown region | Unknown city",1.FM - Classic Rock Replay Radio
+http://strm112.1.fm/crock_mobile_mp3
+#EXTINF:-1 tvg-id="962a77ca-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Club 1 Radio
+http://strm112.1.fm/club_mobile_mp3
+#EXTINF:-1 tvg-id="2ce45525-39f3-4c58-b41a-70e3499d7a4d" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/2685.v4.png" group-title="Switzerland | Unknown region | Unknown city",1.FM - Country One Radio
+https://strmreg.1.fm/country_mobile_mp3
+#EXTINF:-1 tvg-id="962a7225-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Destination: SPA Radio
+http://strm112.1.fm/spa_mobile_mp3
+#EXTINF:-1 tvg-id="962a8d6a-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Dubstep Forward Radio
+http://strm112.1.fm/dubstep_mobile_mp3
+#EXTINF:-1 tvg-id="962a803f-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Gorilla FM Radio
+http://strm112.1.fm/gorillafm_mobile_mp3
+#EXTINF:-1 tvg-id="962a73d1-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - High Voltage Radio
+http://strm112.1.fm/highvoltage_mobile_mp3
+#EXTINF:-1 tvg-id="6af343d5-1415-434d-aafd-469632f5087b" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/2731.v5.png" group-title="Switzerland | Unknown region | Unknown city",1.FM - Love Classics Radio
+https://strmreg.1.fm/loveclassics_mobile_mp3
+#EXTINF:-1 tvg-id="96225a38-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Otto's Baroque Music Radio
+http://strm112.1.fm/baroque_mobile_mp3
+#EXTINF:-1 tvg-id="61cbd7d9-96f5-4200-9d3e-d1890ef84ead" group-title="Switzerland | Unknown region | Unknown city",1.FM - Otto's Opera House
+http://strm112.1.fm/opera_mobile_mp3
+#EXTINF:-1 tvg-id="c7e4f9da-30ae-442a-bfe8-3f24f9023ee7" group-title="Switzerland | Unknown region | Unknown city",1.FM - Rap Pregame
+http://strm112.1.fm/edm_mobile_mp3
+#EXTINF:-1 tvg-id="960f2d97-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - ReggaeTrade Radio
+http://strm112.1.fm/reggae_mobile_mp3
+#EXTINF:-1 tvg-id="962a752e-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Rock Classics Radio
+http://strm112.1.fm/rockclassics_mobile_mp3
+#EXTINF:-1 tvg-id="962a7e0e-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Samba Hits Brazil Radio
+http://strm112.1.fm/samba_mobile_mp3
+#EXTINF:-1 tvg-id="962a9326-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Sertaneja Hits Radio
+http://strm112.1.fm/sertanejo_mobile_mp3
+#EXTINF:-1 tvg-id="962a79dd-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",1.FM - Slow Jamz Radio
+http://strm112.1.fm/slowjamz_mobile_mp3
+#EXTINF:-1 tvg-id="d39425be-4ece-4a28-9de0-d656f1ff8ce6" tvg-logo="https://i.postimg.cc/qMqdk92Q/Party-Zone-90s.png" group-title="Switzerland | Unknown region | Unknown city",1.FM 90s Alternative Radio
+http://strm112.1.fm/partyzone90s_mobile_mp3
+#EXTINF:-1 tvg-id="bb0ab7f4-e1f0-495e-bdba-e57b7a428988" group-title="Switzerland | Unknown region | Unknown city",1.fm Back To The 50's
+https://strm112.1.fm/60s_70s_mobile_mp3?
+#EXTINF:-1 tvg-id="ab911d7a-cc43-4640-96f0-771a651ccd25" group-title="Switzerland | Unknown region | Unknown city",1.FM Beloved Ballads
+https://strm112.1.fm/onelive_mobile_mp3?
+#EXTINF:-1 tvg-id="c3086993-34c3-47cb-9323-540fb675fe46" group-title="Switzerland | Unknown region | Unknown city",1.fm classic rock
+https://strm112.1.fm/crock_mobile_mp3
+#EXTINF:-1 tvg-id="42542b18-0d4d-436f-b286-209787d2793f" tvg-logo="https://radio-online.ch/uploads/img/1-fm-y2k.png" group-title="Switzerland | Unknown region | Unknown city",1.FM Y2K Radio (2000s)
+http://strm112.1.fm/hits2000_mobile_mp3
+#EXTINF:-1 tvg-id="40e0da97-9fd2-4729-8e86-4c65cdba7910" tvg-logo="https://jazzgumboradio.com/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",A Fine Jazz Gumbo Radio
+https://streaming.smartradio.ch:9502/stream
+#EXTINF:-1 tvg-id="fd6bf8d3-6068-4527-bdca-fd9a5c2545a3" group-title="Switzerland | Unknown region | Unknown city",Adonia-KidsRadio
+http://puma.streemlion.com:1930/stream
+#EXTINF:-1 tvg-id="39d0c850-9625-4e27-bc2d-582e2591290d" group-title="Switzerland | Unknown region | Unknown city",Adonia-KidsRadio
+http://puma.streemlion.com:1930/stream
+#EXTINF:-1 tvg-id="7c354521-321e-405c-abea-71f5c190c4bc" tvg-logo="https://i.imgur.com/i2EdxRl.png" group-title="Switzerland | Unknown region | Unknown city",Adore Jazz
+http://strm112.1.fm/ajazz_mobile_mp3
+#EXTINF:-1 tvg-id="4b407263-550e-46c9-82dc-c26a69a8c51e" group-title="Switzerland | Unknown region | Unknown city",Ahuga laut.fm
+http://stream.laut.fm/ahuga
+#EXTINF:-1 tvg-id="1901f7f2-727f-4fb1-b9d8-bf3f50e1419c" tvg-logo="https://www.bearmetalradio.com/images/logo.png" group-title="Switzerland | Unknown region | Unknown city",Bear Metal Radio
+https://cast5.asurahosting.com/proxy/bear?mp=/stream
+#EXTINF:-1 tvg-id="f06f548b-fc16-45f3-a057-8b99c4976302" tvg-logo="https://www.countryradio.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",Country Radio Switzerland
+http://stream.countryradio.ch/crs-64.mp3
+#EXTINF:-1 tvg-id="8ac2325b-a582-4e6b-b3fc-6db68e9b960c" tvg-logo="https://www.countryradio.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",Country Radio Switzerland (CRS)
+http://stream.countryradio.ch/crs-128.mp3
+#EXTINF:-1 tvg-id="2c3ae89a-977a-445b-9a8a-bef76cd0ebfa" tvg-logo="https://static.wixstatic.com/media/e05539_cbaf7759467242c1843d8bac2619e127~mv2.png/v1/crop/x_9,y_0,w_3107,h_1875/fill/w_490,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/customcolor_logo_transparent_background.png" group-title="Switzerland | Unknown region | Unknown city",Dream Sequence
+https://listen.radioking.com/radio/453296/stream/508976
+#EXTINF:-1 tvg-id="6a025312-db3d-458c-b48f-035cac89a8cb" tvg-logo="https://www.globalsport.ch/player/bouton_player.png" group-title="Switzerland | Unknown region | Unknown city",Global Sport Canal Romand
+https://globalsportvaud.ice.infomaniak.ch/globalsportvaud-128.mp3
+#EXTINF:-1 tvg-id="4f6119c9-3e96-494d-8b79-696cd97f9a3d" tvg-logo="https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png" group-title="Switzerland | Unknown region | Unknown city",GOAT Radio
+https://20min.dmd2streaming.com/20minuten_radio_64.aac
+#EXTINF:-1 tvg-id="ed16b66c-340e-470f-bd76-1e45b145055e" tvg-logo="https://goodtimeradio.broadcast.radio/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",Happy Radio
+https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995
+#EXTINF:-1 tvg-id="aa720dea-0c1f-41ac-8cc6-61af1f9dd188" tvg-logo="https://jukebox.kreuzbergswiss.ch/templates/oldie_jukebox_liquid_glass/oben_oldie_jukebox-min.jpg?version=1782741716" group-title="Switzerland | Unknown region | Unknown city",Jukebox - Nonstop Music
+http://kreuzbergswiss.spcast.eu:8160/stream
+#EXTINF:-1 tvg-id="3684bcbb-8af6-4755-9db8-0e240824f0fa" tvg-logo="https://kisscollector.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",Kiss Collector Radio
+https://dr2101.ice.infomaniak.ch/dr2101.mp3
+#EXTINF:-1 tvg-id="399c496f-0866-4007-9bbf-2b6e3a388e9f" group-title="Switzerland | Unknown region | Unknown city",Kontrafunk
+https://s5.radio.co/sca4082ebb/listen
+#EXTINF:-1 tvg-id="22511118-c851-4e29-994a-23c7099bdfee" group-title="Switzerland | Unknown region | Unknown city",Kontrafunk
+https://s5.radio.co/sca4082ebb/listen
+#EXTINF:-1 tvg-id="cb81fe62-e665-4469-bd2b-92bfad063453" group-title="Switzerland | Unknown region | Unknown city",Kontrafunk (AAC 64)
+https://s5.radio.co/sca4082ebb/low
+#EXTINF:-1 tvg-id="532a0418-87c1-11e8-aa66-52543be04c81" tvg-logo="https://www.lfm.ch/wp-content/uploads/2021/07/cropped-radio-lausanne-fm-sa-icone-du-site-180x180.png" group-title="Switzerland | Unknown region | Unknown city",LFM
+http://lausannefm.ice.infomaniak.ch/lausannefm-high.mp3
+#EXTINF:-1 tvg-id="9051470d-87fa-4177-bda7-6a87be58f066" tvg-logo="https://lounge-radio.com/wp-content/uploads/fbrfg/apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",lounge-radio.com
+https://fr1.streamhosting.ch/lounge128.mp3
+#EXTINF:-1 tvg-id="c2a16972-2b5e-4d85-b590-8bf592c95829" group-title="Switzerland | Unknown region | Unknown city",Love Hardstyle
+https://ca.azura.linkodev.ch/listen/lovehardstyle/radio.mp3
+#EXTINF:-1 tvg-id="fe1fd6f9-2054-464c-8850-45704c450a98" group-title="Switzerland | Unknown region | Unknown city",Love Hardstyle
+https://ca.azura.linkodev.ch/listen/lovehardstyle/radio.mp3
+#EXTINF:-1 tvg-id="33c26dd3-284e-42aa-8491-7eff1e082c47" tvg-logo="https://luxradio.ch/wp-content/uploads/2022/03/Logo-Colour.png" group-title="Switzerland | Unknown region | Unknown city",LUX RADIO
+https://fluxradio.ice.infomaniak.ch/fluxradio-32.aac
+#EXTINF:-1 tvg-id="9643245c-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",my105 - Chill
+http://stream01.my105.ch/my105chill.mp3
+#EXTINF:-1 tvg-id="96432f4a-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",my105 - Dreist
+http://stream01.my105.ch/my105dreist.mp3
+#EXTINF:-1 tvg-id="9643b752-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",my105 - Fresh
+http://stream01.my105.ch/my105fresh.mp3
+#EXTINF:-1 tvg-id="96410337-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",my105 - Ritmo Latino
+http://stream01.my105.ch/my105ritmolatino.mp3
+#EXTINF:-1 tvg-id="ee47b64d-ebaf-4d26-90e6-e9cd25f32958" tvg-logo="https://www.onefm.ch/wp-content/uploads/2018/08/favicon.png" group-title="Switzerland | Unknown region | Unknown city",One FM 2000s
+https://webradio0009.ice.infomaniak.ch/webradio0009-128.mp3
+#EXTINF:-1 tvg-id="40625101-0e83-4fc1-94a1-41a8815d8a0b" tvg-logo="https://openbroadcast.ch/static/assets/manifest/icon-triangle-white.91b2fd954957.png" group-title="Switzerland | Unknown region | Unknown city",open broadcast
+http://stream.openbroadcast.ch/16bit.flac
+#EXTINF:-1 tvg-id="9e22008d-ce5c-43b9-a81f-cea56e57da6b" group-title="Switzerland | Unknown region | Unknown city",Pineapple Juice
+http://stream.laut.fm/pineapplejuice
+#EXTINF:-1 tvg-id="414493f3-4e29-4ebd-a8be-0097668a9f50" group-title="Switzerland | Unknown region | Unknown city",Pineapplejuice
+http://stream.laut.fm/pineapplejuice
+#EXTINF:-1 tvg-id="e97b90d7-d1b9-4358-8dec-d3fc5289a376" group-title="Switzerland | Unknown region | Unknown city",Public Domain Jazz
+http://relay.publicdomainradio.org/jazz_swing.mp3
+#EXTINF:-1 tvg-id="36cec5dc-942e-4127-a317-9e3d5c173708" group-title="Switzerland | Unknown region | Unknown city",publicdomainproject swing jazz
+http://relay.publicdomainradio.org/jazz_swing.mp3
+#EXTINF:-1 tvg-id="0c0ff72d-dcb3-4215-bd08-49b580548e61" group-title="Switzerland | Unknown region | Unknown city",Radio 1
+http://stream.radio1.ch/128k.m3u
+#EXTINF:-1 tvg-id="2113cbad-76dd-476e-b5d8-f3895357170b" group-title="Switzerland | Unknown region | Unknown city",Radio 1 Zürich
+https://stream.radio1.ch/128k?utm_source=chatgpt.com
+#EXTINF:-1 tvg-id="3a88b9a3-0e12-4b0c-a1c3-f6ed2301d789" tvg-logo="https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png" group-title="Switzerland | Unknown region | Unknown city",Radio 32 Goldies
+https://stream.streambase.ch/r32goldies/mp3-192/direct/
+#EXTINF:-1 tvg-id="8d36363c-f60f-45d8-afe1-659c9fc4071c" tvg-logo="https://3fach.ch/themes/3fach/assets/logo_black@2x.png" group-title="Switzerland | Unknown region | Unknown city",Radio 3FACH
+https://stream01.3fach.ch/live
+#EXTINF:-1 tvg-id="6500ca13-51b8-4521-b35b-60bff718ef0a" group-title="Switzerland | Unknown region | Unknown city",Radio BeO
+https://streaming.radiobeo.ch/beo/mp3_192/web
+#EXTINF:-1 tvg-id="9d77a3ba-e9fe-4e87-b958-79927bec5f41" tvg-logo="https://ch.az-cdn.ch/static/4.68.0/radiocentral/device-icons/512x512.png" group-title="Switzerland | Unknown region | Unknown city",Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/
+#EXTINF:-1 tvg-id="ba991cb5-a5ea-443d-81b3-af7c42d2ff2b" tvg-logo="https://www.radiolac.ch/wp-content/uploads/2017/08/android-icon-48x48.png" group-title="Switzerland | Unknown region | Unknown city",Radio LAC
+https://radiolac.ice.infomaniak.ch/radiolac-high.mp3
+#EXTINF:-1 tvg-id="1afd93f4-2061-48e2-ae13-df204c17c24c" tvg-logo="https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png" group-title="Switzerland | Unknown region | Unknown city",Radio Melody Schweiz
+https://stream.streambase.ch/rm/mp3-192/mytuner/
+#EXTINF:-1 tvg-id="e12603bb-d572-43ee-8052-d5e45bfc2b98" tvg-logo="https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png" group-title="Switzerland | Unknown region | Unknown city",Radio Munot
+https://radio-munot.api.radiosphere.io/channels/channel-demo/stream.mp3?quality=4
+#EXTINF:-1 tvg-id="aaa4e936-93aa-4e4c-a53d-cf0a019b0df0" tvg-logo="https://www.radioouistiti.ch/wp-content/uploads/2024/11/radioouistiti_logo.png" group-title="Switzerland | Unknown region | Unknown city",RADIO OUISTITI
+https://radioouistiti2.ice.infomaniak.ch/radioouistiti-high.mp3?_=1
+#EXTINF:-1 tvg-id="7fa043b5-6a69-40ce-abaa-2274634484bc" tvg-logo="https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png" group-title="Switzerland | Unknown region | Unknown city",Radio Pilatus
+https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/
+#EXTINF:-1 tvg-id="5b884101-b14c-4377-8b96-7593ade7a2d1" tvg-logo="https://radio-r.ch/wp-content/uploads/2024/03/radio-r-louange_cover_cropOK_1080x1080px-170x170.png" group-title="Switzerland | Unknown region | Unknown city",Radio R Louange
+https://radiorlouange.ice.infomaniak.ch/radiorlouange-96.aac?ver=666978
+#EXTINF:-1 tvg-id="b4586ab6-6242-42f0-8e33-cfd10b84a156" group-title="Switzerland | Unknown region | Unknown city",Radio Schlagerpark
+https://radio.schlagerpark.com/
+#EXTINF:-1 tvg-id="964962f6-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 1 Regionaljournal Basel, Baselland
+http://stream.srg-ssr.ch/m/regi_bs_bl/mp3_128
+#EXTINF:-1 tvg-id="964963c1-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 1 Regionaljournal Ostschweiz
+http://stream.srg-ssr.ch/m/regi_ost/mp3_128
+#EXTINF:-1 tvg-id="01f33d12-5085-11e8-a4d1-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 1 Zentralschweiz
+http://stream.srg-ssr.ch/srgssr/regi_zentr/aac/96
+#EXTINF:-1 tvg-id="212be1bd-8350-41d7-bec9-763a7041de7a" tvg-logo="https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 2 Kultur (AAC 192)
+https://stream.srg-ssr.ch/srgssr/srf2/aac/192
+#EXTINF:-1 tvg-id="be0048b7-70c2-4cc1-85dc-e6d0e00bba83" tvg-logo="https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 3
+https://stream.srg-ssr.ch/m/drs3/aacp_32
+#EXTINF:-1 tvg-id="22fae9ab-81e4-4788-aeef-5a077ac0b9b0" tvg-logo="https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 3 (AAC 192)
+https://stream.srg-ssr.ch/srgssr/srf3/aac/192
+#EXTINF:-1 tvg-id="8d5e37f9-6304-41c3-94b4-f66882f01f77" tvg-logo="https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png" group-title="Switzerland | Unknown region | Unknown city",Radio SRF 4 News (AAC 192)
+https://stream.srg-ssr.ch/srgssr/srf4news/aac/192
+#EXTINF:-1 tvg-id="0e6da6e8-425c-46d7-bc70-99b04e0f04d0" group-title="Switzerland | Unknown region | Unknown city",Radio Swiss Classic
+http://stream.srg-ssr.ch/m/rsc_de/aacp_96
+#EXTINF:-1 tvg-id="21669095-e543-4fa4-91e3-0d999027d06a" tvg-logo="https://www.radioswissclassic.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",RADIO SWISS CLASSICA ITALIA
+https://stream.srg-ssr.ch/m/rsc_it/mp3_128
+#EXTINF:-1 tvg-id="e4eb6895-e06a-4f7f-aa0d-68a8d5ae0181" group-title="Switzerland | Unknown region | Unknown city",Radio Swiss Jazz
+http://stream.srg-ssr.ch/m/rsj/aacp_96
+#EXTINF:-1 tvg-id="766a0b33-3936-458b-ab92-db8500dccaf9" tvg-logo="https://www.radioswissjazz.ch/social-media/rsj-web.png" group-title="Switzerland | Unknown region | Unknown city",Radio Swiss Jazz (AAC 192)
+https://stream.srg-ssr.ch/srgssr/rsj/aac/192
+#EXTINF:-1 tvg-id="a26c0b03-16c7-4e69-8555-0e8e5590d718" group-title="Switzerland | Unknown region | Unknown city",Radio Swiss Pop
+http://stream.srg-ssr.ch/m/rsp/aacp_32
+#EXTINF:-1 tvg-id="cf430e7d-6fce-4931-8a53-5115acde3eb5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Radio_Swiss_Pop_Logo_2018.svg/2048px-Radio_Swiss_Pop_Logo_2018.svg.png" group-title="Switzerland | Unknown region | Unknown city",Radio Swiss Pop
+http://stream.srg-ssr.ch/srgssr/rsp/aac/96
+#EXTINF:-1 tvg-id="a0803c30-d586-45e0-90b6-77babe452f7e" tvg-logo="https://radio-zuerich-nord.ch/s3/a/wsw.website.1097/public/images/pages/1493162-436252646518688-612187691-njpg2.jpeg" group-title="Switzerland | Unknown region | Unknown city",Radio Zuerich Nord: Musikbox
+https://bayern.streampanel.cloud:11145/stream
+#EXTINF:-1 tvg-id="4992d90f-2bed-445d-abc6-6065e7faa38e" group-title="Switzerland | Unknown region | Unknown city",Radio-Drachenblut
+https://radio-drachenblut.ch:8443/listen.mp3
+#EXTINF:-1 tvg-id="1e61a87e-3a7d-4e32-8e1c-5c5dc548e102" group-title="Switzerland | Unknown region | Unknown city",Radio1
+http://stream.radio1.ch/128k.m3u
+#EXTINF:-1 tvg-id="0064bd20-d2bc-4d1f-808b-3e6b1bf63604" tvg-logo="https://radio3i.ch/assets/images/app-logo.png" group-title="Switzerland | Unknown region | Unknown city",Radio3i
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:-1 tvg-id="2fda96fe-7494-49cd-9ada-a21aa3e3b2be" tvg-logo="https://www.radio4tng.ch/media/Icon-60@3x-170x170.png" group-title="Switzerland | Unknown region | Unknown city",Radio4TNG
+https://radio4tng.ice.infomaniak.ch/radio4tng-live-web.mp3
+#EXTINF:-1 tvg-id="69641b03-0907-45e1-888f-79fadb9fe6bf" group-title="Switzerland | Unknown region | Unknown city",RadioFr. Fresh
+https://radiofresh.ice.infomaniak.ch/radiofresh.aac
+#EXTINF:-1 tvg-id="f58d3116-4593-4851-878f-0820d7597f70" tvg-logo="https://radiox.ch/.resources/radiox-theme/webresources/images/favicon/touch-icon-ipad.png" group-title="Switzerland | Unknown region | Unknown city",radiox.ch
+https://mp3.radiox.ch/standard.ogg
+#EXTINF:-1 tvg-id="9607cdda-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",RTS Couleur 3
+http://stream.srg-ssr.ch/m/couleur3/mp3_128
+#EXTINF:-1 tvg-id="ef11fe43-7752-11ea-b1cf-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",RTS Espace 2
+http://stream.srg-ssr.ch/m/espace-2/aacp_96
+#EXTINF:-1 tvg-id="9607cc5d-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.rts.ch/hbv7/static/images/favicon/rts/152x152.png" group-title="Switzerland | Unknown region | Unknown city",RTS Option Musique
+http://stream.srg-ssr.ch/srgssr/option-musique/mp3/128
+#EXTINF:-1 tvg-id="9c9127ad-b013-4567-aa02-e2938917adab" tvg-logo="https://i.postimg.cc/wTG6YwVj/1000002923.png" group-title="Switzerland | Unknown region | Unknown city",RTS Première
+http://stream.srg-ssr.ch/m/la-1ere/mp3_128
+#EXTINF:-1 tvg-id="aa98e5e6-63d3-4469-a0f7-e2868efd96a0" group-title="Switzerland | Unknown region | Unknown city",Skuizz Hits 90s-00s
+https://traxx024.ice.infomaniak.ch/traxx024-1.mp3
+#EXTINF:-1 tvg-id="306482ff-7e3b-4918-a683-088165abda7f" tvg-logo="https://www.spoonradio.com/newimages/logo.png" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio
+http://spoonradio.ice.infomaniak.ch/spoonradio-hd.mp3
+#EXTINF:-1 tvg-id="7b94bb6f-5e46-4424-a909-387d06a10df0" tvg-logo="https://www.spoonradio.com/newimages/logo.png" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio
+https://ic2527.c972.fastserv.com:80/spoonradio_mp3_192
+#EXTINF:-1 tvg-id="dbcbdefe-8448-4997-ad46-1c921edd0174" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Acoustic Rock
+https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac
+#EXTINF:-1 tvg-id="c1453dcf-4592-4f2f-b821-e1aa7ff5733b" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPTkhtlfBGmdKGR3Wonw4d37Cwp1ftlwjZV_WPS7Z9z8NzJchK0e8TSaaPO0-mZ8FMpdb2a4pTUiiE94Ayw69P5Wmuv04cpgqSwcDCAPuTHfApfmG1ZmIXbiCADz2sTeW_93H_on5TaBVFMFqZpNq44cWBLINmKnmU47z0f1s5qsycmGd5_ZRG33inW6X/s300/Classic%20Rock.png" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Classic Rock
+https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac
+#EXTINF:-1 tvg-id="74b2242c-6e3c-42a0-b96a-b49537d4c826" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Hard Rock
+https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+#EXTINF:-1 tvg-id="4488dc76-a690-4e51-a46c-3600be8195c4" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Hard Rock
+https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac
+#EXTINF:-1 tvg-id="c68224d9-0082-47fb-976f-6c08e2e05b21" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Modern Rock
+https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#EXTINF:-1 tvg-id="ebfd9ee6-f7a5-41ab-9c0c-cc104d996067" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio - Rock Ballads
+https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac
+#EXTINF:-1 tvg-id="1db20054-adae-403f-8cac-353b0b0a52e8" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio Modern Rock
+https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#EXTINF:-1 tvg-id="0cacdda0-a9cf-4933-b45a-4fba003d9ecc" tvg-logo="https://drive.google.com/file/d/1MQai1JfYOPzDbJR2uDeZYRBaxTxyqqED/view?usp=drivesdk" group-title="Switzerland | Unknown region | Unknown city",Spoon Radio Modern Rock
+https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac
+#EXTINF:-1 tvg-id="960b6cd6-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",SRF Virus
+http://stream.srg-ssr.ch/srgssr/srfvirus/mp3/128
+#EXTINF:-1 tvg-id="6cb03e29-0706-445d-9a28-282e3c21dcd6" tvg-logo="https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png" group-title="Switzerland | Unknown region | Unknown city",Sunshine Radio (Switzerland)
+https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080
+#EXTINF:-1 tvg-id="2c551d70-bf20-4d89-970e-f495adad0367" group-title="Switzerland | Unknown region | Unknown city",Swiss Country Radio
+https://streaming.swisscountryradio.ch/scr/aac_128
+#EXTINF:-1 tvg-id="5c516001-3720-41af-b7e4-00023fc579c5" tvg-logo="https://www.swissgroove.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",Swiss Groove
+https://relay1.swissgroove.ch/
+#EXTINF:-1 tvg-id="6d4127ba-cd83-45c2-90ad-57dfd90b1457" tvg-logo="https://swissgroove.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",SWISS GROOVE
+https://relay2.swissgroove.ch/;
+#EXTINF:-1 tvg-id="72a8a5ad-b7bd-4436-a93d-bbcfa50634a7" group-title="Switzerland | Unknown region | Unknown city",SwissGroove
+http://relay1.swissgroove.ch/
+#EXTINF:-1 tvg-id="96474496-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",True House Radio
+https://stream.truehouse.net:8443/house
+#EXTINF:-1 tvg-id="025584a8-4ac4-11e8-9b06-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",TVM3.TV
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 tvg-id="65309759-6273-4340-a287-67ce6cca538f" tvg-logo="https://urbnradio.ch/favicon.ico" group-title="Switzerland | Unknown region | Unknown city",URBN Radio
+https://dr2101.ice.infomaniak.ch/dr2103.mp3
+#EXTINF:-1 tvg-id="f0df6e39-68b5-4026-9d83-51af63ddfdc6" tvg-logo="https://uzic.ch/wp-content/uploads/2025/06/logo_uzic-150x150.png" group-title="Switzerland | Unknown region | Unknown city",UZIC.CH :: TECHNO - MINIMAL :: best of electronic with techno minimal electro house and progressive
+https://uzic.ice.infomaniak.ch/uzic-128.aac
+#EXTINF:-1 tvg-id="962af9b5-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Unknown region | Unknown city",Vintage Radio
+https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:-1 tvg-id="5754a7d4-fa77-41c3-afaa-c364dfa1eafb" group-title="Switzerland | Unknown region | Unknown city",Volnadavida Radio
+https://transmiss.ion.ovh/listen/volnadavida/radio.mp3
+#EXTINF:-1 tvg-id="2fd252b6-30ff-4372-81e8-a30f960774c3" group-title="Switzerland | Unknown region | Unknown city",WRS
+https://uksouth.streaming.broadcast.radio:10290/wrs?_=540910
+#EXTINF:-1 tvg-id="8de25154-0839-4b87-b14d-76c241bc10e8" group-title="Switzerland | Unknown region | Unknown city",ஊரி தமிழ் வானொலி URI TAMIL RADIO
+http://stream.zenolive.com/u8nt64f6sfeuv
+#EXTINF:-1 tvg-id="5ff66832-e6b3-486b-bac8-e00ca29b6f67" tvg-logo="https://image.radioking.io/radios/181657/logo/098b1c15-74cf-4638-b264-517fb9b06eac.jpeg" group-title="Switzerland | Valais | Sierre",La Radio du bord de l’eau
+https://listen.radioking.com/radio/181657/stream/223420
+#EXTINF:-1 tvg-id="3cd03534-0100-4055-ab57-4d39c2ae52d0" tvg-logo="https://www.breakradio.ch/apple-touch-icon.png" group-title="Switzerland | Valais | Sitten",Break Radio
+https://breakradio.ice.infomaniak.ch/breakradio-192.mp3
+#EXTINF:-1 tvg-id="f95f4310-ff8c-4106-9b8e-18f05e594f1f" tvg-logo="https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg" group-title="Switzerland | Wallis | Brig",Vinyl-Valley Rock Radio
+https://listen.radioking.com/radio/265822/stream/311047
+#EXTINF:-1 tvg-id="849d6d59-3c27-40f1-a3c8-9b047bc0e9eb" group-title="Switzerland | Zug | Cham",Kontrafunk
+https://s5.radio.co/sca4082ebb/listen
+#EXTINF:-1 tvg-id="a80bd23d-9bd2-43f7-8e2c-205695451589" tvg-logo="https://ch.az-cdn.ch/static/4.3.0/radiocentral/device-icons/192x192.png" group-title="Switzerland | Zug | Rotkreuz",Radio Central
+https://stream.streambase.ch/rcentral/mp3-192/direct/
+#EXTINF:-1 tvg-id="a805fab4-126a-4d4a-9801-19295138d569" tvg-logo="https://jam-on.ch/img/apple-touch-icon.png" group-title="Switzerland | Zug | Zug",Jam On Radio
+https://jam-on.ice.infomaniak.ch/jam-on-128.mp3
+#EXTINF:-1 tvg-id="13391bc8-ef52-48a0-926f-08e25ca95a00" tvg-logo="https://superyachtradio.com" group-title="Switzerland | Zurich | Volketswil / Volketswil (Dorf)",Superyachtradio
+https://stream.radio.co/s43a403d3a/listen
+#EXTINF:-1 tvg-id="a7a61f38-61e3-4491-a7ba-8c978fe51935" group-title="Switzerland | Zurich | Zürich (Kreis 1) / City",Vintageradio.ch
+https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3
+#EXTINF:-1 tvg-id="0ac7f5db-6f86-428f-8bb2-66ecce89ad1a" group-title="Switzerland | Zürich | Baar",1.FM - Deep Techno & Deep House
+http://strm112.1.fm/deeptech_mobile_mp3
+#EXTINF:-1 tvg-id="89cf48cc-719a-4807-ac86-963196fc0107" group-title="Switzerland | Zürich | Unknown city",80ies dot radio
+https://stream.radiojar.com/6cbvkaa1mrruv?1643199882
+#EXTINF:-1 tvg-id="3b1a9cb4-68e8-4c71-b5e3-1355d043dce3" group-title="Switzerland | Zürich | Unknown city",80s Forever - We Keep The 80s Alive
+http://azuracast.ssl-stream.com/radio/8050/256.mp3
+#EXTINF:-1 tvg-id="32fed468-cfe3-11e9-a861-52543be04c81" tvg-logo="https://www.80sforever.radio/favicon.ico" group-title="Switzerland | Zürich | Unknown city",80s Forever - We Keep The 80s Alive
+https://premium.shoutcastsolutions.com/radio/8050/256.mp3
+#EXTINF:-1 tvg-id="7d24b0ee-15ec-4c4c-85c3-07a6e782d37a" tvg-logo="https://lifechannel.ch/wp-content/uploads/sites/2/cropped-Life-Channel-Profil-Logo-32x32.png" group-title="Switzerland | Zürich | Unknown city",ERF LifeChannel
+https://stream1.lifechannel.ch/LIFECHANNEL
+#EXTINF:-1 tvg-id="fd35b7de-99a6-4257-ba41-fe85c9fc2966" group-title="Switzerland | Zürich | Unknown city",GDS.FM
+https://live.gds.fm/main.mp3
+#EXTINF:-1 tvg-id="96210fa4-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Zürich | Unknown city",New Clear Radio
+http://live.ncradio.fm/320
+#EXTINF:-1 tvg-id="9629e3d4-0601-11e8-ae97-52543be04c81" group-title="Switzerland | Zürich | Unknown city",R102
+http://94.23.66.155:9334/stream
+#EXTINF:-1 tvg-id="23ee9e6c-76ea-11e9-8b97-52543be04c81" group-title="Switzerland | Zürich | Unknown city",Radio Maria Switzerland
+http://dreamsiteradiocp.com:8020/stream
+#EXTINF:-1 tvg-id="76a8392c-5085-11e8-a4d1-52543be04c81" group-title="Switzerland | Zürich | Unknown city",Radio SRF 1 Zürich Schaffhausen
+http://stream.srg-ssr.ch/srgssr/regi_zh_sh/aac/96
+#EXTINF:-1 tvg-id="4799f936-5aa7-4c80-8dd6-15c93463df6c" tvg-logo="https://radio.second-hands.org/favicon.ico" group-title="Switzerland | Zürich | Unknown city",RadioPungis
+https://radio.second-hands.org/listen/radiopungis/radio.mp3
+#EXTINF:-1 tvg-id="523fc637-9aeb-449f-ab45-62b25f5f86b1" tvg-logo="https://rundfunk.fm/favicon.ico/" group-title="Switzerland | Zürich | Zürich (Kreis 1) / City",Rundfunk.fm
+https://rundfunkfm.broadcast.brandsarelive.com/listen/rundfunk.fm/radio.mp3
+#EXTINF:-1 tvg-id="1eaa7a2e-8fbe-4936-b71c-18190cfb25e8" group-title="Switzerland | Zürich | Zürich (Kreis 1) / Lindenhof",Bachata Nation Radio
+https://stream.zeno.fm/vwcq5n2rruhvv
+#EXTINF:-1 tvg-id="be9fa6d2-aace-46ea-bdbf-68092402066f" tvg-logo="https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png" group-title="Switzerland | Zürich | Zürich (Kreis 11) / Seebach",Radio24
+https://stream.streambase.ch/radio24/mp3-192/direct/
+#EXTINF:-1 tvg-id="37d4ee78-88a9-4fbd-82f6-81d5eb0b3477" tvg-logo="https://www.lora.ch/images/favicon/apple-touch-icon.png" group-title="Switzerland | Zürich | Zürich (Kreis 4) / Langstrasse",Radio LoRa 97.5
+https://livestream.lora.ch/lora.mp3

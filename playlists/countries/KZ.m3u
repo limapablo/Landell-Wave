@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="465e8c27-0340-4e2b-a067-3319f55cdbff" tvg-logo="https://palmerablanca.com/cover.png" group-title="Kazakhstan | Almaty | Almaty",Palmera Blanca radio - Daystream
+https://daystream.palmerablanca.com/daystream-128.mp3
+#EXTINF:-1 tvg-id="56963e07-ab34-4a52-9149-b4a6ee37fbe3" group-title="Kazakhstan | Almaty | Unknown city",Darhan Radio
+https://stream.darhanradio.com/live
+#EXTINF:-1 tvg-id="a47510c5-2d32-11e9-a35e-52543be04c81" group-title="Kazakhstan | Almaty | Unknown city",KTK TV
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="3aa2641c-45aa-4ee8-b1e2-1b397fac47e5" tvg-logo="https://qazradio.fm/images/qazradio.png" group-title="Kazakhstan | Almaty | Unknown city",Qazaq radiosy
+https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio
+#EXTINF:-1 tvg-id="a252eb81-a2bb-41ab-9f7d-13d792cb7a72" group-title="Kazakhstan | Almaty | Unknown city",Tengri FM
+http://91.201.214.229:8000/tengrifm
+#EXTINF:-1 tvg-id="065763eb-324c-4565-8c7e-ee1f0652d607" group-title="Kazakhstan | Karaganda | Karagandy",Жаңа Lounge
+https://live.zhanafm.kz:8443/zhanalounge
+#EXTINF:-1 tvg-id="6e18d0d4-d3f4-436e-b7df-efb27105d92e" tvg-logo="https://zhanafm.kz/favicon-32x32.png" group-title="Kazakhstan | Karaganda | Karagandy",Жаңа Rock
+https://live.zhanafm.kz:8443/zhanarock
+#EXTINF:-1 tvg-id="faf8bdda-5653-438e-94a2-e8fdad745661" group-title="Kazakhstan | Pawlodar | Pavlodar",Радио NS Павлодар
+https://service.ns.kz/bc/live
+#EXTINF:-1 tvg-id="1a03c96c-e9a8-40de-ac2e-5c523447cf3e" group-title="Kazakhstan | Unknown region | Unknown city",Avtoradio
+http://178.88.167.62:8080/AVTORADIO_192
+#EXTINF:-1 tvg-id="a4be486b-4dbc-443d-afbf-0d6483d80181" tvg-logo="https://vmeste.eu/img/services/96/myradio24.png" group-title="Kazakhstan | Unknown region | Unknown city",Radio Azamat
+https://listen4.myradio24.com/8162
+#EXTINF:-1 tvg-id="12605daa-5785-44dc-bc3d-084bb4e0e872" group-title="Kazakhstan | Unknown region | Unknown city",Radio Tengri FM
+http://91.201.214.229:8000/tengrifm
+#EXTINF:-1 tvg-id="8a0a3735-907c-4535-9c01-8f1e60b669d2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240422_112734993.jpg?alt=media&token=d63d1ce1-c73e-460b-9104-094181b608e4" group-title="Kazakhstan | Unknown region | Unknown city",Radio TMK
+https://a4.radioheart.ru:9036/RH13170
+#EXTINF:-1 tvg-id="21745b17-764e-471a-ae34-5f92c88e7e34" tvg-logo="https://qazradio.fm/images/icon-114x114.png?9" group-title="Kazakhstan | Unknown region | Unknown city",Shalqar
+https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio
+#EXTINF:-1 tvg-id="a0d11402-f9cd-487a-904f-cabc86924a8c" group-title="Kazakhstan | Unknown region | Unknown city",Zhulduz Radio
+http://91.201.214.229:8000/zhulduz
+#EXTINF:-1 tvg-id="51dd947f-f30a-4f15-8259-7c062190e8c1" group-title="Kazakhstan | Unknown region | Unknown city",Радио SANA
+https://listen4.myradio24.com/radiosana
+#EXTINF:-1 tvg-id="0b4826f5-02f3-4257-a1e4-cc3fde604c9f" group-title="Kazakhstan | Unknown region | Unknown city",Радио Талап
+https://okeyradio.ru/okey

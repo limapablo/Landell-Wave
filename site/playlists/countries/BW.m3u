@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d53f3ac6-172d-4fb0-ab34-fc717f6cc6a7" group-title="Botswana | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="89e6f90f-35e5-4dc4-9068-68ca4ef8c631" group-title="Botswana | Unknown region | Unknown city",DumaFM
+http://s3.voscast.com:10076/;
+#EXTINF:-1 tvg-id="b9a14e44-cced-460d-a1b4-a2e5df52526c" tvg-logo="https://static.wixstatic.com/media/d5db8a_df3ec1fd291e481896ce3d394517d1b2~mv2.png/v1/fill/w_116,h_46,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/logo.png" group-title="Botswana | Unknown region | Unknown city",Gabz-FM
+http://fmt01.egihosting.com:17721/;

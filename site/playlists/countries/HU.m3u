@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ec52970d-802c-4145-812f-f8fa822c8a41" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/pecs-fm/play_250_250.jpg" group-title="Hungary | Baranya | Pécs",Best FM - Pécs
+https://icast.connectmedia.hu/5128/live.mp3
+#EXTINF:-1 tvg-id="54340297-7ceb-4ac0-80db-79bf534303ff" tvg-logo="https://www.bdpstrock.hu/assets/img/front/favicon.ico" group-title="Hungary | Budapest | Gellérthegy",BDPST ROCK Rádió (Hi-Fi / Lossless / FLAC)
+http://s2.audiostream.hu:8091/bdpstrock_FLAC
+#EXTINF:-1 tvg-id="98730d4d-bb7d-4fab-9760-830ea6708d8d" group-title="Hungary | Budapest | Gellérthegy",Petőfi Rádió
+https://mr-stream.connectmedia.hu/4738/mr2.mp3
+#EXTINF:-1 tvg-id="b7f335dd-edd3-4864-838d-850ace22eee6" tvg-logo="https://bdpstrock.hu/favicon.ico" group-title="Hungary | Budapest | Külső-Ferencváros",BDPST ROCK - 96 kbit/s;
+http://s2.audiostream.hu/bdpstrock_96k
+#EXTINF:-1 tvg-id="964a4b64-ea9c-486f-a1b5-84ad484d7996" tvg-logo="https://danubiusradio.hu/logo192.png" group-title="Hungary | Budapest | Lipótváros",Danubius
+https://stream.danubiusradio.hu/danubius_320k
+#EXTINF:-1 tvg-id="98b22cd2-0ec8-4bb1-a5f6-f168de7548b5" tvg-logo="https://retroradio.hu/wp-content/themes/retroradio/assets/dist/img/favicon/android-icon-192x192.png" group-title="Hungary | Budapest | Naphegy",Retro Rádió
+https://icast.connectmedia.hu/5001/live.mp3
+#EXTINF:-1 tvg-id="77c67d6f-3b73-4c2b-8eab-8d6b6a974dd7" group-title="Hungary | Budapest | Palotanegyed",MegaDance Rádió
+https://gamershouse.hu:8080/livemega.mp3
+#EXTINF:-1 tvg-id="4d3c1e3e-7c7e-41d1-935a-3cfbee690d5a" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/88031.v14.png" group-title="Hungary | Budapest | Palotanegyed",TelStar
+http://79.139.60.24:8000/telstar
+#EXTINF:-1 tvg-id="96235482-0601-11e8-ae97-52543be04c81" tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png" group-title="Hungary | Budapest | Unknown city",Cool FM - kultX
+http://mediagw.e-tiger.net/stream/krehq
+#EXTINF:-1 tvg-id="22e1d7ff-7815-4d91-ae4f-94efeac95135" tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-180x180.png" group-title="Hungary | Budapest | Unknown city",Cool.FM DANCE 2000's
+https://mediagw.e-tiger.net/stream/zc04?ver=209775
+#EXTINF:-1 tvg-id="3f9ec178-8048-4c25-98e8-dc69766420fc" tvg-logo="https://zebradio.klubradio.hu/static/frontend/icon/logo.png" group-title="Hungary | Budapest | Unknown city",Klubrádió - Zebrádió
+https://stream.zebradio.hu:8443/zebradio
+#EXTINF:-1 tvg-id="bae0d4c2-bdc2-4ab2-834d-4bfd7c095907" tvg-logo="https://www.luxfunkradio.com/wp-content/uploads/2017/01/cropped-luxfunk_logo_icon-180x180.png" group-title="Hungary | Budapest | Unknown city",Luxfunk Dance
+https://luxfunkbroadcast.com/proxy/luxfunkdance/stream
+#EXTINF:-1 tvg-id="89480435-16e7-4a7f-8e81-1c956477e96e" tvg-logo="https://www.luxfunkradio.com/logos/luxfunk_radio_logo_black_r_400x400.png" group-title="Hungary | Budapest | Unknown city",Luxfunk Radio
+https://luxfunkbroadcast.com/proxy/luxfunkradio/stream
+#EXTINF:-1 tvg-id="091b6a6e-2c76-11e9-a35e-52543be04c81" group-title="Hungary | Budapest | Unknown city",Manna FM 98.6
+http://icast.connectmedia.hu/4780/live.mp3
+#EXTINF:-1 tvg-id="830e106c-00a4-4bcc-a2a2-eb5e92c81011" group-title="Hungary | Budapest | Unknown city",Rádió Dikh
+http://icast.connectmedia.hu/6121/live.mp3
+#EXTINF:-1 tvg-id="5e4d837f-bfc5-4494-bb26-4ee78c6a88b2" tvg-logo="https://mmo.aiircdn.com/1377/6669663b59417.png" group-title="Hungary | Csongrad-Csanad | Szeged",Deja Vu Radio
+https://carina.streamerr.co:8178/dejavuradio?type=http&nocache=297
+#EXTINF:-1 tvg-id="9628febf-0601-11e8-ae97-52543be04c81" group-title="Hungary | Fejér | Unknown city",Radio E
+http://radioe.net:8080/efm_high
+#EXTINF:-1 tvg-id="c2fbc0b5-2e6b-4e25-9fa6-957a5058b91e" group-title="Hungary | Győr-Moson-Sopron | Sopron",Radio 1 Sopron
+http://icast.connectmedia.hu/5015/live.mp3
+#EXTINF:-1 tvg-id="611b0e08-adba-49f5-8bed-8407c1cfb1f2" tvg-logo="https://myonlineradio.hu/public/uploads/radio_img/best-fm/play_250_250.jpg" group-title="Hungary | Hajdú-Bihar | Unknown city",Best FM - Debrecen
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 tvg-id="963729c7-0601-11e8-ae97-52543be04c81" group-title="Hungary | Hajdú-Bihar | Unknown city",Rádió 1 Debrecen
+http://91.82.85.44:8080/debrecenradiofm95
+#EXTINF:-1 tvg-id="c11a071c-29cd-4ac1-a046-5b37c2be988e" tvg-logo="https://kephost.net/p/MjM0MjAxNw.jpg" group-title="Hungary | Heves County | Unknown city",StreamX Radio
+https://a5.asurahosting.com:8830/radio.mp3
+#EXTINF:-1 tvg-id="6579d8b3-a73e-4fe7-9906-8f954ea1a97e" group-title="Hungary | Hungary | Tázlár",DomBRádiÓ-Online-Dombrád
+http://dombradio.dyndns.tv:8000/live.mp3
+#EXTINF:-1 tvg-id="960c4608-0601-11e8-ae97-52543be04c81" group-title="Hungary | Jász-Nagykun-Szolnok | Unknown city",Aktív Rádió
+http://aktivradio.hu:8000/aktiv.mp3
+#EXTINF:-1 tvg-id="c4324714-dbd3-4ae4-8978-d8123351a5c4" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Hungary | Jász-Nagykun-Szolnok | Unknown city",Best FM - Szolnok
+http://icast.connectmedia.hu/5112/live.mp3/;
+#EXTINF:-1 tvg-id="5114061d-1c4d-405f-90da-9ba042109332" group-title="Hungary | Pest County | Dabas",Sola Rádió
+https://stream1.virtualisan.net/prx/7000/live.mp3
+#EXTINF:-1 tvg-id="ec318e57-0210-4676-85ff-5f662a49b794" group-title="Hungary | Pest County | Lágymányos",Rádió Comedy
+https://a7.asurahosting.com/listen/radio_comedy/radio.mp3
+#EXTINF:-1 tvg-id="f503d591-56b7-45d2-9a31-df046af717ae" tvg-logo="https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png" group-title="Hungary | Pest County | Naphegy",Rádió 1
+https://icast.connectmedia.hu/5201/live.mp3
+#EXTINF:-1 tvg-id="f2cfe79a-bd51-4f4d-9117-5619352f9645" tvg-logo="https://folkradio.hu/favicon.ico" group-title="Hungary | Pest County | Sóskút",Folkrádió
+https://stream.folkradio.hu/folkradio.mp3
+#EXTINF:-1 tvg-id="17eb9d54-4a14-4c67-b037-b5f059f3bb11" group-title="Hungary | Tolna | Unknown city",Radio1 - Paks
+http://icast.connectmedia.hu/5222/live.mp3
+#EXTINF:-1 tvg-id="1335a4a5-1a11-4451-988d-44c095d79395" group-title="Hungary | Unknown region | Unknown city",Balaton Rádió
+http://91.82.85.41:8200/;
+#EXTINF:-1 tvg-id="fc56733d-47f7-4dca-b2e5-47eddce0e200" tvg-logo="https://www.balatonica.hu/img/logo_color.png" group-title="Hungary | Unknown region | Unknown city",Balatonica
+http://balatonica.hu:8000/stream_low
+#EXTINF:-1 tvg-id="70e0cdbe-955c-4695-893a-5b9a94bb16f4" tvg-logo="https://bdpstrock.hu/assets/img/front/favicon.ico" group-title="Hungary | Unknown region | Unknown city",BDPST ROCK
+http://s2.audiostream.hu/bdpstrock_FLAC
+#EXTINF:-1 tvg-id="ff4c0ff6-1f3c-4b43-a2fc-46d1d75eda61" group-title="Hungary | Unknown region | Unknown city",BestFM Debrecen
+http://stream.webthings.hu:8000/fm95-x-128.mp3
+#EXTINF:-1 tvg-id="de6dab52-485e-4794-a7de-32e8d3e792bd" tvg-logo="https://biasradio.com/wp-content/uploads/2024/06/Radio-Bias150.png" group-title="Hungary | Unknown region | Unknown city",Bias Radio
+https://admin.biasradio.com/listen/bias_radio/live
+#EXTINF:-1 tvg-id="3def6131-a78d-41ea-8083-93288b1e529d" group-title="Hungary | Unknown region | Unknown city",Campus Rádió FM90
+https://stream.fm90.hu:8000/;
+#EXTINF:-1 tvg-id="e13bbfcb-4101-4cfb-8f93-63d946294f8c" tvg-logo="https://kronika.civilradio.hu/wp-content/uploads/2020/05/fejlec01.jpg" group-title="Hungary | Unknown region | Unknown city",Civil Radio
+http://civilradio.hu:8000/listen.mp3
+#EXTINF:-1 tvg-id="ae4f6994-1110-43c3-95fe-26dca87a4bce" tvg-logo="https://clubdance.online/ss_logo.png" group-title="Hungary | Unknown region | Unknown city",Club Dance Online - Retro
+http://stream.clubdance.online:8000/retro
+#EXTINF:-1 tvg-id="3b1d44e9-505d-492d-9aa1-fd67d315004c" tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png" group-title="Hungary | Unknown region | Unknown city",COOLFM (Classic) Rock
+https://mediagw.e-tiger.net/stream/zc10
+#EXTINF:-1 tvg-id="f1c9c7fd-2ea6-4f73-ac76-1667bb93ce4e" tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png" group-title="Hungary | Unknown region | Unknown city",COOLFM Country
+http://mediagw.viacomkft.hu:8000/stream/zc17
+#EXTINF:-1 tvg-id="af336034-91df-48bb-884e-5e211e823d13" tvg-logo="https://coolfm.hu/radio/wp-content/uploads/2022/01/cropped-egyszer%C5%B1-k%C3%A9p-192x192.png" group-title="Hungary | Unknown region | Unknown city",COOLFM Karácsonyi Dalok
+https://mediagw.e-tiger.net/stream/zc27
+#EXTINF:-1 tvg-id="c03283a0-bd33-438b-9b31-173bf7ab8e02" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.aac
+#EXTINF:-1 tvg-id="77cd3a60-1db5-4a08-b188-443137b00bc2" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.flac.ogg
+#EXTINF:-1 tvg-id="212f40c2-cf2c-4ba5-a3e8-fb7a9ff8b3d2" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.flac.ogg
+#EXTINF:-1 tvg-id="964be8b7-0601-11e8-ae97-52543be04c81" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.mp3
+#EXTINF:-1 tvg-id="9a223699-5871-4828-8a01-f8cb85933cfd" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.mp3
+#EXTINF:-1 tvg-id="5cb9261c-c3a5-4b08-974c-4c069bdf71ae" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.ogg
+#EXTINF:-1 tvg-id="58731948-665a-4f8e-8bca-49ef9ffed231" tvg-logo="https://dancewave.online/dwr_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave Retro!
+https://dancewave.online/retrodance.opus
+#EXTINF:-1 tvg-id="2ffe5219-ba4d-4fa1-bfd8-6cf926c65f8f" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.mp3
+#EXTINF:-1 tvg-id="b943ed28-3edd-4638-8754-cdd9953af2e3" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.opus
+#EXTINF:-1 tvg-id="43cf1869-6849-4fff-954d-fdbad6e412e2" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.mp3
+#EXTINF:-1 tvg-id="648b2abd-92a0-11e9-a605-52543be04c81" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.ogg
+#EXTINF:-1 tvg-id="ab151392-7f47-4318-baff-fb77b2a4dca2" tvg-logo="https://dancewave.online/dw_logo.png" group-title="Hungary | Unknown region | Unknown city",Dance Wave!
+https://dancewave.online/dance.mp3
+#EXTINF:-1 tvg-id="d1b3c0f8-5702-4b94-b300-30e66a5fa7ae" group-title="Hungary | Unknown region | Unknown city",Diveky-radio-gramofon
+http://178.238.223.39:8000/gramofon
+#EXTINF:-1 tvg-id="96182b3c-0601-11e8-ae97-52543be04c81" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/thumb/5/56/DW_radio.png/250px-DW_radio.png" group-title="Hungary | Unknown region | Unknown city",Duna World Rádió
+http://mr-stream.mediaconnect.hu/4760/dwr.aac
+#EXTINF:-1 tvg-id="5717f17f-6008-4ecc-abbc-082857ffc7c1" group-title="Hungary | Unknown region | Unknown city",Enying FM Hungary
+http://radioe.net:8080/efm_hd
+#EXTINF:-1 tvg-id="6c43b4ff-d205-48d8-a1a7-afbccd59498d" group-title="Hungary | Unknown region | Unknown city",Forrás radio
+http://91.82.85.44:1630/forrasradio.mp3
+#EXTINF:-1 tvg-id="1bb81d65-8702-4113-8824-39e0a6911823" group-title="Hungary | Unknown region | Unknown city",Friss FM 93.4
+http://stream.frissfm.hu:10050/;
+#EXTINF:-1 tvg-id="33f89d19-549b-4c61-ba30-43a0e67aca1b" group-title="Hungary | Unknown region | Unknown city",Hobby Rádió
+http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-id="960ca20d-0601-11e8-ae97-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Hobby Rádió
+http://www.hobbyradio.hu:8000/hobbyradio.mp3
+#EXTINF:-1 tvg-id="1af63c5f-4112-11ea-a9fa-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Lahmacun Radio
+https://streaming.lahmacun.hu/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="c8d5fb09-82f5-11e9-aa30-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Magic Disco Radio
+http://188.165.11.30:4420/live.mp3
+#EXTINF:-1 tvg-id="c1f6ab90-6a43-4bab-8ce0-b4abd516ea07" group-title="Hungary | Unknown region | Unknown city",MixradioRetro
+https://stream.phost.hu:8004/retro
+#EXTINF:-1 tvg-id="2e5c0eb0-58d5-4fcd-863b-90cf54f11dd9" tvg-logo="https://magyarnews.online/wp-content/uploads/2026/01/mnewsradio.png" group-title="Hungary | Unknown region | Unknown city",MNEWS Rádió
+https://a5.asurahosting.com:6680/radio.mp3
+#EXTINF:-1 tvg-id="700aa831-d975-4de1-a7ec-99b79afacf6e" group-title="Hungary | Unknown region | Unknown city",Momó Rádió Mese
+https://stream.diazol.hu:7092/mese.mp3
+#EXTINF:-1 tvg-id="0b1168a4-3bf3-4682-8250-e0e5978d3cf4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Parlamenti_logo_150.png/revision/latest?cb=20160602193644" group-title="Hungary | Unknown region | Unknown city",MR5 - Parlamenti Adások
+https://mr-stream.connectmedia.hu/4746/mr5.mp3
+#EXTINF:-1 tvg-id="f8b84389-4cc8-4dfb-b47c-3ff3c0901769" group-title="Hungary | Unknown region | Unknown city",MR7 - Dankó Rádió
+https://mr-stream.connectmedia.hu/4748/mr7.mp3
+#EXTINF:-1 tvg-id="b75923d4-58d3-4083-827d-2a81b39d7ba1" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/5/56/DW_radio.png" group-title="Hungary | Unknown region | Unknown city",MR8 - Duna World Rádió
+https://mr-stream.connectmedia.hu/4761/dwr.mp3
+#EXTINF:-1 tvg-id="9627fc3e-0601-11e8-ae97-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Mária Rádió
+http://honlap.mariaradio.hu:8000/mr
+#EXTINF:-1 tvg-id="bc28ee22-af0a-4519-ac97-a21bd8707100" tvg-logo="https://netradio.online/files/styles/180/public/logo/nemzeti-sportradio.jpg?itok=kDexZ43P" group-title="Hungary | Unknown region | Unknown city",Nemzeti Sport Radio
+https://icast.connectmedia.hu/4656/mr11.aac
+#EXTINF:-1 tvg-id="c240655a-c086-49d7-a0c6-a1baf886c99f" tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="Hungary | Unknown region | Unknown city",Oxygen Classic Rock
+https://oxygenmusic.hu:8443/oxygenclassicrock
+#EXTINF:-1 tvg-id="c19ecc16-6a26-440d-bc35-988d0249ce6b" tvg-logo="https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_happy_logo%20(1)_xficzsf8.png" group-title="Hungary | Unknown region | Unknown city",Oxygen Happy
+https://oxygenmusic.hu:8443/oxygenhappy_128
+#EXTINF:-1 tvg-id="08e9cef4-84cb-47d4-bbe3-30dcb2f9d743" group-title="Hungary | Unknown region | Unknown city",Oxygen Indie
+https://oxygenmusic.hu:8443/oxygenindie
+#EXTINF:-1 tvg-id="af55b0c0-e25f-482e-a126-e1acf39e8216" group-title="Hungary | Unknown region | Unknown city",Oxygen Kids
+https://oxygenmusic.hu:8443/oxygenkids
+#EXTINF:-1 tvg-id="245c676c-f219-41fa-90fb-76944a3bb241" tvg-logo="https://mlotgijtlucd.i.optimole.com/w:500/h:500/q:75/rt:fill/g:ce/https://oxys.group/app/oxygen_music_logo_vignetta_2eqnxqmk.png" group-title="Hungary | Unknown region | Unknown city",Oxygen Music
+https://oxygenmusic.hu:8443/oxygenmusic_128
+#EXTINF:-1 tvg-id="be2348b1-366d-4810-a93a-31319729c27b" tvg-logo="https://oxygenmusic.hu/logo192.png" group-title="Hungary | Unknown region | Unknown city",Oxygen The 90s Hits
+https://oxygenmusic.hu:8443/oxygenthe90shits
+#EXTINF:-1 tvg-id="960cb7ff-0601-11e8-ae97-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Parlamenti adások
+http://mr-stream.mediaconnect.hu/4745/mr5.aac
+#EXTINF:-1 tvg-id="560f0844-69fd-4f17-b007-a8b8f6dfa6d8" tvg-logo="https://cdn.onlineradiobox.com/img/logo/6/77516.v2.png" group-title="Hungary | Unknown region | Unknown city",Poptarisznya Blues24
+http://adas.poptarisznya.hu:8200/blues.mp3
+#EXTINF:-1 tvg-id="962822c6-0601-11e8-ae97-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Poptarisznya Oldies
+http://adas.poptarisznya.hu:8200/oldies.mp3
+#EXTINF:-1 tvg-id="47c0d54d-381b-11e8-bb9b-52543be04c81" group-title="Hungary | Unknown region | Unknown city",Power FM - Rock FM
+http://s39.myradiostream.com:11590/listen/;.mp3
+#EXTINF:-1 tvg-id="64b214d8-e001-4a89-bc5d-85423857c37e" tvg-logo="https://www.radiosunrise.hu/wp-content/uploads/2025/02/Sunrise_logo_full003.png" group-title="Hungary | Unknown region | Unknown city",Radio Sunrise
+https://s03.diazol.hu:7172/stream
+#EXTINF:-1 tvg-id="a7789334-2f1d-4f95-9a64-b169a963e99c" tvg-logo="https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png" group-title="Hungary | Unknown region | Unknown city",Radio1
+https://icast.connectmedia.hu/5202/live.mp3
+#EXTINF:-1 tvg-id="364d9e8c-bdf2-11e8-aaf2-52543be04c81" group-title="Hungary | Unknown region | Unknown city",RadiOzora Chill
+http://chill.out.airtime.pro:8000/chill_a
+#EXTINF:-1 tvg-id="385aa06d-fc62-4dfc-ad84-11057ad8d6e0" tvg-logo="https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png" group-title="Hungary | Unknown region | Unknown city",Rádió 1 - Gyöngyös
+https://icast.connectmedia.hu/5039/live.mp3
+#EXTINF:-1 tvg-id="184511ad-da57-4786-bac1-ae5dbeb3c2db" tvg-logo="https://radio1.hu/template/radio1/assets/img/favicon/apple-touch-icon.png" group-title="Hungary | Unknown region | Unknown city",Rádió 1 Szeged
+http://icast.connectmedia.hu/5232/live.mp3
+#EXTINF:-1 tvg-id="2df9f910-7746-11ea-b1cf-52543be04c81" tvg-logo="https://www.radiobezs.hu/wp-content/uploads/2022/03/cropped-favicon-180x180.png" group-title="Hungary | Unknown region | Unknown city",Rádió Bézs
+http://195.210.29.82:8001/bezs
+#EXTINF:-1 tvg-id="32fe98bc-65e5-49bb-8f34-7d69a1a0acac" tvg-logo="https://radiocomedy.net/wp-content/uploads/2024/10/radiocomedy_logo_feher-1-768x348.png" group-title="Hungary | Unknown region | Unknown city",Rádió Comedy
+https://a7.asurahosting.com:8430/radio.mp3
+#EXTINF:-1 tvg-id="96f4105b-3286-4ab3-93bc-43f3ce63627e" group-title="Hungary | Unknown region | Unknown city",Röhej rádió
+https://listen.radioking.com/radio/641950/stream/704998
+#EXTINF:-1 tvg-id="74587181-e4f3-4581-9212-59c848c6639c" tvg-logo="https://www.shinefmradio.hu/favicon.ico" group-title="Hungary | Unknown region | Unknown city",Shine FM Radio
+https://s01.diazol.hu:10042/stream/;
+#EXTINF:-1 tvg-id="a6453483-e3c4-4393-8106-def8eaf2a3ab" tvg-logo="https://spiritfm.hu/assets/img/spiritfm/icons/apple-touch-icon.png" group-title="Hungary | Unknown region | Unknown city",Spirit FM
+http://s01.diazol.hu:10050/spweb1.mp3
+#EXTINF:-1 tvg-id="8bac33b4-df24-49f2-a10c-c8358ca63a2a" group-title="Hungary | Unknown region | Unknown city",Sunshine Dance
+http://195.56.193.129:8120/;stream/1?icy=http
+#EXTINF:-1 tvg-id="4c7cca1d-5d9c-4676-8393-c3ad622ec471" tvg-logo="https://www.sunshinefm.hu/favicon/apple-touch-icon.png" group-title="Hungary | Unknown region | Unknown city",Sunshine FM
+http://195.56.193.129:8100/;stream/1?icy=http
+#EXTINF:-1 tvg-id="a5a51617-f726-4521-b2e7-8891e16d02ef" group-title="Hungary | Unknown region | Unknown city",superdj radio
+http://stream.diazol.hu:35150/stream
+#EXTINF:-1 tvg-id="585636e2-c446-4805-9ad3-e59389fc96f7" tvg-logo="https://v2.vrapro.hu/beta/api/radio/6egls0eefa9a5747eab2dab995b81d8d/img/avatar/1654086056.png" group-title="Hungary | Unknown region | Unknown city",SuperDj Rádió
+https://s03.diazol.hu:35152/stream
+#EXTINF:-1 tvg-id="75485bb3-9649-45a3-ba9f-78c36996d4fa" group-title="Hungary | Unknown region | Unknown city",SuperDJ Rádió - Magyar
+https://s03.diazol.hu:35152/stream3
+#EXTINF:-1 tvg-id="e2638799-87c0-4029-a5de-d6dbcc88255b" group-title="Hungary | Unknown region | Unknown city",Szakcsi rádió
+https://mr-stream.connectmedia.hu/4691/mr9.mp3
+#EXTINF:-1 tvg-id="ca27d4b6-6a9d-4298-865a-017068b2c3d0" tvg-logo="https://sztradaradio.hu/wp-content/uploads/2022/09/sztradalogojo-980x608.png" group-title="Hungary | Unknown region | Unknown city",Sztráda Rádió
+https://s03.diazol.hu:35082/live.mp3?_=1
+#EXTINF:-1 tvg-id="94215faf-8e0a-4698-b88b-5fb77b35a93e" group-title="Hungary | Unknown region | Unknown city",Tamási Radio
+https://stream.42netmedia.com:8443/sc_tamas
+#EXTINF:-1 tvg-id="662dbdff-0663-491e-a97d-79298692214b" group-title="Hungary | Unknown region | Unknown city",Tempomax Rádió
+http://94.23.169.250:2060/live.mp3
+#EXTINF:-1 tvg-id="a3f5d76b-a237-4d5d-ae4a-1c2c13059855" group-title="Hungary | Vas | Unknown city",Sárvár Rádió
+https://stream.42netmedia.com:8443/sarvar
+#EXTINF:-1 tvg-id="540b2348-2e63-4f9b-bda5-e077a8557385" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Hungary | Zala | Unknown city",Best FM - Zalaegerszeg
+http://icast.connectmedia.hu/5111/live.mp3/;
