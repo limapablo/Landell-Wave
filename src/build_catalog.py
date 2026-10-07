@@ -357,7 +357,7 @@ def servers() -> list[str]:
     return list(dict.fromkeys(output))
 
 
-def fetch_stations(limit: int) -> tuple[list[dict[str, Any]], str, str]:
+def fetch_stations(limit: int, max_check_age_hours: int | None = None) -> tuple[list[dict[str, Any]], str, str]:
     """Fetch the catalog in bounded pages.
 
     A single 100k-row response is large enough to trigger gateway failures on
@@ -417,6 +417,11 @@ def fetch_stations(limit: int) -> tuple[list[dict[str, Any]], str, str]:
                     f"catalog unexpectedly small ({len(rows)} rows)"
                 )
 
+            if max_check_age_hours is not None:
+                validated = dedupe(rows, max_check_age_hours, diagnostics=True)
+                if not validated:
+                    raise RuntimeError("No valid public station streams survived validation")
+
             print(f"[info] fetched {len(rows):,} stations from {server}")
             return rows, digest.hexdigest(), server
 
@@ -450,26 +455,34 @@ def parse_utc_timestamp(value: Any) -> datetime | None:
     return parsed.astimezone(timezone.utc)
 
 
-def recently_verified(
+def station_check_rejection(
     station: dict[str, Any],
     max_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS,
     now: datetime | None = None,
-) -> bool:
+) -> str:
     if safe_int(station.get("lastcheckok"), maximum=1) != 1:
-        return False
+        return "failed_check"
 
     checked_at = parse_utc_timestamp(
         station.get("lastchecktime_iso8601")
         or station.get("lastcheckoktime_iso8601")
     )
     if checked_at is None:
-        return False
+        return "missing_or_invalid_timestamp"
 
     reference = now or datetime.now(timezone.utc)
     age_seconds = (reference - checked_at).total_seconds()
     if age_seconds < 0:
-        return False
-    return age_seconds <= max_age_hours * 3600
+        return "future_timestamp"
+    return "stale_check" if age_seconds > max_age_hours * 3600 else ""
+
+
+def recently_verified(
+    station: dict[str, Any],
+    max_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS,
+    now: datetime | None = None,
+) -> bool:
+    return not station_check_rejection(station, max_age_hours, now)
 
 
 def score(station: dict[str, Any]) -> int:
@@ -480,13 +493,16 @@ def score(station: dict[str, Any]) -> int:
     )
 
 
-def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS) -> list[dict[str, Any]]:
+def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CHECK_AGE_HOURS, diagnostics: bool = False) -> list[dict[str, Any]]:
     chosen: dict[str, dict[str, Any]] = {}
+    rejected: dict[str, int] = defaultdict(int)
 
     reference_time = datetime.now(timezone.utc)
 
     for station in rows:
-        if not recently_verified(station, max_check_age_hours, reference_time):
+        reason = station_check_rejection(station, max_check_age_hours, reference_time)
+        if reason:
+            rejected[reason] += 1
             continue
 
         stream = normalize_web_url(
@@ -494,6 +510,7 @@ def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CH
             allow_http=True,
         )
         if not stream:
+            rejected["invalid_stream"] += 1
             continue
 
         station_id = sanitize_text(station.get("stationuuid"), max_len=128)
@@ -504,6 +521,12 @@ def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CH
         if key not in chosen or score(candidate) > score(chosen[key]):
             chosen[key] = candidate
 
+    if diagnostics:
+        print(
+            f"[info] validation: now={reference_time.isoformat()} "
+            f"max_check_age_hours={max_check_age_hours} input={len(rows)} "
+            f"accepted={len(chosen)} rejected={json.dumps(dict(rejected), sort_keys=True)}"
+        )
     return list(chosen.values())
 
 
@@ -619,7 +642,7 @@ def build(output: Path, cache: Path, limit: int, max_km: float, max_check_age_ho
     buckets, by_country = load_cities(cities_path)
     admin = load_admin1(admin_path)
 
-    raw, radio_digest, radio_server = fetch_stations(limit)
+    raw, radio_digest, radio_server = fetch_stations(limit, max_check_age_hours)
     stations = dedupe(raw, max_check_age_hours)
     if not stations:
         raise RuntimeError("No valid public station streams survived validation")

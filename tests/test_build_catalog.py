@@ -1,11 +1,18 @@
 import sys
 import unittest
+import json
+from datetime import datetime, timedelta, timezone
+from unittest.mock import patch
+from contextlib import redirect_stdout
+from io import StringIO
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
 
 from build_catalog import (
     City,
+    dedupe,
+    fetch_stations,
     build_m3u,
     country_code,
     haversine_km,
@@ -21,6 +28,42 @@ from build_catalog import (
 
 
 class CatalogTests(unittest.TestCase):
+    def station(self, **changes):
+        row = {"lastcheckok": 1, "lastchecktime_iso8601": datetime.now(timezone.utc).isoformat(), "url_resolved": "https://example.com/live", "stationuuid": "test"}
+        row.update(changes)
+        return row
+
+    def test_validation_reports_rejection_reasons(self):
+        now = datetime.now(timezone.utc)
+        rows = [
+            self.station(lastcheckok=0),
+            self.station(lastchecktime_iso8601="invalid"),
+            self.station(lastchecktime_iso8601=(now + timedelta(hours=1)).isoformat()),
+            self.station(lastchecktime_iso8601=(now - timedelta(hours=72)).isoformat()),
+            self.station(url_resolved="http://127.0.0.1/live"),
+            self.station(),
+        ]
+        output = StringIO()
+        with redirect_stdout(output):
+            self.assertEqual(len(dedupe(rows, 48, diagnostics=True)), 1)
+        for reason in ("failed_check", "missing_or_invalid_timestamp", "future_timestamp", "stale_check", "invalid_stream"):
+            self.assertIn(f'"{reason}": 1', output.getvalue())
+
+    def test_empty_validated_mirror_fails_over_without_mixing_rows(self):
+        stale = self.station(lastchecktime_iso8601="2000-01-01T00:00:00Z")
+        valid = self.station()
+        with patch("build_catalog.servers", return_value=["https://first.example.com", "https://second.example.com"]), patch("build_catalog.get", side_effect=[json.dumps([stale]).encode(), json.dumps([valid]).encode()]), redirect_stdout(StringIO()):
+            rows, digest, server = fetch_stations(1, 48)
+        self.assertEqual(rows, [valid])
+        self.assertEqual(server, "https://second.example.com")
+        self.assertEqual(len(digest), 64)
+
+    def test_all_invalid_mirrors_still_fail(self):
+        stale = self.station(lastchecktime_iso8601="2000-01-01T00:00:00Z")
+        with patch("build_catalog.servers", return_value=["https://first.example.com", "https://second.example.com"]), patch("build_catalog.get", return_value=json.dumps([stale]).encode()), redirect_stdout(StringIO()):
+            with self.assertRaisesRegex(RuntimeError, "Radio Browser mirrors failed"):
+                fetch_stations(1, 48)
+
     def test_slugify(self):
         self.assertEqual(slugify("São Paulo"), "sao-paulo")
 
