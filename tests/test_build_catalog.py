@@ -29,6 +29,12 @@ from build_catalog import (
 
 
 class CatalogTests(unittest.TestCase):
+    def test_default_policy_tolerates_short_upstream_check_outage(self):
+        now = datetime.now(timezone.utc)
+        self.assertTrue(recently_verified(self.station(lastchecktime_iso8601=(now - timedelta(days=3)).isoformat()), now=now))
+        self.assertFalse(recently_verified(self.station(lastchecktime_iso8601=(now - timedelta(days=8)).isoformat()), now=now))
+        self.assertFalse(recently_verified(self.station(lastcheckok=0), now=now))
+
     def test_server_discovery_uses_dns_and_validates_names(self):
         addresses = [(2, 1, 6, "", ("1.1.1.1", 443)), (2, 1, 6, "", ("8.8.8.8", 443))]
         with patch("build_catalog.socket.getaddrinfo", return_value=addresses), patch("build_catalog.socket.gethostbyaddr", side_effect=[("fi1.api.radio-browser.info", [], []), ("malicious.example.com", [], [])]), patch("build_catalog.get", return_value=b'[{"name":"de1.api.radio-browser.info"},{"name":"localhost"}]'), redirect_stdout(StringIO()):

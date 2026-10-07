@@ -115,7 +115,7 @@ python3 src/build_catalog.py --output public --cache .cache --clean-generated
 Useful options:
 
 ```bash
-python3 src/build_catalog.py --station-limit 500000 --max-city-distance-km 80 --max-check-age-hours 48
+python3 src/build_catalog.py --station-limit 500000 --max-city-distance-km 80 --max-check-age-hours 168
 ```
 
 ## Generated output
@@ -153,13 +153,13 @@ Landell Wave prioritizes **working stations over raw directory size**. The catal
 
 1. requests only stations not currently marked broken by Radio Browser;
 2. requires `lastcheckok=1`;
-3. requires the successful check to be no older than **48 hours** by default;
+3. requires the successful check to be no older than **7 days (168 hours)** by default;
 4. rejects malformed, credential-bearing, local/private-network and unsupported stream URLs;
 5. deduplicates stations before publication.
 
 The collector can inspect up to **500,000 records** and stops automatically when the upstream API reaches the end of its catalog. This high ceiling is a safety bound, not a target count.
 
-Radio Browser performs distributed station checks, but no third-party directory can guarantee that every stream remains online between the last check and the moment a user clicks Play. The daily rebuild keeps that window small.
+Radio Browser performs distributed station checks, but no third-party directory can guarantee that every stream remains online between the last check and the moment a user clicks Play. The daily rebuild refreshes the directory; it cannot make upstream checks newer. A seven-day ceiling tolerates short upstream checker outages while still rejecting stale or undated entries. If every mirror lacks qualifying stations, the build fails and preserves the previously published snapshot.
 
 ## How city matching works
 
@@ -218,3 +218,4 @@ This repository does **not** own or rebroadcast the radio streams. Availability,
 ## License
 
 The project code is licensed under the MIT License. Upstream radio metadata, station content and GeoNames data retain their respective licenses and terms.
+
