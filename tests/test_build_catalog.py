@@ -23,11 +23,24 @@ from build_catalog import (
     safe_int,
     safe_web_url,
     sanitize_text,
+    servers,
     slugify,
 )
 
 
 class CatalogTests(unittest.TestCase):
+    def test_server_discovery_uses_dns_and_validates_names(self):
+        addresses = [(2, 1, 6, "", ("1.1.1.1", 443)), (2, 1, 6, "", ("8.8.8.8", 443))]
+        with patch("build_catalog.socket.getaddrinfo", return_value=addresses), patch("build_catalog.socket.gethostbyaddr", side_effect=[("fi1.api.radio-browser.info", [], []), ("malicious.example.com", [], [])]), patch("build_catalog.get", return_value=b'[{"name":"de1.api.radio-browser.info"},{"name":"localhost"}]'), redirect_stdout(StringIO()):
+            result = servers()
+        self.assertEqual(result, ["https://fi1.api.radio-browser.info", "https://de1.api.radio-browser.info"])
+
+    def test_server_discovery_keeps_fallbacks_when_dns_and_api_fail(self):
+        with patch("build_catalog.socket.getaddrinfo", side_effect=OSError("DNS down")), patch("build_catalog.get", side_effect=RuntimeError("API down")), redirect_stdout(StringIO()):
+            result = servers()
+        self.assertIn("https://fi1.api.radio-browser.info", result)
+        self.assertIn("https://de1.api.radio-browser.info", result)
+
     def station(self, **changes):
         row = {"lastcheckok": 1, "lastchecktime_iso8601": datetime.now(timezone.utc).isoformat(), "url_resolved": "https://example.com/live", "stationuuid": "test"}
         row.update(changes)

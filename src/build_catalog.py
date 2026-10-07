@@ -8,6 +8,7 @@ import json
 import math
 import re
 import shutil
+import socket
 import sys
 import time
 import unicodedata
@@ -22,10 +23,11 @@ from pathlib import Path
 from typing import Any
 
 USER_AGENT = "Landell-Wave/2.1 (+https://github.com/limapablo/Landell-Wave)"
-DISCOVERY = "https://all.api.radio-browser.info/json/servers"
+DISCOVERY_HOST = "all.api.radio-browser.info"
+DISCOVERY = "https://de1.api.radio-browser.info/json/servers"
 FALLBACKS = [
+    "https://fi1.api.radio-browser.info",
     "https://de1.api.radio-browser.info",
-    "https://nl1.api.radio-browser.info",
 ]
 CITIES_URL = "https://download.geonames.org/export/dump/cities1000.zip"
 ADMIN1_URL = "https://download.geonames.org/export/dump/admin1CodesASCII.txt"
@@ -338,6 +340,18 @@ def nearest_city(
 def servers() -> list[str]:
     output: list[str] = []
     try:
+        addresses = socket.getaddrinfo(DISCOVERY_HOST, 443, type=socket.SOCK_STREAM)
+        for address in list(dict.fromkeys(item[4][0] for item in addresses))[:16]:
+            try:
+                host = socket.gethostbyaddr(address)[0].lower().rstrip(".")
+            except OSError:
+                continue
+            if RADIO_BROWSER_HOST_RE.fullmatch(host):
+                output.append("https://" + host)
+    except OSError as exc:
+        print(f"[warn] DNS discovery failed: {exc}", file=sys.stderr)
+
+    try:
         payload = json.loads(get(DISCOVERY, 20, 2, max_bytes=1024 * 1024))
         if isinstance(payload, list):
             for item in payload:
@@ -354,7 +368,9 @@ def servers() -> list[str]:
             output.append(fallback)
 
     # Preserve discovery order while removing duplicates.
-    return list(dict.fromkeys(output))
+    output = list(dict.fromkeys(output))
+    print(f"[info] Radio Browser mirrors: {', '.join(output)}")
+    return output
 
 
 def fetch_stations(limit: int, max_check_age_hours: int | None = None) -> tuple[list[dict[str, Any]], str, str]:
@@ -522,11 +538,15 @@ def dedupe(rows: list[dict[str, Any]], max_check_age_hours: int = DEFAULT_MAX_CH
             chosen[key] = candidate
 
     if diagnostics:
+        checked_times = [parse_utc_timestamp(row.get("lastchecktime_iso8601") or row.get("lastcheckoktime_iso8601")) for row in rows]
+        checked_times = [stamp for stamp in checked_times if stamp is not None]
         print(
             f"[info] validation: now={reference_time.isoformat()} "
             f"max_check_age_hours={max_check_age_hours} input={len(rows)} "
             f"accepted={len(chosen)} rejected={json.dumps(dict(rejected), sort_keys=True)}"
         )
+        if checked_times:
+            print(f"[info] upstream check dates: oldest={min(checked_times).isoformat()} newest={max(checked_times).isoformat()}")
     return list(chosen.values())
 
 
