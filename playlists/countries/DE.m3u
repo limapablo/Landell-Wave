@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="b2cbd1fd-275d-432a-8b20-37dcb3572315" tvg-logo="https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png" group-title="Germany | North Rhine-Westphalia | Altstadt Nord",1LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1 tvg-id="31ce4779-1046-4a03-ad9b-22b2d30110da" group-title="Germany | Unknown region | Unknown city",radio santec
+https://audio.bild-und-ton.stream:16162/radiosantec-de
+#EXTINF:-1 tvg-id="ea1e08c7-4602-427c-a21f-1cd872ddedbf" group-title="Germany | Unknown region | Unknown city",Rockantenne
+https://stream.rockantenne.de/rockandroll/stream/mp3

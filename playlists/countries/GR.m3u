@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="e3600c27-19dd-4180-af11-1897145d5356" tvg-logo="https://rebetis.duckdns.org/rebetis.png" group-title="Greece | Agrinio | Unknown city",Radio Rebetikes Melodies
+https://rebetis.duckdns.org:8545/live
+#EXTINF:-1 tvg-id="a68fd77d-9b25-4807-aab3-c9e8647de295" group-title="Greece | Athens | Unknown city",Parea Radio
+https://parea-radio-b7474105.radiocult.fm/stream
+#EXTINF:-1 tvg-id="5a5f2e50-1bf6-4588-a248-bae7f9beaf94" tvg-logo="https://assets.clrd.net/uploads/logos/autodj/01a03d87-8851-78a6-9944-0da08c3be37b/5466cb00-13bf-472b-a48a-e99c6bae3b03.webp" group-title="Greece | Unknown region | Unknown city",Chordix Radio
+https://icy.cloudrad.io/8c3be37b

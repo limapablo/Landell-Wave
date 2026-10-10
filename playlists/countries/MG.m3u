@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="61c35dd2-373a-489a-b9c8-9ccc8e608029" group-title="Madagascar | Unknown region | Unknown city",Radio Don Bosco
+http://onair15.xdevel.com:9248/;stream.mp3
+#EXTINF:-1 tvg-id="74bde3b3-b705-4131-96e4-d293d36912c0" tvg-logo="https://becakgalon.com/img/begal-fiveicon.png" group-title="Madagascar | Unknown region | Unknown city",RDJ
+http://rdj966.net:8000/rdj966.mp3

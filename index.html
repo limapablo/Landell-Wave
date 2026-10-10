@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Landell Wave — browse live radio stations by country, region and city and export selections as M3U.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:; media-src https: http:; connect-src 'self'; font-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+  <meta name="referrer" content="no-referrer">
+  <title>Landell Wave — Internet Radio Directory</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="desktop">
+    <div class="app-window">
+      <header class="topbar">
+        <div class="app-caption">
+          <span class="app-icon" aria-hidden="true">◉</span>
+          <div>
+            <h1>Landell Wave</h1>
+            <p class="subtitle">Internet Radio Directory</p>
+          </div>
+        </div>
+        <a class="github" href="https://github.com/limapablo/Landell-Wave" target="_blank" rel="noreferrer">Source Code</a>
+      </header>
+
+      <nav class="menubar" aria-label="Application links">
+        <a href="playlists/world.m3u" download>World M3U</a>
+        <a href="https://github.com/limapablo/Landell-Wave" target="_blank" rel="noreferrer">GitHub</a>
+        <span class="menu-spacer" aria-hidden="true"></span>
+        <span class="version-label">Open radio, across the world.</span>
+      </nav>
+
+      <main>
+        <fieldset class="panel filters">
+          <legend>Station Browser</legend>
+          <label>Country<select id="country"><option value="">Loading…</option></select></label>
+          <label>Region / state<select id="region" disabled><option value="">All regions</option></select></label>
+          <label>City<select id="city" disabled><option value="">All cities</option></select></label>
+          <label>Search station<input id="search" type="search" placeholder="Search worldwide by name, city, tag…"></label>
+          <label>Minimum bitrate
+            <select id="bitrate">
+              <option value="0">Any</option><option value="64">64 kbps+</option><option value="96">96 kbps+</option>
+              <option value="128">128 kbps+</option><option value="192">192 kbps+</option><option value="256">256 kbps+</option>
+            </select>
+          </label>
+          <div class="filter-actions">
+            <button id="favorites-toggle" type="button" aria-pressed="false">★ Favorites</button>
+            <label class="time-format-label">Time format
+              <select id="time-format">
+                <option value="24">24-hour</option>
+                <option value="12">12-hour</option>
+              </select>
+            </label>
+            <button id="download" type="button" disabled>Download selection (.m3u)</button>
+          </div>
+        </fieldset>
+
+        <section class="summary" aria-live="polite" aria-label="Catalog summary">
+          <div><span>Shown:</span><strong id="visible-count">0</strong></div>
+          <div><span>Worldwide:</span><strong id="total-count">—</strong></div>
+          <div><span>Countries:</span><strong id="country-count">—</strong></div>
+          <div><span>Catalog build:</span><strong id="updated">—</strong></div>
+        </section>
+
+        <section id="status" class="status" role="status">Loading the catalog…</section>
+        <section id="stations" class="station-list" aria-label="Radio stations"></section>
+      </main>
+
+      <footer class="statusbar">
+        <span>Ready</span>
+        <span>Data: Radio Browser + GeoNames</span>
+        <span id="local-clock">Local time: --:--</span>
+      </footer>
+    </div>
+  </div>
+
+  <aside id="player" class="player" hidden>
+    <div class="player-titlebar">
+      <span>Landell Wave Player</span>
+      <button id="close-player" type="button" aria-label="Close player">×</button>
+    </div>
+    <div class="player-body">
+      <div class="now-playing"><span>Now playing</span><strong id="now-name">—</strong><small id="now-location">—</small>
+        <div class="player-clocks"><span id="player-local-time">Your time: --:--</span><span id="player-station-time">Station time: unavailable</span></div>
+      </div>
+      <audio id="audio" controls preload="none"></audio>
+    </div>
+  </aside>
+
+  <template id="station-template">
+    <article class="station-card">
+      <button class="favorite" type="button" aria-label="Add to favorites" title="Add to favorites">☆</button>
+      <button class="play" type="button" aria-label="Play station">▶</button>
+      <div class="logo" aria-hidden="true">♪</div>
+      <div class="station-main"><h2 class="station-name"></h2><p class="location"></p><p class="meta"></p><p class="station-time"></p></div>
+      <div class="actions"><a class="website" target="_blank" rel="noreferrer">Website</a><button class="copy" type="button">Copy stream</button></div>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
