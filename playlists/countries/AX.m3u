@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="a940d9eb-b262-4d06-917b-457a03e0e140" tvg-logo="https://alandsradio.ax/sites/default/files/favicon_artv.ico" group-title="Aland Islands | Mariehamn | Mariehamn",Ålands Radio
+https://stream.alandsradio.ax/stream.ogg
+#EXTINF:-1 tvg-id="d7a3eb69-9212-4b9d-98d7-ac5bdfe105da" tvg-logo="https://cdn-profiles.tunein.com/s90984/images/logog.png" group-title="Aland Islands | Veracruz, México | Unknown city",EXA FM: Popmusik på engelska och spanska
+https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac

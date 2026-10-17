@@ -1,0 +1,651 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="16a7954b-fce0-4d3d-b06e-797e32b4c7ce" tvg-logo="https://mmo.aiircdn.com/1449/66d36cdd8c650.png" group-title="Uganda | Central Region | Kampala",NRG Uganda 106.5
+https://dc4.serverse.com/proxy/nrgugstream/stream
+#EXTINF:-1 tvg-id="6e6a2c2c-ea78-4e22-8311-cb9d086577fc" group-title="Uganda | Central Region | Kampala",RADIOCITY.UG
+https://cast1.asurahosting.com/proxy/richar16/stream
+#EXTINF:-1 tvg-id="ef16e5e0-3709-489f-97fc-619058943360" tvg-logo="https://extra.ejazzug.com/favicon.ico" group-title="Uganda | Central Region | Kampala Central Division",EJAZZ Xtra
+https://c32.radioboss.fm:18320/stream
+#EXTINF:-1 tvg-id="491ea022-88f8-44a2-9b24-9da9a01ddf8d" tvg-logo="https://stream.zeno.fm/3qpkku63z5quv" group-title="Uganda | Central Region | Unknown city",Teshuvah radio
+https://stream.zeno.fm/3qpkku63z5quv
+#EXTINF:-1 tvg-id="8b67c79f-fc7d-4a59-b26e-ec913caead8f" tvg-logo="https://www.radio.net/300/victorsradio.png?version=d9521b26aaddfd7e5e35d063c680d69a84802b1b" group-title="Uganda | Central UG | Unknown city",VICTORS RADIO
+https://a13.asurahosting.com/listen/victors_radio_/radio.mp3
+#EXTINF:-1 tvg-id="31dd3b1e-35dd-438f-899c-e07530dcab6b" group-title="Uganda | Central UG | Unknown city",VICTORS RADIO
+https://a13.asurahosting.com/listen/victors_radio_/radio.mp3
+#EXTINF:-1 tvg-id="e6a801bb-598b-452d-b2da-6a67042802b0" group-title="Uganda | Kampala | Kampala Central Division",KIIS Uganda
+http://14867.cloudrad.io:9224/live
+#EXTINF:-1 tvg-id="39f27f69-ba0f-435b-8072-3794a76febc1" group-title="Uganda | Kampala | Unknown city",88.2 Sanyu FM - 88.2 FM (MP3)
+http://s44.myradiostream.com/8138/listen.mp3
+#EXTINF:-1 tvg-id="6cefd186-dccc-4d9b-8cf7-aaf0732d485c" group-title="Uganda | Kampala | Unknown city",88.2 Sanyu FM - Kampala - 88.2 FM (MP3)
+http://s44.myradiostream.com/8138/listen.mp3
+#EXTINF:-1 tvg-id="8cd5841e-d908-4f5a-a16a-1f2c55d5b13b" tvg-logo="https://i.ibb.co/VBfTj1z/xfm.jpg" group-title="Uganda | Kampala | Unknown city",94.8 XFM Kampala
+http://stream.hydeinnovations.com:2020/stream/xfm/stream
+#EXTINF:-1 tvg-id="453ff7ab-96d9-42a8-a4d0-cc59a4ab3498" group-title="Uganda | Kampala | Unknown city",97.0 Radio City
+https://cast1.asurahosting.com/proxy/richar16/stream
+#EXTINF:-1 tvg-id="fb480d78-a326-45e4-bb32-3e13e384a202" group-title="Uganda | Kampala | Unknown city",Beat FM - Kampala - 96.3 FM (MP3)
+http://5230.cloudrad.io:8354/live
+#EXTINF:-1 tvg-id="d4b4661d-10aa-4f6d-bd43-a7688cddc70d" tvg-logo="https://blockfm.websites.co.in" group-title="Uganda | Kampala | Unknown city",BLOCK FM 103.2
+https://stream.zeno.fm/gxjhbloltwluv
+#EXTINF:-1 tvg-id="be7863e5-65e9-42d0-8458-cd4404c8e777" tvg-logo="https://stream.zeno.fm/gxjhbloltwluv" group-title="Uganda | Kampala | Unknown city",BLOCK FM 103.2
+https://stream.zeno.fm/gxjhbloltwluv
+#EXTINF:-1 tvg-id="46514a9b-3e35-4457-9e3a-313533e745f1" tvg-logo="https://i.ibb.co/WvFm73NN/images.jpg" group-title="Uganda | Kampala | Unknown city",BNX Media FM - Kampala (MP3)
+http://stream.zeno.fm/6icyyzi1hawuv
+#EXTINF:-1 tvg-id="16b453c0-bd84-47e3-b06f-a004b11d758b" tvg-logo="https://images.zeno.fm/ZCOUrj_lTg8BY5gs3x_fsiA7aasxYg8BlCEvoHPEFTc/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzcyNThjMWRkLTEzZTEtNGQwYi04YzQzLWNlZWQ2NmUxYzlmMC9pbWFnZS8_dXBkYXRlZD0xNjY2MTAzNjYwMDAw.webp" group-title="Uganda | Kampala | Unknown city",Buyinza FM (MP3)
+http://stream.zeno.fm/wcancipcbrevv
+#EXTINF:-1 tvg-id="7851fcf3-b13d-4404-aafa-13ff1462a6cd" group-title="Uganda | Kampala | Unknown city",Capital FM - 91.3 FM (MP3)
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="1c987055-1074-4d7b-950a-63e009e03d94" group-title="Uganda | Kampala | Unknown city",Capital FM - Kampala - 91.3 FM (MP3)
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="4cff5ded-d667-4278-a82c-e6c06cb6a15a" group-title="Uganda | Kampala | Unknown city",Christ FM 91.6 - Kampala - 91.6 FM (AAC)
+http://s39.myradiostream.com/:15664/;
+#EXTINF:-1 tvg-id="03264813-c0ea-4e7f-8ba7-63a5aef3bdc0" group-title="Uganda | Kampala | Unknown city",Church Radio (MP3)
+http://stream.zeno.fm/k0weys53f78uv
+#EXTINF:-1 tvg-id="97c6888b-e7c9-46f1-90fb-737e1599e8c1" tvg-logo="https://images.zeno.fm/eH91OuuJ9d3T2141WHb62klnm1pZQGdXXRh9dlcd6k0/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUN3Z2RXel9RZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUR3cE9feGhRa01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2MDYyNjEwMDA.webp" group-title="Uganda | Kampala | Unknown city",Church Radio (MP3)
+http://stream.zeno.fm/k0weys53f78uv
+#EXTINF:-1 tvg-id="d461beff-3087-46f7-bdf8-e620aa438fd2" tvg-logo="https://i.ibb.co/fnTZJLC/image-2.webp" group-title="Uganda | Kampala | Unknown city",Glory FM Maganjo - Kampala (MP3)
+http://stream.zeno.fm/bn7dbg8w0nhvv
+#EXTINF:-1 tvg-id="99b598c4-9f8a-4e97-a606-48117de48a9f" tvg-logo="https://zeno.fm/favicon.ico" group-title="Uganda | Kampala | Unknown city",Heaven FM Radio
+http://stream.zeno.fm/eequgfw72hhvv
+#EXTINF:-1 tvg-id="f5693b00-882f-45c5-ab00-a990e9811579" group-title="Uganda | Kampala | Unknown city",Heavenly Altar Church Radio - Kampala (MP3)
+http://stream.zeno.fm/6s8719ctbphvv
+#EXTINF:-1 tvg-id="24431da2-cb1f-4838-a3f6-fd206f59af12" tvg-logo="https://i.ibb.co/PZXM2c1C/517718440-10162980039425138-9078622882750722647-n.jpg" group-title="Uganda | Kampala | Unknown city",KFM - Kampala - 93.3 FM (MP3)
+http://radio.kfm.co.ug:8000/stream
+#EXTINF:-1 tvg-id="f9249ee5-c1f1-4f5d-a363-7323801a6f2a" tvg-logo="https://i.ibb.co/xq6pTwv/302142045-131711916253380-781783264782417610-n.jpg" group-title="Uganda | Kampala | Unknown city",KIIS 100.9 - Kampala - 100.9 FM (MP3)
+http://14867.cloudrad.io:9224/live
+#EXTINF:-1 tvg-id="5e494c2a-4c3d-4a8f-9f8b-e5c92ec9c960" tvg-logo="https://econews.digital/wp-content/uploads/2025/11/cropped-WhatsApp-Image-2025-11-14-at-15.21.28_a76b6284.jpg" group-title="Uganda | kampala | Unknown city",My Radio
+http://myradioug.duckdns.org:8000/radio.mp3
+#EXTINF:-1 tvg-id="6020a841-a380-43bd-b6ed-bd5b780acd9f" tvg-logo="https://econews.digital/wp-content/uploads/2025/11/cropped-WhatsApp-Image-2025-11-14-at-15.21.28_a76b6284.jpg" group-title="Uganda | kampala | Unknown city",MyRadio
+http://myradioug.duckdns.org:8000/radio.mp3
+#EXTINF:-1 tvg-id="14d870f9-4ca8-4431-aaed-623c76465364" tvg-logo="https://i.ibb.co/4Knx6nq/image-1.webp" group-title="Uganda | Kampala | Unknown city",Nakawa Online Radio - Kampala (MP3)
+http://stream.zeno.fm/6hs5suuvqfhvv
+#EXTINF:-1 tvg-id="d35af201-6dab-45a8-8661-d3bdce1c21ce" group-title="Uganda | Kampala | Unknown city",Nup Radio 91.4
+https://stream.zeno.fm/gxjhbloltwluv
+#EXTINF:-1 tvg-id="e8d4cc6a-4dcb-42f4-849c-55b045f7008d" tvg-logo="https://i.ibb.co/rvjLt1n/image-2.jpg" group-title="Uganda | Kampala | Unknown city",Prayer Tower Radio - Kampala (MP3)
+http://stream.zeno.fm/ymapb78yznhvv
+#EXTINF:-1 tvg-id="81b1c74b-5ee3-4504-85d0-d50bf5d9a2c1" group-title="Uganda | Kampala | Unknown city",Radio City
+https://cast1.asurahosting.com/proxy/richar16/stream
+#EXTINF:-1 tvg-id="bfab33ba-901b-4bc4-b5ff-eeb7d3ba3c3a" group-title="Uganda | Kampala | Unknown city",Radio Sinza (MP3)
+http://stream.zeno.fm/raoopfak6k2vv
+#EXTINF:-1 tvg-id="b5e63da1-8220-4924-aae2-7c5d59f50982" tvg-logo="https://i.ibb.co/hKkgYFP/image-3.jpg" group-title="Uganda | Kampala | Unknown city",Radio Sinza (MP3)
+http://stream.zeno.fm/raoopfak6k2vv
+#EXTINF:-1 tvg-id="cd47b4f5-00c5-4230-b082-c1c356257dd8" tvg-logo="https://images.zeno.fm/bm9Qljp5KBGgX-jj3APC401Q1f3LUvLWUJpACYAXseY/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJby1MT3hBZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJNDh6eGlnb01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2ODk3NjkxNzYwMDA.webp" group-title="Uganda | Kampala | Unknown city",Radio Yoo (MP3)
+http://stream.zeno.fm/v73tc5gwaphvv
+#EXTINF:-1 tvg-id="c9444de8-9e57-44ab-9cd0-63cd90925703" tvg-logo="https://i.ibb.co/h1d0xd1/107725-v8.jpg" group-title="Uganda | Kampala | Unknown city",Rock FM Uganda - Kampala (MP3)
+http://titan.shoutca.st:8341/;
+#EXTINF:-1 tvg-id="d0b6ac35-a587-4b66-97c1-f742166b65a8" tvg-logo="https://i.ibb.co/Fs942G3/113203.jpg" group-title="Uganda | Kampala | Unknown city",Sanctuary FM - Kampala (MP3)
+http://stream.zeno.fm/vyx334hsbphvv
+#EXTINF:-1 tvg-id="d35168a2-e74b-4d9e-a3da-a4d7d0364846" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Z0r_fTaC4st26J4Hvd9Z3RoI74nn5lQdEIfgsLNex2fovbiP1JQ8a0WLoq3PUz8UHLrsPMfvN7kg6o6CeEJAnUUBdYY2pL4-WZVc_cihQ2XvDy3Fza_VX3v8QRXvpKzoKB205xarDncSFp2TU2aSVSWbumg8sGyYjdoS1ZMKbu1_c-r7hiOKVniRhA/s1240/Turn-Radio.jpg" group-title="Uganda | Kampala | Unknown city",Turn Radio - Revive Your Soul (MP3)
+http://stream.zeno.fm/cuejngegi8btv
+#EXTINF:-1 tvg-id="e4810b9d-dbe7-42f5-8233-186f6295c577" tvg-logo="https://i.ibb.co/M2HDS4N/image.jpg" group-title="Uganda | Kampala | Unknown city",UgOnlineMedia - Kampala (MP3)
+http://stream.zeno.fm/8t4dtkxfgkuuv
+#EXTINF:-1 tvg-id="9c0e6a1e-0012-43b6-934c-2bcc4696cd66" tvg-logo="https://i.ibb.co/M2HDS4N/image.jpg" group-title="Uganda | Kampala | Unknown city",UgOnlineMedia - Kampala (MP3)
+http://stream.zeno.fm/8t4dtkxfgkuuv
+#EXTINF:-1 tvg-id="653bbb6f-d1f0-44b8-be86-b9c1072ac9b2" tvg-logo="https://i.ibb.co/Kz9VR9n/119909.jpg" group-title="Uganda | Kampala | Unknown city",Voice Of Heaven - Kampala (MP3)
+http://stream.zeno.fm/s961sfesdmntv
+#EXTINF:-1 tvg-id="885fd8d2-5c40-4ab1-9d12-6522c9cf5862" group-title="Uganda | Unknown region | Unknown city",. Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="a0f396d3-6b01-4875-a504-b3a68ca05cce" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_225514758.jpg?alt=media&token=4e49dcdf-f742-4ed3-bf7b-81e10b861d4f" group-title="Uganda | Unknown region | Unknown city",101.8 Radio Maria
+http://dreamsiteradiocp.com:8052/stream
+#EXTINF:-1 tvg-id="ead916ba-3727-41bb-91d2-95e2e95fdcc1" group-title="Uganda | Unknown region | Unknown city",101.8 Radio maria
+http://dreamsiteradiocp.com:8052/stream
+#EXTINF:-1 tvg-id="96088068-8088-4db8-bd6c-6737a3c1e865" tvg-logo="https://i.ibb.co/P6b03Fx/image.webp" group-title="Uganda | Unknown region | Unknown city",104.1 Favour FM - Gulu - 104.1 FM
+http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream
+#EXTINF:-1 tvg-id="276c2bc0-0cc3-488a-8a21-88a3e7c8e1aa" tvg-logo="https://res.cloudinary.com/djo14ik7t/image/upload/v1733712575/favicon_drktfs.png" group-title="Uganda | Unknown region | Unknown city",104.1 Favour FM - Gulu - 104.1 FM (MP3)
+http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream
+#EXTINF:-1 tvg-id="833bef16-bb28-42df-827a-58d3c37e87c3" group-title="Uganda | Unknown region | Unknown city",104.4 Kaboozi Fm
+http://162.244.80.52:8732/;stream.mp3
+#EXTINF:-1 tvg-id="56d2d8d9-292b-470e-adfc-eea69932917b" tvg-logo="https://nextradio.co.ug/wp-content/uploads/2018/09/cropped-logo-1-180x180.gif" group-title="Uganda | Unknown region | Unknown city",106.1 Next Radio
+https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw
+#EXTINF:-1 tvg-id="892e3a5e-b658-498a-9895-6232543415a1" tvg-logo="https://stream-154.zeno.fm/favicon.ico" group-title="Uganda | Unknown region | Unknown city",106.1 NxtRadio
+https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw
+#EXTINF:-1 tvg-id="6a208ad3-4933-4247-8b02-f695fae45503" group-title="Uganda | Unknown region | Unknown city",106.1 NxtRadio
+https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw
+#EXTINF:-1 tvg-id="fcddd5dd-e76c-45f2-943a-a9267fcdfe69" group-title="Uganda | Unknown region | Unknown city",107.3 BBC Radio Uganda
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="1647efb2-a9aa-42d4-975b-2124b5530a5c" group-title="Uganda | Unknown region | Unknown city",107.3 BBC Radio Uganda
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="b6989b83-7ee0-48b5-bbe5-c00d1b558bed" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_215046925.jpg?alt=media&token=bf172eb6-577e-4f36-b025-68e36f614765" group-title="Uganda | Unknown region | Unknown city",107.9 Pearl Fm
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1 tvg-id="38cff2cb-ad3d-4c56-a49a-46ccde9b6ec5" group-title="Uganda | Unknown region | Unknown city",107.9 Pearl Fm
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1 tvg-id="bf8d199f-e158-4205-bd1d-7cec0b8158aa" group-title="Uganda | Unknown region | Unknown city",107.9 Pearl Fm
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1 tvg-id="b2bcbf16-b180-45a8-afd4-ab77edfc284e" group-title="Uganda | Unknown region | Unknown city",107.9 Pearl Fm
+https://dc4.serverse.com/proxy/pearlfm/stream
+#EXTINF:-1 tvg-id="76bb9390-7dbe-4e49-b3e9-095a608abb4e" group-title="Uganda | Unknown region | Unknown city",80's 90's old music radio
+https://maggie.torontocast.com:2020/stream/100greatestofthe80s
+#EXTINF:-1 tvg-id="c1c1d249-e2a8-4fd9-8967-f124f9dff21e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_232749086.jpg?alt=media&token=d3ec7f4f-b1e0-469c-9cd7-fdae3b81f2d2" group-title="Uganda | Unknown region | Unknown city",87.9 Kaboozi Fm
+http://162.244.80.52:8732/;stream.mp3
+#EXTINF:-1 tvg-id="039e4828-55aa-45c5-a33f-0e70f98742ed" group-title="Uganda | Unknown region | Unknown city",87.9 Kaboozi fm
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="47aeb481-6946-4680-9f4e-ced487f187cc" tvg-logo="https://supersport.com/favicon/favicon-96x96.png" group-title="Uganda | Unknown region | Unknown city",87.9 Kaboozi Fm
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="94495c5b-9f3e-4f90-a7fc-bc2ef1c8e383" group-title="Uganda | Unknown region | Unknown city",87.9 Kaboozi Fm
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="b81137cd-a726-417c-ab15-b2ca2cd071b7" tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="Uganda | Unknown region | Unknown city",88.1 Centenary Fm
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="764e1e79-bef9-4f94-861b-781a5f689d61" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_230827656.jpg?alt=media&token=74ae2676-d017-457e-bf98-f5481ad246fb" group-title="Uganda | Unknown region | Unknown city",88.2 Sanyu Fm
+http://s44.myradiostream.com:8138/stream
+#EXTINF:-1 tvg-id="1a9a9129-4742-4b6b-b42f-32a976bb28d9" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_184334083.jpg?alt=media&token=4bca77d4-a15c-47e2-90ba-2d832e3c8fc7" group-title="Uganda | Unknown region | Unknown city",88.6 Kiira Fm
+http://stream.zeno.fm/iydttapi8rguv
+#EXTINF:-1 tvg-id="38eef14f-743e-45ba-b71b-ad39ca6d383d" group-title="Uganda | Unknown region | Unknown city",88.6 Kiira FM
+http://stream.zeno.fm/iydttapi8rguv
+#EXTINF:-1 tvg-id="13c8b233-de79-4aaa-a3e2-ee7ad2ab4f46" group-title="Uganda | Unknown region | Unknown city",90.1 Discovery fm Jamaica
+http://usa14.fastcast4u.com:5192/;
+#EXTINF:-1 tvg-id="87c77451-e85a-4c6c-947a-3a3100384a0c" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga One
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="bf1e1dd1-e72c-4999-8415-e014c28ea647" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga One
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="5acf6983-302d-4593-8678-5b7b8fda7403" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga One
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="99d2519d-e346-4cc1-b5ee-121e3b862924" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga One Fm
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="4cd715fe-82f8-4a6e-81a2-669d15981863" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga One Fm
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="9c8455bd-97f5-44cc-814a-1d3b5d2c548e" group-title="Uganda | Unknown region | Unknown city",90.6 Busoga one fm
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="bfff0877-39db-4c59-b4a5-55df13df10ed" group-title="Uganda | Unknown region | Unknown city",91. 3 Capital fm
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="175cba5d-1fd0-4a79-b359-16548ae500ef" tvg-logo="https://capitalradio.co.ug/favicon.png" group-title="Uganda | Unknown region | Unknown city",91.2 Capital FM
+https://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="801b0097-38b9-4247-a1cb-052d1cf737dd" tvg-logo="https://croozefm.com/wp-content/uploads/2024/09/cropped-site-icon-180x180.png" group-title="Uganda | Unknown region | Unknown city",91.2 Crooze FM
+https://stream-159.zeno.fm/vyxwdk08apxtv
+#EXTINF:-1 tvg-id="692c6138-a5be-4cee-a7d8-e1e1811c7449" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_225215763.jpg?alt=media&token=1e1c6b5e-b439-4b13-8f70-12ce792fc001" group-title="Uganda | Unknown region | Unknown city",91.3 Capital Fm
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="844dab4f-b207-4788-9644-655bc12f0a61" group-title="Uganda | Unknown region | Unknown city",91.3 Lift Worship US
+https://emg.streamguys1.com/lift-website
+#EXTINF:-1 tvg-id="4d0e0088-b9fd-41df-908f-a2d0b8adbabb" group-title="Uganda | Unknown region | Unknown city",91.3 Lift Worship US
+https://emg.streamguys1.com/lift-website
+#EXTINF:-1 tvg-id="971b5ae7-1474-4c4b-841a-fce8fcfe43d9" group-title="Uganda | Unknown region | Unknown city",91.6 Christ Fm
+http://5.135.154.69:15664/;
+#EXTINF:-1 tvg-id="9fae09d9-251e-46b7-8db1-e6060940f697" group-title="Uganda | Unknown region | Unknown city",91.6 Christ Fm
+http://5.135.154.69:15664/;
+#EXTINF:-1 tvg-id="225263cd-95c1-4753-b8e6-b7431a3edc86" group-title="Uganda | Unknown region | Unknown city",94.0 Jamaica fm
+https://stream.zeno.fm/cub84trbgy5tv
+#EXTINF:-1 tvg-id="e9b78fe1-7447-43b7-8bfe-afcb6949ffa4" group-title="Uganda | Unknown region | Unknown city",95.0 Fame fm Jamaica
+https://stream.zenolive.com/d5mn12bchkeuv
+#EXTINF:-1 tvg-id="510df20e-af52-4253-97bd-c59de6aa4e97" group-title="Uganda | Unknown region | Unknown city",95.1 Kiss FM Jakarta
+http://103.246.184.62:1935/noice_kisfm/kisfm/chunklist.m3u8
+#EXTINF:-1 tvg-id="e2d2f120-6771-4e92-8fff-7e5ba1052414" group-title="Uganda | Unknown region | Unknown city",95.5 Radio Buddu
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-id="a647c98e-dc58-4045-95af-539133ef317e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_224959180.jpg?alt=media&token=5b42d674-4fe4-46e8-a1e7-13e7eb2b6c37" group-title="Uganda | Unknown region | Unknown city",96.3 Beat Fm
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="0cce3851-758c-4671-9288-a1bb45313474" tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Uganda | Unknown region | Unknown city",96.3 Beat fm
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="a09e253f-5c34-4dd3-b742-9220b3eaf1f6" tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Uganda | Unknown region | Unknown city",96.3 Beat fm
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="502b8905-f8c8-4396-9d9c-ac5ec3fe79d7" group-title="Uganda | Unknown region | Unknown city",96.3 Beat Fm Ekintabuli
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="db6fc15f-68dd-43cb-91f0-881f02bdc478" group-title="Uganda | Unknown region | Unknown city",98.1 Isaiah FM Trinidad
+https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15
+#EXTINF:-1 tvg-id="28908138-4d4d-494d-a07e-90215025ebf8" tvg-logo="https://radiobuddufm.com/images/favicon.png" group-title="Uganda | Unknown region | Unknown city",98.8 Buddu Fm
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-id="13c79848-b2bd-4d7d-b61c-dc1a0177e3a3" group-title="Uganda | Unknown region | Unknown city",98.8 Radio Buddu
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-id="b2e772d1-ada9-46c0-81db-a7c4dd610908" group-title="Uganda | Unknown region | Unknown city",99.5 Global Fm Bahamas
+http://ice64.securenetsystems.net/GLOBALBS
+#EXTINF:-1 tvg-id="29578baf-5798-4cee-808a-84f5666d16bd" tvg-logo="https://akaboozi.com/wp-content/uploads/2024/06/favicon-150x150.png" group-title="Uganda | Unknown region | Unknown city",Akaboozi 87.9 FM
+http://162.244.80.52:8732/stream
+#EXTINF:-1 tvg-id="c1dda143-90d9-47e1-810b-48ee56b8ece0" group-title="Uganda | Unknown region | Unknown city",AKABOOZI FM
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="9a8f7fb5-3159-11ea-afca-52543be04c81" tvg-logo="https://akaboozi.com/wp-content/uploads/2022/03/cropped-site-logo-180x180.png" group-title="Uganda | Unknown region | Unknown city",Akaboozi FM 87.9
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="d724edf2-85d8-4d84-901e-79d1b563f9c4" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_193705434.jpg?alt=media&token=00f90168-d7c1-48a9-acff-6a212367c1df" group-title="Uganda | Unknown region | Unknown city",Ancient Faith Radio
+https://ancientfaith.streamguys1.com/music
+#EXTINF:-1 tvg-id="9f4f75a8-616f-48d2-99f7-71090ad852a6" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",ANCIENT FAITH RADIO
+https://ancientfaith.streamguys1.com/music
+#EXTINF:-1 tvg-id="7e44ccb0-66cb-45a6-a2ea-8526f275814b" group-title="Uganda | Unknown region | Unknown city",Bantu Radio
+https://stream-176.surfernetwork.com/7u8xbck3v7zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI3dTh4YmNrM3Y3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJVa2syYm9STFRjbUlYQWR6MXh3NWR3IiwiaWF0IjoxNzg5MjI4NTI4LCJleHAiOjE3ODkyMjg1ODh9.R3IJRMouYPA3v8QgxdGVW3xG312xLrXnEfYwhtl6em0
+#EXTINF:-1 tvg-id="036fe0fb-4140-416f-8e35-865a34e6182d" tvg-logo="https://www.bbc.co.uk/favicon.ico" group-title="Uganda | Unknown region | Unknown city",BBC AFRICA UG
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="c6474252-4fb0-4fe0-9222-afee4fa86e14" group-title="Uganda | Unknown region | Unknown city",BBC AFRICA UG
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="b655615d-5723-441e-9648-72cbc7937669" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_141505536.jpg?alt=media&token=c04757e5-f941-4048-b5fa-db150f24cbf2" group-title="Uganda | Unknown region | Unknown city",BBC Radio
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="d9059129-1426-4994-a2cb-e3da14f8e0c4" group-title="Uganda | Unknown region | Unknown city",BBC Radio
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="621a3f1f-b37a-4806-b5cf-235f4f781d09" group-title="Uganda | Unknown region | Unknown city",BBC Radio Uganda
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="00db5066-d3ea-4dd7-a573-119b00bd623d" group-title="Uganda | Unknown region | Unknown city",BBC UGANDA
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="7c94e1c8-c1ef-4c9e-aa71-41565643ee12" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",BBC WORLD SERVICE
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="85958962-63de-4f63-b509-908feab96a38" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_141953914.jpg?alt=media&token=63e2ba73-a2c5-4f41-acb8-a9d16daf59ec" group-title="Uganda | Unknown region | Unknown city",BBC WORLD SERVICE
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="683d312a-f0b1-4079-9fbb-5c31555b69d2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_142028434.jpg?alt=media&token=4598af05-9531-4d27-8a44-9755c3885bff" group-title="Uganda | Unknown region | Unknown city",BBC WORLD SERVICE
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa
+#EXTINF:-1 tvg-id="17db3a3f-9c97-4561-8e38-3a32e6af02eb" tvg-logo="https://cdn.onlineradiobox.com/img/apple-touch-icon-120x120.png" group-title="Uganda | Unknown region | Unknown city",BEAT FM
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="0c08143d-3dfd-4eda-990e-68d493440bca" group-title="Uganda | Unknown region | Unknown city",BEAT FM
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="5513a8e5-401f-457e-b16d-750f368bb97e" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",BEAT FM
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="93479acd-38b5-491a-a7e5-a04719b9fd52" tvg-logo="https://cdn-web.tunein.com/assets/img/apple-touch-icon-180.png" group-title="Uganda | Unknown region | Unknown city",BEAT FM
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="86780c91-4067-4746-8ae2-96a8cb75f8c4" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Beat FM 96.3
+http://5230.cloudrad.io:8354/
+#EXTINF:-1 tvg-id="0b50ad48-22b9-4f1f-bec1-8fadc6f609a5" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_182906758.jpg?alt=media&token=16f8e335-131d-439b-9827-caf40a592f3b" group-title="Uganda | Unknown region | Unknown city",BIBLE 24/7
+http://c28.radioboss.fm:8335/stream
+#EXTINF:-1 tvg-id="3b154ff8-de6f-45c7-be2d-91eba608c646" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_200452239.jpg?alt=media&token=8ef5c084-50cf-4071-9ca2-cb1dd52a4da9" group-title="Uganda | Unknown region | Unknown city",Bible 24/7
+http://c28.radioboss.fm:8335/stream
+#EXTINF:-1 tvg-id="6af24820-f8e0-43d4-87c2-c78586fa8407" group-title="Uganda | Unknown region | Unknown city",Bible 24/7
+http://c28.radioboss.fm:8335/stream
+#EXTINF:-1 tvg-id="c2fc69a8-a09c-4a98-b4d6-040091a192fd" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",BIBLE 24/7
+http://c28.radioboss.fm:8335/stream
+#EXTINF:-1 tvg-id="8083d467-899b-4ba8-908d-f8304d4eab67" group-title="Uganda | Unknown region | Unknown city",Bible Indepth Radio
+https://stream.radiojar.com/n6c576nrga0uv
+#EXTINF:-1 tvg-id="6f9f3d97-4308-4e59-af48-7c6a0c0e47c1" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_045728944.jpg?alt=media&token=23506a54-6cd5-4ac1-b111-0ed64dae8ef6" group-title="Uganda | Unknown region | Unknown city",Bible Trivia
+https://streamer.radio.co/se1aece429/listen
+#EXTINF:-1 tvg-id="5c80d758-f4ad-40bd-9fab-51c4cb2b4e86" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",BUDDU FM
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-id="dd80c893-fd09-4e6c-963c-64b4dadcc8a6" tvg-logo="https://stream-174.zeno.fm/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Bugwere Fm
+https://stream-174.zeno.fm/jddn0e0z9f0uv?zt
+#EXTINF:-1 tvg-id="5917375f-b272-4570-929a-9d0bc7c1a1a8" tvg-logo="https://stream-174.zeno.fm/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Bugwere Fm
+https://stream-174.zeno.fm/jddn0e0z9f0uv?zt
+#EXTINF:-1 tvg-id="798a5a79-0686-4213-8f6f-c7eded091fcf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGqzjpeSb1qq3HtWwzqmWms-jt3Jqgafefd_ZUX-ri3A&s=10" group-title="Uganda | Unknown region | Unknown city",Bugwere Online Radio
+https://stream-177.surfernetwork.com/64ol1dwqvuzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2NG9sMWR3cXZ1enZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJCWjJyNkhjaVJBYTQ5Y3RVdVZJVlZ3IiwiaWF0IjoxNzg5MjI4MDQ1LCJleHAiOjE3ODkyMjgxMDV9.sq56yT7Ihva_xRxXdZ2x62273v6Af-4MNb71KbFzTl4
+#EXTINF:-1 tvg-id="4306ef39-c900-4189-a0e0-4c46ec606c73" tvg-logo="https://www.bukedde.co.ug/_nuxt/logo_red.BnzDZ_g8.png" group-title="Uganda | Unknown region | Unknown city",Bukedde FM
+https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream
+#EXTINF:-1 tvg-id="26d4385e-5f91-4df0-a119-06ec9f1ecd98" group-title="Uganda | Unknown region | Unknown city",BUSOGA ONE
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="8ddf1492-891e-40d9-b6b1-91ddf96033aa" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",BUSOGA ONE FM
+https://stream.zeno.fm/xna2aad7gc9uv
+#EXTINF:-1 tvg-id="12ce60c4-ccec-4d79-abe3-d96cb74cad04" group-title="Uganda | Unknown region | Unknown city",BUSOGA ROYAL RADIO
+https://cast5.my-control-panel.com/proxy/busogaroyalradio/stream
+#EXTINF:-1 tvg-id="5fc7166e-eb35-438b-b21c-96702f06c2e3" group-title="Uganda | Unknown region | Unknown city",Buyinza Fm
+http://stream.zeno.fm/wcancipcbrevv
+#EXTINF:-1 tvg-id="a58c57b6-4b2f-4c56-a923-823937d4f536" group-title="Uganda | Unknown region | Unknown city",Canton News Radio China
+http://ls.qingting.fm/live/4848.m3u8
+#EXTINF:-1 tvg-id="b7091c03-c698-11e8-a498-52543be04c81" group-title="Uganda | Unknown region | Unknown city",Capital FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="4da58b40-1b21-45fa-bd95-633141c85bb5" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="d70c4a12-fbb1-444c-ae20-4449e50a6d63" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="e0b1b515-d65a-4e8b-a5a1-19ce59624f64" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="1d556aa0-3c7d-44e0-94d0-fd3199afcac1" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="8c2f7fcb-0a7d-43d8-8c29-d0108604e453" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM
+http://5229.cloudrad.io:8316/;
+#EXTINF:-1 tvg-id="669d9741-afe2-48fb-a0f7-609afbbadd7f" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM UG
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="02024dbd-1dbb-4977-a689-a2eb3447a973" group-title="Uganda | Unknown region | Unknown city",Capital FM Uganda
+https://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="02e26eb2-a558-4203-b0ea-088f6df44b54" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",CAPITAL FM UK
+http://capitalfm.cloudrad.io/stream
+#EXTINF:-1 tvg-id="a30c0dd5-0e2a-4b67-b5e9-9b74fc0d050f" group-title="Uganda | Unknown region | Unknown city",Capital FM UK
+http://media-ice.musicradio.com/CapitalLiverpoolMP3
+#EXTINF:-1 tvg-id="ca3ccfb1-a176-4b41-b3bd-31f52438fb42" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_211217900.jpg?alt=media&token=924374ee-399b-4f6a-b8b3-a71b19eddd6f" group-title="Uganda | Unknown region | Unknown city",CBN Christian
+http://cbnradio.streamguys1.com/news-128K?app=cbnplayer
+#EXTINF:-1 tvg-id="2515ffad-a344-4d35-80ec-d386f03c8044" group-title="Uganda | Unknown region | Unknown city",CBN Christmas Channel
+https://streams.cbnradio.com/christmas-128K?%20Title1=CBN%20Christmas
+#EXTINF:-1 tvg-id="667c7f26-6241-48a8-a238-530770d185cf" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_210904814.jpg?alt=media&token=d331f1a2-9c84-4ff7-aac4-6b239a02e9b9" group-title="Uganda | Unknown region | Unknown city",CBN News
+http://cbnradio.streamguys1.com/news-128K?app=cbnplayer
+#EXTINF:-1 tvg-id="394ae8ef-c8f2-4076-95c4-69d5257faf38" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240201_174909722.jpg?alt=media&token=0c84c890-148c-4c2d-a406-1ef3df9e810a" group-title="Uganda | Unknown region | Unknown city",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="7ff25f72-c57b-4cdf-b662-67d191aa793b" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",CENTENARY RADIO
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="9656d5af-bff4-4e80-ba41-7905f0a4d4f8" group-title="Uganda | Unknown region | Unknown city",CGTN Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="a040a489-073c-4b02-b6f6-84bdebcd9b01" group-title="Uganda | Unknown region | Unknown city",CHENNAI LIVE
+http://216.55.178.11:8008/
+#EXTINF:-1 tvg-id="3984b407-8b80-4df9-8d89-9e9fcdeaf8e2" tvg-logo="https://images.zeno.fm/oz1IPtaIFHHKzr7iRZQfBMTHFvIoHUs4GyQ0q0CmTdc/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJdTd6bGdRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJLThhNXR3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjIwMTMwNzMwMDA.webp" group-title="Uganda | Unknown region | Unknown city",Chosen Radio Uganda (MP3)
+http://stream.zeno.fm/6uxwuag3srhvv
+#EXTINF:-1 tvg-id="d3fb26f8-4168-4ba5-9f76-33ce96f30f93" group-title="Uganda | Unknown region | Unknown city",Chosen Radio Uganda (MP3)
+http://stream.zeno.fm/6uxwuag3srhvv
+#EXTINF:-1 tvg-id="f1404e93-3dd0-46f6-a505-37a77fd2dc30" group-title="Uganda | Unknown region | Unknown city",CHRIST FM
+http://s39.myradiostream.com/:15664/;
+#EXTINF:-1 tvg-id="8255ab25-e55e-4e12-9afb-1e533e883cba" group-title="Uganda | Unknown region | Unknown city",Christ Love Radio (MP3)
+http://stream.zeno.fm/orioba9siustv
+#EXTINF:-1 tvg-id="d093c6a2-00ba-4cdd-86fb-48e8a2766792" tvg-logo="https://images.zeno.fm/e7wHxzwNw5tapurdmFopRIkL4ygwXvGg38HUqOX8x4g/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzdiOWQ2ZWQ3LWY1Y2YtNGE3YS04MThkLWU3YWQ3ODY5YzExMy9pbWFnZS8_dXBkYXRlZD0xNjc5OTgyNTY5MDAw.webp" group-title="Uganda | Unknown region | Unknown city",Christ Radio - Lira (MP3)
+http://stream.zeno.fm/zupkzgrj4dauv
+#EXTINF:-1 tvg-id="f374a93f-ee20-4a39-b05b-e677d39e9950" group-title="Uganda | Unknown region | Unknown city",Christ Radio - Lira (MP3)
+http://stream.zeno.fm/zupkzgrj4dauv
+#EXTINF:-1 tvg-id="37d1ea3a-a01b-4bfb-bb2d-bad5d3472f59" group-title="Uganda | Unknown region | Unknown city",Christian fm
+http://stream.dar.fm/27203
+#EXTINF:-1 tvg-id="83fb8a65-0272-4de9-9f9f-bbf1d1626bbc" group-title="Uganda | Unknown region | Unknown city",Christian hits radio
+https://shoutcast.christianrock.net/stream/5/
+#EXTINF:-1 tvg-id="c8d60f98-4a62-4122-9981-961a41eb2817" tvg-logo="https://www.communitynetradio.org/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Christian life radio
+https://ice64.securenetsystems.net/CLR1MP3
+#EXTINF:-1 tvg-id="f4aa9f00-7e57-47cc-91a4-db3405fcd7d2" group-title="Uganda | Unknown region | Unknown city",Christian music channel
+http://streaming.live365.com/a08828
+#EXTINF:-1 tvg-id="db765b26-de47-4663-b418-8b25dd27e20e" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_034028137.jpg?alt=media&token=c345f59b-70b0-4e6e-be03-e79a87ce3050" group-title="Uganda | Unknown region | Unknown city",Christian Radio
+https://shoutcast.christianrock.net/stream/5/
+#EXTINF:-1 tvg-id="5519fb32-9eb5-42ea-bd75-a1049b5b047d" group-title="Uganda | Unknown region | Unknown city",Christmas choir
+https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy
+#EXTINF:-1 tvg-id="1afa6111-382a-426e-8a70-e5c680bc48f8" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240226_004457092.jpg?alt=media&token=3095bb63-542d-4ee1-b16c-4a392e5c6f1f" group-title="Uganda | Unknown region | Unknown city",CNN INTERNATIONAL
+https://tunein.cdnstream1.com/2868_96.mp3
+#EXTINF:-1 tvg-id="7efe33cf-f29b-411b-9f3d-6a50d38dcbd0" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_035102736.jpg?alt=media&token=1413f958-9b3e-4d6d-b611-2a190957ed0d" group-title="Uganda | Unknown region | Unknown city",Country Music
+http://ais-sa2.cdnstream1.com/2365_128.mp3
+#EXTINF:-1 tvg-id="ceeb1115-afa7-4f8c-bcdb-894eaecedeb7" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_035230349.jpg?alt=media&token=cc52e3a6-6e5c-4c72-a90b-cc5e0848163b" group-title="Uganda | Unknown region | Unknown city",Country Music
+http://ais-sa2.cdnstream1.com/2365_128.mp3
+#EXTINF:-1 tvg-id="a557354e-fb35-4665-98ea-e909f7f9764a" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_034805993.jpg?alt=media&token=15b4d339-334b-444d-b0ff-b90b5e8499ab" group-title="Uganda | Unknown region | Unknown city",Country music (80's)
+http://listen.181fm.com/181-80scountry_128k.mp3
+#EXTINF:-1 tvg-id="ec15a490-9922-4e08-aca8-45ad16674aed" group-title="Uganda | Unknown region | Unknown city",crooze fm
+https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE
+#EXTINF:-1 tvg-id="48fd6aa0-4fdf-4d02-8b0d-bc3dfad59138" tvg-logo="https://i.ibb.co/S5XYRs3/demagpwhite.jpg" group-title="Uganda | Unknown region | Unknown city",Dema Gospel Promotions (MP3)
+http://stream.zeno.fm/m96foqqk7bxuv
+#EXTINF:-1 tvg-id="964f92e1-a1b6-4c61-95d5-d26714f04d71" tvg-logo="https://demagospel.com/images/logos/faviconnew.png" group-title="Uganda | Unknown region | Unknown city",Dema Gospel Promotions (MP3)
+http://stream.zeno.fm/m96foqqk7bxuv
+#EXTINF:-1 tvg-id="1542aee8-5cfe-43a8-b84f-2dd6cd9cc85d" group-title="Uganda | Unknown region | Unknown city",Dema Radio - Gospel Promotions (MP3)
+http://stream.zeno.fm/m96foqqk7bxuv
+#EXTINF:-1 tvg-id="4fe0d46b-3298-4f2b-8c0b-5ed6764a7b30" tvg-logo="https://i.ibb.co/S5XYRs3/demagpwhite.jpg" group-title="Uganda | Unknown region | Unknown city",Dema Radio - Gospel Promotions (MP3)
+http://stream.zeno.fm/m96foqqk7bxuv
+#EXTINF:-1 tvg-id="06369826-f900-4530-8b29-9b5978fc1ad3" group-title="Uganda | Unknown region | Unknown city",Dove Fm
+https://ice64.securenetsystems.net/DOVEMAIN
+#EXTINF:-1 tvg-id="39bc78cc-fb96-4595-916d-5fb7dd866bd8" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_195126328.jpg?alt=media&token=2fdca8aa-06c4-41a2-bd6b-b217df4731ab" group-title="Uganda | Unknown region | Unknown city",Dove Radio
+https://ice64.securenetsystems.net/DOVEMAIN
+#EXTINF:-1 tvg-id="66964378-eb32-4758-89ca-3abda45bcbd5" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_162731236.jpg?alt=media&token=3ae70718-017b-4ccc-88f9-5c7c84e0a675" group-title="Uganda | Unknown region | Unknown city",DW News
+https://dw.audiostream.io/dw/1027/mp3/64/dw08
+#EXTINF:-1 tvg-id="c04fdda3-b0f5-477b-a7a0-316ffe670524" tvg-logo="https://www.dw.com/images/icons/favicon-120x120.png" group-title="Uganda | Unknown region | Unknown city",DW NEWS
+https://dw.audiostream.io/dw/1027/mp3/64/dw08
+#EXTINF:-1 tvg-id="35e5d0d2-ad6b-4747-baec-ce04af697ad1" group-title="Uganda | Unknown region | Unknown city",East Africa Radio
+https://eatv.radioca.st/;
+#EXTINF:-1 tvg-id="0281d735-e493-44e4-975e-d8dce4ccc6c1" group-title="Uganda | Unknown region | Unknown city",EJAZZ Radio
+https://eu1.reliastream.com/proxy/ejazzug?mp=/stream
+#EXTINF:-1 tvg-id="f2c363c1-a77f-4b41-8f86-be0d5dcf3578" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",English Premier League
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="a0110ab4-f8e2-4e1f-b5e9-7f825ba26986" group-title="Uganda | Unknown region | Unknown city",Enjiri Radio
+http://stream.zeno.fm/xdb8nazajqcvv
+#EXTINF:-1 tvg-id="416e0acf-fa75-4a98-ab7a-30800729a41c" tvg-logo="https://images.zeno.fm/Ul6bCR7O_skhKp8i0XZo40RCJPV82us0PbqQYpWYYvE/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FkYTJlNDI3LTdlMmItNDIzNS05ZDNmLTllNjExOTk0NWMzNy9pbWFnZS8_dXBkYXRlZD0xNzA4MDg4NzU1MDAw.webp" group-title="Uganda | Unknown region | Unknown city",Enjiri Radio (MP3)
+http://stream.zeno.fm/xdb8nazajqcvv
+#EXTINF:-1 tvg-id="e5fa3388-2a63-4c74-a20d-f1fb1b1a0723" tvg-logo="https://mynoise.net/apple-touch-icon.png" group-title="Uganda | Unknown region | Unknown city",Exodus Comfort Radio
+http://stream.zeno.fm/k2zma0qewtjvv
+#EXTINF:-1 tvg-id="c48c3052-569e-45e1-9d9e-1a3c9f040d7c" group-title="Uganda | Unknown region | Unknown city",Exodus Comfort Radio - Mbarara (MP3)
+http://stream.zeno.fm/k2zma0qewtjvv
+#EXTINF:-1 tvg-id="28b2eb6a-6424-4ae5-a935-3427e375cad6" tvg-logo="https://i.ibb.co/dsftncpL/u-1736320192000.avif" group-title="Uganda | Unknown region | Unknown city",Foundation of Truth Christian Church - Online Radio (MP3)
+http://r1.comcities.com/proxy/fotonline/stream
+#EXTINF:-1 tvg-id="585ab8c5-f2db-4ee9-ae2e-834edeb853cd" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_040932953.jpg?alt=media&token=02bb8749-ab43-4244-9e31-f317573e5aa5" group-title="Uganda | Unknown region | Unknown city",Free Sports Radio
+https://stream.zeno.fm/31nnibfpnxktv
+#EXTINF:-1 tvg-id="0906d356-df6e-48ce-8a21-2468b0b654d4" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_211904850.jpg?alt=media&token=bcf08431-92fb-47f1-9703-5779d8e83bce" group-title="Uganda | Unknown region | Unknown city",Fun Kids Radio
+https://listen-funkids.sharp-stream.com/funkids.mp3
+#EXTINF:-1 tvg-id="36a7d229-8cc2-44b9-82ec-c6065918818e" group-title="Uganda | Unknown region | Unknown city",FUN KIDS RADIO
+https://listen-funkids.sharp-stream.com/funkids.mp3
+#EXTINF:-1 tvg-id="056d990a-7b48-4e95-b91e-ce59ca2701e8" tvg-logo="https://www.galaxyfm.co.ug/wp-content/uploads/2018/01/Galaxy-FM-Logo.png" group-title="Uganda | Unknown region | Unknown city",Galaxy FM 100.2 FM ZZinna!
+https://stream.zeno.fm/ahtmyttw5mftv
+#EXTINF:-1 tvg-id="db42b6b5-3995-4195-8bf1-2d126ad84ce1" group-title="Uganda | Unknown region | Unknown city",Good News Radio
+http://node-01.zeno.fm/km203bn6qnruv
+#EXTINF:-1 tvg-id="d3c45d25-2b1a-4fb3-8cb1-b4832ded32e2" tvg-logo="https://i.ibb.co/1Rwx7GC/image-1.webp" group-title="Uganda | Unknown region | Unknown city",Gospel Kingz (MP3)
+http://stream.zeno.fm/vstzctms6rhvv
+#EXTINF:-1 tvg-id="85543ab5-838a-4e6d-9612-eb3f898af414" group-title="Uganda | Unknown region | Unknown city",Gospel Radio East Africa
+https://c32.radioboss.fm:18451/stream?1641237600584
+#EXTINF:-1 tvg-id="0951a561-786c-4aff-b0ac-696bf240f1d2" group-title="Uganda | Unknown region | Unknown city",Great Hits Manchester
+https://listen-nation.sharp-stream.com/hull.mp3
+#EXTINF:-1 tvg-id="771d8288-4eaf-417e-8b44-22f848d98513" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_212519647.jpg?alt=media&token=837c27d8-56b1-4d0a-82b3-84a083c6c9b8" group-title="Uganda | Unknown region | Unknown city",Heart Xmas
+https://media-ssl.musicradio.com/HeartXmas
+#EXTINF:-1 tvg-id="19dfa3bc-a3b2-4ca6-b4fa-27f44439acc5" group-title="Uganda | Unknown region | Unknown city",HEART XMAS
+https://media-ssl.musicradio.com/HeartXmas
+#EXTINF:-1 tvg-id="72215094-2a4a-46ff-b100-8ce3419a86f4" group-title="Uganda | Unknown region | Unknown city",Heathafro FM
+http://stream.zeno.fm/rdf0qac95p8uv
+#EXTINF:-1 tvg-id="1d8be849-766f-46cc-baf1-5c06859eb272" tvg-logo="https://legenduganda.com/wp-content/uploads/2026/09/og-legenduganda.jpg" group-title="Uganda | Unknown region | Unknown city",Infinity Radio
+https://radio.legenduganda.com/live
+#EXTINF:-1 tvg-id="2ac30682-69d7-4edb-b35e-c1e4cef55cc4" group-title="Uganda | Unknown region | Unknown city",Isaiah Fm
+https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15
+#EXTINF:-1 tvg-id="c521102e-70cc-453a-8c33-8a2f363b0ac8" group-title="Uganda | Unknown region | Unknown city",ISLANDS FM
+http://radio.canstream.co.uk:8040/live.mp3
+#EXTINF:-1 tvg-id="d88313f5-5787-45d2-9a2e-beebbce0baa6" group-title="Uganda | Unknown region | Unknown city",ISLANDS FM
+http://radio.canstream.co.uk:8040/live.mp3
+#EXTINF:-1 tvg-id="128fa745-aacc-4549-9287-747055da8680" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_195321746.jpg?alt=media&token=8ae6cf4b-df9b-4f39-a63c-7df469c553d5" group-title="Uganda | Unknown region | Unknown city",Islands FM
+http://radio.canstream.co.uk:8040/live.mp3
+#EXTINF:-1 tvg-id="cac3912c-50f8-4eb9-b001-e99a701a87e2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_151358444.jpg?alt=media&token=253d7a5f-64db-4d49-ab9c-de31c964a476" group-title="Uganda | Unknown region | Unknown city",Jembe Fm
+https://cast3.asurahosting.com/proxy/jembemed/stream
+#EXTINF:-1 tvg-id="0886be7e-39cd-4d9d-b7bd-322686320f7a" group-title="Uganda | Unknown region | Unknown city",Jesus radio
+https://streaming.radio.co/s1dc8ab02e/listen
+#EXTINF:-1 tvg-id="95d63786-c406-4d85-a4c5-b147b5db2c34" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_230035014.jpg?alt=media&token=306a3ca9-44ca-4e12-9b09-4839bb92b594" group-title="Uganda | Unknown region | Unknown city",Jewish Music
+https://stream.jewishmusicstream.com:8000/
+#EXTINF:-1 tvg-id="6f300f52-4fa2-4334-9d8b-4d39433819c3" tvg-logo="https://jewishmusicstream.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Jewish music channel
+https://stream.jewishmusicstream.com:8000/
+#EXTINF:-1 tvg-id="645ed42e-36d8-4b29-ba28-7c1d8a89f1df" group-title="Uganda | Unknown region | Unknown city",JOY HITS
+http://joyhits.online/joyhitshq.mp3
+#EXTINF:-1 tvg-id="280f4391-ce9d-4a95-a545-5f97c7b3b005" group-title="Uganda | Unknown region | Unknown city",JOY HITS
+http://joyhits.online/joyhitshq.mp3
+#EXTINF:-1 tvg-id="63d01766-32fa-4d0c-bfb0-c34c4b4aed18" group-title="Uganda | Unknown region | Unknown city",Joy hits channel
+http://joyhits.online/joyhitshq.mp3
+#EXTINF:-1 tvg-id="c05cd429-6174-4d5f-b7d2-7b074776739a" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_202923128.jpg?alt=media&token=4e25b607-a300-40eb-a003-95509334174d" group-title="Uganda | Unknown region | Unknown city",Joy Hits Radio
+http://joyhits.online/joyhitshq.mp3
+#EXTINF:-1 tvg-id="27cb1326-b3e5-46d8-8a3d-7c2b7cf4f6d7" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",JOY HITS RADIO
+http://joyhits.online/joyhitshq.mp3
+#EXTINF:-1 tvg-id="817318e5-0042-4603-b997-f155185ac011" group-title="Uganda | Unknown region | Unknown city",Jubilee Radio - Fort Portal - 105.6 FM (MP3)
+http://stream.zeno.fm/f3y3up2k07zuv
+#EXTINF:-1 tvg-id="0a84213c-3e7e-418b-b9ec-267746d3bcdc" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",KABOOZI FM
+http://162.244.80.52:8732/stream.mp3
+#EXTINF:-1 tvg-id="cf85db3d-92c3-4503-b74c-6fa67731927c" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_204555094.jpg?alt=media&token=17f7df0f-f5f4-4357-92ff-e197cb3e16b8" group-title="Uganda | Unknown region | Unknown city",KCF
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="009174d2-2430-4ba4-a4b4-ae04a143b744" group-title="Uganda | Unknown region | Unknown city",Kiira FM 88.6 - Jinja - 88.6 FM (MP3)
+http://stream.zeno.fm/iydttapi8rguv
+#EXTINF:-1 tvg-id="7f6141d2-e175-4ea7-a9a6-19c21becf431" group-title="Uganda | Unknown region | Unknown city",Kitintale Christian Fellowship
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="4430fbaf-be80-4f9a-aa57-26f6ba7fcae5" tvg-logo="https://www.rovers.co.uk/favicon/apple-touch-icon.png" group-title="Uganda | Unknown region | Unknown city",KITINTALE CHRISTIAN FELLOWSHIP
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="891e11a9-4c60-4f72-98c6-f2b1002535c6" group-title="Uganda | Unknown region | Unknown city",Kitintale Christian Fellowship
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="ea3a0843-30e1-4965-9e29-0af8390b0029" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",KITINTALE CHRISTIAN FELLOWSHIP
+https://c24.radioboss.fm:18185/stream
+#EXTINF:-1 tvg-id="82b790e8-678a-4d74-b1a3-067e0e01ac65" group-title="Uganda | Unknown region | Unknown city",Kyoga Veritas Radio - Soroti - 91.5 FM (MP3)
+http://stream.zeno.fm/hyyzuphrsg0uv
+#EXTINF:-1 tvg-id="f9a04abe-34c3-45b1-ae33-eb81337d80c8" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_210815114.jpg?alt=media&token=0ff1d1d8-0087-4c85-8dca-3a7d290619a7" group-title="Uganda | Unknown region | Unknown city",LBC News
+http://media-ice.musicradio.com/LBCUK
+#EXTINF:-1 tvg-id="cf7475cf-95c6-4244-b585-ae1793a9ccef" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_210815114.jpg?alt=media&token=0ff1d1d8-0087-4c85-8dca-3a7d290619a7" group-title="Uganda | Unknown region | Unknown city",LBC News
+http://media-ice.musicradio.com/LBCUK
+#EXTINF:-1 tvg-id="6494c2db-51b0-4ef8-8669-011c1610a8de" group-title="Uganda | Unknown region | Unknown city",LBC RADIO
+http://media-ice.musicradio.com/LBCUK
+#EXTINF:-1 tvg-id="30e2f2b4-0f85-482d-ba59-4ea85a679096" group-title="Uganda | Unknown region | Unknown city",Mello fm Jamaica
+http://peridot.streamguys.com:5660/live
+#EXTINF:-1 tvg-id="def5ace6-d0c2-4177-b7d0-ab0e562549f7" group-title="Uganda | Unknown region | Unknown city",Music for kids
+http://air.radioart.com/fMusic_for_kids.mp3
+#EXTINF:-1 tvg-id="e36585c4-faa3-4ead-9137-8805e924ce56" tvg-logo="https://www.iheart.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",NBC NEWS
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="50eab176-94d5-4298-a97b-f2aa2164e757" tvg-logo="https://www.iheart.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",NBC News Channel
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="9eacd0ad-c01c-4bd4-8f9b-65e3a9db23f5" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",NBC NEWS RADIO
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="21cc63f7-2962-4342-8afc-d7904d514d4b" group-title="Uganda | Unknown region | Unknown city",NBC News Radio
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="4749419a-1659-4f37-92f1-5ab145605f7d" tvg-logo="https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/nbcnews/all-other-sizes-png.ico/apple-icon-120x120.png" group-title="Uganda | Unknown region | Unknown city",NBC News Radio
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="d2b59e3a-2bda-44c5-8952-0f521e183c7c" tvg-logo="https://www.iheart.com/static/assets/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Nbc Radio News us
+http://stream.revma.ihrhls.com/zc6043
+#EXTINF:-1 tvg-id="fcab4b3f-fecb-4c7d-964b-3f7b8d6a46b8" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",NEXT RADIO UG
+https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw
+#EXTINF:-1 tvg-id="e4dd5b57-dbd4-4db8-b412-0983ab617aa7" tvg-logo="https://www.nrgug.radio/nrg-logo-red.png" group-title="Uganda | Unknown region | Unknown city",NRG Radio Uganda
+https://dc4.serverse.com/proxy/nrgugstream/stream
+#EXTINF:-1 tvg-id="eb834901-7099-459d-b1a5-21160d22691b" group-title="Uganda | Unknown region | Unknown city",old Christmas hit channel
+http://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy
+#EXTINF:-1 tvg-id="1ff2e73e-a58a-48cb-b3bc-996962b3a07e" tvg-logo="https://ilikeitoldskool.co.uk/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Old School Music
+https://ilikeitoldskool.radioca.st/stream
+#EXTINF:-1 tvg-id="7985c041-95a9-4e81-9f49-12ec8004582c" group-title="Uganda | Unknown region | Unknown city",Open Gate FM 103.2
+https://139.162.195.139:8010/radio.mp3?1722393699669
+#EXTINF:-1 tvg-id="326bdf4e-4fdc-452a-a302-fbffb552c2e1" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",PEARL FM
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1 tvg-id="b810ec6d-41fc-46bf-8aa0-59d7552103fb" group-title="Uganda | Unknown region | Unknown city",PEARL FM
+https://dc4.serverse.com/proxy/pearlfm/stream/1/
+#EXTINF:-1 tvg-id="5874f5a0-0d01-40f5-8551-1350fa242e2c" group-title="Uganda | Unknown region | Unknown city",Prayer Alter Radio
+https://node-33.zeno.fm/1gfmyttkephvv
+#EXTINF:-1 tvg-id="4125a4a9-a020-49c6-98b3-a57f6e151ae6" group-title="Uganda | Unknown region | Unknown city",Prayer Tower Radio (MP3)
+http://stream.zeno.fm/ymapb78yznhvv
+#EXTINF:-1 tvg-id="d00afaf3-847d-40e0-b306-55a4a41ba1a7" group-title="Uganda | Unknown region | Unknown city",PREMIER LEAGUE
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="9f897e16-14f1-470f-8f38-d0ddef347348" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_190723465.jpg?alt=media&token=ae283b5c-79d5-4be5-8c7c-d68b6808171d" group-title="Uganda | Unknown region | Unknown city",Premier League Live
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="f47fbfc1-445a-4c31-afc1-4098d4e7591b" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_204047302.jpg?alt=media&token=9d8e2663-8120-40bb-adfc-3961ba0abf43" group-title="Uganda | Unknown region | Unknown city",Premier League Live
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="0102d9a6-24c7-4491-87ae-e84a879b9ed9" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_190723465.jpg?alt=media&token=ae283b5c-79d5-4be5-8c7c-d68b6808171d" group-title="Uganda | Unknown region | Unknown city",Premier League Live
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="85cd3229-0617-45ad-9b20-7b94f8a608d3" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240205_210129856.jpg?alt=media&token=d3eb6e99-47bc-450e-91fa-b99e0370e06a" group-title="Uganda | Unknown region | Unknown city",Progressive Radio Network
+http://216.55.165.146:8000/;
+#EXTINF:-1 tvg-id="b373c525-6b58-44b5-bfdd-88b399924027" tvg-logo="https://i.ibb.co/YFBWs4tp/images-1.jpg" group-title="Uganda | Unknown region | Unknown city",Promise Radio UG (MP3)
+http://stream.zeno.fm/hkzgeqlcjoxuv
+#EXTINF:-1 tvg-id="47c5d187-c296-477f-ab26-a548327a436b" group-title="Uganda | Unknown region | Unknown city",Radio Benediction Dominican
+https://samuel.i-radio.co:9000/radiobendicion
+#EXTINF:-1 tvg-id="4bfdc6b3-d0dd-41c6-8f3e-da986b89ab42" group-title="Uganda | Unknown region | Unknown city",RADIO BUDDU
+https://dc4.serverse.com/proxy/ccmxrgub/stream
+#EXTINF:-1 tvg-id="ec2b2a99-231e-41db-98db-a0223ee54b9c" tvg-logo="https://www.radiobuddufm.com/images/logom.png" group-title="Uganda | Unknown region | Unknown city",Radio Buddu
+https://dc4.serverse.com/proxy/ccmxrgub/stream?
+#EXTINF:-1 tvg-id="488085ed-1bb8-4c0f-a5a9-456c37763566" group-title="Uganda | Unknown region | Unknown city",RADIO EAST NIGERIA
+http://stream.zeno.fm/7f4w4us5wp8uv
+#EXTINF:-1 tvg-id="1b5ab69d-b35b-4481-bba7-d25d21845276" group-title="Uganda | Unknown region | Unknown city",Radio for Jesus
+http://s2.stationplaylist.com:7132/listen.aac
+#EXTINF:-1 tvg-id="9bebf0ac-9715-48e4-afeb-1fa3060ef272" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",RADIO MARIA UG
+http://dreamsiteradiocp.com:8052/stream
+#EXTINF:-1 tvg-id="488ec719-5aaa-11e9-a622-52543be04c81" group-title="Uganda | Unknown region | Unknown city",RADIO MARIA UGANDA
+http://dreamsiteradiocp.com:8052/stream
+#EXTINF:-1 tvg-id="9ffd7514-92bd-4a7b-9a93-383c2659cc21" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240201_175336188.jpg?alt=media&token=3d347a3d-d4e8-4468-9304-1922c57af678" group-title="Uganda | Unknown region | Unknown city",Radio One
+http://162.244.80.52:8740/stream
+#EXTINF:-1 tvg-id="c5db7864-b093-4844-8e0b-d63885cb0a79" group-title="Uganda | Unknown region | Unknown city",Radio one
+http://162.244.80.52:8740/stream
+#EXTINF:-1 tvg-id="503f2564-892a-4e57-ac92-581e1b3a36cb" tvg-logo="https://www.radiopacis.org/wp-content/uploads/2025/11/logo_ris.jpg" group-title="Uganda | Unknown region | Unknown city",Radio Pacis
+http://148.251.43.231:8308/stream
+#EXTINF:-1 tvg-id="f5894eb9-7648-433f-bff1-26730c266301" group-title="Uganda | Unknown region | Unknown city",Radio Pacis 90.9
+https://radiopacisuganda.radioca.st/stream
+#EXTINF:-1 tvg-id="cd65e926-2cf2-45ed-8b29-319b274716e7" tvg-logo="https://www.radiopacis.org/wp-content/uploads/2025/11/logo_ris.jpg" group-title="Uganda | Unknown region | Unknown city",Radio Pacis 94.5
+http://136.243.44.41:8182/stream
+#EXTINF:-1 tvg-id="c3353e1b-9ad1-41aa-957a-99307144808a" group-title="Uganda | Unknown region | Unknown city",Rafa radio music
+https://gains.reviveradio.net/proxy/rafaradio?mp=/stream
+#EXTINF:-1 tvg-id="1ca644e3-2510-49d6-aedd-aae830379869" group-title="Uganda | Unknown region | Unknown city",RFI Kiswahili
+https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3
+#EXTINF:-1 tvg-id="55ba01aa-cf79-4f63-99b0-cf7730101caf" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240130_210746225.jpg?alt=media&token=6f04f020-4c9f-442a-b605-3dac29a4190f" group-title="Uganda | Unknown region | Unknown city",RFI Kiswahili
+https://rfiswahili96k.ice.infomaniak.ch/rfiswahili-96k.mp3
+#EXTINF:-1 tvg-id="b488abb8-5597-4831-9681-2614e1f2904c" tvg-logo="https://static.wixstatic.com/media/d258bf_9ee2ce20728d4cf48214cf55c12914de~mv2.png/v1/crop/x_0,y_168,w_600,h_278/fill/w_140,h_67,al_c,q_85,usm_0.66_1.00_0.01/reckless%20logo%20black%20clear.webp" group-title="Uganda | Unknown region | Unknown city",RX Radio
+https://c14.radioboss.fm:18223/stream?1615807421100=
+#EXTINF:-1 tvg-id="fa8609da-7b19-4945-a2aa-d6a8d15f8a85" group-title="Uganda | Unknown region | Unknown city",SANCTUARY FM
+http://stream.zeno.fm/vyx334hsbphvv
+#EXTINF:-1 tvg-id="70a2e2cc-35ae-4e6e-ae74-597162376e6c" group-title="Uganda | Unknown region | Unknown city",SANCTUARY FM
+http://stream.zeno.fm/vyx334hsbphvv
+#EXTINF:-1 tvg-id="49f409da-6ddb-43cd-80ff-af069a032d42" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",SANYU FM
+http://s44.myradiostream.com:8138/stream
+#EXTINF:-1 tvg-id="7658ace6-1eea-4898-9107-cbf276ba98c4" group-title="Uganda | Unknown region | Unknown city",SANYU FM
+http://s44.myradiostream.com:8138/stream
+#EXTINF:-1 tvg-id="97ef6ea6-b8c1-40a4-894c-e38e87f29e46" group-title="Uganda | Unknown region | Unknown city",Sanyu Fm
+http://s44.myradiostream.com:8138/stream
+#EXTINF:-1 tvg-id="d11397f3-e225-42bb-bcf1-56062c8872eb" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_205746155.jpg?alt=media&token=e26f2a82-6e06-41a3-ab8b-2cdd6522c0a8" group-title="Uganda | Unknown region | Unknown city",SBN
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="8717deac-6996-42f1-8fac-108a5d0a082d" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_205825879.jpg?alt=media&token=1908e38e-b70a-431d-9853-dc4002d6b5f0" group-title="Uganda | Unknown region | Unknown city",SBN
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="052ab8f4-e377-4a80-9b39-de46ad5c0625" group-title="Uganda | Unknown region | Unknown city",Scripture for America
+http://67.225.254.37:5530/
+#EXTINF:-1 tvg-id="c3966fa1-6b62-43a8-b60b-6d592a9d1ba3" group-title="Uganda | Unknown region | Unknown city",SDA Missions radio
+https://stream-57.zeno.fm/mkkr2bcgkf9uv
+#EXTINF:-1 tvg-id="b8476825-d0a0-4284-b811-ad54e4f5b331" group-title="Uganda | Unknown region | Unknown city",SDA Radio
+https://usa18.fastcast4u.com/proxy/loudcrymedia6?mp=/1
+#EXTINF:-1 tvg-id="69164a4d-b780-46b6-8c71-29f95fa3d005" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240812_020755669.jpg?alt=media&token=5a0eb8e0-4939-40d5-ae2e-12ffcfca5c32" group-title="Uganda | Unknown region | Unknown city",SEN Sports
+http://13.54.221.214:8000/sen.mp3
+#EXTINF:-1 tvg-id="4ff383c3-daaa-42b7-85b4-4b7b1c7627d1" group-title="Uganda | Unknown region | Unknown city",Shalom Radio Jinja (MP3)
+http://stream.zeno.fm/rvnov6bmdhsvv
+#EXTINF:-1 tvg-id="b231113f-2c90-441d-9f7d-67fcca003bf8" tvg-logo="https://images.zeno.fm/GUt5TDjhdYkQGV2xE7zHtzM9WqxXdzmWkj6fO5Aoob8/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zLzYxNjc2NTg1LTMzMWYtNDVhNy05YmMxLTEwYWFmOWQ2ZDAyMi9pbWFnZS8_dXBkYXRlZD0xNjkxMTUxMDU3MDAw.webp" group-title="Uganda | Unknown region | Unknown city",Shalom Radio Jinja (MP3)
+http://stream.zeno.fm/rvnov6bmdhsvv
+#EXTINF:-1 tvg-id="2b9f107c-8a62-44c5-84bf-0d99ba8a50a3" group-title="Uganda | Unknown region | Unknown city",Sky News
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 tvg-id="c6e7bf72-3dcf-400c-97ef-08f7eb258f7f" group-title="Uganda | Unknown region | Unknown city",Sky News
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 tvg-id="a40fcfd1-f3c9-4a8d-b982-710da9bc593d" tvg-logo="https://news.sky.com/resources/apple-touch-icon-180x180.png?v&#x3d;2" group-title="Uganda | Unknown region | Unknown city",SKY NEWS
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 tvg-id="d231d5f8-bcd8-43bb-bf79-29206581eeb3" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",SKY NEWS UK
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 tvg-id="0768a7e2-6d99-4421-b84e-fab0a6de8597" group-title="Uganda | Unknown region | Unknown city",SKYNET FM
+https://stream-44.zeno.fm/1uhqawtfk5zuv
+#EXTINF:-1 tvg-id="de087846-93cc-4b5c-8941-ac17910ac19c" group-title="Uganda | Unknown region | Unknown city",Skynet Radio
+https://stream-44.zeno.fm/1uhqawtfk5zuv
+#EXTINF:-1 tvg-id="92cd5788-7550-4b4a-b06a-65121c129a40" tvg-logo="https://news.sky.com/resources/apple-touch-icon-180x180.png?v&#x3d;2" group-title="Uganda | Unknown region | Unknown city",Skynews Radio
+https://video.news.sky.com/snr/news/snrnews.mp3
+#EXTINF:-1 tvg-id="00a75b7b-44a9-4176-a52a-a1eda110c91c" group-title="Uganda | Unknown region | Unknown city",Smooth
+http://media-the.musicradio.com/SmoothLondonMP3
+#EXTINF:-1 tvg-id="34882f12-3548-4ca0-8c4a-133c10ef6c30" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240129_123029212.jpg?alt=media&token=1959e0e1-bcae-4640-af7f-c42e45c86f43" group-title="Uganda | Unknown region | Unknown city",Smooth Chill
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1 tvg-id="aa0d46b1-2c6e-44b8-9654-7f8fa756213c" tvg-logo="https://media-ssl.musicradio.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Smooth chill
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1 tvg-id="f20b23cc-b795-4b50-a954-87edd2fb6bb8" tvg-logo="https://media-ssl.musicradio.com/favicon.ico" group-title="Uganda | Unknown region | Unknown city",Smooth country
+https://media-ssl.musicradio.com/SmoothCountry
+#EXTINF:-1 tvg-id="e641f600-1e26-45d8-8160-35f3cee69617" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_040214635.jpg?alt=media&token=0cac8bfa-0356-473a-88b3-7851f3d3be6c" group-title="Uganda | Unknown region | Unknown city",Smooth Country
+https://media-ssl.musicradio.com/SmoothCountry
+#EXTINF:-1 tvg-id="c3ef6bb9-d7d3-4679-952d-55c87e8e1f32" group-title="Uganda | Unknown region | Unknown city",SMOOTH FM
+http://media-the.musicradio.com/SmoothLondonMP3
+#EXTINF:-1 tvg-id="192e00d6-6b8f-4d16-82b1-bda3e80638a5" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_220647011.jpg?alt=media&token=1e224c71-df0a-40ea-9d54-0a76e133bd47" group-title="Uganda | Unknown region | Unknown city",Smooth Radio
+http://media-the.musicradio.com/SmoothEastMids
+#EXTINF:-1 tvg-id="270342d1-157a-466e-9a1c-fdbb1427a463" group-title="Uganda | Unknown region | Unknown city",Smooth Radio
+http://media-the.musicradio.com/SmoothEastMids
+#EXTINF:-1 tvg-id="55281986-5bd4-46f5-8dc8-b16a935a2950" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",SMOOTH RADIO UK
+http://media-the.musicradio.com/SmoothEastMids
+#EXTINF:-1 tvg-id="bc7b9c09-86b4-4e91-a401-63421f7ce007" group-title="Uganda | Unknown region | Unknown city",SNB
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="0bf699ea-69df-42dc-a28b-bff7cf50c8c1" group-title="Uganda | Unknown region | Unknown city",Son Life radio
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="4929b9d5-f267-4222-8265-ef60d908eafd" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",SONLIFE BROADCASTING NETWORK
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="8b12afb6-e431-404d-9dfc-29876f3c1560" group-title="Uganda | Unknown region | Unknown city",Sonlife Broadcasting Network
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="25ebd9cb-f113-46e5-910d-d20266d14e0c" group-title="Uganda | Unknown region | Unknown city",Sonlife Broadcasting Network
+https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8
+#EXTINF:-1 tvg-id="fab35130-01cf-4d1b-b415-0f851c80f30c" group-title="Uganda | Unknown region | Unknown city",SONLIFE RADIO
+https://live.radio.sonlife.olympusatmedia.com/index.m3u8
+#EXTINF:-1 tvg-id="4a85fcc1-f668-4b01-8cc9-1f86cf6d288f" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240313_132240010.jpg?alt=media&token=31895445-a648-435e-af5e-a3470e0b1851" group-title="Uganda | Unknown region | Unknown city",Sonlife Radio
+https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_5F46D0A41C/playlist-eng.m3u8
+#EXTINF:-1 tvg-id="c0dbdd6a-75ef-4e9b-8460-3f180957f2a2" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_042200676.jpg?alt=media&token=4c28f790-ffe6-4120-9e78-610412ef61be" group-title="Uganda | Unknown region | Unknown city",Sound City
+http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu
+#EXTINF:-1 tvg-id="a90e506d-46c8-4e39-be7e-8f5b9118604d" group-title="Uganda | Unknown region | Unknown city",Sport Fm
+http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA
+#EXTINF:-1 tvg-id="eba25e96-7529-4b7b-a9a8-279b8270a837" group-title="Uganda | Unknown region | Unknown city",Sport Fm
+http://n0b.radiojar.com/yb7bcbkfewzuv?rj-ttl=5&rj-tok=AAABhE8OfscAWLZ-gC5hhZqxPA
+#EXTINF:-1 tvg-id="4cfa9db9-b17e-42bd-afe9-66ade5257499" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240501_222002653.jpg?alt=media&token=1d08839c-4f50-4eb6-919d-bbcf2769471c" group-title="Uganda | Unknown region | Unknown city",Sport Live
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="e0e000de-835f-4673-8783-ab3abf4ac57b" tvg-logo="https://play-lh.googleusercontent.com/QCubFoSjKzUtPRKNacVo11rDcgqdsIeG2dNMLdGy5i9ywl4Cr41DuhD50ioMqtxzLPsyjhD4ox7cIybhnBSgWBk=w240-h480-rw" group-title="Uganda | Unknown region | Unknown city",StreamUG Radio
+https://c22.radioboss.fm:8814/stream
+#EXTINF:-1 tvg-id="dca494bc-caf7-4cb3-a0ff-9f8549d34f14" tvg-logo="https://images.zeno.fm/psoaqXYCmiMezzEGvnQMZ79oLFbyP29TsIyimZh13E8/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURnck92Y2tRa01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURReUplSnh3b01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NjE2NzcxNjUwMDA.webp" group-title="Uganda | Unknown region | Unknown city",Street Deejays Radio - Mbarara (MP3)
+http://stream.zeno.fm/nbwdnxz7na0uv
+#EXTINF:-1 tvg-id="1ac672b1-b175-4b8e-88ef-1c8d1dd21f6f" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",TALK RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3
+#EXTINF:-1 tvg-id="047aeeee-1e05-40c6-858a-784e4b057186" group-title="Uganda | Unknown region | Unknown city",TALKRADIO
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 tvg-id="97fc8f85-c738-4c8e-85f7-2c3e03a59d4d" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",talkRADIO
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 tvg-id="4707b711-5868-4622-86da-2d5744527229" group-title="Uganda | Unknown region | Unknown city",talkRADIO
+https://radio.talkradio.co.uk/stream
+#EXTINF:-1 tvg-id="6a63acd1-45bc-41a0-b17c-1a070a3fd448" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240128_221332767.jpg?alt=media&token=575d1747-a7e3-49ce-979f-01709ab1d256" group-title="Uganda | Unknown region | Unknown city",talkRADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3
+#EXTINF:-1 tvg-id="1be568e5-2662-43ae-a260-3f204244d6b9" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20241102_165602672.jpg?alt=media&token=e2a175e1-3810-4929-84e8-77833dbb5cfd" group-title="Uganda | Unknown region | Unknown city",Talksport
+https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957
+#EXTINF:-1 tvg-id="2c145b8b-da8a-414b-a081-5be1ee3c3e39" group-title="Uganda | Unknown region | Unknown city",TalkSport
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="a7f67ce6-da3a-489f-81bc-ef07946323e8" group-title="Uganda | Unknown region | Unknown city",TALKSPORT 1
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="ef8c3b90-771f-48a1-8967-ae9ddd4f9295" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240501_222002653.jpg?alt=media&token=1d08839c-4f50-4eb6-919d-bbcf2769471c" group-title="Uganda | Unknown region | Unknown city",TalkSport 1
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="4e7604ac-dcd1-462e-aa9e-dea4fcc32bdb" tvg-logo="https://www.arsenal.com/themes/custom/arsenal_main/images/apple-touch-icon-120x120.png" group-title="Uganda | Unknown region | Unknown city",Talksport Premier League
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="31eca474-0908-4278-bac4-51bc1d2ea82b" tvg-logo="https://www.premierleague.com/resources/rebrand/v7.133.3/i/favicon/favicon-128.png" group-title="Uganda | Unknown region | Unknown city",Talksport Premier League
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="61303ac9-56d6-4b75-90e0-17fcc66d274b" tvg-logo="https://static.flashscore.com/res/_fs/image/4_favicons/_mobi/touch-icon-180x180.png?v=8" group-title="Uganda | Unknown region | Unknown city",Talksport Premier League
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="332dea4e-6bd1-441d-87ea-20741495a73b" tvg-logo="https://www.manutd.com/assets/images/favicons/apple-touch-icon.png" group-title="Uganda | Unknown region | Unknown city",Talksport Premier League
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="18c3c67b-4b7d-401e-b9e1-07f4fc53e963" group-title="Uganda | Unknown region | Unknown city",Talksport Premier League
+https://radio.talksport.com/stream
+#EXTINF:-1 tvg-id="df2610b0-6642-486b-a437-4d7448225e5b" group-title="Uganda | Unknown region | Unknown city",Talksport Spanish
+http://live.talksport.com/channel1m-es
+#EXTINF:-1 tvg-id="9a493417-b690-4411-be2a-4e2e463b2a4a" group-title="Uganda | Unknown region | Unknown city",THROWBACK RADIO
+https://ilikeitoldskool.radioca.st/stream
+#EXTINF:-1 tvg-id="554e6b5c-4771-4310-8088-af8188533a7f" group-title="Uganda | Unknown region | Unknown city",Top Cristiano Dominican
+https://radio.dominiserver.com/proxy/topcristianoradio?mp=/stream
+#EXTINF:-1 tvg-id="80bd9deb-5dbd-45c6-9170-60de987c1414" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240930_012619395.jpg?alt=media&token=86610f52-533d-4579-afff-d1631237602b" group-title="Uganda | Unknown region | Unknown city",TOTAL SOUL RADIO
+https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
+#EXTINF:-1 tvg-id="c59d1daf-f8b4-4d72-a56c-af51667a80fc" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240903_073148457.jpg?alt=media&token=55f996a9-841a-494f-804a-63dbab90b018" group-title="Uganda | Unknown region | Unknown city",TOYAL SOUL RADIO
+https://onair7.xdevel.com/proxy/xautocloud_atvn_1069?mp=/;1/
+#EXTINF:-1 tvg-id="d8a39607-5d36-4ccf-a1cb-bff53ea3109a" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_043324215.jpg?alt=media&token=f234a106-84cf-4a3a-aa79-afcc92fa4813" group-title="Uganda | Unknown region | Unknown city",Trace Gospel
+https://c25.radioboss.fm:8130/4rm8tzo7qirtv
+#EXTINF:-1 tvg-id="19ddb20f-6c38-4e50-a809-64d22e60b336" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_041715699.jpg?alt=media&token=c31d04ca-d48f-4e05-b516-24db2673fe46" group-title="Uganda | Unknown region | Unknown city",Trace Urban
+http://hydra.cdnstream.com/1531_backup
+#EXTINF:-1 tvg-id="0be26bde-7676-4954-aa2a-dc34417a4979" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240317_041442262.jpg?alt=media&token=6b3702b5-225f-4eaa-af7e-b661d347b99f" group-title="Uganda | Unknown region | Unknown city",Trace Urban
+http://hydra.cdnstream.com/1531_backup
+#EXTINF:-1 tvg-id="a28761b5-835e-46b3-a302-1f7767466947" group-title="Uganda | Unknown region | Unknown city",Turn Radio
+http://stream.zeno.fm/cuejngegi8btv
+#EXTINF:-1 tvg-id="415fe488-d8bf-447d-9b6f-54df5d761bae" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Z0r_fTaC4st26J4Hvd9Z3RoI74nn5lQdEIfgsLNex2fovbiP1JQ8a0WLoq3PUz8UHLrsPMfvN7kg6o6CeEJAnUUBdYY2pL4-WZVc_cihQ2XvDy3Fza_VX3v8QRXvpKzoKB205xarDncSFp2TU2aSVSWbumg8sGyYjdoS1ZMKbu1_c-r7hiOKVniRhA/s1240/Turn-Radio.jpg" group-title="Uganda | Unknown region | Unknown city",Turn Radio
+http://stream.zeno.fm/cuejngegi8btv
+#EXTINF:-1 tvg-id="b455fce7-a75a-4ea4-b08b-ea5e6444392d" group-title="Uganda | Unknown region | Unknown city",Uganda DJs
+https://stream.zeno.fm/muzrp86994zuv
+#EXTINF:-1 tvg-id="3b91f21c-5a64-4b1d-a4fe-d618dde76d80" group-title="Uganda | Unknown region | Unknown city",US Local News
+http://usa8.fastcast4u.com:5168/1/
+#EXTINF:-1 tvg-id="ab375f36-01fe-4c00-87cb-6e92316d1265" group-title="Uganda | Unknown region | Unknown city",Voice of Kyankwanzi - Kiboga - 89.7 FM (MP3)
+http://stream.zeno.fm/eyzf4ddwqcmvv
+#EXTINF:-1 tvg-id="dd55ea71-1443-4764-b450-e1334e0db3a6" tvg-logo="https://vu.ac.ug/_nuxt/vu-radio-logo.DxA6imYj.png" group-title="Uganda | Unknown region | Unknown city",VU Radio
+https://s5.radio.co/sdf8bf7e2a/listen
+#EXTINF:-1 tvg-id="38cf5406-910e-4bd8-a618-dc5c99cb0740" tvg-logo="https://images.zeno.fm/WZoX_AarzsL-ubF-VgFKQu5HZqjWjRlRujPZmVvt53o/rs:fit:240:240/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNRNEthUjdBc01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNRa1AyamhRc01vZ0VFZW1WdWJ3L2ltYWdlLz91cGRhdGVkPTE2NTAxODg3MjQwMDA.webp" group-title="Uganda | Unknown region | Unknown city",Way To God Radio (MP3)
+http://stream.zeno.fm/g876nxxz8vzuv

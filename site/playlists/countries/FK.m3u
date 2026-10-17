@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="873e8220-51cd-43ca-96bd-6dcd09ecc884" tvg-logo="https://media.info/l/o/5/5.1647094643.png" group-title="The Falkland Islands Malvinas | stanley | Unknown city",BFBS Falklands
+https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs6.aac
+#EXTINF:-1 tvg-id="97887f52-540f-409e-a625-967e4698d829" group-title="The Falkland Islands Malvinas | Unknown region | Stanley",Falklands Radio 530 Stanley
+https://streaming.broadcastradio.com:8332/flklnd
+#EXTINF:-1 tvg-id="6cad9579-17eb-45a4-a885-562a28824029" group-title="The Falkland Islands Malvinas | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="a170dccb-c40f-11e9-8502-52543be04c81" group-title="The Falkland Islands Malvinas | Unknown region | Unknown city",Falklands Radio
+http://streaming.broadcastradio.com:8330/flklnd
+#EXTINF:-1 tvg-id="c7571d24-b6b2-43f4-b9ba-2e42a1cbc45e" tvg-logo="https://api.broadcast.radio/api/image/464937d5-67d8-42e7-886c-426239fa26dd.png?g=center" group-title="The Falkland Islands Malvinas | Unknown region | Unknown city",Falklands Radio
+https://streaming.broadcastradio.com:8332/flklnd?1721893143541=

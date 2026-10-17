@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ca5129a8-43b7-4c2d-882f-83c412265358" tvg-logo="https://yellow.radio/logo-yellow.radio.jaune.png" group-title="Monaco | Monaco | Monaco-Ville",Yellow.radio
+https://yellowradio.ice.infomaniak.ch/yellowradio.mp3
+#EXTINF:-1 tvg-id="469a80f5-755e-11e9-af37-52543be04c81" group-title="Monaco | Monte Carlo | Unknown city",Radio Monte Carlo Italia
+https://icy.unitedradio.it/rmcweb005
+#EXTINF:-1 tvg-id="26f9775d-ff1c-4ea7-9613-341739edd3a5" group-title="Monaco | Municipality of Monaco | Fontvieille",Yellow Party
+https://yellowradio.ice.infomaniak.ch/yellow02.aac
+#EXTINF:-1 tvg-id="6bb794f1-cdae-401b-9094-8fd1c91e9137" group-title="Monaco | Municipality of Monaco | Monaco-Ville",Yellow Riviera
+https://yellowradio.ice.infomaniak.ch/yellow01.mp3
+#EXTINF:-1 tvg-id="cd1cabc8-9405-459b-b527-8264708a5618" group-title="Monaco | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="ff9d91cd-6163-42d8-8937-ab310f8f4454" tvg-logo="https://media-ssl.musicradio.com/favicon.ico" group-title="Monaco | Unknown region | Unknown city",chilli moje
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1 tvg-id="712055c8-ef83-46fd-ab73-371b9f9db9cb" tvg-logo="https://media-ssl.musicradio.com/favicon.ico" group-title="Monaco | Unknown region | Unknown city",chilli moje
+https://media-ssl.musicradio.com/ChillMP3
+#EXTINF:-1 tvg-id="960d75a0-0601-11e8-ae97-52543be04c81" group-title="Monaco | Unknown region | Unknown city",Radio Monaco 98.2
+http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3
+#EXTINF:-1 tvg-id="346d36f4-497a-11e8-b1b0-52543be04c81" group-title="Monaco | Unknown region | Unknown city",Radio Monte Carlo
+http://edge.radiomontecarlo.net/RMC.mp3
+#EXTINF:-1 tvg-id="3f68c6ee-6b03-45e9-a3b7-0118518fd2db" tvg-logo="https://www.rivieraradio.mc/favicon-96x96.png" group-title="Monaco | Unknown region | Unknown city",Riviera Radio
+https://media-ice.musicradio.com/RivieraRadio
+#EXTINF:-1 tvg-id="ed0a3d3d-7d7b-4ac6-85e0-ee7f524bf8e2" group-title="Monaco | Unknown region | Unknown city",Yellow Party
+https://yellowradio.ice.infomaniak.ch/yellow02.aac

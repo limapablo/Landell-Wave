@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3b76e46f-66e0-4694-9627-9ed8bdc9d25e" group-title="Trinidad And Tobago | Deutschland (Germany) | Rio Claro",BurningSoca:
+http://176.9.121.230:8000/soca
+#EXTINF:-1 tvg-id="91f612a6-ea55-47c1-8eba-ddf997321bdf" group-title="Trinidad And Tobago | Petit Valley | Petit Valley",Woods Hit Radio AC
+https://cast4.asurahosting.com/proxy/nigel/stream
+#EXTINF:-1 tvg-id="1c7b2753-6600-491c-9534-00ccc43d3471" group-title="Trinidad And Tobago | Port of Spain | Mucurapo",Scorch Radio 101.1FM
+https://stream.velalabs.co/scorch
+#EXTINF:-1 tvg-id="83df748f-89e6-4f38-8d40-4d2b97ca4bca" tvg-logo="https://www.musicradio97.com/favicon.ico" group-title="Trinidad And Tobago | Port of Spain | Port of Spain",Music Radio 97.1 FM
+https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988
+#EXTINF:-1 tvg-id="3e3982a4-84cd-488c-ad88-d78403a76f05" tvg-logo="https://ojoworldtt.com/wp-content/uploads/2019/10/logo.png" group-title="Trinidad And Tobago | Port of Spain | Port of Spain",Star 94.7
+https://fms.ttrn.org/live/star947.sdp/chunklist_w2060647527.m3u8
+#EXTINF:-1 tvg-id="cc80eeff-a65e-4411-ac33-5334bad1ad5c" group-title="Trinidad And Tobago | Port of Spain | Unknown city",Isaac 98.1fm
+https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15
+#EXTINF:-1 tvg-id="96300267-0601-11e8-ae97-52543be04c81" group-title="Trinidad And Tobago | Tobago | Unknown city",Radio Tambrin 92.7 - Scarborough
+http://ice42.securenetsystems.net/TAMBRIN
+#EXTINF:-1 tvg-id="c9198b22-c988-49fc-bfef-912ecd2e022f" group-title="Trinidad And Tobago | Unknown region | Unknown city",102.1 Trinidad
+http://psn3.prostreaming.net:8310/;
+#EXTINF:-1 tvg-id="641758a4-03d6-474c-81a4-cfb0be6967c1" group-title="Trinidad And Tobago | Unknown region | Unknown city",103.1 FM Trinidad
+http://psn3.prostreaming.net:8310/;
+#EXTINF:-1 tvg-id="92900a11-a316-4b8b-9439-db1105f411a3" tvg-logo="https://tbcradionetwork.co.tt/95theultimateone/wp-content/uploads/sites/3/2022/03/cropped-951-Logo-Color-Glow-80x53.png" group-title="Trinidad And Tobago | Unknown region | Unknown city",95 the ultimate one
+https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen
+#EXTINF:-1 tvg-id="9852fe68-357c-4b91-9979-a297f6a49230" group-title="Trinidad And Tobago | Unknown region | Unknown city",95.1 Remix live
+https://audio-edge-vqwx4.yyz.g.radiomast.io/68540e88-54b8-4924-b098-5a668f7da7b6
+#EXTINF:-1 tvg-id="b2e42458-3813-4feb-9e8a-7e37ca3aa867" group-title="Trinidad And Tobago | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="6b8f5271-cd87-40eb-97e9-06790435af4f" tvg-logo="https://bacchanal-radio.com/wp-content/uploads/2021/04/cropped-IMG-1504.JPG-150x150.png" group-title="Trinidad And Tobago | Unknown region | Unknown city",Bacchanal Radio
+https://c13.radioboss.fm:18470/stream
+#EXTINF:-1 tvg-id="238407a3-5642-4bac-8e22-610225383985" tvg-logo="https://i0.wp.com/boomchampionstt.com/wp-content/uploads/2022/01/cropped-94fav.jpg" group-title="Trinidad And Tobago | Unknown region | Unknown city",BOOM 94FM
+https://s8.yesstreaming.net:17103/stream
+#EXTINF:-1 tvg-id="a3380a03-ef0d-4f80-802e-52bdaf5bb334" tvg-logo="https://www.fullycatholic.com/wp-content/uploads/Fully-Catholic-Radio-Logo-NEW-w-Headset-1.png" group-title="Trinidad And Tobago | Unknown region | Unknown city",Fully Catholic Radio
+https://usa10.fastcast4u.com/fullycat2?x=1740578197868
+#EXTINF:-1 tvg-id="963217f7-0601-11e8-ae97-52543be04c81" group-title="Trinidad And Tobago | Unknown region | Unknown city",Hot 93 - 93.5 - Port of Spain
+http://ice41.securenetsystems.net/HOTT93
+#EXTINF:-1 tvg-id="f2fee0e8-10d3-423f-acad-7c1d9a0d8710" tvg-logo="https://i0.wp.com/lit102fm.com/wp-content/uploads/2021/05/lit-logo-500x500-1.png?w=500&ssl=1" group-title="Trinidad And Tobago | Unknown region | Unknown city",LIT 102.3FM
+https://s8.yesstreaming.net:17106/stream
+#EXTINF:-1 tvg-id="5cf8f2bd-65db-46dc-b6e3-d4f28dbc2640" group-title="Trinidad And Tobago | Unknown region | Unknown city",Sangee 106.1 fm
+https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1 tvg-id="7a8aa71d-812f-4cd6-aec2-85dc52e9c50c" group-title="Trinidad And Tobago | Unknown region | Unknown city",Sangeet Fm
+https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1 tvg-id="8c0dab72-4ee5-4530-b91f-683cc65db155" group-title="Trinidad And Tobago | Unknown region | Unknown city",Sangeet fm
+https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809
+#EXTINF:-1 tvg-id="31384b28-8b42-4838-aa46-b8f57e570603" tvg-logo="https://firebasestorage.googleapis.com/v0/b/radiogalaxy-580f4.appspot.com/o/images%2FIMG_20240426_002405318.jpg?alt=media&token=93055922-497c-4979-b456-0ad25123152c" group-title="Trinidad And Tobago | Unknown region | Unknown city",Slam 100.5
+https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen
+#EXTINF:-1 tvg-id="8efb1ac0-474f-4cb5-bfb0-b31d3bc145d0" group-title="Trinidad And Tobago | Unknown region | Unknown city",Slam 100.5
+https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen
+#EXTINF:-1 tvg-id="0914fd8c-e350-414d-b3c4-ec0e54012a41" group-title="Trinidad And Tobago | Unknown region | Unknown city",Talk City 91.1 FM
+https://media.streambrothers.com:8450/stream
+#EXTINF:-1 tvg-id="8894897e-b8ce-4424-b7b8-791b3bc11ae9" group-title="Trinidad And Tobago | Unknown region | Unknown city",TAMBRIN
+https://ice42.securenetsystems.net/TAMBRIN
+#EXTINF:-1 tvg-id="10f08f4f-7866-4e1c-b1a5-ba88bbaabf34" group-title="Trinidad And Tobago | Unknown region | Unknown city",Vibe CT (Port of Spain)
+https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee
+#EXTINF:-1 tvg-id="31767389-7dcb-4cf9-9b17-57cad809784e" group-title="Trinidad And Tobago | Unknown region | Unknown city",Vibe CT 105
+https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee
+#EXTINF:-1 tvg-id="313df7ec-69fd-4e5d-b9e8-e8c5ab7e8cd1" tvg-logo="https://whrfm.webnode.page/favicon.ico" group-title="Trinidad And Tobago | Unknown region | Unknown city",Woods Hit Radio
+https://stream.zeno.fm/2f33725t4mzuv
+#EXTINF:-1 tvg-id="f75876b5-718d-4b81-9ed6-f5d5943770d9" tvg-logo="https://whrfm.webnode.page/favicon.ico" group-title="Trinidad And Tobago | Unknown region | Unknown city",Woods Hit Radio
+https://stream.zeno.fm/2f33725t4mzuv
