@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="c6cc3db2-1a5f-4c81-bdb0-9637f51ab2a2" tvg-logo="https://www.buzzfm.vu/wp-content/uploads/2025/02/logo-online.png" group-title="Vanuatu | Centre, sef, Vanuatu | Port-Vila",BUZZ FM 96.3
+https://streamer.dailypost.vu/live
+#EXTINF:-1 tvg-id="faf5374c-ce55-40ff-bc81-8c2c286bf8b8" tvg-logo="https://vbtc.vu/wp-content/uploads/2025/01/femme-fm-FINAL-Logo_Trans.png" group-title="Vanuatu | Port Vila, sef, Vanuatu | Port-Vila",Femme Pawa FM
+https://radio.vbtc.vu/femmefm
+#EXTINF:-1 tvg-id="c5e9eb71-9b7d-44c0-9cdd-9a1c8a520a26" tvg-logo="https://vbtc.vu/wp-content/uploads/2025/01/Paradise-FM-Logo.png" group-title="Vanuatu | Port Vila, sef, Vanuatu | Port-Vila",Paradise 98FM
+https://radio.vbtc.vu/paradisefm
+#EXTINF:-1 tvg-id="90de551a-eba4-4d5c-8f5b-9bccd058590d" group-title="Vanuatu | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="8c354b46-5b4d-4912-b4fe-cbc2e8745205" tvg-logo="https://www.buzzfm.vu/wp-content/uploads/2025/02/logo-online.png" group-title="Vanuatu | Unknown region | Unknown city",BUZZ FM 96.3
+https://streamer.dailypost.vu/live
+#EXTINF:-1 tvg-id="bf24423b-80b0-47e5-af73-e4cec9a30282" group-title="Vanuatu | Unknown region | Unknown city",radioalfa tropical5
+http://stream.zeno.fm/x9y4ytkavqzuv

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="f462440e-3fdd-47e0-b683-12d616bf76a4" group-title="The Lao Peoples Democratic Republic | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="6f2c8848-d39e-4e07-8a9c-046c2356c5de" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-300x300.png" group-title="The Lao Peoples Democratic Republic | Unknown region | Unknown city",Lao National Radio 103.7
+https://radio.lnr.org.la/fm103
+#EXTINF:-1 tvg-id="59e8d07e-6314-44da-8728-df85cbea0537" tvg-logo="https://lnr.org.la/wp-content/uploads/2021/02/Radio-Logo-lnr01-300x300.png" group-title="The Lao Peoples Democratic Republic | Unknown region | Unknown city",Lao National Radio 94.3
+https://radio.lnr.org.la/fm94
+#EXTINF:-1 tvg-id="270cb70d-5278-4ea8-b6e3-c410760157b8" group-title="The Lao Peoples Democratic Republic | Unknown region | Unknown city",Toki Pona Radio
+https://kute.pona.la/stream/tpr

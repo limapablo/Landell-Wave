@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="962c9786-0601-11e8-ae97-52543be04c81" group-title="Uzbekistan | Unknown region | Unknown city",A'LO FM
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-id="525f1270-5011-4351-9272-0901b93aa860" tvg-logo="https://mp3islam.com/favicon.ico" group-title="Uzbekistan | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="15155f4c-8021-4776-8132-8ccc791026c2" tvg-logo="https://alghad.fm/public/images/favicon.png" group-title="Uzbekistan | Unknown region | Unknown city",alghad FM
+http://s10.voscast.com:9410/
+#EXTINF:-1 tvg-id="0f685f2b-32d5-4858-a05a-e3fa664dc992" group-title="Uzbekistan | Unknown region | Unknown city",Islom.uz
+https://radio.islom.uz/islomuz
+#EXTINF:-1 tvg-id="b6b8719c-3a94-402e-b56e-901f6c2f4d87" group-title="Uzbekistan | Unknown region | Unknown city",Oriat FM
+http://194.5.152.248:8000/fm
+#EXTINF:-1 tvg-id="ca301e89-3d37-4768-b436-f4a58fc44111" tvg-logo="https://qalbimnavosi.uz/tmp/images/default.jpg" group-title="Uzbekistan | Unknown region | Unknown city",Qalbim navosi
+http://live.qalbimnavosi.uz/qalbimnavosi
+#EXTINF:-1 tvg-id="91b14aa0-321e-4abc-9410-a40abb606330" tvg-logo="https://topradio.mobi/screen/1651641776_qalbim_navosi_tashkent_uzbekistan.jpg" group-title="Uzbekistan | Unknown region | Unknown city",Qalbim navosi
+http://213.230.109.7:9000/alo_low
+#EXTINF:-1 tvg-id="d8b36bbb-b316-4c69-be75-3187a4a983b0" group-title="Uzbekistan | Unknown region | Unknown city",Radio Markaz
+http://mediamarkaz.com:8000/radiomarkaz
+#EXTINF:-1 tvg-id="8d542c3e-a374-41a0-8daf-b7eb342fba53" group-title="Uzbekistan | Unknown region | Unknown city",Radio O'zbegim Taronasi
+https://fm101.uz:9943/fm101_low.aac
+#EXTINF:-1 tvg-id="a627187a-272f-4d81-b9e9-2ca7a52c66d7" group-title="Uzbekistan | Unknown region | Unknown city",Radio Tabassum
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-id="8e993264-2845-464f-bab3-e6b1a6aa9ea7" tvg-logo="https://rytmabad.radio/favicon.png" group-title="Uzbekistan | Unknown region | Unknown city",rytmabad
+https://radio.filmtastic.uz/listen/rytmabad/radio.mp3
+#EXTINF:-1 tvg-id="11b819f9-44e5-48a5-a79b-a7eb2d5d7fdb" group-title="Uzbekistan | Unknown region | Unknown city",The Holy Quran by Sheikh Mahmoud Al-Husari
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1 tvg-id="5cbb8e6a-aafb-4ded-af9d-eac0bda06a6e" group-title="Uzbekistan | Unknown region | Unknown city",Truck FM
+https://fm.truckfm.uz:8000/64
+#EXTINF:-1 tvg-id="13d416ec-2884-427d-a0dc-056f7927ce02" group-title="Uzbekistan | Unknown region | Unknown city",Yoshlar Ovozi
+http://ns10.jethost.uz:8000/yoshlarovoziaac

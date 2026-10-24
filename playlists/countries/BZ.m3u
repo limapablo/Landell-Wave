@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="5ad8d4d7-510d-491e-9a79-d2a718ce7129" group-title="Belize | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="d5478022-4b6b-41ac-aad0-b0406764c71d" group-title="Belize | Unknown region | Unknown city",https://stream.svobodnoe.media/freemp3
+https://stream.svobodnoe.media/freemp3
+#EXTINF:-1 tvg-id="4095e825-d5bf-4a00-b224-76fab0620019" tvg-logo="https://i0.wp.com/www.krembz.com/wp-content/uploads/2023/04/cropped-favicon.png?fit=180%2c180&#038;ssl=1" group-title="Belize | Unknown region | Unknown city",Krem Radio
+http://159.65.32.199:8016/;
+#EXTINF:-1 tvg-id="1c49165c-70f5-4ef7-8743-633a0cdc6b5d" tvg-logo="https://image2url.com/r2/default/images/1774831280375-8a6a2bb2-cba2-474d-a8de-c4efa22ac457.png" group-title="Belize | Unknown region | Unknown city",Riddim Radio
+https://stream.zeno.fm/nw7xmuzasyduv

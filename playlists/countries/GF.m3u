@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="c800eacd-c6e4-46f6-860e-71e975200882" group-title="French Guiana | Guyane | Cayenne",Nostalgie
+http://2stream.dyndns.org:8000/nostalgieguy
+#EXTINF:-1 tvg-id="aa05738e-117c-4cca-9641-16fd9d390b35" group-title="French Guiana | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="2bdf5d11-cf73-4595-a891-f6093f52ffd8" group-title="French Guiana | Unknown region | Unknown city",Chérie FM
+http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac
+#EXTINF:-1 tvg-id="2bd4cf82-d195-11e9-a861-52543be04c81" tvg-logo="https://la1ere.francetvinfo.fr/favicon.ico" group-title="French Guiana | Unknown region | Unknown city",Guyane 1ère
+https://guyane.ice.infomaniak.ch/guyane-128.mp3
+#EXTINF:-1 tvg-id="975e0a32-aee2-4aa4-9474-93867cb80f09" tvg-logo="https://metis.fm/uploads/media/metisfm/logo_metis_50.jpg" group-title="French Guiana | Unknown region | Unknown city",Métis FM
+https://str0.creacast.com/metisfm.mp3
+#EXTINF:-1 tvg-id="c7843ef6-b34e-4263-a248-f65b4d399072" tvg-logo="https://facebook.com/radiocontact" group-title="French Guiana | Vosges | Unknown city",Radio Contact Vosges
+https://s2.ssl-stream.com/listen/radio_contact/radio.mp3

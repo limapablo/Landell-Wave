@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="b84ffeeb-29ba-4fa2-ba93-73f11a1c00c9" group-title="Myanmar | Ayeyarwady | Unknown city",Cherry FM
+https://cherry.akiyaresearch.com:444/stream/89/
+#EXTINF:-1 tvg-id="b5218804-957c-4f0f-a1fd-969e8343994b" group-title="Myanmar | Shan | Ahlone",Cherry FM
+https://cherry.akiyaresearch.com:444/stream/89/
+#EXTINF:-1 tvg-id="304be4fa-5391-4b0c-b12f-2d395bd9d845" group-title="Myanmar | Unknown region | Unknown city",Abdulbasit Abdulsamad
+https://radio.mp3islam.com/listen/abdulbasit/radio.mp3
+#EXTINF:-1 tvg-id="84cb575d-42bb-42e0-bed7-b1190bb9a8b6" tvg-logo="https://www.streamplus.de/img/favico.ico" group-title="Myanmar | Unknown region | Unknown city",DWG Radio Bumese
+http://server32349.streamplus.de/;?type=http&#038;nocache=227
+#EXTINF:-1 tvg-id="bb5714c1-ca84-46fe-8a2d-c784738eb5fc" tvg-logo="https://cdn.raddio.net/img/icons/apple-icon-120x120.png" group-title="Myanmar | Unknown region | Unknown city",MandalayFM
+https://edge.mixlr.com/channel/nmtev
+#EXTINF:-1 tvg-id="a47a4545-4af2-4e27-ba03-c254519a5fd7" tvg-logo="https://padamyarfm.com.mm/favicon-32x32.png" group-title="Myanmar | Unknown region | Unknown city",Padamyar FM
+https://stream.zeno.fm/og9btsnj00tuv
