@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d5b40b49-b53b-43ce-b310-457182a6cf90" tvg-logo="https://www.hayatmix.com/png/hayatmix.png" group-title="Turkmenistan | Istanbul | Unknown city",Hayatmix
+http://hayatmix.net/;yayin.mp3/;
+#EXTINF:-1 tvg-id="6e5eaddc-0afa-4e20-817d-3802475d7c07" tvg-logo="https://www.turkuradyo.info/public/default/images/upload/1776181619061079.png" group-title="Turkmenistan | kocaeli | Unknown city",Uğur Öztürk
+https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1
+#EXTINF:-1 tvg-id="44d07a12-8e3d-4721-875b-8a435d4690d1" tvg-logo="https://online-radio.eu/logo/144/144671.jpg" group-title="Turkmenistan | Unknown region | Unknown city",Alaşehir Damar FM
+http://178.32.4.127:8358/;
+#EXTINF:-1 tvg-id="ffbb6a33-a356-4143-a13c-95c8c8caddc4" group-title="Turkmenistan | Unknown region | Unknown city",The Holy Quran by Sheikh Mahmoud Al-Husari
+https://qurango.net/radio/mahmoud_khalil_alhussary_warsh
+#EXTINF:-1 tvg-id="66b95d12-443d-4304-92cb-0efffd111b65" tvg-logo="https://turkmedya.com.tr/assets/img/favico.png" group-title="Turkmenistan | Unknown region | Unknown city",Tv24
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8

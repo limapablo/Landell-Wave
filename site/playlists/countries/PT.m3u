@@ -1,0 +1,759 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="100e3f42-c43d-49e3-93e0-6d6d4e60642b" group-title="Portugal | Albufeira | Unknown city",Cool FM Albufeira
+https://cool-fm.link/listen/stream/live.mp3
+#EXTINF:-1 tvg-id="ae4b9856-2eff-4d29-882f-660f575ff69d" group-title="Portugal | Alentejo | Odemira",RIO - Rádio Internacional Odemira
+https://hts02.brascast.com:10476/live
+#EXTINF:-1 tvg-id="edbd1565-d6aa-4487-8564-e56883453124" group-title="Portugal | Alentejo | Unknown city",Rádio Planície - 92.8 FM
+http://109.71.41.6:8026/stream
+#EXTINF:-1 tvg-id="673e8d67-47aa-4990-aced-bc110d91e7e6" tvg-logo="https://totalfm.pt/wp-content/uploads/fbrfg/favicon.ico" group-title="Portugal | Almancil | Unknown city",Total FM
+https://eu57-sonic.instainternet.com:8068/stream
+#EXTINF:-1 tvg-id="4f0b7a15-5997-49e1-8a7a-e74dbd0d6c32" tvg-logo="https://radio-vibe-101-stream-render-4tnt.onrender.com/static/radio-vibe.png" group-title="Portugal | Amadora | Unknown city",Radio Vibe
+https://radio-vibe-101-stream-render-4tnt.onrender.com/live
+#EXTINF:-1 tvg-id="6914c3b5-8e88-47e1-b02d-4bb6b587fe49" tvg-logo="https://www.terranova.pt/themes/custom/terranova/favicon.ico" group-title="Portugal | Aveiro | Gafanha",Terranova 105
+http://centova.radios.pt/proxy/404?mp=/stream
+#EXTINF:-1 tvg-id="1fd97235-9988-4b2a-a5be-f7332a5e5c08" tvg-logo="https://cp-1.owh.radio.br/static/uploads/owh_s35225/album_art.1790617570.jpg" group-title="Portugal | Aveiro | São João de Ver",76,8 OCEANO PACIFICO
+https://cp-1.owh.radio.br/listen/owh_s35225/radio-mp3
+#EXTINF:-1 tvg-id="96143c96-0601-11e8-ae97-52543be04c81" group-title="Portugal | Aveiro | Unknown city",Rádio Clube da Feira
+http://centova.radio.com.pt:9544/;
+#EXTINF:-1 tvg-id="96192646-0601-11e8-ae97-52543be04c81" group-title="Portugal | Aveiro | Unknown city",Rádio Regional de Arouca
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1 tvg-id="326c6f7c-08d6-49da-9a4b-a6a634e77e3f" tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-1-acores.png" group-title="Portugal | Azores | Ribeira Seca",Antena 1 Açores (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1acores80a/playlist.m3u8
+#EXTINF:-1 tvg-id="dbd2c8ed-498a-4470-9e30-e0e1adb7dc6f" group-title="Portugal | Azores | Unknown city",Rádio Antena Nove
+http://centova.radio.com.pt:8565/stream/1/
+#EXTINF:-1 tvg-id="961e18f1-0601-11e8-ae97-52543be04c81" group-title="Portugal | Azores | Unknown city",Rádio Pico
+http://centova.radios.pt:9420/stream
+#EXTINF:-1 tvg-id="9619a540-0601-11e8-ae97-52543be04c81" group-title="Portugal | Azores | Unknown city",TSF Rádio Açores
+http://centova.radio.com.pt:8243/;
+#EXTINF:-1 tvg-id="96193548-0601-11e8-ae97-52543be04c81" group-title="Portugal | Barcelos | Unknown city",Rádio Barcelos
+http://centova.radio.com.pt:8563/;
+#EXTINF:-1 tvg-id="9619317f-0601-11e8-ae97-52543be04c81" group-title="Portugal | Beja | Unknown city",Rádio Castrense
+http://centova.radio.com.pt:8431/;
+#EXTINF:-1 tvg-id="0a5d4c22-8d26-405b-be94-fc5d62d90da5" tvg-logo="https://radioonline.com.pt/regiao/alentejo/#pax" group-title="Portugal | Beja | Unknown city",Rádio Pax
+https://centova.radio.com.pt/proxy/484?mp=/stream
+#EXTINF:-1 tvg-id="96190b45-0601-11e8-ae97-52543be04c81" group-title="Portugal | Beja | Unknown city",Rádio Planície 92.8 Moura
+http://109.71.41.6:8026/stream
+#EXTINF:-1 tvg-id="9618a6f6-0601-11e8-ae97-52543be04c81" group-title="Portugal | Beja | Unknown city",Rádio Vidigueira
+http://centova.radio.com.pt:8567/;
+#EXTINF:-1 tvg-id="9619323b-0601-11e8-ae97-52543be04c81" group-title="Portugal | Beja | Unknown city",Singa FM
+http://centova.radio.com.pt:8487/;
+#EXTINF:-1 tvg-id="96193306-0601-11e8-ae97-52543be04c81" group-title="Portugal | Beja | Unknown city",TLA Rádio
+http://centova.radio.com.pt:8545/;
+#EXTINF:-1 tvg-id="021c60ad-a699-443d-bfcb-0e30bc4b8047" group-title="Portugal | Brag | Unknown city",Radio EnterMedia
+http://radio.radioentermedia.com/listen/entermedia/radio.mp3
+#EXTINF:-1 tvg-id="db31f1f9-a469-4188-b8b3-9713557413d9" group-title="Portugal | Braga | Guimarães",Rádio Santiago
+http://eu6.fastcast4u.com:5002/stream
+#EXTINF:-1 tvg-id="0aed61c5-962f-4999-8a68-653d37834e41" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2015/05/Nove3Cinco-Menu-Logo.png" group-title="Portugal | Braga | Póvoa de Lanhoso",Nove3cinco
+https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171
+#EXTINF:-1 tvg-id="2400fd7c-54f9-426e-bf3a-077b7d559d53" tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2015/05/favicon.ico" group-title="Portugal | Braga | Póvoa de Lanhoso",novecinco3cinco
+https://centova.radio.com.pt/proxy/522?mp=/stream&1715267171
+#EXTINF:-1 tvg-id="96193484-0601-11e8-ae97-52543be04c81" group-title="Portugal | Braga | Unknown city",Rádio Antena Minho
+http://centova.radio.com.pt:9464/;
+#EXTINF:-1 tvg-id="9619360d-0601-11e8-ae97-52543be04c81" group-title="Portugal | Braga | Unknown city",Rádio Cidade Hoje
+http://centova.radio.com.pt:8119/;
+#EXTINF:-1 tvg-id="961936d3-0601-11e8-ae97-52543be04c81" group-title="Portugal | Braga | Unknown city",Rádio nove3cinco
+http://centova.radio.com.pt:9522/;
+#EXTINF:-1 tvg-id="9619379b-0601-11e8-ae97-52543be04c81" group-title="Portugal | Braga | Unknown city",Rádio Universitária do Minho
+http://centova.radio.com.pt:9558/;
+#EXTINF:-1 tvg-id="bd70b5f3-ccae-44d8-9ea5-1a4778d17069" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/773/rum-radio-universitaria-do-minho.b70e0901.png" group-title="Portugal | Braga | Unknown city",Rádio Universitária UMinho
+http://centova.radio.com.pt:9558/stream
+#EXTINF:-1 tvg-id="a27c1c5d-f05b-45dd-841a-d2b3d93cebdb" group-title="Portugal | Braga | Unknown city",Rádio Vizela
+https://proxy-audio.ptisp.com:8100/stream
+#EXTINF:-1 tvg-id="b1a88a64-8897-4647-8015-9f04881b81fc" tvg-logo="https://radiovozdoneiva.net/voz-neiva.jpg" group-title="Portugal | Braga | Vila Verde",Voz do Neiva
+https://sp0.redeaudio.com/8092/stream
+#EXTINF:-1 tvg-id="7b84ea7e-ab5a-4f22-98a8-b062720f0cf4" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Bragança | Bragança",Rádio Regional - Bragança
+https://play.radioregional.pt/stream/5/
+#EXTINF:-1 tvg-id="c636dc32-376e-4bcc-8ba4-76aa264458e2" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Bragança | Mirandela",Rádio Regional - Mirandela
+https://play.radioregional.pt/stream/4/
+#EXTINF:-1 tvg-id="9618a279-0601-11e8-ae97-52543be04c81" group-title="Portugal | Bragança | Unknown city",Rádio Ansiães
+http://centova.radio.com.pt:8419/;
+#EXTINF:-1 tvg-id="961950e5-0601-11e8-ae97-52543be04c81" group-title="Portugal | Bragança | Unknown city",Terra Quente FM
+http://centova.radio.com.pt:9402/;
+#EXTINF:-1 tvg-id="11bbe5f0-e0b3-408b-859c-97a6fb7eb313" tvg-logo="https://links.mail.timberapps.io/file/upload/session/c747d5b028d94800/d0069737570b07666d11d601c3582a94f8cfc495.jpeg" group-title="Portugal | cascais | Cascais",Gongas Radio
+https://a6.asurahosting.com:7930/radio.mp3
+#EXTINF:-1 tvg-id="b570f99d-e347-48b2-817d-fef409d8eb46" group-title="Portugal | cascaos | Estoril",Gongas Radio
+https://a6.asurahosting.com:7930/radio.mp3
+#EXTINF:-1 tvg-id="1e253208-7861-43fd-a9df-8fbc45d4fccf" group-title="Portugal | Castelo Branco | Sertã",FLUXMEDIA
+http://148.251.43.149:8181/stream
+#EXTINF:-1 tvg-id="96195488-0601-11e8-ae97-52543be04c81" group-title="Portugal | Castelo Branco | Unknown city",Rádio Condestável
+http://centova.radio.com.pt:8427/;
+#EXTINF:-1 tvg-id="9619563d-0601-11e8-ae97-52543be04c81" group-title="Portugal | Castelo Branco | Unknown city",Rádio Cova da Beira
+http://centova.radio.com.pt:8467/;
+#EXTINF:-1 tvg-id="53ef1268-a1f2-4d6f-beaf-6cec98b8fac8" tvg-logo="https://www.ruc.pt/apple-icon.png" group-title="Portugal | Coimbra | Coimbra",RUC Rádio Universidade de Coimbra
+http://stream.ruc.pt/high
+#EXTINF:-1 tvg-id="0d77959e-9be8-4da5-a7c7-f730dcb373c5" tvg-logo="https://www.guiadecolares.pt/radio/Favicon.ico" group-title="Portugal | Colares | Unknown city",Rádio clube de Colares
+https://rs3.ptservidor.net/8012/live
+#EXTINF:-1 tvg-id="814f01c9-f4df-44e0-9198-6c78a5c6d131" tvg-logo="https://static.wixstatic.com/media/aafaca_063ee918224540c5b309bdb5d41898b5~mv2.png" group-title="Portugal | Estoril | Unknown city",4DJ 4Drive Jazz
+https://radio.streemlion.com:4870/stream
+#EXTINF:-1 tvg-id="f86c489e-7e21-11e9-aa30-52543be04c81" tvg-logo="https://www.wix.com/favicon.ico" group-title="Portugal | Estoril | Unknown city",4Drive Jazz
+http://radio.streemlion.com:1150/stream
+#EXTINF:-1 tvg-id="7b6c8b15-4fa1-4a11-a737-d34a8b428151" tvg-logo="https://www.1054cascais.com/img/cover.jpg" group-title="Portugal | Estremadura | Alcoitão",105.4 Cascais - O Rock da Linha
+https://play.radioregional.pt:8220/stream/2/;;/stream.mp3
+#EXTINF:-1 tvg-id="961970f5-0601-11e8-ae97-52543be04c81" group-title="Portugal | Faro | Unknown city",Alvor FM
+http://centova.radio.com.pt:8469/;
+#EXTINF:-1 tvg-id="f683a45f-e801-4735-916c-166debeb4ece" tvg-logo="https://rua.pt/wp-content/uploads/2021/10/cropped-favicon-270x270.png" group-title="Portugal | Faro | Unknown city",RUA FM
+https://centova.radio.com.pt/proxy/037?mp=/stream
+#EXTINF:-1 tvg-id="9619725a-0601-11e8-ae97-52543be04c81" group-title="Portugal | Faro | Unknown city",Rádio Horizonte Algarve
+http://centova.radio.com.pt:9458/;
+#EXTINF:-1 tvg-id="9619730d-0601-11e8-ae97-52543be04c81" group-title="Portugal | Faro | Unknown city",Rádio Lagoa
+http://centova.radio.com.pt:9488/;
+#EXTINF:-1 tvg-id="20002015-dd09-430c-a986-d085c84840a6" group-title="Portugal | Faro | Vila Real de Santo António",Radio Guadiana
+http://sp0.redeaudio.com:9844/
+#EXTINF:-1 tvg-id="6f576e6c-7cc3-4c5e-a831-4587a2f8efc8" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiFjuZpvO8NObJg4xbuvohiOA9-9xz5Ts80exF8_r0kycPUt_vx8D36UCecT4c1hMpBmgz_g9FoUzhVocxpJmsgXxKjKXqe-s5P5c7o7lgIbHEpejbVPMlEYioBRwOKpokdJaeRQghKznhXO6T663om4hMiXPPPFRLMfFvKh7LGCin_Sc25Iq6iDdCfrQy7=s144" group-title="Portugal | Goiás | Unknown city",RÁDIO EU SOU GOIÁS
+https://live9.livemus.com.br:27374/stream
+#EXTINF:-1 tvg-id="bba00123-d638-4c4c-891a-1f6520320fcb" tvg-logo="https://i.imgur.com/EB5KAvF.png" group-title="Portugal | Guarda | Pinhel",Rádio Fronteira
+https://radios2.justweb.pt/8074/stream
+#EXTINF:-1 tvg-id="960bcef5-0601-11e8-ae97-52543be04c81" group-title="Portugal | Guarda | Unknown city",Antena Livre
+http://centova.radio.com.pt:9456/;
+#EXTINF:-1 tvg-id="961976a8-0601-11e8-ae97-52543be04c81" group-title="Portugal | Guarda | Unknown city",Rádio Elmo
+http://centova.radio.com.pt:8463/;
+#EXTINF:-1 tvg-id="2b65dc1f-1563-45b5-8b46-10c2cecdf4f4" group-title="Portugal | Lamego | Lamego",Rádio Clube de Lamego
+https://stream.zeno.fm/9prct7k8h0hvv
+#EXTINF:-1 tvg-id="757d8f8a-ce73-4da1-8fd0-41b5e7025059" tvg-logo="https://www.rclamego.com/upload/players/6a91fe97284085.82370309.png" group-title="Portugal | Lamego/Viseu | Lamego",Rádio Clube de Lamego
+https://stream.zeno.fm/9prct7k8h0hvv
+#EXTINF:-1 tvg-id="96197766-0601-11e8-ae97-52543be04c81" group-title="Portugal | Leiria | Unknown city",ABC Portugal
+http://centova.radio.com.pt:8547/;
+#EXTINF:-1 tvg-id="007d00d1-67f0-44e8-a6a2-3cbac6941011" tvg-logo="https://www.radios.com.br/aovivo/radio-record-1077-fm/8928" group-title="Portugal | Leiria | Unknown city",Record 101,4 FM
+https://nl.digitalrm.pt:8010/stream
+#EXTINF:-1 tvg-id="96197824-0601-11e8-ae97-52543be04c81" group-title="Portugal | Leiria | Unknown city",Rádio Cister
+http://centova.radio.com.pt:8453/;
+#EXTINF:-1 tvg-id="96192def-0601-11e8-ae97-52543be04c81" group-title="Portugal | Leiria | Unknown city",Rádio Terra Nova
+http://centova.radio.com.pt:9404/;
+#EXTINF:-1 tvg-id="1e7aaace-06eb-4181-86b9-a5af7963dd14" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/110/porao-da-nau-radio.5abfe912.jpg" group-title="Portugal | Lisboa | Alfama",Porão da nau radio
+https://stream.zeno.fm/rwmao7mxxt8vv
+#EXTINF:-1 tvg-id="d1df1026-bca3-4f8e-a094-946629292f18" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/110/porao-da-nau-radio.5abfe912.jpg" group-title="Portugal | Lisboa | Alfama",Porão da nau radio
+https://stream.zeno.fm/rwmao7mxxt8vv
+#EXTINF:-1 tvg-id="909735da-70e8-4527-b771-52793d9f0086" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png" group-title="Portugal | Lisboa | Beato António",Antena 1 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="a32dfa66-c8d0-47c4-a0e7-fc205c976fd3" tvg-logo="https://esr.li/favicon-32x32.png" group-title="Portugal | Lisboa | Beato António",ESR - East Side Radio
+https://ice.ether.esr.li/esr-ch1.aac
+#EXTINF:-1 tvg-id="342f46c4-b48b-4813-b0d3-27b6e33f3a41" group-title="Portugal | Lisboa | Campo Pequeno",SmoothFM
+https://stream-icy.bauermedia.pt/smooth.aac
+#EXTINF:-1 tvg-id="97778c9f-1b40-47b0-be28-c0300a29ed30" tvg-logo="https://www.radiofutura.pt/favicon.ico" group-title="Portugal | Lisboa | Intendente",FUTURA - Rádio de Autor
+https://s4.radio.co/s7e7b6c165/listen
+#EXTINF:-1 tvg-id="981f822f-198c-490f-a635-5489d9708765" group-title="Portugal | Lisboa | Lisbon",Rádio Renascença
+http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3
+#EXTINF:-1 tvg-id="cc461784-3150-4a34-81c5-2116fe024740" tvg-logo="https://www.celsoazevedo.com/files/2024/tsf.png" group-title="Portugal | Lisboa | Marvila",TSF Rádio Notícias
+https://directo.tsf.pt/tsfdirecto.mp3
+#EXTINF:-1 tvg-id="42c17a78-76d2-4c25-9350-ad8b6df014c3" tvg-logo="https://www.oxigenio.fm/wp-content/uploads/2018/11/cropped-favicon-180x180.png" group-title="Portugal | Lisboa | Restelo",OXIGÉNIO 102.6 FM
+http://proic1.evspt.com/oxigenio_aac
+#EXTINF:-1 tvg-id="bf7a7180-2465-48d2-983c-3bc182ba0c83" tvg-logo="https://www.celsoazevedo.com/files/2024/antena-2.png" group-title="Portugal | Lisboa | Trafaria",Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="df73b42f-d349-4bb6-9bb5-b58f41633164" group-title="Portugal | Lisboa | Unknown city",A1
+http://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 tvg-id="0bb91b7b-fd13-487f-b645-87f6d6d7b4d2" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png" group-title="Portugal | Lisboa | Unknown city",Antena 1 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="b16ffbfa-3dbc-472f-b058-5b9daa21cef7" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png" group-title="Portugal | Lisboa | Unknown city",Antena 1 (Portugal)
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="abdacbd3-4a0a-452b-8247-cff72abb464e" group-title="Portugal | Lisboa | Unknown city",Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="5e7299f0-becd-4f5b-ba63-f923e63e60b7" tvg-logo="https://batida.fm/favicon.ico" group-title="Portugal | Lisboa | Unknown city",Batida FM
+http://stream-icy.bauermedia.pt/batidafm.aac
+#EXTINF:-1 tvg-id="d6db3215-8210-4fb6-a968-be79bf05e202" tvg-logo="https://www.1054cascais.com/img/logo_white.png" group-title="Portugal | Lisboa | Unknown city",Cascais FM 105.4
+https://play.radioregional.pt:8220/stream/2/;/stream.mp3
+#EXTINF:-1 tvg-id="9ac5ac2e-d34c-4814-b3ad-9958a0de9b6a" group-title="Portugal | Lisboa | Unknown city",cidade hiphop
+https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="f7ef7fc8-fa3f-4ae5-92de-fe320bb79971" group-title="Portugal | Lisboa | Unknown city",CMR - Correio da Manhã Rádio
+https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
+#EXTINF:-1 tvg-id="b3d10f85-29c1-4b4c-b0dd-364cd88e034f" group-title="Portugal | Lisboa | Unknown city",Radar
+http://proic1.evspt.com/radar_mp3
+#EXTINF:-1 tvg-id="264afd2f-8aa2-40c1-a5c5-b4ef1627e7be" tvg-logo="https://www.celsoazevedo.com/files/2022/11/rdp-africa.jpg" group-title="Portugal | Lisboa | Unknown city",RDP Africa (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8
+#EXTINF:-1 tvg-id="91200ce0-a62d-43ec-b948-bde6789433e6" tvg-logo="https://www.celsoazevedo.com/files/2022/11/rdp-internacional.png" group-title="Portugal | Lisboa | Unknown city",RDP Internacional (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8
+#EXTINF:-1 tvg-id="7d1b6e59-b7c6-452d-af90-49bd11389672" tvg-logo="https://www.radios.com.br/aovivo/radio-record-1077-fm/8928" group-title="Portugal | Lisboa | Unknown city",Record FM 107,7
+https://nl.digitalrm.pt:8010/stream
+#EXTINF:-1 tvg-id="c2602790-b67a-48ef-9954-6a3a9e18d8d0" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_positivo_vert_RGB.png" group-title="Portugal | Lisboa | Unknown city",Rádio Antena 1
+https://streaming-live.rtp.pt/liveradio/antena180a/chunklist.m3u8
+#EXTINF:-1 tvg-id="600ffae3-2f25-4e3b-bc46-b37c965f003e" tvg-logo="https://www.radioatalaia.pt/images/apple-touch-icon.png" group-title="Portugal | Lisboa | Unknown city",Rádio Atalaia
+https://mpc.my-control-panel.eu/stream/radioatalaia
+#EXTINF:-1 tvg-id="ee741fca-c476-4323-a311-21974fcd9980" tvg-logo="https://www.radioatalaia.pt/images/apple-touch-icon.png" group-title="Portugal | Lisboa | Unknown city",Rádio Atalaia
+https://mpc.my-control-panel.eu/stream/radioatalaia
+#EXTINF:-1 tvg-id="ec7c1dd5-4515-4711-8a9c-003689fa97be" group-title="Portugal | Lisboa | Unknown city",Rádio Movimento
+https://stream.rcast.net/61025
+#EXTINF:-1 tvg-id="c0682eee-a97d-4fbe-b970-dea2ffb18ef0" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico" group-title="Portugal | Lisboa | Unknown city",Rádio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac
+#EXTINF:-1 tvg-id="5d32ec38-94ca-4e94-80f4-4deff25c9155" tvg-logo="https://www.novotempo.pt/favicon.ico" group-title="Portugal | Lisboa | Unknown city",Rádio RCS 91.2 FM
+http://centova.radio.com.pt:8445/stream
+#EXTINF:-1 tvg-id="ebfdfb1a-aa24-4871-b27b-7b6ed31dbe5b" tvg-logo="https://www.celsoazevedo.com/files/2022/11/radio-zig-zag.png" group-title="Portugal | Lisboa | Unknown city",Rádio Zig Zag
+https://streaming-live.rtp.pt/liveradio/zigzag80a/playlist.m3u8
+#EXTINF:-1 tvg-id="05c2a7c6-02c4-4cd1-a2c7-b9ffe722fe06" group-title="Portugal | Lisbon | Ajuda",Rádio Freguesia de Belém
+https://s2.radio.co/s0ddea4a53/listen
+#EXTINF:-1 tvg-id="3be30d15-6f8e-41a6-bc66-dfe60cc25111" group-title="Portugal | Lisbon | Alfragide",Rádio Freguesia de Belém
+https://s2.radio.co/s0ddea4a53/listen
+#EXTINF:-1 tvg-id="1ac20829-1ca7-4abe-bd7f-b8dcd835b29b" group-title="Portugal | Lisbon | Amora",M80 Rádio – 60s
+https://stream-icy.bauermedia.pt/m8060.aac
+#EXTINF:-1 tvg-id="56880c5d-ec47-4edf-bebd-21434e372c9c" group-title="Portugal | Lisbon | Arranhó",RTP Mundo
+https://streaming-live.rtp.pt/liveradio/rdpint80a/chunklist_DVR.m3u
+#EXTINF:-1 tvg-id="fb952115-4a5a-4b67-858e-b1a4353bf118" group-title="Portugal | Lisbon | Atalaia",Radio Maria Portugal
+https://dreamsiteradiocp5.com/proxy/rmportugal1?mp=/stream
+#EXTINF:-1 tvg-id="b50fea42-9c22-45c3-a7d5-afc772cab87d" group-title="Portugal | Lisbon | Bairro Alto",M80 Rádio – Pop
+https://stream-icy.bauermedia.pt/m80pop.aac
+#EXTINF:-1 tvg-id="a08d74ca-2172-447a-941a-b5c5c20afdd6" group-title="Portugal | Lisbon | Baixa",M80 Rádio – Ballads
+https://stream-icy.bauermedia.pt/m80ballads.aac
+#EXTINF:-1 tvg-id="06b3a0bc-3feb-474e-931a-719d30399af8" group-title="Portugal | Lisbon | Baixa",M80 Rádio – Dance
+https://stream-icy.bauermedia.pt/m80dance.aac
+#EXTINF:-1 tvg-id="7119e56e-a767-4b1a-b31e-6f39d2d9c030" group-title="Portugal | Lisbon | Baixa",M80 Rádio – Indie
+https://stream-icy.bauermedia.pt/m80indie.aac
+#EXTINF:-1 tvg-id="26cf6195-4b57-4f9f-aeff-36496b0a55c0" group-title="Portugal | Lisbon | Baixa",M80 Rádio – Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1 tvg-id="8d7f68a9-d1c8-4a49-ad3e-69e56db8d280" group-title="Portugal | Lisbon | Baixa",M80 Rádio – Soul
+https://stream-icy.bauermedia.pt/m80soul.aac
+#EXTINF:-1 tvg-id="e1630f99-1069-4555-b28a-cedcd17e6d0a" tvg-logo="https://meiodomato.com/static/img/logo.png" group-title="Portugal | Lisbon | Baixa",Radio Meio Do Mato
+https://radio.meiodomato.com/stream
+#EXTINF:-1 tvg-id="8d71b081-833c-4ab2-a8a2-ada5d85cf0a1" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1763806752/brand_manager/stations/yc8sxrm0mataidq23uhi.pngsxrm0mataidq23uhi.png" group-title="Portugal | Lisbon | Lisbon",Radio Comercial Portugal
+https://stream-icy.bauermedia.pt/rctuga.aac
+#EXTINF:-1 tvg-id="b0e33f48-ea02-4843-98b0-6729338bcccb" group-title="Portugal | Lisbon | Lisbon",Rádio Comercial Dance
+https://stream-icy.bauermedia.pt/rcdance.aac
+#EXTINF:-1 tvg-id="6fcc7a6e-7cde-4986-bc49-0aa6e46607c9" tvg-logo="https://ntr.fm/wp-content/uploads/2017/06/NTR-Logo-600x600-Dark_Bg-v1-1.png" group-title="Portugal | Lisbon | Odivelas",NTR - Network Radio
+https://is.ntradio.pt/ntr
+#EXTINF:-1 tvg-id="dbc018ae-1848-4f26-a677-367011a1f4b2" tvg-logo="https://www.celsoazevedo.com/files/2022/antena-1.png" group-title="Portugal | Lisbon | Olivais",Antena 1 (Portugal)
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="7bc1f66f-412d-484b-82eb-b7b1c4575faa" group-title="Portugal | Lisbon | Santos-o-Velho",M80 Rádio – 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1 tvg-id="ae8f651c-f768-4243-83a0-7d535a5d4d8b" group-title="Portugal | Lisbon | Santos-o-Velho",M80 Rádio – Portugal
+https://stream-icy.bauermedia.pt/m80nacional.aac
+#EXTINF:-1 tvg-id="7293d8f3-941d-4a7b-ace0-01c9584410f0" tvg-logo="https://www.celsoazevedo.com/files/2022/antena-1.png" group-title="Portugal | Lisbon | Sete Rios",Antena 1 (Portugal)
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="5848aa9f-1e09-425a-9609-b76686144681" group-title="Portugal | Lisbon | São Jorge de Arroios",M80 Rádio – 90s
+https://stream-icy.bauermedia.pt/m8090.aac
+#EXTINF:-1 tvg-id="2ac1284f-231a-4516-939b-939b193b6565" group-title="Portugal | Lisbon | São Mamede",M80 Rádio – 70s
+https://stream-icy.bauermedia.pt/m8070.aac
+#EXTINF:-1 tvg-id="56df79b0-51f6-46cd-99a1-11d51bb3359b" tvg-logo="https://batida.fm/images/fbcover.jpg" group-title="Portugal | Lisbon | Unknown city",Batida FM
+https://stream-icy.rayo.pt/batidafm.mp3?direct=true
+#EXTINF:-1 tvg-id="a6e3c595-c275-4cc7-b15a-498321bc08ba" group-title="Portugal | Lisbon | Unknown city",CM Rádio
+https://emdireto.cmradio.pt/audio2/output-stream_1.m3u8
+#EXTINF:-1 tvg-id="9619be25-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Deep in Radio
+http://s3.viastreaming.net:8525/
+#EXTINF:-1 tvg-id="fb325f39-3ec5-449f-87ed-c139bdaf1408" tvg-logo="https://cdn.shopk.it/assets/logo/shopkit-abbr-black-64x64.png" group-title="Portugal | Lisbon | Unknown city",FOQO
+http://185.32.188.17:8003/stream
+#EXTINF:-1 tvg-id="9618e93b-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Mega Hits
+http://25603.live.streamtheworld.com:3690/MEGA_HITS_SC
+#EXTINF:-1 tvg-id="898410ff-8421-44fb-81f2-0090c287881d" tvg-logo="https://www.wix.com/favicon.ico" group-title="Portugal | Lisbon | Unknown city",MRR Manitu Rock Radio
+https://radio.streemlion.com:4515/stream
+#EXTINF:-1 tvg-id="9618a87b-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",ORBITAL
+http://centova.radios.pt:8401/;listen.pls
+#EXTINF:-1 tvg-id="dd90d5dd-2ab8-461f-a03d-fac11006bd3c" tvg-logo="https://unify-fm-bucket.s3.amazonaws.com/521fe997332647c8934b2d54146d0f57.jpg" group-title="Portugal | Lisbon | Unknown city",Radio QUÂNTICA
+https://libretime.radioquantica.com/main.mp3
+#EXTINF:-1 tvg-id="df6c713f-7558-4c87-bdee-f8255c95511e" group-title="Portugal | Lisbon | Unknown city",Radio TugaNet
+https://ssl.stmxp.net:8006/;
+#EXTINF:-1 tvg-id="91b76901-a68a-42d9-b70e-c57e01bf47a6" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/KpJGgFhkNZ.png" group-title="Portugal | Lisbon | Unknown city",REWIND 2000's
+https://2000.streeemer.com/listen/2000s/radio.aac
+#EXTINF:-1 tvg-id="dfe3ebed-08cd-447a-9a58-efb8eebab9f8" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/touch-icon-iphone-retina.png" group-title="Portugal | Lisbon | Unknown city",RFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC
+#EXTINF:-1 tvg-id="eeabbc32-b558-4bf9-bd7e-09855ca88cd8" tvg-logo="https://cdn-images.rtp.pt/play/zigzag/imgs/zz_logowhite.png" group-title="Portugal | Lisbon | Unknown city",RTP - Radio ZigZag
+https://radiocast.rtp.pt/zigzag80a.mp3
+#EXTINF:-1 tvg-id="96190e3e-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio Amália
+http://centova.radio.com.pt:9496/;
+#EXTINF:-1 tvg-id="9618e5ff-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio Clube de Sintra
+http://centova.radio.com.pt:8445/;
+#EXTINF:-1 tvg-id="2b501db4-e4b6-4106-9670-9875536f70f1" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/drkZNBUn6W.png" group-title="Portugal | Lisbon | Unknown city",Rádio Comercial
+https://stream-hls.bauermedia.pt/comercial.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="96197a7d-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio do Concelho de Mafra
+http://centova.radio.com.pt:8551/;
+#EXTINF:-1 tvg-id="65c2e90d-0705-484c-9958-17af11871333" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/42/78/103539/1/c175.png" group-title="Portugal | Lisbon | Unknown city",Rádio Lisboa
+http://radiolisboa.ddns.net:8080/stream/1/
+#EXTINF:-1 tvg-id="96105626-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio Marginal
+http://centova.radio.com.pt:8499/;
+#EXTINF:-1 tvg-id="96190d7e-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio MEO Music
+http://centova.radio.com.pt:8495/;
+#EXTINF:-1 tvg-id="e822ed30-1b14-4a90-906f-a1267e3d761d" tvg-logo="https://observador.pt/wp-content/themes/observador-child/assets/build/img/favicon.ico" group-title="Portugal | Lisbon | Unknown city",Rádio Observador
+http://195.23.85.126:8455/stream
+#EXTINF:-1 tvg-id="9618e7a0-0601-11e8-ae97-52543be04c81" tvg-logo="https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png" group-title="Portugal | Lisbon | Unknown city",Rádio Renascença
+http://28513.live.streamtheworld.com:3690/RADIO_RENASCENCA_SC
+#EXTINF:-1 tvg-id="96197cd5-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Rádio Vida FM 97.1
+http://centova.radio.com.pt:9482/;
+#EXTINF:-1 tvg-id="c58a8574-bc4d-49d5-9b57-c5266ffbcf39" group-title="Portugal | Lisbon | Unknown city",SFTD RADIO
+http://hyades.shoutca.st:8270/stream/1/
+#EXTINF:-1 tvg-id="26592f49-564a-402c-8123-19dc8d496271" group-title="Portugal | Lisbon | Unknown city",Smooth FM (AAC)
+https://stream-icy.bauermedia.pt/smooth.aac
+#EXTINF:-1 tvg-id="961911ef-0601-11e8-ae97-52543be04c81" group-title="Portugal | Lisbon | Unknown city",Ultra FM
+http://centova.radio.com.pt:9506/;
+#EXTINF:-1 tvg-id="69157655-60d8-4a46-8088-764482b9eb73" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/2C5DZ9pVXS.jpg" group-title="Portugal | Lisbon | Unknown city",Wonder 80's
+https://80.streeemer.com/listen/80s/radio.mp3
+#EXTINF:-1 tvg-id="37bb28eb-8a16-45cd-a052-4404d7702eae" tvg-logo="https://player.radiocalheta.pt/static/uploads/radiocalheta/album_art.1762951317.png" group-title="Portugal | Madeira | Calheta",Rádio Calheta
+https://player.radiocalheta.pt/listen/radiocalheta/live
+#EXTINF:-1 tvg-id="de23e719-22a0-4f40-a47f-a943ba2d3808" tvg-logo="https://www.celsoazevedo.com/files/2026/pef-am.png" group-title="Portugal | Madeira | Santa Luzia",Posto Emissor do Funchal (PEF) - Canal 1 OM
+https://centova.radio.com.pt/proxy/422?mp=/stream;
+#EXTINF:-1 tvg-id="7ff5d7ae-29e3-4010-a6e4-35b14bdb79db" tvg-logo="https://www.celsoazevedo.com/files/2026/pef-fm.png" group-title="Portugal | Madeira | Santa Luzia",Posto Emissor do Funchal (PEF) - Canal 2 FM
+https://centova.radio.com.pt/proxy/426?mp=/stream;
+#EXTINF:-1 tvg-id="29489790-0b8a-47d7-9b9d-630ebd9934fd" tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-1-madeira.png" group-title="Portugal | Madeira | Unknown city",Antena 1 Madeira (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="070c21d8-f919-4c30-aac3-63de93a0d579" tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-3-madeira.png" group-title="Portugal | Madeira | Unknown city",Antena 3 Madeira (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8
+#EXTINF:-1 tvg-id="c5a178f9-e706-4197-a82c-81c80a4269b7" tvg-logo="https://i.imgur.com/cdAZeDr.png" group-title="Portugal | Madeira | Unknown city",Posto Emissor do Funchal
+https://centova.radio.com.pt/proxy/426?mp=/stream.mp3
+#EXTINF:-1 tvg-id="efdd75ce-edc1-48e9-a503-98a78ce677d4" group-title="Portugal | Madeira | Unknown city",Posto Emissor do Funchal (Canal 1 - OM)
+http://centova.radio.com.pt:9422/
+#EXTINF:-1 tvg-id="96199a22-0601-11e8-ae97-52543be04c81" group-title="Portugal | Madeira | Unknown city",Posto Emissor do Funchal FM
+http://centova.radio.com.pt:9426/;
+#EXTINF:-1 tvg-id="49ae1b6c-c47e-434a-84f0-4a46af3c3c9f" group-title="Portugal | Madeira | Unknown city",Posto Emissor do Funchal OM
+http://centova.radio.com.pt:9422/stream
+#EXTINF:-1 tvg-id="ada49a43-85a7-484c-b1c5-be9d35a4d2a8" group-title="Portugal | Madeira | Unknown city",Posto Emissor do Funchal OM
+https://centova.radio.com.pt/proxy/422?mp=/stream;
+#EXTINF:-1 tvg-id="eaa99e4a-2a7c-4e16-96bc-b225bab5b0da" group-title="Portugal | Madeira | Unknown city",RTP Antena 3 Madeira
+https://radiocast.rtp.pt/antena3madeira80a.mp3
+#EXTINF:-1 tvg-id="4d7f4936-d129-4c3f-bb99-1a52798668bb" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-clube.png" group-title="Portugal | Madeira | Unknown city",Rádio Clube Madeira (106.8 FM)
+https://audio.serv.pt/8020/stream.mp3
+#EXTINF:-1 tvg-id="25847e5e-2769-478a-9bb3-a9ae9b8a0a9e" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-festival.png" group-title="Portugal | Madeira | Unknown city",Rádio Festival Madeira (98.4 FM)
+https://audio.serv.pt/8012/stream.mp3
+#EXTINF:-1 tvg-id="8a2b7baa-6da9-4c13-b74b-ec1c7367bbb9" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-palmeira.png" group-title="Portugal | Madeira | Unknown city",Rádio Palmeira Madeira (96.1 FM)
+https://audio.serv.pt/8018/stream.mp3
+#EXTINF:-1 tvg-id="a7d3cb11-67bf-4ed9-9ff1-ef4e036407ab" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio_popular.png" group-title="Portugal | Madeira | Unknown city",Rádio Popular Madeira (101.0 FM)
+https://audio.serv.pt/8018/stream.mp3
+#EXTINF:-1 tvg-id="2d2dcc6a-6761-40b9-9eb2-3d3df0a65c53" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-sol.png" group-title="Portugal | Madeira | Unknown city",Rádio Sol Madeira (103.7 FM)
+https://audio.serv.pt/8010/stream.mp3
+#EXTINF:-1 tvg-id="8e3f5870-917d-4b68-85ce-dcacc4e9c4be" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-zarco.png" group-title="Portugal | Madeira | Unknown city",Rádio Zarco Madeira (89.6 FM)
+https://audio.serv.pt/8014/stream.mp3
+#EXTINF:-1 tvg-id="96199d18-0601-11e8-ae97-52543be04c81" group-title="Portugal | Madeira | Unknown city",TSF Rádio Madeira
+http://centova.radio.com.pt:9470/;
+#EXTINF:-1 tvg-id="b05bc526-0822-4a8d-9e86-e0b19f119f30" tvg-logo="https://metalon.org/wordpress/wp-content/uploads/2017/01/cropped-cropped-metalon-3-9.png" group-title="Portugal | Marco de Canaveses | Marco de Canavezes",MetalON - The Heavy
+https://radiometalon.com/radio/8000/radio.mp3
+#EXTINF:-1 tvg-id="c442af33-d018-41b6-a755-3b16928f303f" tvg-logo="https://www.rcpfm.com/wp-content/uploads/2024/11/92.6elogo-1024x1024.jpg" group-title="Portugal | Pampilhosa | Unknown city",RCP - Rádio Clube da Pampilhosa
+https://sp0.redeaudio.com:10977/stream
+#EXTINF:-1 tvg-id="c102e2cc-9906-4c5a-881f-3c077470d7be" tvg-logo="https://www.facebook.com/radiovidaterraricapr" group-title="Portugal | Parana | Unknown city",Rádio Vida Terra Rica
+https://stm1.voxhd.com.br:7706/
+#EXTINF:-1 tvg-id="335ac3e2-b88b-45cb-b8b8-044b9f248273" group-title="Portugal | Penamacor | Unknown city",Radio cantinho da senhora da povoa
+http://185.32.188.17:8065/stream
+#EXTINF:-1 tvg-id="fc276c08-822a-46aa-b71a-afb9e15f9580" group-title="Portugal | Pombal | Unknown city",97fm Rádio Clube de Pombal
+https://centova.radios.com.pt/proxy/410?mp=/stream
+#EXTINF:-1 tvg-id="9619800a-0601-11e8-ae97-52543be04c81" group-title="Portugal | Portalegre | Unknown city",Rádio Portalegre
+http://centova.radio.com.pt:9492/;
+#EXTINF:-1 tvg-id="5fc794f4-46d3-4d09-aa96-99efaa85d470" tvg-logo="https://msfsradio.com/favicon-32.png" group-title="Portugal | Porto | Lavra",MSFS Radio
+https://radio.msfsradio.com/listen/msfs/radio.mp3
+#EXTINF:-1 tvg-id="94275caf-f435-422f-b466-537c6bef5760" tvg-logo="https://msfsradio.com/favicon.ico" group-title="Portugal | Porto | Lavra",MSFS Radio
+https://radio.msfsradio.com/listen/msfs/radio.mp3
+#EXTINF:-1 tvg-id="d1aed693-0120-4c9c-bfd1-3829e41fc693" group-title="Portugal | Porto | Maia",Rádio XL
+https://radios.justweb.pt/8002/stream
+#EXTINF:-1 tvg-id="4e6095bf-bee9-4a54-a910-3e620f22c921" tvg-logo="https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-32x32.png" group-title="Portugal | Porto | Massarelos",Radio Nova Porto 98.9FM
+http://centova.radios.pt:9528/stream
+#EXTINF:-1 tvg-id="05868cd8-bf1b-4a63-a63e-67a691f7b89a" tvg-logo="https://platform-upload.cdn-brlogic.com/253943/editor/3d5286d73cd7089f2a2c81cb7ae52edb.png" group-title="Portugal | Porto | Paços de Ferreira",Rádio Clube Paços de Ferreira 101.8 FM
+https://servidor15-3.brlogic.com:7088/live?source=15118
+#EXTINF:-1 tvg-id="779c866e-7bad-48a6-97c8-2ea9991eeb8f" tvg-logo="https://radiomusgo.com/img/musgologo_verde_site_small.png" group-title="Portugal | Porto | Porto",Radio Musgo
+https://stream.radiomusgo.com/main
+#EXTINF:-1 tvg-id="ece826dd-3eba-4c89-ab1c-24e34bfc6407" tvg-logo="https://bauermedia.pt/favicon.ico" group-title="Portugal | Porto | Porto",Smooth Jazz Portugal
+https://stream-hls.bauermedia.pt/smojazz.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="a6a7e44f-8845-49e5-91c6-2387fa25d534" group-title="Portugal | Porto | Sardão",Rádio Nova Era
+https://centova.radio.com.pt/proxy/478?mp=/stream
+#EXTINF:-1 tvg-id="91c924a8-bcb7-4916-83f6-7dbb7e0c1876" group-title="Portugal | Porto | Unknown city",MFM
+https://radios.justweb.pt/8074/stream
+#EXTINF:-1 tvg-id="96478a9c-0601-11e8-ae97-52543be04c81" group-title="Portugal | Porto | Unknown city",Radio Nova
+http://centova.radios.pt:9528/
+#EXTINF:-1 tvg-id="4c03e746-98fd-4c76-829f-c7010a72efe2" tvg-logo="https://www.radios.com.br/aovivo/radio-record-1077-fm/8928" group-title="Portugal | Porto | Unknown city",Record 95,5 FM
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 tvg-id="96194363-0601-11e8-ae97-52543be04c81" group-title="Portugal | Porto | Unknown city",Rádio Felgueiras
+http://centova.radio.com.pt:8459/;
+#EXTINF:-1 tvg-id="4c3d781a-16b7-4b9f-ac61-66b54c97f23c" group-title="Portugal | Porto | Unknown city",Rádio NoAr
+https://radios.justweb.pt/8034/stream
+#EXTINF:-1 tvg-id="9619866d-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png" group-title="Portugal | Porto | Unknown city",Rádio Nova 98.9 FM
+http://centova.radio.com.pt:9528/
+#EXTINF:-1 tvg-id="9618739f-0601-11e8-ae97-52543be04c81" group-title="Portugal | Porto | Unknown city",Rádio Nova Era
+http://centova.radio.com.pt:9478/
+#EXTINF:-1 tvg-id="96198725-0601-11e8-ae97-52543be04c81" group-title="Portugal | Porto | Unknown city",Rádio Onda Viva
+http://centova.radio.com.pt:9524/;
+#EXTINF:-1 tvg-id="adffff8e-0a5c-4b0f-a984-dc0a51c1130e" tvg-logo="https://radio.indymedia.pt/paralelo-star.png" group-title="Portugal | Porto | Unknown city",Rádio Paralelo
+https://radioparalelo.indymedia.pt/listen/paralelo/radio.mp3
+#EXTINF:-1 tvg-id="e5c560d6-c655-45c1-988e-9759ee2e010b" group-title="Portugal | porto portugal | São Pedro da Cova",radio metropolitana portugal
+https://radios.justweb.pt/8074/stream
+#EXTINF:-1 tvg-id="4cf9a93f-722e-41f2-a412-7011d6d8f267" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Portugal | Porto",Rádio Regional - Portugal
+https://play.radioregional.pt/stream/1/
+#EXTINF:-1 tvg-id="c9fbc557-0a5d-47c8-911f-e830b370c4cc" tvg-logo="https://www.recordfm.pt/player_m_santarem.htm" group-title="Portugal | Portugal | Unknown city",Record FM 105,5 santuário
+https://nl.digitalrm.pt:8018/stream
+#EXTINF:-1 tvg-id="d522956d-d0fb-4a07-abdb-650b2ff0d9f0" tvg-logo="https://www.recordfm.pt/player_m_algarve.htm" group-title="Portugal | Portugal | Unknown city",Record FM 91,8 Algarve
+https://nl.digitalrm.pt:8020/stream
+#EXTINF:-1 tvg-id="0dfc4377-1bb4-4a20-ba77-d0b4df0e488b" tvg-logo="https://radiotagide.pt/wp-content/uploads/2022/04/cropped-SIMBOLO_TAGIDE-32x32.png" group-title="Portugal | Santarém | Abrantes",Rádio Tágide
+https://rs2.ptservidor.com/proxy/carlos31?mp=/stream?type=.mp3
+#EXTINF:-1 tvg-id="c96a952e-4862-4304-b214-810df49856fc" tvg-logo="https://www.radiomarinhais.pt/wp-content/uploads/2023/06/cropped-favicon_rm-192x192.png" group-title="Portugal | Santarém | Marinhais",Rádio Marinahais
+https://radios2.justweb.pt/8052/stream
+#EXTINF:-1 tvg-id="a201c22b-df97-45c5-bf12-b1d932c8024b" tvg-logo="https://i0.wp.com/mediotejo.net/wp-content/uploads/2022/04/cropped-LogoMT800x800.png" group-title="Portugal | Santarém | Tramagal",Rádio Médio Tejo
+https://stream.expandenarrativa.pt/radio
+#EXTINF:-1 tvg-id="9618e6cb-0601-11e8-ae97-52543be04c81" group-title="Portugal | Santarém | Unknown city",Hiper FM
+http://195.23.85.126:9500/;
+#EXTINF:-1 tvg-id="206b4dd9-d3b4-43d5-a775-fcf3a0213289" tvg-logo="https://resfmradio.com/wp-content/uploads/2021/10/cropped-Logo_RES-FM_Verde_2.png" group-title="Portugal | Santarém | Unknown city",res fm
+https://stream2.soundflux.eu:8440/stream
+#EXTINF:-1 tvg-id="961987df-0601-11e8-ae97-52543be04c81" group-title="Portugal | Santarém | Unknown city",Rádio Antena Livre
+http://centova.radio.com.pt:8571/;
+#EXTINF:-1 tvg-id="9619895a-0601-11e8-ae97-52543be04c81" tvg-logo="https://www.tejofm.pt/favicon.ico" group-title="Portugal | Santarém | Unknown city",Tejo Rádio Jornal
+http://centova.radio.com.pt:8531/;
+#EXTINF:-1 tvg-id="9618efdc-0601-11e8-ae97-52543be04c81" group-title="Portugal | Santarém | Unknown city",Torres Novas FM
+http://centova.radio.com.pt:8475/;
+#EXTINF:-1 tvg-id="46f17b0b-d886-48ee-b6ae-e3e1c76a021f" tvg-logo="https://player.yesstreaming.com/uploads/logos/1727175777_c4e6b4b27f8127d74391.jpg" group-title="Portugal | Seixal | Seixal",RDS Romantica
+https://s9.yesstreaming.net:9066/stream
+#EXTINF:-1 tvg-id="b3f805aa-0cdb-4003-aaa6-8f628a9b6fe5" tvg-logo="https://scontent.flis5-4.fna.fbcdn.net/v/t39.30808-6/500655283_1250058963794271_2889443567232358165_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=w4U8bIGVv8QQ7kNvwFQYb3f&_nc_oc=Adl1a0tjkODtR6LsxYNF4xmjU3R7pnfIY4H62LN4IULEhOBmH867pgTZecknGItgI7w&_nc_zt=23&_nc_ht=scontent.flis5-4.fna&_nc_gid=VljbMq8gQlSef4mDIf-KBg&_nc_ss=8&oh=00_AfxZw2tULhaZnOXBJD5gH-GRFgzQ7so9glsW0xIr7XUahg&oe=69BAF319BoPBYDAYDIafnv8BMyMWrREjVeQAAAAASUVORK5CYII=" group-title="Portugal | Seixal | Seixal",Rádio RDS
+https://s9.yesstreaming.net:7070/stream
+#EXTINF:-1 tvg-id="c6ed0be5-21dd-4b03-aa18-0dbc9a0c3f87" group-title="Portugal | Setúbal | Piedade",M80 rádio
+http://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 tvg-id="0f4f1565-e7cc-4705-abc7-2593d3b38de6" tvg-logo="https://www.superfm.com/wp-content/uploads/2015/09/superfmlogo.png" group-title="Portugal | Setúbal | Sobreda",SuperFM
+https://play.radioregional.pt:8210/stream/2/;/stream.mp3
+#EXTINF:-1 tvg-id="96198adc-0601-11e8-ae97-52543be04c81" group-title="Portugal | Setúbal | Unknown city",Rádio Clube de Grândola
+http://link.radios.pt/rcg
+#EXTINF:-1 tvg-id="56db1998-4d48-42b4-a424-bfcec290aeb3" tvg-logo="https://www.celsoazevedo.com/files/random/2024/radio-festival.png" group-title="Portugal | Slough, Windsor, Maidenhead, Heathrow | Unknown city",Rádio Festival Madeira (98.4 FM)
+https://audio.serv.pt/8012/stream.mp3
+#EXTINF:-1 tvg-id="68a0a353-833f-49ff-82da-11687f7a0076" tvg-logo="https://radioterereweb.mixhd.com.br/" group-title="Portugal | SP | Unknown city",RÁDIO TERERE
+https://stm1.voxhd.com.br:9094/stream
+#EXTINF:-1 tvg-id="2921e1d9-a581-4799-a380-d2b8268044f5" tvg-logo="https://rfmsite2023-images.azureedge.net/images/webrads/rfm-00s-radio-online_100x100.jpg" group-title="Portugal | Unknown region | Unknown city",00's RFM
+https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac
+#EXTINF:-1 tvg-id="04e5765a-fc96-48dd-a5f4-ae2234a1a8ab" group-title="Portugal | Unknown region | Unknown city",2000 Comercial Online Lisboa Portugal
+https://stream-hls.bauermedia.pt/rcbest2000.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="fb943379-925b-4428-a84c-92f2dc8e2da8" group-title="Portugal | Unknown region | Unknown city",80ROCK
+http://rs2.ptservidor.com:8003/stream?type=.mp3
+#EXTINF:-1 tvg-id="4c645ad9-0050-4bfa-ab7f-0d8075bee320" tvg-logo="https://80rock.pt/wp-content/uploads/2020/02/logo.png" group-title="Portugal | Unknown region | Unknown city",80ROCK.pt
+https://rs2.ptservidor.com:2199/proxy/febrites?mp=/stream
+#EXTINF:-1 tvg-id="d7864112-a8d4-4d17-8f56-bf97d5be439e" group-title="Portugal | Unknown region | Unknown city",Alto Tamega FM
+http://188.93.231.97:9300/;
+#EXTINF:-1 tvg-id="5446bdeb-b081-413d-9552-42f1b16048b7" group-title="Portugal | Unknown region | Unknown city",Antena 1
+http://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="8267a9f9-e776-4b59-90e5-1179dfe1ad40" tvg-logo="https://www.celsoazevedo.com/files/2022/antena-1.png" group-title="Portugal | Unknown region | Unknown city",Antena 1 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="fd6b0dc7-1684-4677-8a63-0c28d988c4b0" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png?q=10&v=3&w=275" group-title="Portugal | Unknown region | Unknown city",Antena 1 - Main
+https://radiocast.rtp.pt/antena180a.mp3
+#EXTINF:-1 tvg-id="bf4e9e0e-6b72-46c3-aafe-b57eb8fcfe23" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1022-000919141305.png?q=10&v=3&w=120" group-title="Portugal | Unknown region | Unknown city",Antena 1 Fado
+http://radiocast.rtp.pt/antena1fado80a.mp3
+#EXTINF:-1 tvg-id="aab4fa49-bf54-4c76-8ba4-79ee27f2602e" tvg-logo="https://www.celsoazevedo.com/files/2022/antena-1.png" group-title="Portugal | Unknown region | Unknown city",antena 1 portugal
+http://streaming-live-app.rtp.pt/liveradio/antena180a/playlist.m3u8
+#EXTINF:-1 tvg-id="20f7728c-1d68-47ba-8f5a-b3627f8354b7" tvg-logo="https://www.rtp.pt/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Antena 2 (AAC)
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-id="60f9ae91-af89-4a97-980d-5ead2a654c3e" tvg-logo="https://www.rtp.pt/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Antena 2 (AAC)
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="005be201-4330-49e0-b827-8cb9a5a12a4a" tvg-logo="https://i.ibb.co/289b6wc/92-403019141305.webp" group-title="Portugal | Unknown region | Unknown city",Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="e7c49a9e-9716-49a0-b886-6a541c2919ce" tvg-logo="https://i.ibb.co/R6QVMwM/92-403019141305.webp" group-title="Portugal | Unknown region | Unknown city",Antena 2 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena280a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="033bc3a2-10c6-4946-bccf-b738878863cb" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png?q=10&v=3&w=275" group-title="Portugal | Unknown region | Unknown city",Antena 2 - Main
+https://radiocast.rtp.pt/antena280a.mp3
+#EXTINF:-1 tvg-id="0b5ba280-1823-4b72-bd01-10e3efb2ac20" tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-2-jazzin.png" group-title="Portugal | Unknown region | Unknown city",Antena 2 Jazzin (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8
+#EXTINF:-1 tvg-id="4793cb1d-3628-49d8-b71f-77eb59ec4158" tvg-logo="https://www.celsoazevedo.com/files/2022/11/antena-2-opera.png" group-title="Portugal | Unknown region | Unknown city",Antena 2 Ópera
+https://streaming-live.rtp.pt/liveradio/antena2opera80a/playlist.m3u8
+#EXTINF:-1 tvg-id="282ac845-f97c-401b-a5ba-2e2c2a2e0d15" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275" group-title="Portugal | Unknown region | Unknown city",Antena 3
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-id="6ee0cdcf-5d4c-4c29-9372-94a853110dec" group-title="Portugal | Unknown region | Unknown city",Antena 3 (AAC)
+http://streaming-live-app.rtp.pt/liveradio/antena380a/playlist.m3u8
+#EXTINF:-1 tvg-id="ba4a59be-3ba1-4461-b9de-f489d605c7ac" tvg-logo="https://i.ibb.co/1rcQ9sr/1-143718101410.webp" group-title="Portugal | Unknown region | Unknown city",Antena 3 (Portugal)
+https://streaming-live.rtp.pt/liveradio/antena380a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="30c9039c-85ca-4c00-80d0-d482ae637e34" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/1-143718101410.png?q=10&v=3&w=275" group-title="Portugal | Unknown region | Unknown city",Antena 3 - Main
+https://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1 tvg-id="4b323f8e-cb0b-4db6-8c28-21269186e25a" group-title="Portugal | Unknown region | Unknown city",Antena Livre de Gouveia
+https://centova.radio.com.pt/proxy/456?mp=/stream
+#EXTINF:-1 tvg-id="13b45d2a-ef33-4b41-8eec-b206583eaccc" tvg-logo="https://cdn-images.rtp.pt/play/images/apple-touch-icon.png-120x120.png" group-title="Portugal | Unknown region | Unknown city",Antenna 2 Opera
+http://radiocast.rtp.pt/antena2opera80a.mp3
+#EXTINF:-1 tvg-id="46caa663-278f-44e5-b746-36369d7c2765" group-title="Portugal | Unknown region | Unknown city",Back to the 80s
+http://s1.nexuscast.com:8135/;
+#EXTINF:-1 tvg-id="c05f4f24-e7c4-4406-8124-7ce5d5db1338" group-title="Portugal | Unknown region | Unknown city",BBN Portuguese
+https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860
+#EXTINF:-1 tvg-id="de455438-11f7-4c65-a8bf-3c5c3d327c90" tvg-logo="https://static.wixstatic.com/media/933a04_980c4409a7004eb981b44a4ae1ba283a~mv2.png/v1/fill/w_620,h_260,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_BeatRadio.png" group-title="Portugal | Unknown region | Unknown city",Beat FM
+http://185.32.188.17:8043/stream
+#EXTINF:-1 tvg-id="4e7cc736-e485-4ddf-a05b-a9af58d08b45" group-title="Portugal | Unknown region | Unknown city",Benfica FM
+https://default.benficaplay.cdn.videokit.cloud/out/v1/benficaplay-default/benficaplay_benficaplay-radio_08de155dbd06_audio/benficaplay_benficaplay-radio_08de155dbd06_hls/benficaplay-radio-hls.m3u8
+#EXTINF:-1 tvg-id="d60ce0b5-fe8f-46e0-933a-4498f01a16e4" group-title="Portugal | Unknown region | Unknown city",Caria - Rádio Natal
+https://stream-177.surfernetwork.com/zb5w8yybqxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6YjV3OHl5YnF4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzcuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6Ii0xQ1ViMUVhVG95Y3J1bUd2UWlaY1EiLCJpYXQiOjE3OTMxMDA5ODEsImV4cCI6MTc5MzEwMTA0MX0.X8HCuDpB94OY78j2-uN4VV2qo9YQoh3rb4vHnW5woJo
+#EXTINF:-1 tvg-id="d1c00267-9915-4854-8f28-3e486f1c0591" tvg-logo="https://cidade.fm/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Cidade FM
+https://stream-icy.bauermedia.pt/cidade.mp3
+#EXTINF:-1 tvg-id="311a0770-f57b-42fe-9de4-9c8fdc7b84e1" group-title="Portugal | Unknown region | Unknown city",Cidade_fm
+https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="291257ce-928c-4471-96a0-f33d22950519" tvg-logo="https://coolfm.live/assets/images/faveicon/favicon-96x96.png" group-title="Portugal | Unknown region | Unknown city",Cool FM Albufeira
+https://a1.asurahosting.com:9360/radio.mp3
+#EXTINF:-1 tvg-id="be802b5d-d62c-4ca7-ad17-7115ad12b81b" group-title="Portugal | Unknown region | Unknown city",Deep Mix Radio
+https://stream-new.deepmix.net/deep-mix-radio-320.mp3
+#EXTINF:-1 tvg-id="3bb603f7-e703-4a95-949b-f96e7f85a2a8" tvg-logo="https://everythingisnew.pt/wp-content/themes/ein/assets/img/EverythingIsNew.png" group-title="Portugal | Unknown region | Unknown city",Everything Is New
+http://proic1.redeaudio.com/ein
+#EXTINF:-1 tvg-id="49ba09e7-ffcf-4124-b556-e75bb5623c5a" group-title="Portugal | Unknown region | Unknown city",FUTURA - Rádio de Autor
+https://s4.radio.co/s7e7b6c165/listen
+#EXTINF:-1 tvg-id="d0808b14-f138-4bac-9018-f9d120de3ede" tvg-logo="https://radiogeice.com/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Geice FM
+https://ec2.yesstreaming.net:3275/stream
+#EXTINF:-1 tvg-id="7b56337d-048b-4545-ba70-704e37cdba7a" tvg-logo="https://golo.fm/favicon.ico" group-title="Portugal | Unknown region | Unknown city",GoloFM
+https://sp0.redeaudio.com/8154/stream
+#EXTINF:-1 tvg-id="6c1ef496-8fd1-4f93-b0f7-30ac6032bb34" group-title="Portugal | Unknown region | Unknown city",jovembsk
+https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg
+#EXTINF:-1 tvg-id="d5f71a8d-414b-495a-b145-f78da9b6786e" group-title="Portugal | Unknown region | Unknown city",jovembsk
+https://stream-54.zeno.fm/ppgb4k7vhqztv?zs=16hfH25BROGMPgJQytuZKg
+#EXTINF:-1 tvg-id="67759513-b3f7-4e70-a8cd-bfa8d690b0a3" group-title="Portugal | Unknown region | Unknown city",jovembsk dance
+https://stream.zeno.fm/1wux17cbfkcuv
+#EXTINF:-1 tvg-id="8c98cd6c-1066-451a-801e-3cb7ad908dfb" group-title="Portugal | Unknown region | Unknown city",JOVEMBSK MIX
+http://stream.zeno.fm/4nc1mzdp81xuv
+#EXTINF:-1 tvg-id="6c9775e4-f815-4d3e-9e13-f1d7cd9138fb" group-title="Portugal | Unknown region | Unknown city",jovembsk mix
+http://stream.zeno.fm/4nc1mzdp81xuv
+#EXTINF:-1 tvg-id="644f28f1-928a-4fc8-8f69-789476f9fafa" tvg-logo="https://www.lafrenchradio.pt/upload/design/5ffda59fed57e1.23982984.jpg" group-title="Portugal | Unknown region | Unknown city",La French Radio Portugal
+https://www.radioking.com/play/lfr-portugal
+#EXTINF:-1 tvg-id="06efe05f-7471-49b2-85b3-fcbecd8ebc4e" group-title="Portugal | Unknown region | Unknown city",Lusophonica
+https://stream.radiojar.com/dxkmh6hv1f8uv?1651072328
+#EXTINF:-1 tvg-id="0d3906bb-5170-43ba-b6b6-9647f7a515a4" group-title="Portugal | Unknown region | Unknown city",M 80 Rádio
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 tvg-id="0602f873-4a47-4536-9039-bbbdee1ecc1d" group-title="Portugal | Unknown region | Unknown city",M80 Rádio (AAC)
+https://stream-icy.bauermedia.pt/m80.aac
+#EXTINF:-1 tvg-id="2d4d495b-f10e-4563-b9e4-4c3b18d4a067" group-title="Portugal | Unknown region | Unknown city",Mega Hits - Lisboa
+http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC
+#EXTINF:-1 tvg-id="c354aea8-c722-4288-8012-4baf003cb24b" group-title="Portugal | Unknown region | Unknown city",Monsanto
+https://s9.yesstreaming.net:9029/
+#EXTINF:-1 tvg-id="e21f12c2-5c2b-4926-9ff4-dd4167d63161" tvg-logo="https://www.nit.pt/wp-content/themes/nit-sage-v2/dist/images/favicon/favicon-128.png" group-title="Portugal | Unknown region | Unknown city",NiTfm
+https://sp0.redeaudio.com/8028/stream/
+#EXTINF:-1 tvg-id="f721aaa0-4ce3-4df1-88ea-7291ee08a1d3" tvg-logo="https://www.noite.fm/wp-content/uploads/2024/06/Logo_noiteFM_Vector_Forground-3-09.png" group-title="Portugal | Unknown region | Unknown city",NOITE FM
+https://servidor.noite.pt:9002/stream
+#EXTINF:-1 tvg-id="07059fbf-b328-4fe6-8808-43fc2ed2e32d" tvg-logo="https://ondalivrefm.net/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Onda Livre
+https://centova.radio.com.pt/proxy/572?mp=/stream
+#EXTINF:-1 tvg-id="23533638-2a48-44ad-abe3-d7d931fe6232" tvg-logo="https://www.orbital.pt/orbitalrds.gif" group-title="Portugal | Unknown region | Unknown city",Orbital
+https://ec2.yesstreaming.net:3025/stream
+#EXTINF:-1 tvg-id="645c7030-4baa-4497-8f98-aeccc4c34160" tvg-logo="https://www.orbital.pt/icon.png" group-title="Portugal | Unknown region | Unknown city",Orbital FM
+https://ec2.yesstreaming.net:3025/stream
+#EXTINF:-1 tvg-id="46dc6e29-8390-44f3-9d83-ff59d4a41fd9" tvg-logo="https://orbital.pt/icon.png" group-title="Portugal | Unknown region | Unknown city",Orbital Rádio
+http://centova.radios.pt:8401/;
+#EXTINF:-1 tvg-id="dc436a61-bc55-43a7-b25d-3e00cbefcebc" tvg-logo="https://kids.palavraantiga.org/web/image/695-8db68381/logo-kids-512.png" group-title="Portugal | Unknown region | Unknown city",Palavra Antiga Kids
+https://radio.palavraantiga.org/listen/kids/radio.mp3
+#EXTINF:-1 tvg-id="3debf7a7-1032-4bc0-b200-929aba93a2c8" group-title="Portugal | Unknown region | Unknown city",Portugal Star
+http://185.118.112.12:8028/live
+#EXTINF:-1 tvg-id="b77d4a10-8634-4f76-a579-8421c9131dde" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9l5hioJHnb99wLMAOD7sai10WTa6YpW1JfW5GvSJWGE8C_r0KfPieC4gCYPJtRgLOhcBjihgMoOQ3KvTNAB3iaO5T3LRSmrvjE-3-WA3u0HZa_3jIk1Gpq2buERY8F8IxpWBPcVsn5dbSOk0dUiYncOOCweTZ-e0UP3VyJWeSPtp208W3i_YJkwRWG3-A/s1080/PCIMG_2026-03-19_10-06-56.JPG" group-title="Portugal | Unknown region | Unknown city",porão da nau 2
+http://uk20freenew.listen2myradio.com:5382/;
+#EXTINF:-1 tvg-id="faae6118-c0cd-454b-ab33-630f7955e1d3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9l5hioJHnb99wLMAOD7sai10WTa6YpW1JfW5GvSJWGE8C_r0KfPieC4gCYPJtRgLOhcBjihgMoOQ3KvTNAB3iaO5T3LRSmrvjE-3-WA3u0HZa_3jIk1Gpq2buERY8F8IxpWBPcVsn5dbSOk0dUiYncOOCweTZ-e0UP3VyJWeSPtp208W3i_YJkwRWG3-A/s1080/PCIMG_2026-03-19_10-06-56.JPG" group-title="Portugal | Unknown region | Unknown city",porão da nau 2
+http://uk20freenew.listen2myradio.com:5382/
+#EXTINF:-1 tvg-id="c4768f86-1489-4eff-8871-59f38164a315" tvg-logo="https://radarlisboa.fm/wp-content/uploads/2016/02/logo_abril-1.png" group-title="Portugal | Unknown region | Unknown city",Radar
+http://proic1.redeaudio.com/radar_aac
+#EXTINF:-1 tvg-id="af913556-c2bf-4efc-9d62-1bc715af15f9" group-title="Portugal | Unknown region | Unknown city",RADAR – 97.8 FM
+http://proic1.evspt.com/radar_aac
+#EXTINF:-1 tvg-id="6d27325e-da7e-4682-8e73-465fc5082347" tvg-logo="https://www.radioamigosdomundo.com/public/01100-2026-05-16.jpg" group-title="Portugal | Unknown region | Unknown city",Radio Amigos do Mundo
+https://sonic.servsonic.com:7004/stream
+#EXTINF:-1 tvg-id="bd9404d3-e56b-4eea-a500-3101fcd3d594" tvg-logo="https://public-rf-upload.minhawebradio.net/198355/favicon/e546f187222f5837de85785dde53de8f.png" group-title="Portugal | Unknown region | Unknown city",Radio Biblia
+https://servidor30-4.brlogic.com:7398/live?source=website
+#EXTINF:-1 tvg-id="9acc0481-3f99-448d-94cc-44a7bfd7ec9a" tvg-logo="https://radiocampomaior.com/wp-content/uploads/sites/3/2024/01/Client_RCM-768x565.png" group-title="Portugal | Unknown region | Unknown city",RADIO CAMPO MAIOR
+https://radios2.justweb.pt:8064/stream?type=http&nocache=32
+#EXTINF:-1 tvg-id="44cb20dc-e9ac-41ef-a4fe-153d48fcdd96" group-title="Portugal | Unknown region | Unknown city",Radio Comercial Portugal
+https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:-1 tvg-id="a1259280-4e93-47f9-b524-d491e9b622be" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/79496.v16.png" group-title="Portugal | Unknown region | Unknown city",Radio Comercial Rock
+https://stream-icy.bauermedia.pt/rcrock.aac
+#EXTINF:-1 tvg-id="ac843a5b-f7ef-4b89-9491-590bdaf20b4c" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Radio_Comercial.jpg" group-title="Portugal | Unknown region | Unknown city",Radio Commercial
+https://stream-icy.bauermedia.pt/comercial.mp3
+#EXTINF:-1 tvg-id="4694a5fd-c9e9-439d-94c6-c2aeb8f17171" group-title="Portugal | Unknown region | Unknown city",Radio Fado de Coimbra
+https://nl.digitalrm.pt:8048/stream
+#EXTINF:-1 tvg-id="4a8828ff-1834-4790-8388-fc7758729ef1" group-title="Portugal | Unknown region | Unknown city",Radio FM
+http://playerservices.streamtheworld.com/api/livestream-redirect/RFM.mp3
+#EXTINF:-1 tvg-id="8e68b774-36ee-4d3b-a44c-3d3b54f1bfc5" group-title="Portugal | Unknown region | Unknown city",Radio Linear
+http://nl.digitalrm.pt:8184/stream
+#EXTINF:-1 tvg-id="65b0683c-6952-4ded-b542-439abaddddaf" tvg-logo="https://marginal.fm/images/logo-marginal.png" group-title="Portugal | Unknown region | Unknown city",Radio Marginal 98.1 FM
+http://centova.radios.pt:8499/stream
+#EXTINF:-1 tvg-id="947e85f8-f8af-42df-bd6f-1d6549bc094b" group-title="Portugal | Unknown region | Unknown city",Radio Metal On: 80s HNH
+https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3
+#EXTINF:-1 tvg-id="d4841efc-ba3f-43f2-9129-51aa5372c20f" group-title="Portugal | Unknown region | Unknown city",Radio Metal On: The Brutal
+https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3
+#EXTINF:-1 tvg-id="ea9307a6-42d4-43b6-b22d-ecc3cb3ec4c0" group-title="Portugal | Unknown region | Unknown city",Radio Metal On: The Heavy
+https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3
+#EXTINF:-1 tvg-id="30a09972-730a-42d8-8614-c9148b05992f" group-title="Portugal | Unknown region | Unknown city",Radio Metal On: The Thrasher
+https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3
+#EXTINF:-1 tvg-id="1f86fce1-5d79-4c52-b06e-462cabb5da26" group-title="Portugal | Unknown region | Unknown city",Radio Metal On: Toxic
+https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3
+#EXTINF:-1 tvg-id="3c2088db-2e05-4ff2-a653-a4f1a3c96c49" tvg-logo="https://radionovaantena.com/wp-content/uploads/sites/2/2024/01/Logo-RNA.png" group-title="Portugal | Unknown region | Unknown city",RADIO NOVA ANTENA
+https://radios2.justweb.pt:8068/stream?type=http&nocache=82
+#EXTINF:-1 tvg-id="f9cf4cce-e599-495f-851d-5a587562b71a" tvg-logo="https://radionovaera.pt/resources/img/favicon/android-icon-192x192.png" group-title="Portugal | Unknown region | Unknown city",Radio Nova Era
+https://centova.radio.com.pt/proxy/478?mp=/stream
+#EXTINF:-1 tvg-id="68c6b8fb-5bdb-44ae-b72d-43e90ccd66cd" tvg-logo="https://s3.observador.pt/wp-content/uploads/2023/06/01150406/320-1-1.png" group-title="Portugal | Unknown region | Unknown city",Radio Observador
+https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac
+#EXTINF:-1 tvg-id="264e4976-9863-40ea-95ff-3ad4eaf0a107" tvg-logo="https://onbouge.eu/images/pictos/png/256/radio.png" group-title="Portugal | Unknown region | Unknown city",Radio OnBouge
+https://onbouge.eu/flux/onbouge.mp3
+#EXTINF:-1 tvg-id="cea4c68f-aa55-4760-b65c-530ee5b89bd7" tvg-logo="https://www.orbital.pt/icon.png" group-title="Portugal | Unknown region | Unknown city",radio orbital
+https://centova.radio.com.pt/proxy/401?mp=/stream
+#EXTINF:-1 tvg-id="573f009c-11d4-48db-b006-d1e8cb9df6a1" group-title="Portugal | Unknown region | Unknown city",Radio Portugal Mais
+https://sv15.hdradios.net:7432/stream
+#EXTINF:-1 tvg-id="9f24883b-99f5-4404-8c51-b163eb31bf3a" group-title="Portugal | Unknown region | Unknown city",Radio Portuguesa do Var
+https://sonic.servsonic.com:7003/;
+#EXTINF:-1 tvg-id="bd2539d1-bd21-4555-a32c-43deba0eccfd" group-title="Portugal | Unknown region | Unknown city",RADIO RCP-VAR
+https://sonic.servsonic.com/8028/stream
+#EXTINF:-1 tvg-id="89938c58-5bd1-4e86-897c-f3b5e046aaf6" group-title="Portugal | Unknown region | Unknown city",Radio Record Porto
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 tvg-id="31691688-2a1a-4fea-b67c-ac94980c4c74" tvg-logo="https://rrsite-images.azureedge.net/favicon/apple-touch-icon.png" group-title="Portugal | Unknown region | Unknown city",Radio Renascença
+https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac
+#EXTINF:-1 tvg-id="fd104e84-66e4-456d-b58c-45ffcb589d41" tvg-logo="https://radio.softshell-octatonic.ts.net/logo.jpg" group-title="Portugal | Unknown region | Unknown city",Radio Rock Pirata
+https://radio.softshell-octatonic.ts.net/stream
+#EXTINF:-1 tvg-id="6994316a-465d-40de-a567-1256216e270d" group-title="Portugal | Unknown region | Unknown city",Radio Santiago Guimaraes
+http://eu6.fastcast4u.com:5002/stream
+#EXTINF:-1 tvg-id="9442700c-1c64-441e-99ff-7d403b87ec53" tvg-logo="https://radiotransforma.net/wp-content/uploads/2025/05/cropped-logo-radio-192x192.jpg" group-title="Portugal | Unknown region | Unknown city",Radio Transforma
+https://cast1.redeaudio.com/proxy/radiotransforma/stream
+#EXTINF:-1 tvg-id="c906c435-8b5d-4b35-a9aa-bfb992a9c659" group-title="Portugal | Unknown region | Unknown city",Radio Valdevez
+https://centova.radio.com.pt/proxy/508?mp=/stream
+#EXTINF:-1 tvg-id="44e4a32a-1200-4e27-8324-ac421083a82c" tvg-logo="https://www.radiofutura.pt/uploads/1/3/3/3/133330486/ftr-logotipo-slogan-preto-em-branco.png" group-title="Portugal | Unknown region | Unknown city",radiofutura.pt
+https://s4.radio.co/s7e7b6c165/low
+#EXTINF:-1 tvg-id="2a0fb11e-f91a-4553-bfff-3861a1de8fb9" group-title="Portugal | Unknown region | Unknown city",Rap/Hip Hop
+http://185.32.188.17:8097/stream
+#EXTINF:-1 tvg-id="deb76866-2c70-49da-9e7c-7bba10d81af2" tvg-logo="https://i.ibb.co/dKfSgKZ/95-594018101410.png" group-title="Portugal | Unknown region | Unknown city",RDP Internacional (Portugal)
+https://streaming-live.rtp.pt/liveradio/rdpint80a/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="b97e1646-b7f9-42ca-838e-bc973d1c813c" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png?q=10&v=3&w=275" group-title="Portugal | Unknown region | Unknown city",RDP Internacional - Main
+https://radiocast.rtp.pt/rdpint80a.mp3
+#EXTINF:-1 tvg-id="29253686-6979-43f2-9768-68b1bdf558b4" tvg-logo="https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-PT.png" group-title="Portugal | Unknown region | Unknown city",REPLAY NEWS - Português
+https://replaynewspt.ice.infomaniak.ch/replaynewspt-128.mp3
+#EXTINF:-1 tvg-id="cd08ddef-18ae-421c-85a3-971ee8caa5d5" tvg-logo="https://resfmradio.com/wp-content/uploads/2021/09/Logo_RES-FM_Verde_2.png" group-title="Portugal | Unknown region | Unknown city",RES FM
+http://stream2.soundflux.eu:8440/stream
+#EXTINF:-1 tvg-id="10df8eab-7994-4f3d-a615-05eb77e105bc" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM
+https://22593.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 tvg-id="856155ee-f434-4a45-9225-391c0e618b8b" tvg-logo="https://rfmsite-images.azureedge.net/icons/touch-icon-iphone-retina.png" group-title="Portugal | Unknown region | Unknown city",RFM
+https://23603.live.streamtheworld.com/RFMAAC.aac
+#EXTINF:-1 tvg-id="9f0765ed-8700-4ea9-a340-4dc7d050466b" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM DANCE IT
+https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac
+#EXTINF:-1 tvg-id="2fe99714-e9ca-4bc0-aa0e-d97169efaef5" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM JAZZY
+https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac
+#EXTINF:-1 tvg-id="704298d4-fbfc-424a-85c0-25937cde9814" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM LATINAS
+https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac
+#EXTINF:-1 tvg-id="53beea5d-890e-42c3-9e87-ce515481d478" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM NOVAS
+https://22733.live.streamtheworld.com/RFM_FRESCASAAC.aac
+#EXTINF:-1 tvg-id="34760786-80a0-4057-99a1-85f2d8fd2338" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM Oceano Pacifico
+https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac
+#EXTINF:-1 tvg-id="99267ca2-a280-4342-b8bb-4e78d8a9dae0" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM Rocks
+https://25583.live.streamtheworld.com/RFMONTHEROCKAAC.aac
+#EXTINF:-1 tvg-id="40e31aa5-7f90-44be-b290-6ea6cb44f0e6" tvg-logo="https://rfmsite2023-images.azureedge.net/icons/favicon.ico" group-title="Portugal | Unknown region | Unknown city",RFM TOCA PORTUGAL
+https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac
+#EXTINF:-1 tvg-id="3b194913-f22d-4751-a24b-d8bfbf739743" tvg-logo="https://minhawebradio.com/contents/27516/avatar/xmb453e2ea36898b581380f0a72ac3675d_27516_1775041699.jpg" group-title="Portugal | Unknown region | Unknown city",RIO – Rádio Internacional Odemira
+https://hts02.brascast.com:10476/stream
+#EXTINF:-1 tvg-id="1aa67c97-6108-4085-871b-28e589644de8" group-title="Portugal | Unknown region | Unknown city",RTP Antena 2
+http://streaming-live-app.rtp.pt/liveradio/antena280a/playlist.m3u8
+#EXTINF:-1 tvg-id="f57789e6-f302-4d4f-b0e5-eae2d4e52cf6" group-title="Portugal | Unknown region | Unknown city",RTP Antena 3
+https://radiocast.rtp.pt/antena380a.mp3
+#EXTINF:-1 tvg-id="834c4672-3a81-46da-9de9-ff73f4e04faf" tvg-logo="https://jagsilva.com/favicon.svg" group-title="Portugal | Unknown region | Unknown city",Rádio Algoritmo
+https://jagsilva.com/stream
+#EXTINF:-1 tvg-id="e451bd02-ea2a-4680-8a32-15e7adfcba78" tvg-logo="https://www.altitude.fm/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Rádio Altitude FM
+http://centova.radios.pt:9034/;
+#EXTINF:-1 tvg-id="f975f74a-d9e0-4ed9-b360-3fe0b5a0ecbd" tvg-logo="https://radioaltominho.pt/Ava//current_animator.jpg?1740106077826" group-title="Portugal | Unknown region | Unknown city",Rádio Alto Minho
+https://ec2.yesstreaming.net:3705/stream
+#EXTINF:-1 tvg-id="926c32c4-b808-4c0c-98b4-b93bd59b8594" group-title="Portugal | Unknown region | Unknown city",Rádio Alto Minho
+https://ec2.yesstreaming.net:3705/stream
+#EXTINF:-1 tvg-id="696e8bf6-3f39-4e8a-b31f-babc5ae3ed8a" group-title="Portugal | Unknown region | Unknown city",Rádio Amor Portugal
+https://stream.radioamorportugal.com:8443/rap.mp3
+#EXTINF:-1 tvg-id="1b7e5f98-48e2-45f6-b641-c2145719fb77" tvg-logo="https://www.radio.net/images/broadcasts/ea/be/14833/c300.png" group-title="Portugal | Unknown region | Unknown city",Rádio Amália
+http://centova.radios.pt:9496/stream
+#EXTINF:-1 tvg-id="0650d1ad-57c5-4820-8a63-8afd56c26b87" group-title="Portugal | Unknown region | Unknown city",Rádio Botaréu
+https://sp0.redeaudio.com:8272/stream
+#EXTINF:-1 tvg-id="b6109c8d-0910-428f-94e9-b4cab9b4ff44" group-title="Portugal | Unknown region | Unknown city",Rádio Clube de Arganil
+http://176.9.43.216:8135/stream
+#EXTINF:-1 tvg-id="99660eba-311b-461a-b2ff-10aefef237cb" group-title="Portugal | Unknown region | Unknown city",Rádio Clube de Lamego
+http://audio.ptisp.com:8110/;
+#EXTINF:-1 tvg-id="8e35a2a7-3f57-48c6-b625-8da896e5a243" group-title="Portugal | Unknown region | Unknown city",Rádio Clube de Mafra
+https://centova.radio.com.pt/proxy/551?mp=/stream
+#EXTINF:-1 tvg-id="77382bc6-0201-48f1-a1c6-8613a2848e91" group-title="Portugal | Unknown region | Unknown city",Rádio Clube Foz do Mondego
+http://nl.digitalrm.pt:8216/stream
+#EXTINF:-1 tvg-id="ed07129e-0174-4dff-afaa-3fde476904b5" group-title="Portugal | Unknown region | Unknown city",Rádio Comercial Kids
+https://stream-icy.bauermedia.pt/rckids.aac
+#EXTINF:-1 tvg-id="bbc96605-5fa7-4fb8-86f7-c0f4920bec64" group-title="Portugal | Unknown region | Unknown city",Rádio Comercial Natal
+https://stream-icy.bauermedia.pt/rcxmas.aac
+#EXTINF:-1 tvg-id="d4e88734-7d18-48ea-8e38-8a548459ee55" tvg-logo="https://radioelvas.com/wp-content/uploads/2024/02/Logo-RE-768x341.png" group-title="Portugal | Unknown region | Unknown city",Rádio Elvas
+https://radios2.justweb.pt:8066/stream?type=http&nocache=297
+#EXTINF:-1 tvg-id="ccc83670-4727-40f2-93f2-1fee93dbaecf" tvg-logo="https://rfmondego.pt/wp-content/uploads/2021/09/cropped-LOGO-PEQ-1.png" group-title="Portugal | Unknown region | Unknown city",Rádio Foz do Mondego
+https://nl.digitalrm.pt:8216/stream
+#EXTINF:-1 tvg-id="c67f0ff7-fe56-4204-a6ab-b61a3749b232" tvg-logo="https://radiohertz.pt/wp-content/uploads/2017/01/cropped-Teste1-192x192.png" group-title="Portugal | Unknown region | Unknown city",Rádio Hertz
+https://radios2.justweb.pt/8042/stream
+#EXTINF:-1 tvg-id="0a189e2f-e3d0-4a70-8e67-750c0087e1f1" tvg-logo="https://www.celsoazevedo.com/files/2022/11/radio-lusitania.png" group-title="Portugal | Unknown region | Unknown city",Rádio Lusitânia
+https://streaming-live.rtp.pt/liveradio/lusitania80a/playlist.m3u8
+#EXTINF:-1 tvg-id="8e55decb-7729-430f-9a8e-92b057e75aab" tvg-logo="https://maiorcafm.pt/maiorcafm_logo.png" group-title="Portugal | Unknown region | Unknown city",Rádio Maiorca
+https://nl.digitalrm.pt:8182/stream
+#EXTINF:-1 tvg-id="f6df77a6-d7c5-4927-9334-0ed11d3370bc" group-title="Portugal | Unknown region | Unknown city",Rádio Marcoense
+http://137.74.160.250:8000/stream
+#EXTINF:-1 tvg-id="7d385089-1f17-493d-8f54-7f387ccf8d22" group-title="Portugal | Unknown region | Unknown city",Rádio Marginal
+https://centova.radios.pt/proxy/499?mp=/stream
+#EXTINF:-1 tvg-id="453c2be8-5c7b-43f1-bce1-51bc23bce0fb" tvg-logo="https://www.radiom24.com/assets/dist/img/logo-md.png" group-title="Portugal | Unknown region | Unknown city",Rádio Miróbriga
+https://rs2.ptservidor.com/proxy/paulo1?mp=/stream?type=.mp3
+#EXTINF:-1 tvg-id="5e1ddf7e-8bbd-11e9-ad01-52543be04c81" group-title="Portugal | Unknown region | Unknown city",Rádio Miudos
+http://109.71.41.6:8020/live
+#EXTINF:-1 tvg-id="668bc1d4-f8a3-4555-81b8-337185338ea0" tvg-logo="https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png" group-title="Portugal | Unknown region | Unknown city",Rádio Nova
+http://centova.radios.pt:9528/;
+#EXTINF:-1 tvg-id="733564ac-c1cd-4f4f-9ca5-d12dd9385ab8" tvg-logo="https://onbouge.eu/images/pictos/png/256/radio.png" group-title="Portugal | Unknown region | Unknown city",Rádio OnBouge Português
+https://onbouge.eu/flux/onbouge-pt.mp3
+#EXTINF:-1 tvg-id="016c302b-1b36-4dc3-ad0f-a9f6b158de1c" tvg-logo="https://palavraantiga.org/web/image/717-e4330d3e/logo-palavraantiga-512.png" group-title="Portugal | Unknown region | Unknown city",Rádio Palavra Antiga
+https://radio.palavraantiga.org/listen/palavraantiga/radio.mp3
+#EXTINF:-1 tvg-id="e04a54c7-cb9b-4f7e-bb44-39846880904b" group-title="Portugal | Unknown region | Unknown city",Rádio Perlépia
+https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3
+#EXTINF:-1 tvg-id="bb3406be-edb7-455d-a346-b322139596db" group-title="Portugal | Unknown region | Unknown city",Rádio Popular de Source
+https://nl.digitalrm.pt:8072/stream?1671016403075=
+#EXTINF:-1 tvg-id="4061e68a-7f97-44bb-a453-76489a23c99c" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Unknown region | Unknown city",Rádio Regional - Bragança
+https://play.radioregional.pt/stream/5/
+#EXTINF:-1 tvg-id="b11bad37-7096-4a3c-ad76-9bf6538b2626" group-title="Portugal | Unknown region | Unknown city",Rádio regional de Arouca 103.2 FM
+http://centova.radio.com.pt:8485/;
+#EXTINF:-1 tvg-id="a58baf6a-e226-4b6b-aba8-fbe639d88097" group-title="Portugal | Unknown region | Unknown city",Rádio Regional do Centro
+https://nl.digitalrm.pt:8030/stream?1671017145140=
+#EXTINF:-1 tvg-id="17022766-6ebe-469e-aa46-19f9293cc6ba" tvg-logo="https://radiosudoeste.pt/favicon.ico" group-title="Portugal | Unknown region | Unknown city",Rádio Sudoeste
+https://centova.radios.pt/proxy/495?mp=/stream
+#EXTINF:-1 tvg-id="f85575d6-16c9-48de-85c2-c32f41847634" tvg-logo="https://radioxlfm.pt/wp-content/uploads/2020/07/cropped-favicon-novo-180x180.png" group-title="Portugal | Unknown region | Unknown city",Rádio XL FM
+https://radios.justweb.pt/8002/stream
+#EXTINF:-1 tvg-id="cff465ef-869b-4270-9839-b37708e13561" tvg-logo="https://smoothfm.pt/favicon.ico" group-title="Portugal | Unknown region | Unknown city",SmoothFM Soul
+https://stream-icy.bauermedia.pt/smoothsoul.aac
+#EXTINF:-1 tvg-id="89bd8b04-11c9-42bf-a374-e5eb3b7b8f22" tvg-logo="https://www.top80.fm/wp-content/uploads/2023/03/cropped-ic_launcher_top80-180x180.png" group-title="Portugal | Unknown region | Unknown city",TOP 80 - Todos Os Exitos De 80 A 2000
+http://live.top80.fm:8086/
+#EXTINF:-1 tvg-id="d4310c4c-714e-458a-b987-3a5bb6386463" group-title="Portugal | Unknown region | Unknown city",Wave Vibes
+https://a6.asurahosting.com/listen/wave_vibes/radio.mp3
+#EXTINF:-1 tvg-id="7365e570-cacc-4e43-a38b-533bb0b70236" tvg-logo="https://cantinhodosemigrantes.pt/wp-content/uploads/2023/03/logo_radio.png" group-title="Portugal | Viana do Castelo | Unknown city",Cantinho dos Emigrantes
+https://cast.redewt.net:9825/stream
+#EXTINF:-1 tvg-id="d47f4a27-d7a5-435c-882f-1f0a2d062b55" group-title="Portugal | Viana do Castelo | Unknown city",Rádio Amor Portugal
+https://stream.radioamorportugal.com:8443/rap.mp3
+#EXTINF:-1 tvg-id="96198e05-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viana do Castelo | Unknown city",Rádio Barca
+http://centova.radio.com.pt:8483/;
+#EXTINF:-1 tvg-id="96189b23-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viana do Castelo | Unknown city",Rádio Ondas do Lima
+http://centova.radio.com.pt:8407/;
+#EXTINF:-1 tvg-id="96198f99-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viana do Castelo | Unknown city",Rádio Popular Afifense
+http://centova.radio.com.pt:8471/;
+#EXTINF:-1 tvg-id="96199065-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viana do Castelo | Unknown city",Rádio Valdevez
+http://centova.radios.pt:9508/stream
+#EXTINF:-1 tvg-id="f53ff59d-fd3f-4dd0-9ce7-4654dbb4a128" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Vila Real | Chaves",Rádio Regional - Chaves
+https://play.radioregional.pt/stream/4/
+#EXTINF:-1 tvg-id="96191361-0601-11e8-ae97-52543be04c81" group-title="Portugal | Vila Real | Unknown city",Rádio Montalegre
+http://centova.radio.com.pt:9566/;
+#EXTINF:-1 tvg-id="961991fd-0601-11e8-ae97-52543be04c81" group-title="Portugal | Vila Real | Unknown city",Universidade FM
+http://centova.radio.com.pt:8405/;
+#EXTINF:-1 tvg-id="823b9c9b-182a-462b-8fe4-e6e6d12ec9a6" tvg-logo="https://radioregional.pt/wp-content/uploads/2022/02/rr-logo-1.png" group-title="Portugal | Vila Real | Vila Real",Rádio Regional - Vila Real
+https://play.radioregional.pt/stream/3/
+#EXTINF:-1 tvg-id="e8afec33-6577-4f2e-8a99-ea61a62b7485" tvg-logo="https://www.radiolafoes.pt/favicon.ico" group-title="Portugal | Viseu | São Pedro do Sul",Rádio Lafões FM
+https://sp0.redeaudio.com/9304/stream
+#EXTINF:-1 tvg-id="4bb7ec54-51ee-4edd-9c5f-d1513e756b4e" tvg-logo="https://cdn.radoxo.com/images/portugal/afrobeat-radio.webp" group-title="Portugal | Viseu | Unknown city",AfroBeat Radio
+https://smartmedia.stmxp.net:8068/stream
+#EXTINF:-1 tvg-id="df1895bc-9bed-4b95-8047-e74842d90c29" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-dao-digital.webp" group-title="Portugal | Viseu | Unknown city",Dão Digital
+https://nl.digitalrm.pt:8206/stream
+#EXTINF:-1 tvg-id="9619969b-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viseu | Unknown city",Estação Diária
+http://centova.radio.com.pt:9430/;
+#EXTINF:-1 tvg-id="7255c3d9-f151-4b0c-846e-e9979a1104f1" tvg-logo="https://cdn.radoxo.com/images/portugal/radialistas-de-viseu.webp" group-title="Portugal | Viseu | Unknown city",Radialistas de Viseu
+https://stream.zeno.fm/77r7ufhaz98uv
+#EXTINF:-1 tvg-id="10e8c956-d80b-40d6-a16e-47d966665e3f" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-rci.webp" group-title="Portugal | Viseu | Unknown city",Radio RCI
+https://nl.digitalrm.pt:8002/stream
+#EXTINF:-1 tvg-id="9d39e022-5955-451e-9cba-0bcb39c0bdd2" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/287/rca-radio-clube-de-armamar.d8198e90.png" group-title="Portugal | Viseu | Unknown city",RCA - Rádio Clube de Armamar
+https://radios2.justweb.pt/8054/stream
+#EXTINF:-1 tvg-id="f1684e6c-0be3-450c-aab5-225d4a9ab28a" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-clube-do-dao.webp" group-title="Portugal | Viseu | Unknown city",Rádio Clube do Dão
+https://sp0.redeaudio.com/8052/stream
+#EXTINF:-1 tvg-id="83b848cb-7f5d-4606-a879-6be199c0de81" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-dom-bosco-fm.webp" group-title="Portugal | Viseu | Unknown city",Rádio Dom Bosco FM
+https://stream.streamaudio.de:8000/radio-dom-bosco-fm
+#EXTINF:-1 tvg-id="892123bf-0e86-4afa-a973-4edf5ea4dbac" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-douro-nacional-lamego.webp" group-title="Portugal | Viseu | Unknown city",Rádio Douro Nacional
+https://sp0.redeaudio.com/9796/stream
+#EXTINF:-1 tvg-id="72428fa1-03ab-449d-bd76-cdda94867fe0" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-escuro.webp" group-title="Portugal | Viseu | Unknown city",Rádio Escuro
+https://nl.digitalrm.pt:8116/stream
+#EXTINF:-1 tvg-id="45a73fda-4be4-412d-9a97-8cdfa34e3345" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-jornal-do-centro.webp" group-title="Portugal | Viseu | Unknown city",Rádio Jornal do Centro
+https://sp0.redeaudio.com:9120//stream
+#EXTINF:-1 tvg-id="385de48e-e133-43d3-afae-9bbed601ca6f" tvg-logo="https://www.radiolafoes.pt/favicon.ico" group-title="Portugal | Viseu | Unknown city",Rádio Lafões FM
+https://sp0.redeaudio.com/9304/stream
+#EXTINF:-1 tvg-id="d74d7874-1ad4-4de4-8d61-f5bc56e3344b" tvg-logo="https://radiolimite.net/wp-content/uploads/2025/03/mainlogo-300x208.png" group-title="Portugal | Viseu | Unknown city",Rádio Limite
+http://centova.radios.pt:9408/stream
+#EXTINF:-1 tvg-id="9619974c-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viseu | Unknown city",Rádio Limite
+http://centova.radio.com.pt:9408/;
+#EXTINF:-1 tvg-id="ee4855e9-e673-4e5a-9fde-4a3cbd061016" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-montemuro.webp" group-title="Portugal | Viseu | Unknown city",Rádio Montemuro
+https://shoutcast.htt.pt:8060/radio.mp3
+#EXTINF:-1 tvg-id="a5c8e0b4-a850-469f-854c-3bde646b4913" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-neptuno.webp" group-title="Portugal | Viseu | Unknown city",Rádio Neptuno
+http://85.25.185.202:8801/autodj
+#EXTINF:-1 tvg-id="1e66d651-85b7-4984-b983-d310c70e6779" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-onda-azul.webp" group-title="Portugal | Viseu | Unknown city",Rádio Onda Azul
+https://ecmanager4.pro-fhi.net:1540/stream
+#EXTINF:-1 tvg-id="d5a57e7d-e035-4a5d-83ed-b02b0e67ec43" group-title="Portugal | Viseu | Unknown city",Rádio Perlépia
+https://radio.nitro-server.uk/listen/rdioperlpia/radio.mp3
+#EXTINF:-1 tvg-id="961945ac-0601-11e8-ae97-52543be04c81" group-title="Portugal | Viseu | Unknown city",Rádio Riba-Távora
+http://centova.radio.com.pt:9542/;
+#EXTINF:-1 tvg-id="5ef8a063-e947-48bc-b725-912328ac499c" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-us-nelas.webp" group-title="Portugal | Viseu | Unknown city",Rádio US Nelas
+https://sp0.redeaudio.com/8054/stream
+#EXTINF:-1 tvg-id="49389461-10ef-4d77-865b-bb3434bf3576" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-vfm.webp" group-title="Portugal | Viseu | Unknown city",Rádio VFM
+https://cast.redewt.net/proxy/vfm/stream
+#EXTINF:-1 tvg-id="8991e18c-227a-4614-8e25-7f29587171d5" tvg-logo="https://cdn.radoxo.com/images/portugal/radio-viriato.webp" group-title="Portugal | Viseu | Unknown city",Rádio Viriato
+https://smartmedia.stmxp.net:8066/stream
+#EXTINF:-1 tvg-id="cd5918b2-1848-4f3b-92a3-0aa5c44173bc" tvg-logo="https://cdn.radoxo.com/images/portugal/sempre-noar.webp" group-title="Portugal | Viseu | Unknown city",Sempre NOAR
+https://stream.zeno.fm/x6s194sq4ehvv
+#EXTINF:-1 tvg-id="2a4b4c04-15e3-4333-9555-9cc703c2ac19" tvg-logo="https://cdn.radoxo.com/images/portugal/smart-cap-code-radio.webp" group-title="Portugal | Viseu | Unknown city",Smart Cap Code Radio
+https://smartmedia.stmxp.net:8058/stream
+#EXTINF:-1 tvg-id="09eb22fe-0bc4-4c35-b3d9-67e54f078c23" tvg-logo="https://cdn.radoxo.com/images/portugal/web-radio-apollo.webp" group-title="Portugal | Viseu | Unknown city",Web Radio Apollo
+https://smartmedia.stmxp.net:8048/stream
+#EXTINF:-1 tvg-id="a3111ed9-a55f-4b4d-bc5a-a561b3205861" tvg-logo="https://cdn.radoxo.com/images/portugal/web-radio-voz-de-queimada-armamar.webp" group-title="Portugal | Viseu | Unknown city",Web Radio Voz de Queimada
+https://spaudio.servers.pt/8010/stream
+#EXTINF:-1 tvg-id="d132682d-bc0a-4608-82d4-9e293b5b1e9a" tvg-logo="https://www.968.fm/images/logo_mobile.png" group-title="Portugal | Viseu | Viseu",Estação Diária Rádio, Viseu – 96.8 FM
+https://centova.radio.com.pt/proxy/430?mp=/stream
+#EXTINF:-1 tvg-id="d919cf77-0f75-441d-93fb-0d8d58316c12" tvg-logo="https://s2.radio.co/sf5c3ab01d/listen" group-title="Portugal | Viseu | Viseu",Radio Viseu
+https://s2.radio.co/sf5c3ab01d/listen
+#EXTINF:-1 tvg-id="6aa4ea78-cef7-437f-9715-dee1e737c75f" group-title="Portugal | Viseu | Vouzela",VFM 94.6
+http://cast.redewt.net:9141/live
+#EXTINF:-1 tvg-id="9619687d-0601-11e8-ae97-52543be04c81" group-title="Portugal | Évora | Unknown city",Diana FM
+http://centova.radio.com.pt:9460/;
+#EXTINF:-1 tvg-id="96196bd8-0601-11e8-ae97-52543be04c81" group-title="Portugal | Évora | Unknown city",Rádio Granada FM
+http://centova.radio.com.pt:8549/;

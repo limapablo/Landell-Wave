@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="37c113d8-52c3-4988-95d2-196943bfaa82" group-title="Rwanda | Kigali | Unknown city",KISS FM 102.3
+https://kissfm-atunwadigital.streamguys1.com/kissfm
+#EXTINF:-1 tvg-id="f2f65d44-2101-4742-9c93-314f124dedbf" group-title="Rwanda | Kigali | Unknown city",Magic FM
+http://listen.rba.co.rw:8080/
+#EXTINF:-1 tvg-id="1dc3ae71-b19a-46bc-8ad5-54d6defda867" group-title="Rwanda | Kigali | Unknown city",Radio 1
+http://80.241.215.175:5000/;
+#EXTINF:-1 tvg-id="d05521ae-0b07-4c1e-ac57-939dc30771f0" tvg-logo="https://rba.co.rw/icon/icr_home_rwanda.png" group-title="Rwanda | Kigali | Unknown city",Radio Rwanda
+https://listen.rba.co.rw:8008/rwanda/
+#EXTINF:-1 tvg-id="8518968f-2b34-4959-a941-3c86ddd302b4" tvg-logo="https://images.zeno.fm/uOG0m4DEoqAlAohkUfT4sTOslg0TsvxX66pvr3lQbYU/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2IwNzExOTU4LWE0YTMtNGJkMC05MjZmLWE4MTJhZTU5MzMyZC9pbWFnZS8_dT0xNzg0NzI5NjE4MzEx.webp" group-title="Rwanda | N/A | Unknown city",MENYA FM
+https://stream.zeno.fm/k5rq7qwkggauv
+#EXTINF:-1 tvg-id="e21f6651-f2e0-4fe6-8e45-2cf63b7e5c96" group-title="Rwanda | Unknown region | Unknown city",90.7 Magic FM
+http://listen.rba.co.rw:8080/;
+#EXTINF:-1 tvg-id="78602731-7afd-4e17-b418-b38f2f222add" group-title="Rwanda | Unknown region | Unknown city",90.7 Magic FM
+http://listen.rba.co.rw:8080/;
+#EXTINF:-1 tvg-id="b099e625-1ed4-401c-81ae-115ef6fa1388" tvg-logo="https://images.zeno.fm/uOG0m4DEoqAlAohkUfT4sTOslg0TsvxX66pvr3lQbYU/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2IwNzExOTU4LWE0YTMtNGJkMC05MjZmLWE4MTJhZTU5MzMyZC9pbWFnZS8_dT0xNzg0NzI5NjE4MzEx.webp" group-title="Rwanda | Unknown region | Unknown city",MENYA FM
+https://stream.zeno.fm/k5rq7qwkggauv
+#EXTINF:-1 tvg-id="8ff1237e-5f8e-11e9-a622-52543be04c81" group-title="Rwanda | Unknown region | Unknown city",RADIO MARIA RWANDA
+http://dreamsiteradiocp.com:8044/stream
+#EXTINF:-1 tvg-id="c3fc59e5-c064-44a4-be84-e414e4b3343e" tvg-logo="https://travelradio.live/wp-content/uploads/2021/10/cropped-travel-radio-logo-original-1-192x192.png" group-title="Rwanda | Unknown region | Unknown city",Travel Radio Live
+https://travel-radio-live.radiocult.fm/stream

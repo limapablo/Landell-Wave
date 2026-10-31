@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6d448167-b7d7-4537-aa0e-fbd11e880783" group-title="Oman | Muscat | Bawshar",Hi FM Oman
+http://listen-hifmtemp.sharp-stream.com/hifmmid.mp3
+#EXTINF:-1 tvg-id="e06ee212-1fc0-4e10-aff8-6c97966e2b9e" tvg-logo="https://platform-upload.cdn-brlogic.com/246202/logo/2110a5264b0e40cecc62a70b644715be.png" group-title="Oman | Muscat | Bawshar",JazzWave Radio
+https://servidor19.brlogic.com:7126/live
+#EXTINF:-1 tvg-id="243811b6-bb69-4913-a698-ce5f8d9940d8" group-title="Oman | Muscat | Bawshar",Merge 104.8
+http://uk7.internet-radio.com:8040/
+#EXTINF:-1 tvg-id="fbb15f71-f6d6-4615-9230-fb9e0f0e684b" group-title="Oman | Muscat | Muscat",Virgin Radio (Oman)
+http://uk5.internet-radio.com:8115/stream
+#EXTINF:-1 tvg-id="ef2cb53f-3f77-482c-942b-a2826cb324af" group-title="Oman | Muscat | Unknown city",Al Wisal
+http://uk7.internet-radio.com:8067/;
+#EXTINF:-1 tvg-id="26eb1c40-f314-4976-8969-a70d1fcce1fc" group-title="Oman | Muscat | Unknown city",Hala FM
+https://listen-halafm.sharp-stream.com/halafmlow.mp3
+#EXTINF:-1 tvg-id="a4cc08fb-cfad-41a4-9672-9a710542f612" tvg-logo="https://ayn.om/images/fav.ico?v=112" group-title="Oman | Unknown region | Unknown city",90.4 FM الإذاعة-الإنجليزية
+https://partwota.cdn.mgmlcdn.com/omengrdoorg/omengrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="df11c6f9-6671-11e9-af37-52543be04c81" group-title="Oman | Unknown region | Unknown city",Merge
+http://uk7.internet-radio.com:8040/
+#EXTINF:-1 tvg-id="2cc238bc-2466-4e27-a5ad-af7e02991220" group-title="Oman | Unknown region | Unknown city",Quran Program Oman إذاعة-القرآن-الكريم
+https://partwota.cdn.mgmlcdn.com/quranrdoorg/quranrdo.stream_aac/chunklist.m3u8
+#EXTINF:-1 tvg-id="0925f9a5-2cee-4900-b8f0-d6b0b64a90af" group-title="Oman | Unknown region | Unknown city",Virgin Radio Oman
+http://uk5.internet-radio.com:8115/stream

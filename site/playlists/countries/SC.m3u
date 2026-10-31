@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1a62a959-f6d9-470e-b3ff-613318262b19" group-title="Seychelles | La Rivière Anglaise | Victoria",Offshore Radio
+https://live.offshoreradio.net/listen/offshore_radio/radio.mp3
+#EXTINF:-1 tvg-id="d3bbe416-883b-49e9-8200-ff7a7d37fb8e" group-title="Seychelles | La Rivière Anglaise | Victoria",SBC Radyo Sesel
+https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8
+#EXTINF:-1 tvg-id="d5fa49c4-a20e-4ce3-a675-ea0f670a6ab6" group-title="Seychelles | Mahé | Victoria",SBC Radyo Sesel
+https://streaming.fabrik.fm/radyo-sesel/echocast/audio/index.m3u8
+#EXTINF:-1 tvg-id="18d9b902-3d2b-442a-8287-752fa3923340" group-title="Seychelles | Unknown region | Unknown city",SBC Paradise FM - Seychelles Best Mix
+https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8

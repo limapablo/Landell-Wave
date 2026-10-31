@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="2c59da7b-3ac1-481a-8c8e-656163382326" group-title="Macao | Macao | Unknown city",VOA Macau
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-id="d78c4367-fd2d-40f7-9f2c-80a7c3e066ad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqDYrujwxE2yBwEKh2u8RjH7tmi6LGsImmWeCugDjLUQ&s" group-title="Macao | Macao, SAR of China | Unknown city",101.1 BIG HEART FM
+http://162.220.162.10:8011/stream
+#EXTINF:-1 tvg-id="4adaac34-b0dd-4a6f-9423-9da3cc554678" group-title="Macao | Macao, SAR of China | Unknown city",101.1 Smooth FM
+https://stream-icy.bauermedia.pt/smooth.aac
+#EXTINF:-1 tvg-id="b14a7f8b-eae9-49d7-81e0-e52797556805" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1b/CRI_Hit_FM_logo.png" group-title="Macao | Macao, SAR of China | Unknown city",91.5 HIT FM MACAU (成都）
+http://lhttp.qingting.fm/live/15318703/64k.mp3
+#EXTINF:-1 tvg-id="bb43694b-89ba-4ec6-a947-7e2406a0bf63" group-title="Macao | Macao, SAR of China | Unknown city",Asia FM 106.9
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 tvg-id="7b0db4ec-a09f-49a9-a3d9-f7c3e468d4b0" group-title="Macao | Macao, SAR of China | Unknown city",Asia FM 106.9
+https://lhttp.qingting.fm/live/20071/64k.mp3
+#EXTINF:-1 tvg-id="d26b96a1-4fe5-4e45-86b9-2dd210a46aeb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/CGTN.png" group-title="Macao | Macao, SAR of China | Unknown city",CGTN Radio - Macau 1341 AM
+https://sk.cri.cn/am846.m3u8
+#EXTINF:-1 tvg-id="5a7a719f-ed6b-46fc-a25e-b16d5d373b25" tvg-logo="https://pic.qtfm.cn/2022/0703/20220703121159.jpeg" group-title="Macao | Macao, SAR of China | Unknown city",CityFM Macau - 90.5 FM
+https://lhttp.qtfm.cn/live/20500153/64k.mp3
+#EXTINF:-1 tvg-id="deb070ed-fa67-411a-afa4-b36bd45a15be" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Macao | Macao, SAR of China | Unknown city",Lotus FM Macau HD - 97.4 FM
+https://lhttp.qtfm.cn/live/20533/64k.mp3
+#EXTINF:-1 tvg-id="535befe5-6f62-4e14-86bb-ec4ac4b7b337" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="Macao | Macao, SAR of China | Unknown city",Lotus Macau Radio - 1062 AM
+https://lhttp.qtfm.cn/live/20133/64k.mp3
+#EXTINF:-1 tvg-id="b591479f-e323-4fae-89be-23a3925c654a" tvg-logo="https://m80.pt/favicon.ico" group-title="Macao | Macao, SAR of China | Unknown city",M80 Radio Macau - 107.1 FM
+https://stream-icy.bauermedia.pt/m80.mp3
+#EXTINF:-1 tvg-id="849c06ea-d61f-45c3-a1d9-87d54d1e86eb" group-title="Macao | Macao, SAR of China | Unknown city",M80 Radio Macau - 80s
+https://stream-icy.bauermedia.pt/m8080.aac
+#EXTINF:-1 tvg-id="6d70bf8d-8590-4e20-847d-e5f49148210d" tvg-logo="https://bauermedia.pt/m80/m80-90/favicon.ico" group-title="Macao | Macao, SAR of China | Unknown city",M80 Radio Macau - 90s
+https://stream-icy.bauermedia.pt/m8090.aac
+#EXTINF:-1 tvg-id="300f74ed-1fe7-4fc5-88fc-6063f73591f4" tvg-logo="https://bauermedia.pt/m80/m80-rock/favicon.ico" group-title="Macao | Macao, SAR of China | Unknown city",M80 Radio Macau - Rock
+https://stream-icy.bauermedia.pt/m80rock.aac
+#EXTINF:-1 tvg-id="a7dfd0bc-c9cd-492d-aeb4-e43c8ed83745" tvg-logo="https://img.radios.com.br/radio/xl/radio232214_1699645003.jpg" group-title="Macao | Macao, SAR of China | Unknown city",Radio Top 80 Macau 強電台 - 89.9 FM
+http://live.top80.fm:8086/;
+#EXTINF:-1 tvg-id="8492f4b4-8eb8-488f-b5cf-e81025882b3b" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWxzia_Bkrj8iaa6iQ7uAbi1eem1GcDGKDFYGmE_HYjdlILYB2R9hKtMoF&s=10" group-title="Macao | Macao, SAR of China | Unknown city",Record FM 100.3 Macau
+https://nl.digitalrm.pt:8028/stream
+#EXTINF:-1 tvg-id="ea10db0c-35e8-4f6b-ae2d-7adb099d5de0" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ZaX_MeobQXgZYNlYWuf1F_UdPiX_QHNuHQ&usqp=CAU" group-title="Macao | Macao, SAR of China | Unknown city",Romance Radio 95.5 FM
+http://162.220.162.10:8011/stream
+#EXTINF:-1 tvg-id="59a7497f-5f04-4b64-8fdc-3fd7ef55d7a3" tvg-logo="https://madeira.rtp.pt/favicon.ico" group-title="Macao | Macao, SAR of China | Unknown city",RTP Macau - 97.1 FM
+https://radiocast.rtp.pt/antena1madeira80a.mp3
+#EXTINF:-1 tvg-id="6c07a526-7445-40f9-be2e-89f78c6fb7b0" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Szr.jpg?20060826171746" group-title="Macao | Macao, SAR of China | Unknown city",SZR 城市 FM 97.1 Macau - HD2
+https://stream-hls.bauermedia.pt/cidade.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="279027e0-2f13-4f7e-91fd-8aa40c41b05e" tvg-logo="https://www.voachinese.com/favicon" group-title="Macao | Macao, SAR of China | Unknown city",VOA Macau
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-id="dd9cddc3-e19b-40be-8f22-c5e20420b4cb" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAloACLs4j25afKVh2uzyJX3NGhCBaZTLSo_Ud6VcuDiP358zYKXSPuw&s=10" group-title="Macao | Macao, SAR of China | Unknown city",YW City Radio - Macau 954 AM
+https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web
+#EXTINF:-1 tvg-id="c53eb4d6-2a69-4d31-b125-59acd4277614" tvg-logo="https://mfm995.com/wp-content/uploads/2022/09/cropped-icon20220930_1.png" group-title="Macao | Macao, SAR of China | Unknown city",澳門綠邨電台
+https://macaofm995.com/hls1/fm995.m3u8
+#EXTINF:-1 tvg-id="0aaa9508-96ff-46cc-80d3-8a9036cc87e2" tvg-logo="https://cdn2.tdm.com.mo/uploads/attachment/2021-06/55e035ae8e46ed9a38ae9245ca84c8e1.png?x-image-process=style/w250" group-title="Macao | Macao, SAR of China | Unknown city",澳門電台 FM100.7
+https://globallive.tdm.com.mo/live/rch2a.live/chunklist_w603131197.m3u8
+#EXTINF:-1 tvg-id="0754f053-39db-4831-b5a7-79f6c63053b8" tvg-logo="https://wx4.sinaimg.cn/mw2000/0081HCo7ly8g9uvqyy67nj30dw0dw756.jpg" group-title="Macao | Unknown region | Unknown city",CNR-7 粵港澳大灣區之聲
+https://satellitepull.cnr.cn/live/wxhxzs/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174761752612586&wsIPSercert=270c8446fe14303f2433a2f164ccd9e5
+#EXTINF:-1 tvg-id="9dc1af39-5f93-11e9-a622-52543be04c81" group-title="Macao | Unknown region | Unknown city",RADIO MARIA MACAU
+http://dreamsiteradiocp2.com:8038/stream
+#EXTINF:-1 tvg-id="1ee786df-23e5-4350-8f8b-3b315068937c" tvg-logo="https://cdn2.tdm.com.mo/uploads/attachment/2021-06/55e035ae8e46ed9a38ae9245ca84c8e1.png?x-image-process=style/w250" group-title="Macao | Unknown region | Unknown city",澳門電台 FM100.7
+https://globallive.tdm.com.mo/live/rch2a.live/playlist.m3u8

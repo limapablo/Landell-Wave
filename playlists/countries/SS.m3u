@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="b42f40ed-77fd-4bec-a0a5-e5b5501e2964" tvg-logo="https://img1.wsimg.com/isteam/ip/8283663d-5a2f-4e7a-88b0-762e2b6679d0/Favour%20Radio%20Logo%20PNG.png/:/rs=w:200,h:200,cg:true,m/cr=w:200,h:200/qt=q:95" group-title="South Sudan | Unknown region | Unknown city",96.3 Favour FM Juba
+https://us5new.listen2myradio.com:2199/listen.php?port=8106&type=ice&mount=live
+#EXTINF:-1 tvg-id="b121c00e-3a2c-4f87-bc40-1dfed61210fe" tvg-logo="https://radiosouthsudan.com/static/media/logo_radio-south-sudan.50f8ba3f63682309d7f0.png" group-title="South Sudan | Unknown region | Unknown city",Radio south sudan
+https://stream2.svrdedicado.org/8056/stream

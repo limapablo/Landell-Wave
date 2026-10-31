@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="3860273c-7ff0-4277-b612-2ea21a8cccbe" group-title="American Samoa | Amersham | Unknown city",S1lhoutte - Rock FM
+http://rockfm.rockfm.com.tr:9450/
+#EXTINF:-1 tvg-id="339c6a61-4433-44f9-9fad-20998c512ae4" group-title="American Samoa | Heod | Unknown city",Youtube
+http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836
+#EXTINF:-1 tvg-id="6ea9efd5-d3e6-405d-8190-96f7abed1826" tvg-logo="https://imgur.com/totzCmb" group-title="American Samoa | Pazardjik | Unknown city",Радио Раши
+https://s2.free-shoutcast.com/stream/18214
+#EXTINF:-1 tvg-id="992a81a6-5007-43f7-90c4-b823d5849d70" tvg-logo="https://i.imgur.com/totzCmb.png" group-title="American Samoa | South Carolina | Unknown city",Radio Rashi online
+https://s2.free-shoutcast.com/stream/18214
+#EXTINF:-1 tvg-id="7eb65cc2-7d74-4026-817d-882b92462e7d" tvg-logo="https://us7.streamingpulse.com/2826/index.php" group-title="American Samoa | Unknown region | Unknown city",Christmas 356 Santa's Radio
+https://us3.streamingpulse.com/ssl/7038
+#EXTINF:-1 tvg-id="c76649db-9464-4c20-af1b-9c0e01004680" group-title="American Samoa | Unknown region | Unknown city",Christmas Classics
+http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836
+#EXTINF:-1 tvg-id="40c04d08-c2f0-419a-8103-66ed68105cba" group-title="American Samoa | Unknown region | Unknown city",Christmas Classics
+http://listen.181fm.com/181-xtraditional_128k.mp3?listenerId=esAdblock074493&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1669379836
+#EXTINF:-1 tvg-id="101c0368-d755-462b-805d-f226d2e8f2be" group-title="American Samoa | Unknown region | Unknown city",Fm Christmas classics
+https://listen.181fm.com/181-xtraditional_128k.mp3
+#EXTINF:-1 tvg-id="4b1c00b7-53ef-4168-bf8e-1a0fa6a9298c" group-title="American Samoa | Unknown region | Unknown city",Fox news
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="3250a8a8-8697-4aa7-9710-ea1141e846bd" group-title="American Samoa | Unknown region | Unknown city",National Public Radio
+https://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1 tvg-id="103b2fad-e64a-4859-b1f7-30e519f809db" group-title="American Samoa | Unknown region | Unknown city",Planet black
+http://mp3.planetradio.de/plrchannels/hqblackbeats.aac
+#EXTINF:-1 tvg-id="4c23b51d-c99a-42b9-8b47-eed44cebbf7c" group-title="American Samoa | Unknown region | Unknown city",WMIL 106.1 FM
+https://stream.revma.ihrhls.com/zc2677/hls.m3u8?streamid=2677
+#EXTINF:-1 tvg-id="ce6dc5a4-a2b5-433f-9912-a01d56f49de6" tvg-logo="https://www.soundofhope.org/img/logo.svg" group-title="American Samoa | USA | Unknown city",希望之声
+https://livecast1.soundofhope.org:2087/soh-live

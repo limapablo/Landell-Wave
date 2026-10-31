@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="535cb1e3-fbf4-4e32-a941-1145382316ff" group-title="Denmark | Aalborg | Aalborg",Lumi Radio
+http://stream2.wlmm.dk/syddanmark.m3u
+#EXTINF:-1 tvg-id="4b8833e9-a4d2-4458-9b7d-826bec0980be" tvg-logo="https://www.mjazzradio.com/wp-content/uploads/2026/04/MJazzRadio-Cropped.png" group-title="Denmark | Aarhus, Jutland | Århus",M-Jazz Radio
+https://fra-pioneer01.dedicateware.com:1465/stream
+#EXTINF:-1 tvg-id="81bf3e45-f353-4bc0-9dab-0432d7a9d9e9" group-title="Denmark | Baden-Wuerttemberg | Unknown city",Radio 7 Ravensburg
+https://streams.radio7.de/rv/mp3-192/web/
+#EXTINF:-1 tvg-id="3828ea0c-49ac-4086-a7ce-a8bd1eb99d29" tvg-logo="https://radiomidt.dk/img/radiomidt_logo.png" group-title="Denmark | Bjæverskov | Unknown city",Radio Midtsjælland
+http://player.radiomidt.dk/broadwave.mp3
+#EXTINF:-1 tvg-id="d730e041-05fd-421d-a39b-7b2da3f9bdae" group-title="Denmark | Capital Region | Christianshavn",DR P4 København (MP3)
+http://live-icy.dr.dk/A/A08H.mp3
+#EXTINF:-1 tvg-id="0143de39-f5a8-4cdd-9f10-e2af5c3682da" group-title="Denmark | Capital Region | Christianshavn",DR P5 Trekanten
+http://live-icy.dr.dk/A/A23H.mp3
+#EXTINF:-1 tvg-id="1d66c174-7995-4f7d-a126-a7d5b1fd56de" group-title="Denmark | Capital Region | Christianshavn",Radio Folk
+http://stream.radiojar.com/fqt2y0ds97zuv
+#EXTINF:-1 tvg-id="316067bd-5d69-43de-a762-1604f7c27bbc" group-title="Denmark | Capital Region | Frederiksberg",Music for Dreams Radio
+http://s2.radio.co/s0f2948883/listen
+#EXTINF:-1 tvg-id="30598973-ae93-4a50-ae65-aa7c939c1438" tvg-logo="https://nmradio.dk/wp-content/uploads/2023/07/afspiller-bg.jpg" group-title="Denmark | Capital Region | Frederiksberg",NMRadio
+http://5.56.158.246:8000/stream
+#EXTINF:-1 tvg-id="3dbfe861-a8f0-4366-89bf-275e87cb1b7a" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg" group-title="Denmark | Capital Region | Ganløse",Danmarks Radio p2
+https://live-icy.dr.dk/A/A04L.mp3
+#EXTINF:-1 tvg-id="1a0b0f6c-23d2-42ab-9525-32f878a36b7f" tvg-logo="https://radioplay.dk/tesla/static/favicons/radioplay-dk/favicon.ico" group-title="Denmark | Capital Region | Herlev",POP FM DK
+http://live-bauerdk.sharp-stream.com/popfm128.mp3
+#EXTINF:-1 tvg-id="14c0f0ff-3aa6-4e6d-a764-0fad7c365f3c" group-title="Denmark | Capital Region | Indre By",Danmarks Radio P3
+https://live-icy.dr.dk/A/A27L.mp3
+#EXTINF:-1 tvg-id="1742050b-b9d5-4335-b6b3-2d6a48801295" group-title="Denmark | Capital Region | Slangerup",Mix FM
+https://hello.citrus3.com:2020/stream/mixfm
+#EXTINF:-1 tvg-id="f72a343b-f5b7-4efc-888a-734872a180af" tvg-logo="https://nyhedstjek.dk/favicon-32x32.png" group-title="Denmark | Capital Region | Tårnby",NyhedsTjek.dk
+https://a12.asurahosting.com/listen/nyhedstjek.dk/radio.mp3
+#EXTINF:-1 tvg-id="5c1feefd-2299-4baf-b466-029326820f1a" tvg-logo="https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png" group-title="Denmark | Capital Region | Vanløse",Nova
+http://live-bauerdk.sharp-stream.com/nova128.mp3
+#EXTINF:-1 tvg-id="21b4d1bd-3119-4215-b8f7-87dc38fbf783" tvg-logo="https://alfa.side-walk.dk/logos/xEEssAXlAQ8G3lsJEBO21sOH2bkrz0SoiG1ZroEs.png" group-title="Denmark | Central Jutland | Herning",Radio Alfa Midtjylland
+https://radioserver.dk/alfamidt
+#EXTINF:-1 tvg-id="d22c0906-9ce1-435d-b4a8-05e68a16d7df" group-title="Denmark | Central Jutland | Holstebro",DR P4 Midt & Vest
+https://live-icy.dr.dk/A/A09L.mp3
+#EXTINF:-1 tvg-id="b10cb925-5094-4504-9d15-b3cde1d31c59" tvg-logo="https://www.radio.dk/300/drp4kopenhagen.png?version=5d2286d23d9b9392b405a2bd562e538c" group-title="Denmark | Central Jutland | Holstebro",DR P4 Midt & Vest
+https://live-icy.dr.dk/A/A09L.mp3
+#EXTINF:-1 tvg-id="b67044c5-7e2a-4ed7-b370-2164c2c890f9" tvg-logo="https://radiostationer.dk" group-title="Denmark | Central Jutland | Kjellerup",80's Hits
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
+#EXTINF:-1 tvg-id="ea949437-acea-40e1-ab43-045fb7aed40b" group-title="Denmark | Central Jutland | Randers",Always ELVIS Radio
+https://radioserver.dk/alwayselvisradio
+#EXTINF:-1 tvg-id="16e4f32b-81d3-42e5-b6ac-38a15ef148f1" tvg-logo="https://radio.side-walk.dk/logos/KXRtPsQK5qjFmR5jvUpGRjSlQVsz7m2icSZsSfUs.png" group-title="Denmark | Central Jutland | Randers",Radio ABC
+https://radioserver.dk/abc
+#EXTINF:-1 tvg-id="4bd28ee6-d3d3-40cb-84d6-f82cbe257329" group-title="Denmark | Central Jutland | Silkeborg",Radio Alfa Silkeborg
+https://radioserver.dk/alfasilk
+#EXTINF:-1 tvg-id="77a0b079-8fe7-4811-9c03-56e25be84475" group-title="Denmark | Central Jutland | Silkeborg",Rockkanalen MP3
+http://stream.kanalplus.fm/kp128
+#EXTINF:-1 tvg-id="8a3c3b8c-58ab-4556-83d7-446b9a787b68" group-title="Denmark | Central Jutland | Skals",Limfjord Mix
+https://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1 tvg-id="be78f00b-0f84-4b22-abeb-feb6206f1839" group-title="Denmark | Central Jutland | Skive",Radio Alfa Skive
+https://radioserver.dk/alfaskive
+#EXTINF:-1 tvg-id="60791543-e494-4bcd-af3e-f2f198881b98" group-title="Denmark | Central Jutland | Viborg",Radio Alfa Viborg
+https://radioserver.dk/alfaviborg
+#EXTINF:-1 tvg-id="f8125a54-33ed-469d-a10e-a2829e947b5b" tvg-logo="https://www.gofm.dk/wp-content/uploads/2017/08/cropped-gofm-logo-512-32x32.png" group-title="Denmark | Central Jutland | Århus",go!FM
+https://radioserver.dk/gofm
+#EXTINF:-1 tvg-id="39334888-fb45-432f-8066-173b05d1af01" group-title="Denmark | Central Jutland | Århus",Radio Alfa Aarhus
+https://radioserver.dk/alfaaarhus
+#EXTINF:-1 tvg-id="c8eb07de-d4e7-48b2-a997-5768a875df48" group-title="Denmark | Central Jutland | Århus",Radio IIII
+https://netradio.radio4.dk/radio4
+#EXTINF:-1 tvg-id="cd6cac01-31ef-4ea0-ade2-9189d68ed443" tvg-logo="https://www.radiopanini.com/favicon.ico" group-title="Denmark | Copenhagen | Copenhagen",Radio Panini
+https://radi-panini.radiocult.fm/stream
+#EXTINF:-1 tvg-id="d5080e47-531e-4871-a4c2-bd98ba726311" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/hmpru8q4znst.jpg" group-title="Denmark | Copenhagen | Indre By",POP FM 80er
+https://live-bauerdk.sharp-stream.com//popfm80.mp3
+#EXTINF:-1 tvg-id="98d8adc4-833a-4c46-a946-ee6c5522bb89" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Copenhagen | Tårnby",DR P2
+http://live-icy.gss.dr.dk/A/A04H.mp3
+#EXTINF:-1 tvg-id="2ee81587-dba9-4d68-82b3-a7b32aafc525" group-title="Denmark | Copenhagen | Unknown city",nordic lodge copenhagen
+http://radio.streemlion.com:1160/stream
+#EXTINF:-1 tvg-id="b1f473f9-a522-49e2-a6cd-4a85ef5c4b6f" tvg-logo="https://www.plantlandradio.com/favicon.png" group-title="Denmark | Copenhagen | Unknown city",Plantland Radio
+https://radio.plantlandradio.com/listen/plantland_radio/radio.mp3
+#EXTINF:-1 tvg-id="c076addc-ad49-4b3d-8fc9-8c8db787e4fa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_y-rKrhgLZlQQVkl_54LtwGcYktgPfmZyis3ZFzlcsQh00QJjQFKPDWXn&s=10" group-title="Denmark | Copenhagen | Unknown city",The Lake Radio
+http://hyades.shoutca.st:8627/stream
+#EXTINF:-1 tvg-id="24d8b54f-36ce-4286-be46-37e2509cd959" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/173.svg?ver=1490628415" group-title="Denmark | Copenhagen | Unknown city",The Voice
+http://live-bauerdk.sharp-stream.com/voice128.mp3
+#EXTINF:-1 tvg-id="040a1d8a-2c52-4473-a78f-7bb6d6fce189" tvg-logo="https://cdn.onlineradiobox.com/img/logo/2/87222.v2.png" group-title="Denmark | Copenhague | Unknown city",World Music Radio
+http://stream.wlmm.dk:8010/wmr
+#EXTINF:-1 tvg-id="87069ec6-7cfc-446d-b1be-e56c8b8d2287" tvg-logo="https://www.deutschlandfunk.de/presseschauen-100.html" group-title="Denmark | Deutschland und NRW | Unknown city",DLF aktuelle Presseschau
+https://ondemand-mp3.dradio.de/file/dradio/presseschau/presseschau.mp3
+#EXTINF:-1 tvg-id="aad7a29e-aba5-4b2d-8a18-57ca150cbb65" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Esbjerg | Esbjerg",DR P4 Esbjerg (AAC)
+https://drliveradio2.akamaized.net/hls/live/2118698/p4esbjerg/playlist-320000.m3u8
+#EXTINF:-1 tvg-id="6c6a6e97-3311-4ed5-b867-76ce6ebb70d3" tvg-logo="https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png" group-title="Denmark | Esbjerg | Esbjerg",Esbjerg Classic FM
+https://webradio.classicfm.dk/classicvejle
+#EXTINF:-1 tvg-id="ad076dad-13ef-4ea1-b836-a37be4c77a05" group-title="Denmark | Faaborg | Faaborg",Det Rigtige Faaborg
+http://stream2.wlmm.dk/detrigtigefaaborg
+#EXTINF:-1 tvg-id="661c92fb-a3bb-4b81-856f-7e93c6a5c38f" group-title="Denmark | Faxe | Faxe",Radio Østsjælland Rollo
+http://stream.radiosolutions.dk/rollo
+#EXTINF:-1 tvg-id="df2f6bd2-73c2-4398-ae78-3222fdba454a" group-title="Denmark | Faxe | Unknown city",Radio FLR
+https://faxe.jtw.dk/stream
+#EXTINF:-1 tvg-id="6491342a-6d10-45da-87fd-edca5464367f" tvg-logo="https://humleborg.dk/templates/yootheme/vendor/yootheme/theme-joomla/assets/images/favicon.png" group-title="Denmark | Fredensborg | Fredensborg",Radio Humleborg
+https://stream2.rcast.net/64145
+#EXTINF:-1 tvg-id="064e5ce0-bf9f-44d6-af36-e00b75e95217" group-title="Denmark | Fredensborg | Unknown city",Jazzkanalen
+http://media.wlmm.dk/humleborg.m3u
+#EXTINF:-1 tvg-id="ee0997ac-c188-4d59-b9e6-ae73b72d497e" group-title="Denmark | Fredensborg | Unknown city",Jazzkanalen
+http://ca6.rcast.net:4058/;stream
+#EXTINF:-1 tvg-id="6e40e7fd-e80c-4409-910f-ed20d903d1f8" tvg-logo="https://humleborg.dk/templates/yootheme/packages/theme-joomla/assets/images/favicon.png" group-title="Denmark | Fredensborg | Unknown city",Radio Humleborg
+http://media.wlmm.dk/humleborg.m3u
+#EXTINF:-1 tvg-id="fae582e4-d87a-4cc6-aa8c-b1129bb51804" tvg-logo="https://www.radiokultur.dk/favicon.ico" group-title="Denmark | Frederiksberg | Unknown city",Radio Fasanen Frederiksberg
+https://c14.radioboss.fm:18228/stream
+#EXTINF:-1 tvg-id="0118943b-e227-48f1-9830-dbc478164e33" group-title="Denmark | Frederiksværk | Frederiksværk",Radio Boost
+http://6434.cloudrad.io:8066/;
+#EXTINF:-1 tvg-id="7feafe93-aa70-4661-80e3-f3d3f370ec3d" tvg-logo="https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png" group-title="Denmark | Fyn | Bellinge",Classic FM (Fyn)
+https://netradio.classicfm.dk/cla12a
+#EXTINF:-1 tvg-id="5182c037-4ae5-49ce-b40d-fee200ad199f" tvg-logo="https://fmscan.org/favicon.ico" group-title="Denmark | Gentofte | Unknown city",GLR - Gentofte Lokal Radio
+https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1 tvg-id="7516af90-778a-4be3-a655-844fa2eb6605" tvg-logo="https://radiohaderslev.dk/wp-content/uploads/2018/12/RadioHaderslev_PNG.png" group-title="Denmark | Haderslev | Haderslev",Radio Haderslev
+http://media.wlmm.dk/radiohaderslevmp3
+#EXTINF:-1 tvg-id="44c2cd31-866c-4973-a679-87134c9eed46" tvg-logo="https://webradio.norea.dk/picture/logo2020.png" group-title="Denmark | Haderslev | Unknown city",Norea Radio
+http://radio.norea.dk:8080/;
+#EXTINF:-1 tvg-id="7017408d-aae6-4565-a615-5654c1dc32cb" group-title="Denmark | Helsinge | Unknown city",Mix FM Gribskov, Retro Nord
+https://netradio.mixfm.dk/stream
+#EXTINF:-1 tvg-id="5854189c-c4a2-4f10-861a-b095e7e4bcf9" tvg-logo="https://fmscan.org/favicon.ico" group-title="Denmark | Helsingør | Helsingør",Radio Helsingør FM
+https://stream.radiohelsingor.dk/rh
+#EXTINF:-1 tvg-id="4578e504-5cb0-47c5-bcd0-1baa78719a01" group-title="Denmark | Herning | Herning",Radio M
+https://radioserver.dk/radiom
+#EXTINF:-1 tvg-id="351496cd-e670-4bee-b835-3500bf7c1edb" tvg-logo="https://oestfm.dk/favicon.ico" group-title="Denmark | Hinnerup | Unknown city",Radio Ost FM
+http://stream.wlmm.dk/oestfmmp3
+#EXTINF:-1 tvg-id="7c58f856-0271-457f-a047-b8d458362327" group-title="Denmark | Hirtshals | Hirtshals",Skaga FM
+http://stream.wlmm.dk/skagafm.m3u
+#EXTINF:-1 tvg-id="e8dd0971-1d03-4058-a5b4-44f48cea5e16" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Holstebro | Unknown city",DR P4 Midt/Vest
+http://live-icy.gss.dr.dk/A/A09H.mp3
+#EXTINF:-1 tvg-id="c47af956-7920-427d-91da-054288337ada" tvg-logo="https://radioklitholm.dk/wp-content/uploads/2022/11/sortlogo.png" group-title="Denmark | Hvide Sande | Hvide Sande",Radio Klitholm - Det Ny Kanal 1
+http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1 tvg-id="805be5cd-1865-458d-82bd-80513dfb4423" group-title="Denmark | Jylland | Unknown city",Radio Mælkebøtten
+http://live2.rcast.net:8722/;stream
+#EXTINF:-1 tvg-id="87e5d1ca-b5bc-4959-91e5-a3a8cc3ddde3" tvg-logo="https://radioviva.dk/wp-content/themes/radioviva_dk/images/logo.svg" group-title="Denmark | Kolding | Kolding",Radio Viva
+http://stream.wlmm.dk/radioviva
+#EXTINF:-1 tvg-id="cbf46457-152d-4d64-bec5-266e5796c91a" group-title="Denmark | København | Frederiksberg",Radio Soft - Københavns NR - Bispebjerg LR - Bella Chr
+https://live-bauerdk.sharp-stream.com/radiosoft_dk_tunein_mp3
+#EXTINF:-1 tvg-id="f39c3428-372e-4c3d-b506-7d59b3fda596" group-title="Denmark | København | Indre By",X FM K
+https://uniradio.out.airtime.pro/uniradio_a
+#EXTINF:-1 tvg-id="9edda838-dfaf-44fa-8c13-23972afac6e7" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | København | Tårnby",DR P4 Bornholm
+https://live-icy.dr.dk/A/A30H.mp3
+#EXTINF:-1 tvg-id="847172ba-fa7d-476c-8ad1-3a62044e8a56" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | København | Tårnby",DR P5 Esbjerg
+https://live-icy.dr.dk/A/A26H.mp3
+#EXTINF:-1 tvg-id="9d096256-6a1c-4844-a5f6-9a6455fa960a" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | København | Tårnby",DR P5 Fyn
+https://live-icy.dr.dk/A/A02H.mp3
+#EXTINF:-1 tvg-id="331c897a-a89b-4c49-9750-121b3a789802" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | København | Tårnby",DR P5 Midt/Vest
+https://live-icy.dr.dk/A/A17H.mp3
+#EXTINF:-1 tvg-id="7d898b16-158e-4920-b008-f2591f2cb340" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | København | Tårnby",DR P5 Syd
+https://drliveradio.akamaized.net/hls/live/2022411/p5syd/masterab.m3u8
+#EXTINF:-1 tvg-id="b69d7997-fec2-419b-b33d-d01f7ebba8b8" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | København | Tårnby",DR P5 Østjylland
+https://live-icy.dr.dk/A/A24H.mp3
+#EXTINF:-1 tvg-id="65f1be92-d731-4ebb-b3fd-4635cbfe2135" group-title="Denmark | København | Unknown city",Din Radio
+http://stream.wlmm.dk/DinRadiomp3
+#EXTINF:-1 tvg-id="4c5b7963-69cf-45f7-b084-f4959c8ecf6a" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | København | Unknown city",DR Nyheder
+http://live-icy.gss.dr.dk/A/A02H.mp3
+#EXTINF:-1 tvg-id="829efdf5-5f8e-4257-8d85-7ecfa46d0633" group-title="Denmark | København | Unknown city",København Jazz Radio
+https://asima.out.airtime.pro:8000/radiojazzcopenhagen_a
+#EXTINF:-1 tvg-id="d1bd8767-9780-42ed-b832-c9efecac205c" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | København | Åkirkeby",DR P5 Bornholm
+https://live-icy.dr.dk/A/A30H.mp3
+#EXTINF:-1 tvg-id="108f7cd4-106b-4ab0-ae8d-e23b03b0ba48" group-title="Denmark | Køge | Unknown city",Radio Koge
+http://stream.wlmm.dk/stream/53/;
+#EXTINF:-1 tvg-id="cd411cb2-bef5-4e75-87ce-76b3c8b3bbf0" group-title="Denmark | Nibe | Nibe",Midtfjord Radio / Radio Nibenitten
+http://stream.midtfjordradio.dk/netradio
+#EXTINF:-1 tvg-id="9a5f3b79-13c6-4a0e-a41f-6b5ad048c1a4" group-title="Denmark | Nivå | Nivå",Retro Radio
+https://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1 tvg-id="cb5c98a0-9a51-45fc-b6a7-21b60f4225f3" group-title="Denmark | Nivå | Unknown city",Retro Millennium
+https://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1 tvg-id="e2116c20-ca0c-4f9e-a25c-4c66df33bf13" group-title="Denmark | Nivå | Unknown city",Retro Radio
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1 tvg-id="961b92e3-0601-11e8-ae97-52543be04c81" group-title="Denmark | Nordjylland | Unknown city",ANR
+http://stream.anr.dk/anr
+#EXTINF:-1 tvg-id="f517f41e-9324-11e8-a767-52543be04c81" group-title="Denmark | Nordjylland | Unknown city",Radio ALR
+http://streamer.radio.co/s6a9beb92e/listen
+#EXTINF:-1 tvg-id="7a91980e-b725-4460-8e6f-a494d23db5cf" group-title="Denmark | North Denmark | Frederikshavn",Vendsyssel FM
+http://voksenradio.dk:8002/
+#EXTINF:-1 tvg-id="adca3071-8636-4114-a18e-2d458054ed58" tvg-logo="https://cdn-profiles.tunein.com/s361016/images/logod.jpg?t=639246983870000000" group-title="Denmark | North Jutland | Aalborg",Historyradio.org low bandwidth
+https://cast1.asurahosting.com/proxy/historyr/stream.mp3
+#EXTINF:-1 tvg-id="8e247d1e-294c-4e0f-b223-11971263d283" tvg-logo="https://cdn6.aptoide.com/imgs/c/3/b/c3b89d33b4eda78e379811a3993c2d48_icon.png?w=128" group-title="Denmark | Randers | Randers",Always Elvis Radio
+http://radioserver.dk/alwayselvisradio
+#EXTINF:-1 tvg-id="7c2fae8d-a49f-45ef-a2b3-73f2dc25e5f0" tvg-logo="https://radioabc.dk/wp-content/uploads/2020/05/ABC-logo.svg" group-title="Denmark | Randers | Randers",DRR
+http://radioserver.dk/abc
+#EXTINF:-1 tvg-id="fdbc2b40-c50f-4f06-8922-95edbb632eac" group-title="Denmark | Randers | Randers",World Music Radio
+http://stream.wlmm.dk:8010/wmrmp3
+#EXTINF:-1 tvg-id="f1e2ba76-9149-4cb7-bd88-5c81f28dd24b" group-title="Denmark | Ringkøbing | Ringkøbing",Radio Ringkøbing
+http://netradio.radioringkobing.dk:8000/;
+#EXTINF:-1 tvg-id="c925e0c0-02e5-4cf5-984c-30c783e5995e" group-title="Denmark | Rørvig | Hundested",Radio Odsherred
+http://87.104.40.139:88/broadwave.mp3
+#EXTINF:-1 tvg-id="eeebcd94-6b72-4cbd-9e52-b3fd8154cbcc" tvg-logo="https://www.902fm.com/____impro/1/onewebmedia/800p%20kun902%20VT2___serialized3.png?etag=W%2F%22c3d20-633d44e5%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=440%2B440" group-title="Denmark | Skovlunde | Skovlunde",902 FM
+http://s38.myradiostream.com:8598/.mp3
+#EXTINF:-1 tvg-id="bfe11797-46ca-47a0-a278-6b20bfc117b0" tvg-logo="https://radiovictoria.dk/wp-content/themes/radiovictoria_dk/images/logo.svg" group-title="Denmark | South Denmark | Esbjerg",Radio Victoria Esbjerg
+https://stream.probroadcast.dk/victoria
+#EXTINF:-1 tvg-id="871abc60-a5c2-459a-8294-b615f7b153b8" tvg-logo="https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2020%2F01%2F10%2Fp2_logo_primaert.jpg" group-title="Denmark | South Denmark | Kerteminde",DR P2
+http://live-icy.dr.dk/A/A04H.mp3
+#EXTINF:-1 tvg-id="e463f4fd-8de9-44e7-b139-7ffc309c4520" tvg-logo="https://alfa.side-walk.dk/logos/kbuDQjAaWNzpjRIfEl9MXPUWj7CHYH9BJcZAIEo9.png" group-title="Denmark | South Denmark | Padborg",Alfa Gold
+https://radioserver.dk/alfaevent
+#EXTINF:-1 tvg-id="2e6f472a-d7d3-42ff-b3e5-48bdab743ac8" tvg-logo="https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2020%2F01%2F23%2Fp8_logo_primaert.jpg" group-title="Denmark | South Denmark | Skårup",DR P8 Jazz
+http://live-icy.dr.dk/A/A22H.mp3
+#EXTINF:-1 tvg-id="f35d7138-3266-4865-981f-99762ca33b63" tvg-logo="https://radiodiablo.dk/wp-content/uploads/2024/05/Diablo-Logo-BLACK-768x241.png" group-title="Denmark | South Denmark | Svendborg",Radio Diablo (AAC)
+https://radio1.jfmtech.dk/diablo.aac
+#EXTINF:-1 tvg-id="a14c1c19-6722-495a-b57e-5c825277d19a" tvg-logo="https://charlie.nu/" group-title="Denmark | South Denmark | Varde",Charlie Classical
+https://ec6.yesstreaming.net:4365/stream
+#EXTINF:-1 tvg-id="2940d3e6-770a-4073-9168-c814dcdc3f42" tvg-logo="https://charlie.nu/" group-title="Denmark | South Denmark | Varde",Charlie Tourist (Sydvest)
+https://ec6.yesstreaming.net:4385/stream
+#EXTINF:-1 tvg-id="371c0687-f877-4c9c-b538-d759fc0793d7" group-title="Denmark | South Denmark | Vejle",Radio Ådalen - Ødsted
+http://stream2.radiosolutions.dk/radioaadalen
+#EXTINF:-1 tvg-id="4a2c9e36-9c3f-4b02-8122-c8bb9fd195b7" group-title="Denmark | Thorshavn | Unknown city",Vox Pop
+http://stream.midlar.fo/voxpop-128
+#EXTINF:-1 tvg-id="d549216c-f943-48c7-8c39-324214177c60" group-title="Denmark | Trekanten | Unknown city",Radio Viva
+https://stream.probroadcast.dk/radioviva
+#EXTINF:-1 tvg-id="a72981b6-8d24-4f95-9fdf-9313c17f260f" group-title="Denmark | Unknown region | Unknown city",100% Kim Larsen
+http://stream2.wlmm.dk/kimlarsenmp3
+#EXTINF:-1 tvg-id="d8167c19-b09e-476a-a593-ceb7841b9d6a" group-title="Denmark | Unknown region | Unknown city",2town Radio
+https://streaming.radio.co/sd9d980ff0/listen
+#EXTINF:-1 tvg-id="962b0254-0601-11e8-ae97-52543be04c81" tvg-logo="https://s0.wp.com/i/blank.jpg" group-title="Denmark | Unknown region | Unknown city",2town Radio
+http://streaming.radio.co/sd9d980ff0/listen
+#EXTINF:-1 tvg-id="a3a17cb3-d4ac-4cc2-ba45-3a219d891371" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/130269.v1.png" group-title="Denmark | Unknown region | Unknown city",Boybands Forever
+https://live-bauerdk.sharp-stream.com/RP10_premium_96.aac
+#EXTINF:-1 tvg-id="7a17dda6-45b5-11e8-8919-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Classic FM
+http://webradio.classicfm.dk/classichorsens
+#EXTINF:-1 tvg-id="0d939aa0-cce8-4841-92fe-1a03d36da0d3" group-title="Denmark | Unknown region | Unknown city",Classic Rock Danmark
+https://netradio.classicfm.dk/classicrock
+#EXTINF:-1 tvg-id="d407c4b5-2131-464f-bcc4-c0dad44813d8" group-title="Denmark | Unknown region | Unknown city",Country 108
+https://icepool.silvacast.com/COUNTRY108.mp3
+#EXTINF:-1 tvg-id="bd1d9130-d9b3-4875-a8f1-e307dfcc0b03" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Danmarks Radio P4; Trekanten
+http://live-icy.dr.dk/A/A13H.mp3
+#EXTINF:-1 tvg-id="6a9abc1c-66f2-11ea-be63-52543be04c81" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Danmarks Radio P6
+https://live-icy.dr.dk/A/A29H.mp3
+#EXTINF:-1 tvg-id="f03cd652-2231-4120-b255-bc80f0745fd9" group-title="Denmark | Unknown region | Unknown city",Dansktop Kanalen
+https://netradio.classicfm.dk/dansktop
+#EXTINF:-1 tvg-id="9610c1ca-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR Nyheder
+http://live-icy.dr.dk/A/A02L.mp3
+#EXTINF:-1 tvg-id="960f5a18-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P1
+http://live-icy.gss.dr.dk/A/A03H.mp3
+#EXTINF:-1 tvg-id="28b58640-e317-4778-9bba-a1992f8f0bf7" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p1.29c35f9c.svg" group-title="Denmark | Unknown region | Unknown city",DR P1 (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p1/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5af4-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P2
+http://live-icy.dr.dk/A/A04H.mp3
+#EXTINF:-1 tvg-id="4b7fdc14-64c5-4bf9-8924-615e81b812dc" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p2.041e766f.svg" group-title="Denmark | Unknown region | Unknown city",DR P2 (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p2/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5bcd-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P3
+http://live-icy.dr.dk/A/A05H.mp3
+#EXTINF:-1 tvg-id="b0f1b100-23b5-4c7b-bdb1-a2c68006d6bf" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p3.28743ad0.svg" group-title="Denmark | Unknown region | Unknown city",DR P3 (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p3/masterab.m3u8
+#EXTINF:-1 tvg-id="0d31baf5-4dc8-413f-baf5-56af69a5fefa" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Unknown region | Unknown city",DR P4 Bornholm
+http://live-icy.gss.dr.dk/A/A06H.mp3
+#EXTINF:-1 tvg-id="960f585d-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Bornholm
+http://live-icy.dr.dk/A/A06H.mp3
+#EXTINF:-1 tvg-id="45f65836-5e76-4d16-a755-e99b2d0be65b" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Bornholm (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4bornholm/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5706-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Esbjerg
+http://live-icy.dr.dk/A/A15H.mp3
+#EXTINF:-1 tvg-id="d3b4142e-efd3-4cd2-af83-432dcd428848" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Unknown region | Unknown city",DR P4 Esbjerg
+http://live-icy.gss.dr.dk/A/A15H.mp3
+#EXTINF:-1 tvg-id="87e811be-33a3-4236-a348-6e23d53b2c76" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Esbjerg (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4esbjerg/masterab.m3u8
+#EXTINF:-1 tvg-id="960f528a-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Fyn
+http://live-icy.dr.dk/A/A07H.mp3
+#EXTINF:-1 tvg-id="0c468b6f-f529-41e9-9dc6-83f687d67d81" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Fyn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4fyn/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5358-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 København
+http://live-icy.dr.dk/A/A08H.mp3
+#EXTINF:-1 tvg-id="84f2b3d5-f07e-4499-8fe5-46afbfcfc125" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Unknown region | Unknown city",DR p4 København
+http://live-icy.gss.dr.dk/A/A08H.mp3
+#EXTINF:-1 tvg-id="3a0e373c-ba86-40a0-8dde-6aff355293ac" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 København (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4kobenhavn/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5428-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Midt & Vest
+http://live-icy.dr.dk/A/A09H.mp3
+#EXTINF:-1 tvg-id="49b20332-4ee4-440a-b874-3d4b3edf0adf" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Midt-Vest (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4midtvest/masterab.m3u8
+#EXTINF:-1 tvg-id="addd84e9-2723-460e-8b8f-b2c19a854ece" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",DR P4 Nordjylland
+https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
+#EXTINF:-1 tvg-id="960f5583-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Nordjylland
+http://live-icy.dr.dk/A/A10H.mp3
+#EXTINF:-1 tvg-id="53cb3284-c504-40bd-898a-61825abbdc49" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",DR P4 Nordjylland
+http://live-icy.dr.dk/A/A10H.mp3
+#EXTINF:-1 tvg-id="a1631bea-d910-4fc2-bc88-a163009484d2" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Nordjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4nordjylland/masterab.m3u8
+#EXTINF:-1 tvg-id="960df6d5-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Sjælland
+http://live-icy.dr.dk/A/A11H.mp3
+#EXTINF:-1 tvg-id="1def7d71-46ce-45e8-b4f5-e3e3ccc38ee7" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Sjælland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8
+#EXTINF:-1 tvg-id="960df7a4-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Syd
+http://live-icy.dr.dk/A/A12H.mp3
+#EXTINF:-1 tvg-id="31b9029e-5ff7-460a-b543-c4f942a436b4" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Unknown region | Unknown city",DR P4 Syd
+http://live-icy.gss.dr.dk/A/A12H.mp3
+#EXTINF:-1 tvg-id="93f651cc-1bfa-466e-aeb0-00ec61bd9ded" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Syd (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4syd/masterab.m3u8
+#EXTINF:-1 tvg-id="1acd0e04-ea0c-46e8-9d5c-bd7d0233532c" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Trekanten (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8
+#EXTINF:-1 tvg-id="9aa58b89-2aae-4dc3-9634-fce0e92177a1" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",DR P4 Trekanten (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4trekanten/masterab.m3u8
+#EXTINF:-1 tvg-id="4c288b10-8af2-40ff-8c11-932730a45fc2" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p4.a9a465ed.svg" group-title="Denmark | Unknown region | Unknown city",DR P4 Østjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p4ostjylland/masterab.m3u8
+#EXTINF:-1 tvg-id="9610bbeb-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P4 Østjyllands Radio
+http://live-icy.dr.dk/A/A14H.mp3
+#EXTINF:-1 tvg-id="9610bcba-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P5
+http://live-icy.dr.dk/A/A25H.mp3
+#EXTINF:-1 tvg-id="0291a528-2544-46a6-9253-c0bed6db8582" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Bornholm (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5bornholm/masterab.m3u8
+#EXTINF:-1 tvg-id="94745bf8-1b99-4260-9bdc-90ef54742e7f" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Esbjerg (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5esbjerg/masterab.m3u8
+#EXTINF:-1 tvg-id="2b50701c-3337-4264-bd4a-92b3973c8786" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Fyn (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5fyn/masterab.m3u8
+#EXTINF:-1 tvg-id="3ef46bdf-bbd9-460f-a834-7c1b1a877a5e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/DR_P5_2017_logo.png" group-title="Denmark | Unknown region | Unknown city",DR P5 København
+http://live-icy.dr.dk/A/A25H.mp3
+#EXTINF:-1 tvg-id="65490fd6-c55b-4704-9638-35445a4c4f1a" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 København (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8
+#EXTINF:-1 tvg-id="0c26b12e-5a5a-4fbe-990f-a4f7bc20aa10" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",DR P5 Midt-Vest (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5midtvest/masterab.m3u8
+#EXTINF:-1 tvg-id="72efb250-a217-495a-ac1a-2b7f3fc134b5" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Nordjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5nordjylland/masterab.m3u8
+#EXTINF:-1 tvg-id="cab6fb5c-c9f3-43fd-aa7f-536dab0f1a46" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Sjælland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5sjaelland/masterab.m3u8
+#EXTINF:-1 tvg-id="176bd1f9-0033-46fe-b39a-348ba4e2e7b9" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Syd (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5syd/masterab.m3u8
+#EXTINF:-1 tvg-id="df9fda53-e237-4905-b977-bb293a57adc0" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Trekanten (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5trekanten/masterab.m3u8
+#EXTINF:-1 tvg-id="8db642b4-c560-4231-ba8b-5895b3b5c465" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p5.1704bd78.svg" group-title="Denmark | Unknown region | Unknown city",DR P5 Østjylland (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p5ostjylland/masterab.m3u8
+#EXTINF:-1 tvg-id="1795fe73-8624-401f-873b-3779e9c2de22" tvg-logo="https://www.dr.dk/nyhedsbrev/images/drlyd.png" group-title="Denmark | Unknown region | Unknown city",DR P6 Beat
+http://live-icy.gss.dr.dk/A/A29H.mp3
+#EXTINF:-1 tvg-id="9610bd91-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P6 BEAT
+http://live-icy.dr.dk/A/A29H.mp3
+#EXTINF:-1 tvg-id="2d422514-5893-4845-808b-1292447d3144" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p6beat.4efb4634.svg" group-title="Denmark | Unknown region | Unknown city",DR P6 BEAT (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p6beat/masterab.m3u8
+#EXTINF:-1 tvg-id="9610c01b-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR P8 JAZZ
+http://live-icy.dr.dk/A/A22H.mp3
+#EXTINF:-1 tvg-id="2cdb7309-4428-4068-a2e2-af5b034cec0f" tvg-logo="https://dr.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",DR P8 Jazz
+http://live-icy.gss.dr.dk/A/A22H.mp3
+#EXTINF:-1 tvg-id="9298e58e-3dd2-418c-bd39-6798f59b8b10" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg" group-title="Denmark | Unknown region | Unknown city",DR P8 JAZZ (AAC)
+https://drliveradio1.akamaized.net/hls/live/2097651/p8jazz/masterab.m3u8
+#EXTINF:-1 tvg-id="dccebad1-7e2a-4289-9cd0-a79d24d2d21e" tvg-logo="https://www.dr.dk/lyd/_next/static/media/p8jazz.3748d702.svg" group-title="Denmark | Unknown region | Unknown city",DR P8 Jazz (AAC)
+https://drliveradio2.akamaized.net/hls/live/2118698/p8/playlist-320000.m3u8
+#EXTINF:-1 tvg-id="9610c0f1-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",DR Ramasjang/Ultra Radio
+http://live-icy.gss.dr.dk/A/A24H.mp3
+#EXTINF:-1 tvg-id="9632fa79-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Globus Guld
+http://stream.wlmm.dk/;
+#EXTINF:-1 tvg-id="1d8e56d5-b3d7-478a-a439-d1678b3d7edf" tvg-logo="https://globusguld.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Globus Guld Country
+https://stream.probroadcast.dk/guldcountrymp3
+#EXTINF:-1 tvg-id="552a021a-95cf-4dfe-bf0d-83e2dbe34fd3" group-title="Denmark | Unknown region | Unknown city",Globus Guld Jul
+https://stream.probroadcast.dk/guldjul
+#EXTINF:-1 tvg-id="c8bdcde9-bb1d-4f14-9000-301c5d242b02" group-title="Denmark | Unknown region | Unknown city",Globus Guld Tonder
+http://media.wlmm.dk:8000/guldtoender
+#EXTINF:-1 tvg-id="3a9dcc21-c638-488e-ba54-9c72febbfef7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtWvtFr-XA9EV4Ca7g0LgobSq355ZOHKyWVo8i0WkQ8Q&s" group-title="Denmark | Unknown region | Unknown city",Kalaallit Nunaata Radioa
+https://knr.gl/radiolivestream
+#EXTINF:-1 tvg-id="961bfd41-0601-11e8-ae97-52543be04c81" tvg-logo="https://websitebuilder.one.com/favicon/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Limfjord Plus
+http://media.limfjordnetradio.dk/plus128
+#EXTINF:-1 tvg-id="961bfe0e-0601-11e8-ae97-52543be04c81" tvg-logo="https://websitebuilder.one.com/favicon/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Limfjord Plus Slager
+http://media.limfjordnetradio.dk/plusslager128
+#EXTINF:-1 tvg-id="992df62a-154d-4434-9da9-9b5e17e8664d" group-title="Denmark | Unknown region | Unknown city",Limfjord Slager
+https://media.limfjordnetradio.dk/plusslageraac
+#EXTINF:-1 tvg-id="c63d6c6e-4edc-4fe4-91fc-823dc0dc3c47" group-title="Denmark | Unknown region | Unknown city",Midtfjord Radio
+http://stream.midtfjordradio.dk/netradio
+#EXTINF:-1 tvg-id="0f28b3bb-8302-4433-94f8-a5c286c22cad" group-title="Denmark | Unknown region | Unknown city",Musaiko
+http://fluo.muzaiko.saluton.dk:8000/radio.mp3
+#EXTINF:-1 tvg-id="b4d7f87f-89c8-4d1b-af0b-fc2fcafd8d66" tvg-logo="https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png" group-title="Denmark | Unknown region | Unknown city",myROCK
+https://live-bauerdk.sharp-stream.com/myrock_dk_mp3
+#EXTINF:-1 tvg-id="9929aca5-2a39-4915-87b4-c62d55761d4d" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222" group-title="Denmark | Unknown region | Unknown city",NOVA - Horsens 103.6 FM
+https://live-bauerdk.sharp-stream.com/nova_dk_mp3
+#EXTINF:-1 tvg-id="effb3b79-8c7f-41c9-83d4-b7bdc393b937" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010" group-title="Denmark | Unknown region | Unknown city",Nova 100 Dansk
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
+#EXTINF:-1 tvg-id="1eb0a70c-2cc1-11e9-a35e-52543be04c81" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/202.jpg?ver=1490698010" group-title="Denmark | Unknown region | Unknown city",Nova 100% Dansk
+https://live-bauerdk.sharp-stream.com/DK_HQ_RP11.aac
+#EXTINF:-1 tvg-id="4bcb11ad-0ac0-4bb6-8b36-603ba1a4effd" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/174.jpg?ver=1490690222" group-title="Denmark | Unknown region | Unknown city",Nova FM
+https://live-bauerdk.sharp-stream.com/nova_dk_mp3
+#EXTINF:-1 tvg-id="d252b764-8920-4d6f-9b03-a68813a6c93f" group-title="Denmark | Unknown region | Unknown city",Party Fm
+http://stream1.partyfm.dk/Party320
+#EXTINF:-1 tvg-id="43f3f332-d3eb-4dae-b89b-a13148e9a513" group-title="Denmark | Unknown region | Unknown city",PartyFM
+http://stream.partyfm.dk/Party320/
+#EXTINF:-1 tvg-id="37de7ca3-9cad-479b-ad27-4f3a4d068636" group-title="Denmark | Unknown region | Unknown city",Partyfm
+http://stream1.partyfm.dk/Party320
+#EXTINF:-1 tvg-id="4c493e5b-983d-4ad8-9e6a-290dccf730b7" group-title="Denmark | Unknown region | Unknown city",Partyfm
+http://stream1.partyfm.dk/Party320
+#EXTINF:-1 tvg-id="642d66e8-38ea-4950-861e-d711f891ea47" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/039/partyradiopro.5b79037f.png" group-title="Denmark | Unknown region | Unknown city",Partyradio.pro
+https://stream.partyradio.pro/listen/partyradio/stream
+#EXTINF:-1 tvg-id="d48b5967-20e4-416d-88cd-a899d6338f85" group-title="Denmark | Unknown region | Unknown city",Psyradio - Chillout
+http://komplex2.psyradio.org:8020/chillout/;
+#EXTINF:-1 tvg-id="6c8287a6-64a8-4144-a960-c14d88ea832c" tvg-logo="https://r8dio.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",r8Dio
+https://s3.radio.co/s7cd1ffe2f/listen
+#EXTINF:-1 tvg-id="2fec1d56-0045-44ae-9ead-c975cbcb3af1" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/178.svg" group-title="Denmark | Unknown region | Unknown city",Radio 100
+https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
+#EXTINF:-1 tvg-id="96189cc3-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Radio ABC
+http://netradio.radioabc.dk/
+#EXTINF:-1 tvg-id="9cb2aa9d-b96d-497e-8389-85664ebbf867" group-title="Denmark | Unknown region | Unknown city",Radio ABC
+https://radioserver.dk/abc
+#EXTINF:-1 tvg-id="737884fb-a729-4ce7-ab24-c22245618e95" tvg-logo="https://www.radioalfa.dk/wp-content/uploads/goliath/Radio-Alfa_Logo%20%282%29.png" group-title="Denmark | Unknown region | Unknown city",Radio Alfa
+https://radioserver.dk/alfa
+#EXTINF:-1 tvg-id="801ce973-f3d8-4c0f-b11f-832b5f6377d9" group-title="Denmark | Unknown region | Unknown city",Radio Alfa
+https://radioserver.dk/alfa
+#EXTINF:-1 tvg-id="b6f5187a-e78a-4337-a023-bb589ee55f0b" tvg-logo="https://www.radioalfa.dk/wp-content/uploads/2022/01/AlfaGold_HVID-810x488.png" group-title="Denmark | Unknown region | Unknown city",Radio Alfa - Gold
+https://radioserver.dk/alfaevent
+#EXTINF:-1 tvg-id="c3f54477-78f5-4796-bcfc-6b464295103e" tvg-logo="https://radioplay.dk/tesla/static/favicons/radioplay-dk/apple-touch-icon.png" group-title="Denmark | Unknown region | Unknown city",Radio Denmark FM
+https://live-bauerdk.sharp-stream.com/radio100_dk_mp3
+#EXTINF:-1 tvg-id="b3936ab5-5f4c-4c48-b910-93369426dde7" tvg-logo="https://radiodiablo.dk/wp-content/uploads/2024/05/Diablo-Logo-BLACK.png" group-title="Denmark | Unknown region | Unknown city",Radio Diablo
+http://radio1.jfmtech.dk/diablo.aac
+#EXTINF:-1 tvg-id="743e24c9-8e92-49a8-8ec0-321b767ec0e5" group-title="Denmark | Unknown region | Unknown city",Radio Freja
+http://solid67.streamupsolutions.com:15507/stream
+#EXTINF:-1 tvg-id="ee5c74c5-0440-4676-b6dc-4dfb70db6ded" group-title="Denmark | Unknown region | Unknown city",Radio Globus
+https://stream.probroadcast.dk/radioglobus
+#EXTINF:-1 tvg-id="15d1a95a-abcc-478a-a87f-7cf5d2b242ae" group-title="Denmark | Unknown region | Unknown city",Radio Globus
+https://stream.probroadcast.dk/radioglobus
+#EXTINF:-1 tvg-id="2c47bda3-a75b-40f9-a96a-b132835128e0" group-title="Denmark | Unknown region | Unknown city",Radio Globus
+https://stream.probroadcast.dk/radioglobus
+#EXTINF:-1 tvg-id="59a304c4-39f4-49f4-abc7-6a086f6d1de4" group-title="Denmark | Unknown region | Unknown city",Radio Klitholm
+http://stream.radioklitholm.dk:8000/stream
+#EXTINF:-1 tvg-id="960df605-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Radio Limfjord
+http://media.limfjordnetradio.dk/limfjord128
+#EXTINF:-1 tvg-id="9159f400-d6a3-4408-adfc-42ffd95f049d" group-title="Denmark | Unknown region | Unknown city",Radio MB
+http://live2.rcast.net:8722/;stream
+#EXTINF:-1 tvg-id="96298c0b-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Radio Nord
+http://netradio.radionord.dk:8000/RadioNord
+#EXTINF:-1 tvg-id="f9ce659b-0727-4ac1-af3b-b3171b10d1d0" tvg-logo="https://www.google.com/search?q=radio+nord+vendsyssel+logo&sca_esv=daf07b3e4903b956&rlz=1C1GCEA_enDK821DK821&udm=2&biw=1920&bih=957&sxsrf=AHTn8zoY_JcHKXHPGn44U5eR_iAx7SeRug%3A1745569894314&ei=ZkgLaND3Es3GwPAP5J-OoAI&oq=radio+nord+&gs_lp=EgNpbWciC3JhZGlvIG5vcmQgKgIIATIHECMYJxjJAjIHECMYJxjJAjIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESOVkULouWKdWcAJ4AJABAJgBPqABqAKqAQE1uAEDyAEA-AEBmAIGoAKAAsICBhAAGAgYHsICBBAAGB6YAwCIBgGSBwE2oAfzEbIHATS4B_sB&sclient=img#vhid=teST4f9UGIDA0M&vssid=mosaic" group-title="Denmark | Unknown region | Unknown city",Radio Nord
+http://netradio.radionord.dk:8000/RadioNord
+#EXTINF:-1 tvg-id="962b031f-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Radio Playback
+http://stream02.radioplayback.dk/stream
+#EXTINF:-1 tvg-id="3ae1555a-cc61-478d-a092-2b73af5b431b" tvg-logo="https://radioplayback.dk/wp-content/uploads/2020/02/RPB-logo-e1581174186741.png" group-title="Denmark | Unknown region | Unknown city",Radio Playback
+https://stream02.radioplayback.dk/stream
+#EXTINF:-1 tvg-id="963cba5e-0601-11e8-ae97-52543be04c81" tvg-logo="https://listenapi.s3.amazonaws.com/img/ConfigWebListenBarLogoImageUrl/212.jpg?ver=1490197142" group-title="Denmark | Unknown region | Unknown city",Radio Soft
+http://tx-bauerdk.sharp-stream.com/http_live.php?i=radiosoft_dk_mp3
+#EXTINF:-1 tvg-id="5ef52e34-5c0d-41b8-b2ff-24bb3df52065" tvg-logo="https://radiosolo.dk/wp-content/uploads/2021/06/radiosolo.svg" group-title="Denmark | Unknown region | Unknown city",Radio Solo
+https://radioserver.dk/solo
+#EXTINF:-1 tvg-id="8dbeb94e-3497-4798-a8a7-9623902cd007" tvg-logo="https://netradio.dk/img/rs.png" group-title="Denmark | Unknown region | Unknown city",Radio Sydhavsoerne Lolland
+https://radio1.jfmtech.dk/sydhavlolland
+#EXTINF:-1 tvg-id="3afb7b74-5946-44d5-98c5-f70808d4526d" tvg-logo="https://radioviva.dk/wp-content/themes/radioviva_dk/images/viva_logo.png" group-title="Denmark | Unknown region | Unknown city",Radio Viva - Kolding
+https://stream.probroadcast.dk/radioviva
+#EXTINF:-1 tvg-id="d4667343-aec5-40b7-b292-e18a6cc0e92b" tvg-logo="https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png" group-title="Denmark | Unknown region | Unknown city",Radio VLR
+https://netradio.vlr.dk/vlr8d
+#EXTINF:-1 tvg-id="143f751d-32b2-456d-9219-d2e24a3d48fb" tvg-logo="https://vlr.dk/wp-content/uploads/sites/3/2024/08/cropped-favicon_vlr-1-180x180.png" group-title="Denmark | Unknown region | Unknown city",Radio VLR - Classic Christmas
+https://netradio.vlr.dk/popup2
+#EXTINF:-1 tvg-id="a03b2ae7-f8a6-410a-b78c-bc94c6ca3b1c" group-title="Denmark | Unknown region | Unknown city",Radio Øst FM
+https://stream.probroadcast.dk/oestfmmp3
+#EXTINF:-1 tvg-id="6397fc3c-fca0-11e9-bbf2-52543be04c81" tvg-logo="https://radio4.dk/favicon.ico" group-title="Denmark | Unknown region | Unknown city",Radio4
+http://netradio.radio4.dk/radio4
+#EXTINF:-1 tvg-id="81b665cb-7867-48f3-92a7-968acbf5ae06" group-title="Denmark | Unknown region | Unknown city",RadioFLR
+http://play.radioflr.dk:9000/stream
+#EXTINF:-1 tvg-id="3a8dcb6e-224e-4a42-a894-ca74f244e5f4" tvg-logo="https://www.radioflr.dk/wp-content/uploads/2026/03/RadioFLR_Logo512x512.png" group-title="Denmark | Unknown region | Unknown city",RadioFLR
+http://play.radioflr.dk:9000/stream
+#EXTINF:-1 tvg-id="5761523c-2a23-480b-82e3-b20a09f48ae4" group-title="Denmark | Unknown region | Unknown city",Rar
+http://techno-low.rautemusik.fm/
+#EXTINF:-1 tvg-id="50b65d66-a8c4-4905-8211-21a3c1d3193a" group-title="Denmark | Unknown region | Unknown city",Reggae
+https://stream.laut.fm/deutscher-reggae
+#EXTINF:-1 tvg-id="962ee337-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Retro Radio
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1 tvg-id="86407434-f7f1-4de0-9f85-d5ecfe0016e4" group-title="Denmark | Unknown region | Unknown city",Retro-Radio
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1 tvg-id="11c1b080-88c0-4dc1-a6aa-d77b1b30ff6d" group-title="Denmark | Unknown region | Unknown city",Retro-Radio
+http://stream128.retro-radio.dk/retro
+#EXTINF:-1 tvg-id="964789cd-0601-11e8-ae97-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Retro-Radio Jul
+http://isstream.kanalplus.fm/TX-1
+#EXTINF:-1 tvg-id="2f187081-8b18-4cbe-94b7-b88061ede3e2" group-title="Denmark | Unknown region | Unknown city",Retro-Radio Millennium
+http://tx-2.retro-radio.dk/TX-2
+#EXTINF:-1 tvg-id="1bcec07c-48df-11e8-b1b0-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Retro1
+http://streammp3.retro-radio.dk/retro-mp3
+#EXTINF:-1 tvg-id="e3c5702d-2441-11e8-91bf-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Rockkanalen
+http://stream.kanalplus.fm/kp96
+#EXTINF:-1 tvg-id="d00bcc50-2d6a-42a7-b8bd-f1d656bf185c" group-title="Denmark | Unknown region | Unknown city",Rockkanalen 128
+http://stream.kanalplus.fm/kp128
+#EXTINF:-1 tvg-id="d20c9c7c-3787-4e67-abf6-7486b57c78a9" tvg-logo="https://skagafm.dk/skagafm/wp-content/uploads/2024/08/cropped-Skaermbillede-2024-08-29-kl.-14.20.49-180x180.png" group-title="Denmark | Unknown region | Unknown city",SkagaFM
+https://stream.probroadcast.dk/skagafm
+#EXTINF:-1 tvg-id="104098d5-7b92-457d-8851-6ef6000aeb7b" tvg-logo="https://skala.fm/wp-content/uploads/sites/2/2024/08/cropped-favicon_skala-180x180.png" group-title="Denmark | Unknown region | Unknown city",Skala FM
+https://netradio.skala.fm/ska8d
+#EXTINF:-1 tvg-id="f5345ab1-45b3-11e8-8919-52543be04c81" tvg-logo="https://skala.fm/wp-content/uploads/sites/2/2024/08/cropped-favicon_skala-180x180.png" group-title="Denmark | Unknown region | Unknown city",Skala FM
+http://webradio.skala.fm/kolding
+#EXTINF:-1 tvg-id="37e84ac0-5336-4ce8-badb-6fdc7ed8923e" tvg-logo="https://tangocopenhagen.radio/wp-content/uploads/2019/03/logo-square-large-2-comp.png" group-title="Denmark | Unknown region | Unknown city",Tango Copenhagen
+https://tangocopenhagen.stream.laut.fm/tangocopenhagen
+#EXTINF:-1 tvg-id="d1aff0af-3e9e-4ad2-a9d6-cfed3ffd6a66" group-title="Denmark | Unknown region | Unknown city",Tango Copenhagen Radio
+https://tangocopenhagen.stream.laut.fm/tangocopenhagen?t302=2021-01-15_18-47-40&uuid=64db9a91-4a6e-4bc8-ba24-26a2fa7f24d0
+#EXTINF:-1 tvg-id="0a84a978-03e1-4ae8-8b5c-f14631de0012" group-title="Denmark | Unknown region | Unknown city",TechnoBase.FM - AACplus 96k
+http://listen.technobase.fm/tunein-aacplus-pls
+#EXTINF:-1 tvg-id="30b51c98-89e5-4058-9955-2abcb1d1e092" group-title="Denmark | Unknown region | Unknown city",TechnoBase.FM - MP3 192k
+http://listen.technobase.fm/tunein-mp3-pls
+#EXTINF:-1 tvg-id="4821c495-7c75-11e9-aa30-52543be04c81" group-title="Denmark | Unknown region | Unknown city",The Lake Radio
+http://hyades.shoutca.st:8627/
+#EXTINF:-1 tvg-id="632fe760-a124-4385-9061-6acb4bd14d0f" tvg-logo="https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/173.jpg" group-title="Denmark | Unknown region | Unknown city",The Voice - Danmarks Hitstation
+https://live-bauerdk.sharp-stream.com/thevoice_dk_mp3
+#EXTINF:-1 tvg-id="bd2c8477-0702-4efe-aa9b-207880a1d68f" group-title="Denmark | Unknown region | Unknown city",UMLANDO Radio
+https://a2.asurahosting.com:6520/radio.mp3
+#EXTINF:-1 tvg-id="a3e3aed5-9adb-4fc9-baae-0e0f3b09d50f" tvg-logo="https://www.radio.de/images/broadcasts/4b/fb/128106/1/c300.png" group-title="Denmark | Unknown region | Unknown city",Vinyl Hits
+http://stream.vinylhits.dk/vinylaac
+#EXTINF:-1 tvg-id="067fd720-6c67-11ea-b1cf-52543be04c81" group-title="Denmark | Unknown region | Unknown city",Vinylhits.dk
+http://stream.vinylhits.dk/vinylmp3
+#EXTINF:-1 tvg-id="220f0cf1-029f-459f-bdee-890995f037b2" group-title="Denmark | Unknown region | Unknown city",WMR - World Music Radio
+https://stream.probroadcast.dk/wmr
+#EXTINF:-1 tvg-id="54222894-62d9-4d59-bf91-059c0d6a1b63" group-title="Denmark | Varde | Varde",Radio Varde
+http://stream.wlmm.dk/radiovardemp3
+#EXTINF:-1 tvg-id="0ce53a14-56cd-4d45-b03b-62bfbeabf04d" tvg-logo="https://classicfm.dk/wp-content/uploads/2024/08/cropped-favicon_classic_fm-180x180.png" group-title="Denmark | Vejle | Unknown city",Classic.fm
+http://netradio.classicfm.dk/cla8d
+#EXTINF:-1 tvg-id="a401551f-88a3-400c-9f02-2bfb592a1ae0" tvg-logo="https://radioviborg.dk/wp-content/uploads/2017/09/cropped-favicon-180x180.png" group-title="Denmark | Viborg | Viborg",Radio Viborg
+https://webradio.radioviborg.dk/viborg
+#EXTINF:-1 tvg-id="2eab15b6-0294-48f2-8b4f-4d989fbda669" tvg-logo="https://radio40plus.dk/images/logo_rund_150.png" group-title="Denmark | Vordingborg | Vordingborg",Radio 40plus
+http://stream.radiosolutions.dk/radio40plus
+#EXTINF:-1 tvg-id="1507676e-a63a-4b0b-817e-e63cad25a8af" group-title="Denmark | Zealand | Faxe",Radio Rollo
+http://stream.radiosolutions.dk/rollo
+#EXTINF:-1 tvg-id="a3bc7946-e569-420b-8793-9048804ae6b3" tvg-logo="https://asset.dr.dk/imagescaler/?protocol=https&server=www.dr.dk&file=%2Fimages%2Fother%2F2020%2F02%2F10%2Fp1_logo_primaert.jpg" group-title="Denmark | Zealand | Skælskør",DR P1
+http://live-icy.dr.dk/A/A03H.mp3
+#EXTINF:-1 tvg-id="344a1b0b-b751-42b8-af4d-cd8e76e35c1a" group-title="Denmark | Zealand | Store Merløse",Radio HSR
+https://a6.asurahosting.com:7680/radio.mp3
+#EXTINF:-1 tvg-id="c7e105b6-4e4d-4b30-a1a6-9f496c8d43b4" tvg-logo="https://www.dr.dk/favicon.ico" group-title="Denmark | Zealand | Tølløse",Danmarks Radio P2
+https://live-icy.dr.dk/A/A27L.mp3
+#EXTINF:-1 tvg-id="66f4f367-07b4-46c2-b564-319260f97122" group-title="Denmark | Zeeland | Unknown city",dr p5 sjælland
+http://live-icy.dr.dk/A19H_master2.mp3

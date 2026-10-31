@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="464fc4cc-3c6e-4b5d-92a8-9e4646c2f1da" tvg-logo="https://sensuelleradio.com/favicon.ico" group-title="Mauritius | LE TAMPON | Unknown city",SENSUELLE RADIO
+https://forwardmystream.com/sensuelleradio
+#EXTINF:-1 tvg-id="91be8181-df6c-4874-8f1a-dabd6fdc943e" tvg-logo="https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png" group-title="Mauritius | Mauritius | Port Mathurin",OUi Radio Rodrigues
+https://mu1stream.mushost.com:8554/
+#EXTINF:-1 tvg-id="385b3d31-8952-464f-a1f1-a86b68d3c35e" tvg-logo="https://rod.ouiradio.com/images/OUi-Radio-Rodrigues-Logo.png" group-title="Mauritius | Mauritius | Unknown city",OUi Radio Rodrigues
+https://mu1stream.mushost.com:8554/
+#EXTINF:-1 tvg-id="d7c6d471-0e42-4f73-8c2b-4c4203227d0e" tvg-logo="https://www.ouiradio.com/wp-content/uploads/2023/06/OUI-Radio-Logo-White-5000.png" group-title="Mauritius | Mauritius | Vacoas",OUi Radio
+https://mu1stream.mushost.com:8443/
+#EXTINF:-1 tvg-id="8b99281f-5cc6-4a2e-85db-012e4ca685ce" group-title="Mauritius | Moka | Camp Thorel",Radio One
+https://centova57.instainternet.com/proxy/vivavoceltd?mp=/stream
+#EXTINF:-1 tvg-id="78a48ab1-6e15-4331-8378-e1a9a97459d1" group-title="Mauritius | Moka | Pailles",Radio 7 Mauritius
+https://c2.radioboss.fm/stream/1056
+#EXTINF:-1 tvg-id="3c1ee308-0937-4a27-84fc-bc53cc36297e" tvg-logo="https://mbcradio.tv/sites/default/files/favicon.ico" group-title="Mauritius | Moka | Quartier Militaire",MBC Best FM
+https://radio.mbconline.xyz/hls/bestfm.m3u8
+#EXTINF:-1 tvg-id="adb22f44-ff89-43ae-8406-6632c85298d0" group-title="Mauritius | Moka | Quartier Militaire",MBC Kool FM
+https://radio.mbconline.xyz/hls/koolfm.m3u8
+#EXTINF:-1 tvg-id="e3cea313-4aa9-4ac5-a053-50d7e82326f4" group-title="Mauritius | Moka | Quartier Militaire",MBC Radio Maurice
+https://radio.mbconline.xyz/hls/radiomaurice.m3u8
+#EXTINF:-1 tvg-id="cfe17287-cabe-4484-b05a-a935e4444d1c" tvg-logo="https://mbcradio.tv/sites/default/files/favicon.ico" group-title="Mauritius | Moka | Quartier Militaire",MBC Radio Mauritius
+https://radio.mbconline.xyz/hls/radiomauritus.m3u8
+#EXTINF:-1 tvg-id="961a681b-0601-11e8-ae97-52543be04c81" tvg-logo="https://live.radioplus.mu/wp-content/uploads/elementor/thumbs/radioplus-qohb3n7nfwchk09bu0c6dm1hvtjgr7523yeok8btoq.jpg" group-title="Mauritius | Port Louis | Port Louis",Radio Plus Mauritius
+https://stream.radioplus.mu:8000/radio.mp3
+#EXTINF:-1 tvg-id="abcd1a7b-8b0a-4bc4-a8c4-4a02352760a6" tvg-logo="https://mbcradio.tv/streaming/img/cover_taalfm.png" group-title="Mauritius | Unknown region | Unknown city",MBC Taal FM
+https://radio.mbconline.xyz/hls/tallfm.m3u8
+#EXTINF:-1 tvg-id="3447ded9-0b52-4f59-ad6b-d1a7259fdf28" tvg-logo="https://static-media.streema.com/media/cache/7e/87/7e878f2a00ddf5a8311c66914c6fc44d.jpg" group-title="Mauritius | Unknown region | Unknown city",Radio Plus - Indiz
+https://streamer.radio.co/sed5c5a375/listen
+#EXTINF:-1 tvg-id="beb06313-7d5c-4627-8360-f14b68e0e83d" group-title="Mauritius | Unknown region | Unknown city",Radioplus Fever
+https://streamer.radio.co/s3fe39a4a4/listen
+#EXTINF:-1 tvg-id="9cae78d5-3341-4e29-ab1d-9aa9915b8cc4" group-title="Mauritius | Unknown region | Unknown city",Tamizen
+https://c34.radioboss.fm:18023/stream

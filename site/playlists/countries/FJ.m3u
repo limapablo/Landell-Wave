@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0c482012-8794-475b-9d79-2c57bb84a410" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/today_fm_logo_500x500.png" group-title="Fiji | Unknown region | Unknown city",2Day FM
+https://icecast1.sere.plus/2Day
+#EXTINF:-1 tvg-id="cffba3c2-ad5b-42de-9f7e-b25fead272f7" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/bula_fm_logo_500x500.png" group-title="Fiji | Unknown region | Unknown city",Bula FM
+https://icecast1.sere.plus/Bula
+#EXTINF:-1 tvg-id="1fab5b71-4287-451d-83d6-8ebc2b9634cb" tvg-logo="https://www.fm96.com.fj/FM96.png" group-title="Fiji | Unknown region | Unknown city",FM 96
+https://n03-us2.rcs.revma.com/q8txpfyyay3vv?rj-ttl=5&rj-tok=AAABoYdWCpMAnffnvaD4Mp_VUw
+#EXTINF:-1 tvg-id="a83c3365-931f-4216-a1c8-42cb8feae481" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/gold_fm_logo_500x500.png" group-title="Fiji | Unknown region | Unknown city",Gold FM
+https://icecast1.sere.plus/Gold
+#EXTINF:-1 tvg-id="c24927d0-bdf9-44bd-a2f4-204dd19b8d29" tvg-logo="https://legendfm.com.fj/wp-content/uploads/2021/09/legendfm-favicon.png" group-title="Fiji | Unknown region | Unknown city",Legend FM
+https://stream.rcs.revma.com/7wnnz47a303vv?ver=864684
+#EXTINF:-1 tvg-id="e25c2208-699b-47c7-b7ea-b2548b9146eb" tvg-logo="https://lifefmfiji.org/wp-content/uploads/2022/07/Life-fm-logo.png" group-title="Fiji | Unknown region | Unknown city",Life FM
+https://streams3.vision.org.au/fiji.aac
+#EXTINF:-1 tvg-id="6f8c5332-c70f-4ce5-99d6-3dc1c3f83837" tvg-logo="https://lifefmfiji.org/wp-content/uploads/2022/07/Life-fm-logo.png" group-title="Fiji | Unknown region | Unknown city",Life FM
+https://streams3.vision.org.au/fiji.aac
+#EXTINF:-1 tvg-id="3cd559c0-c875-4eeb-96d0-a70f07fecf6a" tvg-logo="https://lifefmfiji.org/wp-content/uploads/2025/09/Life-Worship-whitered_landscape-300x99.png" group-title="Fiji | Unknown region | Unknown city",Life Worship
+https://streams3.vision.org.au/worshipap.aac
+#EXTINF:-1 tvg-id="78858754-2352-4177-bfe1-64169f69f00f" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/mirchi_fm_500x500.png" group-title="Fiji | Unknown region | Unknown city",Mirchi FM
+https://icecast1.sere.plus/MirchiFiji
+#EXTINF:-1 tvg-id="dff4f211-c7b0-4915-89fb-3164aad55d5e" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/radio_fiji_one_500x500.png" group-title="Fiji | Unknown region | Unknown city",Radio Fiji One
+https://icecast1.sere.plus/RFOne
+#EXTINF:-1 tvg-id="6fe75c70-6b0f-41d3-b37c-f398bba44161" tvg-logo="https://media.viti.plus/wp-content/uploads/2025/05/radio_fiji_two_500x500.png" group-title="Fiji | Unknown region | Unknown city",Radio Fiji Two
+https://icecast1.sere.plus/RFTwo
+#EXTINF:-1 tvg-id="f7634d83-ce3e-4407-aa04-4bcb37813fd5" tvg-logo="https://media.viti.plus/wp-content/uploads/2026/02/radiofijitwo-500x500-1.png" group-title="Fiji | Unknown region | Unknown city",Radio Fuji Two
+https://icecast1.sere.plus/RFTwo
+#EXTINF:-1 tvg-id="b1860078-c432-4c82-843e-943fddd98b65" tvg-logo="https://navtarang.com.fj/wp-content/uploads/2024/03/Nav-logo-2317px-by-654px-1.png" group-title="Fiji | Unknown region | Unknown city",Radio Navtarang
+https://stream.rcs.revma.com/5f56gd8a303vv
+#EXTINF:-1 tvg-id="40789cec-804f-4cf2-85ee-651cb666a127" tvg-logo="https://radiosargam.com.fj/wp-content/uploads/2021/09/sargam-header-213x68-1.png" group-title="Fiji | Unknown region | Unknown city",Radio Sargam
+https://stream.rcs.revma.com/8a38ru8a303vv?ver=531608
+#EXTINF:-1 tvg-id="27d1c778-edc8-4083-857c-fbc8e24bc202" tvg-logo="https://vitifm.com.fj/wp-content/uploads/2021/09/vitifm-menu-logo-187x68-1.png" group-title="Fiji | Unknown region | Unknown city",Viti FM
+https://stream.rcs.revma.com/3c11kc9a303vv

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="4974ff56-f36a-48d9-a0bb-cd3b5ce07f31" tvg-logo="https://dialradio.live/favicon.ico" group-title="The Sudan | Nouvelle-Aquitaine | Unknown city",Dial Radio
+https://cast.dialradio.live/stream.aac
+#EXTINF:-1 tvg-id="8d0e2e24-22c4-4544-8eb9-5f9fba1c441d" tvg-logo="https://www.dabangasudan.org/wp-content/uploads/2022/12/dabanga-logo-x2.png" group-title="The Sudan | Unknown region | Unknown city",Dabanga Radio
+https://stream.dabangasudan.org/
+#EXTINF:-1 tvg-id="9793ba8c-91b0-4109-b053-d88a29bc2672" group-title="The Sudan | Unknown region | Unknown city",HAWA al Sudan
+https://stream.zeno.fm/mqctx1bfd8zuv
+#EXTINF:-1 tvg-id="25e55b99-0e82-4fc6-ab43-4a875451fbec" tvg-logo="https://www.secretoffuture.com/favicon.ico" group-title="The Sudan | Unknown region | Unknown city",SECRET OF FUTURE
+https://panel.radiocast.net/listen/secret_of_future/radio.mp3
