@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="12347e64-99d2-42d4-8b67-7dcabef19665" tvg-logo="https://dbcradio.net/wp-content/uploads/2024/01/dbs_web_logo_dark.png" group-title="Dominica | Roseau | Unknown city",DBS Radio
+https://stream.dbcradio.net:8005/live
+#EXTINF:-1 tvg-id="4b793fca-627f-4968-854e-5fa296189ce0" group-title="Dominica | Saint Patrick Parish | Berekua",En Ba Mango
+https://s10.myradiostream.com/:4212/listen.mp3
+#EXTINF:-1 tvg-id="59bd1446-fd78-4efd-ad6f-094aedfc5b6d" tvg-logo="https://core3.imgix.net/5f70e9d693e1e_5f5976e7b2916_Copy-of-Purple-Welcome-Church-Template---Made-with-PosterMyWall-_1_.png?auto=format,compress&w=480&fit=max&" group-title="Dominica | Unknown region | Unknown city",Dominica Catholic Radio
+https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509
+#EXTINF:-1 tvg-id="42aaf446-c042-4c0d-8fff-966b4d8773f6" group-title="Dominica | Unknown region | Unknown city",Fabulosa 96.7
+https://bostonstreaminge.net/8006/stream
+#EXTINF:-1 tvg-id="e7efcff9-e9c3-4598-b7a2-8dd7cc873d9d" group-title="Dominica | Unknown region | Unknown city",Voice of Life Radio
+https://cdn.comeseetv.com:8000/vol
+#EXTINF:-1 tvg-id="89aa7d92-3d94-4c07-85b7-e68b3f9979a8" tvg-logo="https://voiceofliferadio.dm/wp-content/uploads/2020/11/vol-jpeg.jpg" group-title="Dominica | Unknown region | Unknown city",Voice Of Life Radio
+https://cdn.comeseetv.com:8000/vol

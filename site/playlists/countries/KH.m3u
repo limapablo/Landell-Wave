@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cc20bea1-aeea-4801-8f62-6aaab144f150" group-title="Cambodia | Phnom Penh | Phnom Penh",Family FM 99.5 (Witthyu Krousar)
+https://s14.myradiostream.com/10064/;.mp3
+#EXTINF:-1 tvg-id="405a8b9c-4e9f-442c-b9c8-f65813905da3" group-title="Cambodia | Phnom Penh | Phnom Penh",Hang Meas FM 104.5
+http://malisresidences.com:89/broadwave.mp3
+#EXTINF:-1 tvg-id="053872d7-f972-4db7-b19c-993e6553141d" group-title="Cambodia | Phnom Penh | Phnom Penh",LDP Radio
+https://streaming.radio.co/sd48fd711d/listen
+#EXTINF:-1 tvg-id="a8a82fd2-8c28-43e2-bbe2-ed3120862175" group-title="Cambodia | Phnom Penh | Phnom Penh",Phnom Penh Radio FM 103
+http://radio99.servradio.com:9294/
+#EXTINF:-1 tvg-id="5bfc4b1a-def1-44ab-8d6d-e7c63820f781" group-title="Cambodia | Phnom Penh | Phnom Penh",Pop Radio 21
+https://listen.radioking.com/radio/318317/stream/365846
+#EXTINF:-1 tvg-id="1bf295fa-b2c7-4807-a438-c21105f0cb7a" group-title="Cambodia | Phnom Penh | Phnom Penh",RNK FM 96 (Radio National Kampuchea)
+http://119.82.252.6:8181/broadwave.mp3
+#EXTINF:-1 tvg-id="e39cc117-47c6-4eae-9d4b-d70c3087831f" group-title="Cambodia | Siem Reap | Siem Reap",Sweet FM 88 (Siem Reap)
+https://n12.rcs.revma.com/whn9hqwstk3vv
+#EXTINF:-1 tvg-id="65b508f2-e022-4831-9dd5-b98d5a348452" group-title="Cambodia | Siem Reap | Unknown city",Sangkem Radio
+https://live.sangkemtv.com/radio.mp3
+#EXTINF:-1 tvg-id="eedb7498-f59d-4f07-9efc-b77853d6abf5" tvg-logo="https://storage.googleapis.com/rnk/notification-icon-150x150.png" group-title="Cambodia | Unknown region | Unknown city",National Radio of Kampuchea
+http://119.82.252.6:8080/broadwave.mp3

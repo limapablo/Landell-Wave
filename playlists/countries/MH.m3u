@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1d623d36-327c-4f45-b532-c83dcd4b3270" tvg-logo="https://a4.asurahosting.com/static/uploads/clubfoot/album_art.1770961147.jpg" group-title="The Marshall Islands | Cork | Unknown city",Offworld Radio
+https://a4.asurahosting.com:7310/radio.mp3
+#EXTINF:-1 tvg-id="a798586c-efc8-4f2b-ae3c-74729ce0f085" tvg-logo="https://live.offshoreradio.net/static/uploads/offshore_radio/album_art.1773012574.png" group-title="The Marshall Islands | Majuro Atoll | Dalap-Uliga-Dorrit",Offshore Radio
+https://live.offshoreradio.net/listen/offshore_radio/radio.mp3

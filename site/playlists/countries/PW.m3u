@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="51fa8080-c95e-4560-b1ce-5271a63cbaeb" tvg-logo="https://cdn.upbeat.pw/avatar/default?3" group-title="Palau | Unknown region | Unknown city",UpBeat Radio
+https://live.upbeat.pw/
+#EXTINF:-1 tvg-id="926025d8-6753-4185-8f10-764aa7b5766c" tvg-logo="https://upbeatradio.net/v3/_images_/_favicon_/apple-icon-180x180.png" group-title="Palau | Unknown region | Unknown city",UpBeat Radio
+https://live.upbeat.pw/
+#EXTINF:-1 tvg-id="9ac434c6-1e25-47df-9d07-97a960ec2025" tvg-logo="https://upbeatradio.net/v3/_images_/_favicon_/android-icon-192x192.png" group-title="Palau | Unknown region | Unknown city",UpBeat.pw
+https://live.upbeat.pw/

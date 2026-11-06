@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="94306c6d-600e-425f-af96-39d407c2eccb" group-title="Suriname | Nickerie District | Nieuw Nickerie",Ishara
+https://a8.asurahosting.com:7030/radio.mp3
+#EXTINF:-1 tvg-id="95a9b1b1-548c-41ce-8001-bc4e5be30ddc" tvg-logo="https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg" group-title="Suriname | Paramaribo | Unknown city",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 tvg-id="cc9051fc-007b-4e08-a15b-db18560a04e4" group-title="Suriname | Paramaribo | Unknown city",Radio Apintie
+http://surilive.com:8000/str
+#EXTINF:-1 tvg-id="521050ee-ed59-4b3b-bb6b-c5b86d703b62" tvg-logo="https://www.radio10.sr/favicon.ico" group-title="Suriname | Paramaribo District | Munder Buiten",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 tvg-id="a87a7666-2400-4390-9c73-b0c3f7aadde7" tvg-logo="https://nio.sr/wp-content/uploads/2017/10/logo.png" group-title="Suriname | Unknown region | Unknown city",NIO 107.5FM
+https://loa.beheerstream.nl:8060/stream
+#EXTINF:-1 tvg-id="02b04687-4dd7-476f-887c-e38a2d714f3a" tvg-logo="https://www.radio10.sr/wp-content/uploads/2020/06/cropped-Favicon.png" group-title="Suriname | Unknown region | Unknown city",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 tvg-id="af00f161-31c0-4aff-a817-b18f7ec90878" tvg-logo="https://images.radio.co/station_logos/s85a633f73.20220705111511.jpg" group-title="Suriname | Unknown region | Unknown city",Radio 10 Magic FM
+https://s5.radio.co/s85a633f73/listen
+#EXTINF:-1 tvg-id="dae53e9d-c541-4a13-9f89-1676a07f1bb7" tvg-logo="https://fm.sr/assets/apt.avif" group-title="Suriname | Unknown region | Unknown city",Radio Apintie
+https://surilive.com:8000/;
+#EXTINF:-1 tvg-id="f8f10769-8874-46b4-b892-f926306cd76e" group-title="Suriname | Unknown region | Unknown city",Radio ishara
+https://a8.asurahosting.com:7030/radio.mp3
+#EXTINF:-1 tvg-id="5b1e5660-1379-4116-bf6b-5e5cf963c87e" group-title="Suriname | Unknown region | Unknown city",Radio Sangeetmala
+https://rs.suricloud.com/radio/8030/radio.mp3
+#EXTINF:-1 tvg-id="a13bdba3-add9-4b9c-a35d-0afaa3c6830e" group-title="Suriname | Unknown region | Unknown city",Radio Shruti
+https://rs.suricloud.com/radio/8000/radio.mp3

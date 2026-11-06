@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1627a9b4-35dd-455a-97a1-9579bfd75b0c" group-title="Mongolia | Ulaanbaatar | Unknown city",Khukh Tenger Radio (MNB Radio 2)
+https://live.mnb.mn/hls/radio2.stream.m3u8
+#EXTINF:-1 tvg-id="fa31e2f5-8092-11e9-aa30-52543be04c81" group-title="Mongolia | Ulaanbaatar | Unknown city",MGL Radio
+http://stream17.shoutcastsolutions.com:8096/
+#EXTINF:-1 tvg-id="7fe32b2d-0d7c-47db-ba51-c30e2784e99e" group-title="Mongolia | Ulaanbaatar | Unknown city",Mongolyn radio (MNB Radio 1)
+https://live.mnb.mn/hls/radio1.stream.m3u8
+#EXTINF:-1 tvg-id="e06f5e4b-3b17-4fe1-a4d4-5fe85131d580" group-title="Mongolia | Unknown region | Unknown city",Ehlelradio
+https://stream.zeno.fm/c6cvywws538uv
+#EXTINF:-1 tvg-id="38f89730-fda4-4a95-b6d2-51201917080c" group-title="Mongolia | Unknown region | Unknown city",Elgen Nutag
+https://a6.asurahosting.com:7210/radio.mp3
+#EXTINF:-1 tvg-id="b1aae7b8-8916-4016-b57a-c2bb08704510" tvg-logo="https://www.facebook.com/favicon.ico" group-title="Mongolia | Unknown region | Unknown city",Family Radio FM
+https://c2.radioboss.fm/stream/394
+#EXTINF:-1 tvg-id="4bb00441-af54-46d4-9123-4a781743c3da" group-title="Mongolia | Unknown region | Unknown city",Xadun 107.5
+https://stream.zeno.fm/z3sbdspshrhvv
+#EXTINF:-1 tvg-id="78ea6284-d457-439a-b133-f35a444d895b" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJc5-ql9EF8iTlZNwePtu7WkuZHhgyiCSp6A&s" group-title="Mongolia | Unknown region | Unknown city",Гэр бүлийн радио 104.5
+https://c2.radioboss.fm/stream/394
+#EXTINF:-1 tvg-id="83cd32c9-2461-468f-afe8-4be8e5a4ee23" tvg-logo="https://pic.qtfm.cn/2015/0324/20150324134256614.jpg" group-title="Mongolia | Unknown region | Unknown city",内蒙古草原之声 Inner Mongolia Voice of Grassland
+https://lhttp-hw.qtfm.cn/live/20973/64k.mp3
+#EXTINF:-1 tvg-id="e7223f6a-0ee8-4c3f-9a10-977fae786d79" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/hgBdpd39Rk.png" group-title="Mongolia | Web | Unknown city",Mongolian Music Radio
+http://65.108.143.81:7700/1
