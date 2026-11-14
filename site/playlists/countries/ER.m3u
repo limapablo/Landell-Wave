@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="eb9c8d79-43a1-4255-9bc9-38dc3a70daef" group-title="Eritrea | Unknown region | Unknown city",Eri-TV
+https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8
+#EXTINF:-1 tvg-id="eb6392fd-e52f-4faa-991c-ad42e1eee7f9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/800px-Flag_of_Eritrea.svg.png" group-title="Eritrea | Unknown region | Unknown city",Eritrean Music
+http://linuxfreelancer.com:8000/test.mp3
+#EXTINF:-1 tvg-id="dd9900b9-2ce3-4231-a0f7-b80f95ee24d8" tvg-logo="https://en.wikipedia.org/wiki/File:Flag_of_Eritrea.svg" group-title="Eritrea | Unknown region | Unknown city",Eritrean/Ethiopian music
+https://linuxfreelancer.com:8443/test.mp3
+#EXTINF:-1 tvg-id="756783df-86e0-4c43-8bb7-661ee17bf65b" tvg-logo="https://www.wix.com/favicon.ico" group-title="Eritrea | Unknown region | Unknown city",hip hop
+http://stream.rtlradio.de/rnb/mp3-192/

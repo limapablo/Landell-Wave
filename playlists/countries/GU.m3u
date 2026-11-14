@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="6e6df096-631c-4975-b2e0-9331e237b905" tvg-logo="https://kiji-fm.linkedupradio.com/assets/images/logo/logo.png" group-title="Guam | Hagatna | Hagåtña",KIJI 104.3 FM Hagatna, Guam
+https://ice10.securenetsystems.net:80/KIJI
+#EXTINF:-1 tvg-id="02ae07e9-f5e2-4d6b-b86c-dd54f02f1e57" group-title="Guam | Unknown region | Unknown city",104.3 Boss FM
+https://ice10.securenetsystems.net/KIJI
+#EXTINF:-1 tvg-id="434df0ef-e8d3-4a6e-9634-c401cc100382" tvg-logo="https://khmg.org/wp-content/uploads/logo_330.png" group-title="Guam | Unknown region | Unknown city",Harvest Family Radio Guam
+https://streaming.live365.com/a11295
+#EXTINF:-1 tvg-id="6a759ad8-330e-11e9-8f31-52543be04c81" group-title="Guam | Unknown region | Unknown city",KUSG
+https://ice10.securenetsystems.net/KUSG
+#EXTINF:-1 tvg-id="d1466267-42e2-4c2a-ad29-3a261c419ab2" group-title="Guam | Unknown region | Unknown city",TFC Guam
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8

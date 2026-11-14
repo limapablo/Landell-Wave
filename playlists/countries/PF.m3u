@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="97daf697-6aec-48cd-8aa0-d300ecc3885d" group-title="French Polynesia | Unknown region | Unknown city",HITI FM
+http://n0a.radiojar.com/u0yz7p0mb.mp3
+#EXTINF:-1 tvg-id="e1e860be-ffd2-4509-8e32-89e97e3513c3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg/langfr-200px-Polyn%C3%A9sie_La_1%C3%A8re_-_Logo_2018.svg.png" group-title="French Polynesia | Unknown region | Unknown city",Polynesie Première
+https://polynesie.ice.infomaniak.ch/polynesie-128.mp3
+#EXTINF:-1 tvg-id="1c07a1b8-b380-4403-a985-53948874b763" tvg-logo="https://www.tiarefm.pf/favicon.ico" group-title="French Polynesia | Unknown region | Unknown city",Tiare FM
+https://live.tiarefm.pf:8443/tiarefm
+#EXTINF:-1 tvg-id="605e7007-4427-486d-8d30-48545df6ecde" group-title="French Polynesia | Îles du Vent | Otutara",Radio 1 Tahiti
+http://live.radio1.pf:8001/radio1
+#EXTINF:-1 tvg-id="c06d6586-9fa8-49cf-9731-7c582430a588" group-title="French Polynesia | Îles du Vent | Paea",Hiti FM
+https://n01.radiojar.com/u0yz7p0mb.mp3
+#EXTINF:-1 tvg-id="11f87095-84e8-48cd-8060-554f6d9ca526" group-title="French Polynesia | Îles du Vent | Papeete",Radio 1 PF
+https://live.radio1.pf:8443/radio1

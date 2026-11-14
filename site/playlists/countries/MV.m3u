@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="d22c25aa-3e35-40d3-8f0b-71aa137c3394" tvg-logo="https://pea.fm/uploads/posts/2020-10/1601942486_dhivehi-fm-91_0.jpg" group-title="Maldives | Kaafu Atoll | Male",Dhivehi FM
+https://radio.psm.mv/fmair
+#EXTINF:-1 tvg-id="7d0e80cd-3152-47c8-813d-c7d61c2bc1d8" group-title="Maldives | Kaafu Atoll | Male",Kinozal.TV
+https://listen7.myradio24.com/kinozaltv
+#EXTINF:-1 tvg-id="c3f86d22-54ef-45ad-8fdc-9689d360b678" group-title="Maldives | Unknown region | Unknown city",Dheenuge Adu
+https://radio.psm.mv/dheenugeaduair
+#EXTINF:-1 tvg-id="85780e65-678a-44c9-b0ad-bc736ca5caa6" group-title="Maldives | Unknown region | Unknown city",Dhivehi Raajjeyge Adu
+https://radio.psm.mv/draair
